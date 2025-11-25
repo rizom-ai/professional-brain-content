@@ -9,6 +9,8 @@ author: Yeehaa
 ---
 # Bots With An Attitude
 
+![Bots With An Attitude](https://raw.githubusercontent.com/OffCourse/offcourse/1d9e35de7e72f62db90dfb24b49ae9167baafa67/projects/offcourse-studio/site/data/assets/BWA_in_jar.inline.svg)
+
 ## Tools for Ethical Creative Intelligence
 
 ---
