@@ -9,8 +9,6 @@ author: Yeehaa
 ---
 # Bots With An Attitude
 
-![Bots With An Attitude](https://raw.githubusercontent.com/OffCourse/offcourse/1d9e35de7e72f62db90dfb24b49ae9167baafa67/projects/offcourse-studio/site/data/assets/BWA_in_jar.inline.svg)
-
 ## Tools for Ethical Creative Intelligence
 
 ---
@@ -20,7 +18,6 @@ author: Yeehaa
 1. Tools for Planet B
 2. Ethical Creative Intelligence
 3. Protobots Roll Out!
-4. Brainstorm and Discussion
 
 ---
 
@@ -34,13 +31,13 @@ To design and develop collaborative tools that are tailor-made for Planet B and 
 
 ---
 
-### Solution (Wrong)
+### The Wrong Solution
 
 An army of evil bots that will render humanity obsolete
 
 ---
 
-### Solution (Right)
+### The Right Solution 
 
 A network of creative, ethical, intelligent agents that allow us to easily automate laborious and complex tasks
 
@@ -198,21 +195,5 @@ Show the data to the community in a textual, visual, or other form
 **Analyze** → Determine which keywords and authors are most relevant to our community
 → Next State: **Present**
 
-**Present** → Visualize Planet B's online ecosystem
+**Present** → Visualize lanet B's online ecosystem
 → Next State: **None**
-
----
-
-## Brainstorm, Questions, and Discussion
-
----
-
-## Thank You
-
-**Jan Hein Hoogstad**
-
-yeehaa@offcourse.io
-
-@yeehaa
-
----
