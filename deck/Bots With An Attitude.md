@@ -9,7 +9,7 @@ author: Yeehaa
 ---
 # Bots With An Attitude
 
-**Tools for Ethical Creative Intelligence**
+## Tools for Ethical Creative Intelligence
 
 ---
 
