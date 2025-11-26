@@ -9,7 +9,7 @@ author: Yeehaa
 ---
 # Forgotten Futures
 
-## Intelligence as Practice
+**Intelligence as Practice**
 
 ---
 
