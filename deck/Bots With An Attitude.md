@@ -124,30 +124,13 @@ A rule-based system of governance where each member of the community (bots and h
 
 ## Bot State Machine
 
-### Acquire
-
-Get data from the chat stream or an external data source
-→ Next states: **Clean, Acquire, Evaluate**
-
-### Clean
-
-Remove irrelevant, bad, or sensitive data and translate them to domain models
-→ Next states: **Acquire, Analyze, Evaluate**
-
-### Analyze
-
-Transform the domain models into new types of data such as recommendations and aggregations
-→ Next states: **Evaluate, Present**
-
-### Evaluate
-
-Decide if the data has reached its final state and is ready to present, or if it needs to reenter the loop
-→ Next states: **Present, Acquire**
-
-### Present
-
-Show the data to the community in a textual, visual, or other form
-→ Next states: **None**
+| State | Description | Next States |
+| ----- | ----------- | ----------- |
+| Acquire | Get data from chat stream or external source | Clean, Acquire, Evaluate |
+| Clean | Remove irrelevant/sensitive data, translate to domain models | Acquire, Analyze, Evaluate |
+| Analyze | Transform into recommendations and aggregations | Evaluate, Present |
+| Evaluate | Decide if data is ready or needs to reenter loop | Present, Acquire |
+| Present | Show data in textual, visual, or other form | None |
 
 ---
 
@@ -157,20 +140,13 @@ Show the data to the community in a textual, visual, or other form
 
 ### Tweet It Flow
 
-**Acquire** → Get user data for all Planet B collaborators on Twitter
-→ Next state: **Clean**
-
-**Clean** → Tokenize the tweets and reduce them to three keywords
-→ Next state: **Analyze**
-
-**Analyze** → Recommend a set of relevant hashtags on the basis of the text for a next tweet
-→ Next state: **Present**
-
-**Evaluate** → Ask the user if they will use the hashtags
-→ Next State: Yes → **Present**, No → **Acquire**
-
-**Present** → Give back the tweet with hashtags to the user
-→ Next State: **None**
+| State | Action | Next |
+| ----- | ------ | ---- |
+| Acquire | Get user data for Planet B collaborators on Twitter | Clean |
+| Clean | Tokenize tweets, reduce to three keywords | Analyze |
+| Analyze | Recommend relevant hashtags for next tweet | Present |
+| Evaluate | Ask user if they will use the hashtags | Yes → Present, No → Acquire |
+| Present | Return tweet with hashtags to user | None |
 
 ---
 
@@ -180,20 +156,11 @@ Show the data to the community in a textual, visual, or other form
 
 ### The Cartographer Flow
 
-**Acquire** → Listen for links on our chat stream
-→ Next state: **Clean**
-
-**Clean** → Remove invalid and internal links
-→ Next state: **Acquire**
-
-**Acquire** → Follow the links and fetch the data
-→ Next state: **Clean**
-
-**Clean** → Extract keywords, authors, and other metadata from link
-→ Next state: **Analyze**
-
-**Analyze** → Determine which keywords and authors are most relevant to our community
-→ Next State: **Present**
-
-**Present** → Visualize lanet B's online ecosystem
-→ Next State: **None**
+| State | Action | Next |
+| ----- | ------ | ---- |
+| Acquire | Listen for links on chat stream | Clean |
+| Clean | Remove invalid and internal links | Acquire |
+| Acquire | Follow links and fetch data | Clean |
+| Clean | Extract keywords, authors, metadata | Analyze |
+| Analyze | Determine most relevant keywords/authors | Present |
+| Present | Visualize Planet B's online ecosystem | None |
