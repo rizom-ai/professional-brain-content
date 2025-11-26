@@ -15,19 +15,19 @@ author: Yeehaa
 
 ## Agenda
 
-1. Tools for Planet B
+1. Tools for Rizom
 2. Ethical Creative Intelligence
 3. Protobots Roll Out!
 
 ---
 
-## Tools for Planet B
+## Tools for Rizom
 
 ---
 
 ### Task
 
-To design and develop collaborative tools that are tailor-made for Planet B and the AI Culture Lab
+To design and develop collaborative tools that are tailor-made for Rizom and its learning communities
 
 ---
 
@@ -104,6 +104,8 @@ A network of creative, ethical, intelligent agents that allow us to easily autom
 
 A shared online space where community members (human and bots) can read/write to a uniform stream of information
 
+---
+
 ### Grid
 
 A rule-based system of governance where each member of the community (bots and human) is assigned a health score based on the value of their ethical and creative contributions
@@ -114,6 +116,8 @@ A rule-based system of governance where each member of the community (bots and h
 
 - Creative, ethical, and intelligent agents that compensate for the lacunas of a stream-based commonplace by providing context, augmentations, and an archive for our community
 - A state machine that consists of several, consecutive — but not linear — states
+
+---
 
 ### Cassettes
 
@@ -142,7 +146,7 @@ A rule-based system of governance where each member of the community (bots and h
 
 | State | Action | Next |
 | ----- | ------ | ---- |
-| Acquire | Get user data for Planet B collaborators on Twitter | Clean |
+| Acquire | Get user data for Rizom collaborators on Twitter | Clean |
 | Clean | Tokenize tweets, reduce to three keywords | Analyze |
 | Analyze | Recommend relevant hashtags for next tweet | Present |
 | Evaluate | Ask user if they will use the hashtags | Yes → Present, No → Acquire |
@@ -163,4 +167,4 @@ A rule-based system of governance where each member of the community (bots and h
 | Acquire | Follow links and fetch data | Clean |
 | Clean | Extract keywords, authors, metadata | Analyze |
 | Analyze | Determine most relevant keywords/authors | Present |
-| Present | Visualize Planet B's online ecosystem | None |
+| Present | Visualize Rizom's online ecosystem | None |
