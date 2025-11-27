@@ -11,7 +11,7 @@ excerpt: >-
   purposes.
 author: Yeehaa
 ---
-_This is an old blogpost that I wrote in 2013. To me, it marked the beginning of a personal journey that I'm still on today. Over the last 7 years, the way I look at research, learning, and work has completely changed. But in essence, it's all here. In other words, this blogpost is mainly here for nostalgic purposes._
+*This is an old blogpost that I wrote in 2013. To me, it marked the beginning of a personal journey that I'm still on today. Over the last 7 years, the way I look at research, learning, and work has completely changed. But in essence, it's all here. In other words, this blogpost is mainly here for nostalgic purposes.*
 
 Coding the Humanities is not about technology or even programming. It is all about tools. Software is a blind spot for the humanities. While our discipline is deeply invested in self-reflection, we hardly ever think about the digital tools that we use to produce and disseminate these deep thoughts. As a result, we fail to see the obvious. The applications that facilitate our teaching and research, were not written for us, let alone developed by us. In fact, they are unfit for our needs.
 
