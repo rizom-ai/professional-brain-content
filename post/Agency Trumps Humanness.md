@@ -2,7 +2,7 @@
 title: Agency Trumps Humanness
 slug: agency-trumps-humanness
 status: published
-publishedAt: '2020-04-30T00:00:00.000Z'
+publishedAt: "2020-04-30T00:00:00.000Z"
 excerpt: >-
   Last year, I was asked to develop a vision for online collaboration for the
   Planet B project. The challenge: building a community of people that may never
@@ -10,6 +10,7 @@ excerpt: >-
   attitude.
 author: Yeehaa
 ---
+
 Last year, I was asked to develop a vision for online collaboration for the Planet B project. The challenge: building a community of people that may never be in the same place at the same time. The solution: a mob of bots with an attitude.
 
 Planet B is a thought experiment. It proposes an imaginative scenario: a mission to colonize a recently discovered habitable planet. This planetary expedition requires remote collaboration among team members dispersed across the globe. Rather than relying solely on human team members, I proposed complementing the human members of our team with a mob of bots.

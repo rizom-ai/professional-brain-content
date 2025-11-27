@@ -2,7 +2,7 @@
 title: Economy Of Garbage
 slug: economy-of-garbage
 status: published
-publishedAt: '2024-09-15T10:01:18.899Z'
+publishedAt: "2024-09-15T10:01:18.899Z"
 excerpt: >-
   Bataille's economy of excess challenges scarcity-driven capitalism by
   embracing waste as abundance. This article examines how Borawake's Garb-Age
@@ -12,6 +12,7 @@ author: Yeehaa
 seriesName: Ecosystem Architecture
 seriesIndex: 7
 ---
+
 Decentralization should not be confused with fragmentation. When implemented thoughtfully, decentralization's cultural techniques can actually mitigate the negative effects of fragmentation. However, the most prominent contemporary manifestation of decentralization has fallen prey to an excess mindset. The initial excitement surrounding blockchain's potential as an immutable and incorruptible ledger has been overshadowed by cryptocurrency's promise of instant wealth—a notion that often resembles a pyramid scheme.
 
 Critics might argue that decentralization inherently leads to fragmentation, citing examples like the proliferation of incompatible blockchain networks or the balkanization of online communities. However, this view overlooks the potential for decentralized systems to create new forms of connection and collaboration. For instance, decentralized autonomous organizations (DAOs) demonstrate how dispersed individuals can work towards common goals without centralized control.

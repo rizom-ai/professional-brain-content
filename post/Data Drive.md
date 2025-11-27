@@ -2,7 +2,7 @@
 title: Data Drive
 slug: data-drive
 status: published
-publishedAt: '2020-05-15T00:00:00.000Z'
+publishedAt: "2020-05-15T00:00:00.000Z"
 excerpt: >-
   Another trip down memory lane. I rediscovered this short text somewhere in a
   far corner of the internet today. It's the manifesto for the Data Drive
@@ -11,11 +11,12 @@ excerpt: >-
   relevant today.
 author: Yeehaa
 ---
-> Like a Lexus, if driven wrong it's sure to hurt you
->
-> — Jay-Z
 
-*Another trip down memory lane. I rediscovered this short text in a far corner of the internet today. It's the manifesto for the Data Drive research group that Sander van Maas, Robin Boast, and I started together in 2013 at the University of Amsterdam. Forgot all about it, but boy, is it relevant today.*
+> Like a Lexus, if driven wrong it's sure to hurt you
+
+— Jay-Z
+
+_Another trip down memory lane. I rediscovered this short text in a far corner of the internet today. It's the manifesto for the Data Drive research group that Sander van Maas, Robin Boast, and I started together in 2013 at the University of Amsterdam. Forgot all about it, but boy, is it relevant today._
 
 In 'The Age of the World Picture' (1938), Martin Heidegger argues that modern science and technology rest in their entirety on computation. Importantly, he warns that these ever-growing numbers and increasingly complex calculations come with an uncontrollable, and all-encompassing shadow. According to Heidegger, however, this shadow does not only designate a loss of control, it also announces the coming of a new era:
 

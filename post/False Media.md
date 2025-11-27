@@ -2,7 +2,7 @@
 title: False Media
 slug: false-media
 status: published
-publishedAt: '2020-04-02T00:00:00.000Z'
+publishedAt: "2020-04-02T00:00:00.000Z"
 excerpt: >-
   Fake news is often treated as a property of information. However on a content
   level facts and lies are now mostly impossible to distinguish. In this post, I
@@ -10,10 +10,11 @@ excerpt: >-
   on the news.
 author: Yeehaa
 ---
+
 > False media, we don't need it...
 > ...do we?
->
-> — Chuck D
+
+— Chuck D
 
 Through the miracles of the early internet, I discovered the Weekly World News while I was in high school. Journalism never was the same to me again. Why read about the horrors of acid rain, and the hole in the ozone layer, when there was a newspaper that covered sightings of Marilyn Monroe and Bat Boy instead?
 

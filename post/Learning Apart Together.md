@@ -2,7 +2,7 @@
 title: Learning Apart Together
 slug: learning-apart-together
 status: published
-publishedAt: '2020-04-16T00:00:00.000Z'
+publishedAt: "2020-04-16T00:00:00.000Z"
 excerpt: >-
   In 2013, way before social distancing made it cool, Marijn Koolen and I
   proposed that the University of Amsterdam should take a large part of their
@@ -11,10 +11,11 @@ excerpt: >-
   best.
 author: Yeehaa
 ---
+
 > Traveling at the speed of light and then
 > At the same time I'm in the same spot too
->
-> — D'Angelo
+
+— D'Angelo
 
 In 2013, two somewhat naive humanities scholars that liked computers and coding wrote a letter to their dean. In this letter, Marijn Koolen and I argued that the humanities faculty of the University of Amsterdam should invest in us... I mean... online education.
 
@@ -34,8 +35,8 @@ Let me try again.
 > That I did not want to be
 > But I'm new here
 > Will you show me around?
->
-> — Gil Scott-Heron
+
+— Gil Scott-Heron
 
 Let's be frank. The letter that Marijn and I wrote, is not very good. In fact, it's terrible. Seven years later, I'm actually surprised that it took us as far as it did. Our diagnosis is full of broad, inaccurate generalisations. We only hint at alternatives, but they never become concrete or tangible. And last but not least, we were almost obsessively preoccupied with the horrors of MOOCs.
 

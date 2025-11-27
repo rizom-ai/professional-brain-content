@@ -2,7 +2,7 @@
 title: Foam Party
 slug: foam-party
 status: published
-publishedAt: '2024-09-02T07:51:14.186Z'
+publishedAt: "2024-09-02T07:51:14.186Z"
 excerpt: >-
   Sloterdijk's foam metaphor reframes internet fragmentation as a positive
   phenomenon of multiplicity. This article explores how filter bubbles can be
@@ -12,6 +12,7 @@ author: Yeehaa
 seriesName: Ecosystem Architecture
 seriesIndex: 5
 ---
+
 Everyday language is overloaded with conceptual metaphors that either celebrate the whole or lament its absence: broken heart, phantom pain, paradise lost, etcetera. The fact that these sentiments are so deeply ingrained into our means of communication also explains why it is so difficult to let universality go. This is already true _de facto_, let alone _de jure_. Even if we are willing to submit ourselves to the existential fact of living without absolute truth, it is still probable that we conceive its absence as a loss. Reframing fragmentation as something positive is next to impossible.
 
 That is why it is admirable that Peter Sloterdijk takes on this challenge against all odds. In the third volume of his Spheres trilogy titled _Foams_ (1998), he introduces the titular concept as an antipode to those conceptual metaphors that signify wholeness, unity, and completeness. Foam is a phenomenon that celebrates multiplicity. As a concept, it defies all notions of universality without even referring to it negatively.

@@ -2,7 +2,7 @@
 title: Shenzhen Goes Ham
 slug: shenzhen-goes-ham
 status: published
-publishedAt: '2024-09-09T08:08:53.809Z'
+publishedAt: "2024-09-09T08:08:53.809Z"
 excerpt: >-
   Shenzhen's shanzhai ecosystem exemplifies advanced decentralization through
   gongkai—open sharing of hardware designs. This article explores how this
@@ -12,6 +12,7 @@ author: Yeehaa
 seriesName: Ecosystem Architecture
 seriesIndex: 6
 ---
+
 In the realm of technology and innovation, decentralization has emerged as a powerful force shaping the way we create, collaborate, and distribute power. Despite what crypto-boys want us to believe, blockchain, bitcoin, and DAOs are far from the first, let alone the best, manifestations of decentralization. The feudal system, the silk road, and the Greek city states were all built around principles of distributed power and organization.
 
 Ham (or amateur) radio is often hailed as the prime example of decentralization. This communication medium, rooted in the early 20th century, enabled direct peer-to-peer interactions without reliance on centralized infrastructures, while its community embodied a spirit of experimentation, self-reliance, and collaboration. Up until the current day, ham operators contribute to a network that spans the globe. Resilience is inherent in ham radio, which is demonstrated by its adaptability to technological challenges and its capacity to maintain communication in times of crisis. Ham radio thereby laid the groundwork for all decentralized communities to come.

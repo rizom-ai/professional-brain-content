@@ -2,7 +2,7 @@
 title: Urging New Institutions
 slug: urging-new-institutions
 status: published
-publishedAt: '2024-11-20T09:00:00.000Z'
+publishedAt: "2024-11-20T09:00:00.000Z"
 excerpt: >-
   Institutions don't protect democracy—social contracts do. COVID revealed that
   constitutions were mere suspension of disbelief. This article introduces a new
@@ -12,6 +12,7 @@ author: Yeehaa
 seriesName: New Institutions
 seriesIndex: 1
 ---
+
 There was a time, not long ago, when I was convinced that we should uphold our public institutions by any means necessary. As a political philosopher, I was instilled with the belief that our political system, the law, educational structures, and ultimately the constitution served as our defense against anti-democratic forces.
 
 Today, however, I no longer hold that belief. Why? Because it has been repeatedly falsified by empirical evidence—evidence we have collectively chosen to ignore. It is high time we acknowledge this reality.
