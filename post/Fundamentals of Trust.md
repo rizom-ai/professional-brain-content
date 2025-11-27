@@ -2,7 +2,7 @@
 title: Fundamentals of Trust
 slug: fundamentals-of-trust
 status: published
-publishedAt: "2020-03-25T00:00:00.000Z"
+publishedAt: '2020-03-25T00:00:00.000Z'
 excerpt: >-
   On the internet, lacunas of trust are mostly countered by tightening security
   measures. This move hardly ever results in the intended result, and almost
@@ -13,7 +13,6 @@ author: Yeehaa
 seriesName: Public Badges
 seriesIndex: 1
 ---
-
 > We can't go on together
 > With suspicious minds
 

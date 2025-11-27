@@ -2,7 +2,7 @@
 title: Data Drive
 slug: data-drive
 status: published
-publishedAt: "2020-05-15T00:00:00.000Z"
+publishedAt: '2020-05-15T00:00:00.000Z'
 excerpt: >-
   Another trip down memory lane. I rediscovered this short text somewhere in a
   far corner of the internet today. It's the manifesto for the Data Drive
@@ -11,7 +11,6 @@ excerpt: >-
   relevant today.
 author: Yeehaa
 ---
-
 > Like a Lexus, if driven wrong it's sure to hurt you
 
 — Jay-Z

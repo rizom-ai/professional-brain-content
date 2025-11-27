@@ -2,7 +2,7 @@
 title: Learning Apart Together
 slug: learning-apart-together
 status: published
-publishedAt: "2020-04-16T00:00:00.000Z"
+publishedAt: '2020-04-16T00:00:00.000Z'
 excerpt: >-
   In 2013, way before social distancing made it cool, Marijn Koolen and I
   proposed that the University of Amsterdam should take a large part of their
@@ -11,7 +11,6 @@ excerpt: >-
   best.
 author: Yeehaa
 ---
-
 > Traveling at the speed of light and then
 > At the same time I'm in the same spot too
 

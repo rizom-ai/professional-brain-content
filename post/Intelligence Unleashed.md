@@ -2,7 +2,7 @@
 title: Intelligence Unleashed
 slug: intelligence-unleashed
 status: published
-publishedAt: "2020-04-09T00:00:00.000Z"
+publishedAt: '2020-04-09T00:00:00.000Z'
 excerpt: >-
   Supervised and unsupervised learning are two branches of machine learning. But
   these terms designate much more than a mere technical distinction. This post
@@ -10,7 +10,6 @@ excerpt: >-
   intelligence in general: Human and otherwise.
 author: Yeehaa
 ---
-
 > Grapple with reality to break out of these shackles
 
 — Brockhampton

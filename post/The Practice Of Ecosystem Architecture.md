@@ -2,7 +2,7 @@
 title: The Practice Of Ecosystem Architecture
 slug: the-practice-of-ecosystem-architecture
 status: published
-publishedAt: "2024-10-23T09:40:15.186Z"
+publishedAt: '2024-10-23T09:40:15.186Z'
 excerpt: >-
   Ecosystem architecture designs intentional communities through bottom-up
   emergence rather than top-down control. This article introduces the four-phase
@@ -12,7 +12,6 @@ author: Yeehaa
 seriesName: Ecosystem Architecture
 seriesIndex: 10
 ---
-
 More than ever before, people enjoy the privilege to replace random communities with intentional ones. It is no longer necessary to base our choice of cohabitation based upon spatiotemporal contingency alone. Instead, we can choose to be members of ecosystems that are driven by shared values. Ecosystem architecture is the practice of designing such virtual spaces.
 
 By nature, ecosystems cannot be developed in a traditional, controlled manner. Both decentralized and regenerative design thus teach us to work bottom-up rather than top-down. Complex systems are not planned, they emerge and are then groomed and cultivated. Hence, there cannot be a blueprint, a project planning, a reliable budget, and so on. Nonetheless, that does not mean that there is no room for overview, structure, and order. It just means that order no longer has any form of hierarchical precedence over practice. As a matter of fact, the act of creating overview should itself be considered as an expression of practice.
