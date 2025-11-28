@@ -7,7 +7,7 @@ Yeehaa
 Professional developer, writer, and knowledge worker
 
 ## Tagline
-Reclaiming the future
+Building what comes next
 
 ## Intro
 Essays on ecosystem architecture, institutional decay, and the practice of building inhabitable futures.
