@@ -7,10 +7,10 @@ Yeehaa
 Professional developer, writer, and knowledge worker
 
 ## Tagline
-Building tools for thought
+Reclaiming the future
 
 ## Intro
-Essays and presentations on technology, productivity, and knowledge management
+Essays on ecosystem architecture, institutional decay, and the practice of building inhabitable futures.
 
 ## Website
 https://yeehaa.io
