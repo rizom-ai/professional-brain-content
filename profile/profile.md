@@ -6,11 +6,8 @@ Yeehaa
 ## Description
 Professional developer, writer, and knowledge worker
 
-## Tagline
-Building what comes next
+## Avatar
 
-## Intro
-Essays on ecosystem architecture, institutional decay, and the practice of building inhabitable futures.
 
 ## Website
 https://yeehaa.io
