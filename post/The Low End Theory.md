@@ -2,7 +2,7 @@
 title: The Low End Theory
 slug: the-low-end-theory
 status: published
-publishedAt: '2025-09-01T09:00:00.000Z'
+publishedAt: '2021-03-05T09:00:00.000Z'
 excerpt: >-
   Everyone seems to be working on moonshots nowadays, because Google does it.
   Google's approach is to take an unsolvable problem and pump resources into it.
@@ -13,8 +13,8 @@ author: Yeehaa
 > There's a tidal wave of mysticism
 > Surging through our jet-aged generation
 > It's all designed to take us to the sky
->
-> — Funkadelic
+
+— Funkadelic
 
 In 2010, Google's Larry Page and Sergey Brin asked their buddy Astro Teller to front an experimental company builder mysteriously called X. The single roman numeral signifies the almost religious belief in exponential logic that both X and its mother company hold. X promises to only invest in ideas that could make at least a 10x impact over the status quo.
 
@@ -33,8 +33,8 @@ Over a decade later, we can indisputably conclude that X's moonshot recipe has l
 > Rake in dividends
 > Let the money stack
 > See you copycats
->
-> — Brockhampton
+
+— Brockhampton
 
 More impressive than the actual solutions that it has produced, may be the amount of copy cats that X has inspired since then. Over the last decade, many an agency, incubator, or VC firm has reinvented itself as a moonshot factory.
 
@@ -50,15 +50,15 @@ As we speak, the tech world is overflowing with aspiring moon shooters searching
 > So low-key that you probably missed it
 > And yet it's so loud
 > That it stands in the crowd
->
-> — A Tribe Called Quest
 
-Rizom consciously chooses not to aim for the moon. We leave ego and glory for others, and are perfectly satisfied to do the things that need to be done and no one else seems to care about. Moreover, we are committed to solve them with the simplest technology possible.
+— A Tribe Called Quest
 
-We love low-hanging fruit: the lower the fruit, the sweeter the juice. In everyday tasks, there are so many small problems that could make your work more fun and satisfying. These could be things like:
+Lefthoek consciously chooses not to aim for the moon. We leave ego and glory for others, and are perfectly satisfied to do the things that need to be done and no one else seems to care about. Moreover, we are committed to solve them with the simplest technology possible.
+
+Lefthoek loves low-hanging fruit: the lower the fruit, the sweeter the juice. In everyday tasks, there are so many small problems that could make your work more fun and satisfying. These could be things like:
 
 - Onboarding a new staff member that feels lost at the new job
 - Storing and retrieving all the interesting links that your team members shared
 - Summarizing all the messages that you missed during your vacation
 
-We're dedicated to solving all of these issues and many more, one at a time, by as few means possible. That, in short, is what *the low end theory* is all about.
+Lefthoek is dedicated to solving all of these issues and many more, one at a time, by as few means possible. That, in short, is what *the low end theory* is all about.

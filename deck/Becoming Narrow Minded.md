@@ -7,7 +7,7 @@ description: >-
   narrow AIs is a better approach than chasing general AI moonshots. The thesis
   remains as relevant as ever in the age of LLMs.
 author: Yeehaa
-presentedAt: '2025-09-15T00:00:00.000Z'
+presentedAt: '2020-12-13T00:00:00.000Z'
 ---
 # Becoming Narrow Minded
 
