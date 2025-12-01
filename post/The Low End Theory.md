@@ -53,12 +53,14 @@ As we speak, the tech world is overflowing with aspiring moon shooters searching
 
 — A Tribe Called Quest
 
-Lefthoek consciously chooses not to aim for the moon. We leave ego and glory for others, and are perfectly satisfied to do the things that need to be done and no one else seems to care about. Moreover, we are committed to solve them with the simplest technology possible.
+Rizom consciously chooses not to aim for the moon. We leave ego and glory for others, and are perfectly satisfied to do the things that need to be done and no one else seems to care about. Moreover, we are committed to solve them with the simplest technology possible.
 
-Lefthoek loves low-hanging fruit: the lower the fruit, the sweeter the juice. In everyday tasks, there are so many small problems that could make your work more fun and satisfying. These could be things like:
+Rizom loves low-hanging fruit: the lower the fruit, the sweeter the juice. In everyday tasks, there are so many small problems that could make your work more fun and satisfying. These could be things like:
 
 - Onboarding a new staff member that feels lost at the new job
 - Storing and retrieving all the interesting links that your team members shared
 - Summarizing all the messages that you missed during your vacation
 
-Lefthoek is dedicated to solving all of these issues and many more, one at a time, by as few means possible. That, in short, is what *the low end theory* is all about.
+Rizom is dedicated to solving all of these issues and many more, one at a time, by as few means possible. That, in short, is what *the low end theory* is all about.
+
+*Originally published in 2021 when Rizom was still called Lefthoek. We've replaced Lefthoek with Rizom throughout this article because the philosophy hasn't changed.*
