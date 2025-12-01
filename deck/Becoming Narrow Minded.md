@@ -9,7 +9,9 @@ description: >-
 author: Yeehaa
 presentedAt: '2025-09-15T00:00:00.000Z'
 ---
-# AI: Becoming Narrow Minded
+# Becoming Narrow Minded
+
+## AI: A Case for Low-Hanging Fruit
 
 ---
 
@@ -29,18 +31,18 @@ moonshots**
 
 ---
 
-# What is Rizom?
+## What is Rizom?
 
 ---
 
-## Rizom
+### Rizom
 
 Knowledge infrastructure that works like a **virtual coworker**—devoted to
 information management across your tools and teams
 
 ---
 
-## Virtual Coworker
+### Virtual Coworker
 
 **Moderates** your team's communication on messaging apps
 
@@ -50,11 +52,11 @@ information management across your tools and teams
 
 ---
 
-# Low End Theory
+## Low End Theory
 
 ---
 
-## General AI
+### General AI
 
 > "The hypothetical ability of an intelligent agent to understand or learn any
 > intellectual task that a human being can."
@@ -63,7 +65,7 @@ information management across your tools and teams
 
 ---
 
-## Narrow AI
+### Narrow AI
 
 > "A term used to describe artificial intelligence systems that are specified
 > to handle a singular or limited task."
@@ -72,7 +74,7 @@ information management across your tools and teams
 
 ---
 
-## Moonshot
+### Moonshot
 
 > "An extremely ambitious project or mission undertaken to achieve a monumental
 > goal."
@@ -81,7 +83,7 @@ information management across your tools and teams
 
 ---
 
-## The Problem
+### The Problem
 
 The **combined promise** of general AI and moonshots never panned out. It hasn't
 led to the promised breakthroughs, while other solvable real-world problems
@@ -89,7 +91,7 @@ are being ignored.
 
 ---
 
-## Our Approach
+### Our Approach
 
 **Radical Automation**: Automate every laborious and boring chore that can be
 automated. Any missed opportunity to do so inevitably results in talent waste.
@@ -102,7 +104,7 @@ on moonshots. We take the opposite approach—deliberately tackling the 90% firs
 
 ---
 
-## AI Stack
+### AI Stack
 
 | Layer | Technology |
 | ----- | ---------- |
@@ -113,11 +115,11 @@ on moonshots. We take the opposite approach—deliberately tackling the 90% firs
 
 ---
 
-# In Practice
+## In Practice
 
 ---
 
-## Feature Development Flow
+### Feature Development Flow
 
 1. Isolate a specific problem
 2. Explore existing message patterns
@@ -126,9 +128,9 @@ on moonshots. We take the opposite approach—deliberately tackling the 90% firs
 
 ---
 
-## Synchronize
+### Synchronize
 
-**Problem**: Poor decision making due to information overload after absence from messaging apps
+**Problem**: Information overload after absence from messaging apps
 
 **Data**: Trello boards, meeting notes, message history
 
@@ -136,9 +138,9 @@ on moonshots. We take the opposite approach—deliberately tackling the 90% firs
 
 ---
 
-## Onboarding
+### Onboarding
 
-**Problem**: Miscommunication between new and existing team members because practical information is tacit and implicit
+**Problem**: Tacit knowledge is hard for new team members to grasp
 
 **Data**: Channel history, pinned messages, shared documents
 
@@ -146,9 +148,9 @@ on moonshots. We take the opposite approach—deliberately tackling the 90% firs
 
 ---
 
-## Research
+### Research
 
-**Problem**: Links are constantly shared but hardly ever read or processed, creating knowledge gaps
+**Problem**: Shared links rarely get read or processed, creating knowledge gaps
 
 **Data**: Shared URLs, link metadata, discussion context
 
