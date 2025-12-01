@@ -3,12 +3,11 @@ title: Becoming Narrow Minded
 status: presented
 slug: becoming-narrow-minded
 description: >-
-  Combining many single-purpose narrow AIs is often a better approach to solving
-  real world problems than focusing on general AI moonshots. A case for
-  low-hanging fruit over hype.
+  Originally presented in 2020, updated for 2025. Combining many single-purpose
+  narrow AIs is a better approach than chasing general AI moonshots. The thesis
+  remains as relevant as ever in the age of LLMs.
 author: Yeehaa
-presentedAt: '2020-12-13T00:00:00.000Z'
-event: Accenture Geekout AI Meeting
+presentedAt: '2025-09-15T00:00:00.000Z'
 ---
 # AI: Becoming Narrow Minded
 
@@ -24,20 +23,20 @@ moonshots**
 
 ## Agenda
 
-1. What is Lefthoek?
+1. What is Rizom?
 2. Low End Theory
 3. In Practice
 
 ---
 
-# What is Lefthoek?
+# What is Rizom?
 
 ---
 
-## Lefthoek
+## Rizom
 
-An AI-powered **virtual coworker** for your messaging apps devoted to
-information management
+Knowledge infrastructure that works like a **virtual coworker**—devoted to
+information management across your tools and teams
 
 ---
 
