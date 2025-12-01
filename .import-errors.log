@@ -1,2 +1,48 @@
 2025-11-27T17:52:44.753Z - [RECOVERED] deck/Bots With An Attitude.md
 2025-11-27T17:52:44.753Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-01T15:05:12.276Z - deck/Forgotten Futures.md: [
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "metadata",
+      "status"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/Forgotten Futures.md.invalid
+
+2025-12-01T15:05:12.278Z - deck/Bots With An Attitude.md: [
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "metadata",
+      "status"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+→ deck/Bots With An Attitude.md.invalid
+
