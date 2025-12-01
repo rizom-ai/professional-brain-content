@@ -1,0 +1,166 @@
+---
+title: Becoming Narrow Minded
+status: presented
+slug: becoming-narrow-minded
+description: >-
+  Combining many single-purpose narrow AIs is often a better approach to solving
+  real world problems than focusing on general AI moonshots. A case for
+  low-hanging fruit over hype.
+author: Yeehaa
+presentedAt: '2020-12-13T00:00:00.000Z'
+event: Accenture Geekout AI Meeting
+---
+# AI: Becoming Narrow Minded
+
+---
+
+## Goal
+
+To show that combining many single-purpose **narrow AIs** often is a better
+approach to solving real world problems than to focus on **general AI
+moonshots**
+
+---
+
+## Agenda
+
+1. What is Lefthoek?
+2. Low End Theory
+3. In Practice
+
+---
+
+# What is Lefthoek?
+
+---
+
+## Lefthoek
+
+An AI-powered **virtual coworker** for your messaging apps devoted to
+information management
+
+---
+
+## Virtual Coworker
+
+**Moderates** your team's communication on messaging apps
+
+**Organizes** the valuable knowledge that these messages contain
+
+**Augments** this knowledge base with information from other sources
+
+---
+
+# Low End Theory
+
+---
+
+## General AI
+
+> "The hypothetical ability of an intelligent agent to understand or learn any
+> intellectual task that a human being can."
+
+— Wikipedia
+
+---
+
+## Narrow AI
+
+> "A term used to describe artificial intelligence systems that are specified
+> to handle a singular or limited task."
+
+— deepai.org
+
+---
+
+## Moonshot
+
+> "An extremely ambitious project or mission undertaken to achieve a monumental
+> goal."
+
+— Merriam-Webster
+
+---
+
+## The Problem
+
+The **combined promise** of general AI and moonshots never panned out. It hasn't
+led to the promised breakthroughs, while other solvable real-world problems
+are being ignored.
+
+---
+
+## Our Approach
+
+**Radical Automation**: Automate every laborious and boring chore that can be
+automated. Any missed opportunity to do so inevitably results in talent waste.
+
+**Human In The Loop**: On collaborative messaging apps, it is childishly simple
+to put an AI in a continuous feedback loop with its users.
+
+**Low-Hanging Fruit**: While hardly ever successful, most AI initiatives focus
+on moonshots. We take the opposite approach—deliberately tackling the 90% first.
+
+---
+
+## AI Stack
+
+| Layer | Technology |
+| ----- | ---------- |
+| NLP | spaCy, Compromise |
+| Classification | TensorFlow.js |
+| Rules | Custom rule engines |
+| Integration | Slack, Microsoft Teams |
+
+---
+
+# In Practice
+
+---
+
+## Feature Development Flow
+
+1. Isolate a specific problem
+2. Explore existing message patterns
+3. Project desired outcomes
+4. Determine data requirements and methods
+
+---
+
+## Synchronize
+
+**Problem**: Poor decision making due to information overload after absence from messaging apps
+
+**Data**: Trello boards, meeting notes, message history
+
+**Method**: Rule-based filtering, NLP summarization
+
+---
+
+## Onboarding
+
+**Problem**: Miscommunication between new and existing team members because practical information is tacit and implicit
+
+**Data**: Channel history, pinned messages, shared documents
+
+**Method**: Context extraction, FAQ generation
+
+---
+
+## Research
+
+**Problem**: Links are constantly shared but hardly ever read or processed, creating knowledge gaps
+
+**Data**: Shared URLs, link metadata, discussion context
+
+**Method**: Content extraction, automatic categorization, knowledge graph
+
+---
+
+## Conclusion
+
+Combining many single-purpose narrow AIs is often a better approach to solving
+real world problems than focusing on general AI moonshots.
+
+The future isn't one superintelligent system—it's many specialized tools working
+together with humans in the loop.
