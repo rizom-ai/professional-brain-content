@@ -1,5 +1,6 @@
 ---
 title: Bots With An Attitude
+status: draft
 slug: bots-with-an-attitude
 description: >-
   A framework for designing ethical, creative, and intelligent collaborative
