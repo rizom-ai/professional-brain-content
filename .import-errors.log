@@ -84,3 +84,51 @@
   }
 ]
 2025-12-10T04:57:18.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-10T05:07:59.212Z - deck/Becoming Narrow Minded.md: [
+  {
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+→ deck/Becoming Narrow Minded.md.invalid
+
+2025-12-10T05:07:59.212Z - deck/Bots With An Attitude.md: [
+  {
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+→ deck/Bots With An Attitude.md.invalid
+
+2025-12-10T05:07:59.212Z - deck/Forgotten Futures.md: [
+  {
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+→ deck/Forgotten Futures.md.invalid
+
