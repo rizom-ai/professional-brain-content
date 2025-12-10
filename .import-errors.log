@@ -42,3 +42,51 @@
   }
 ]
 2025-12-01T15:24:52.308Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-10T04:48:39.001Z - deck/Forgotten Futures.md: [
+  {
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+→ deck/Forgotten Futures.md.invalid
+
+2025-12-10T04:48:39.003Z - deck/Bots With An Attitude.md: [
+  {
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+→ deck/Bots With An Attitude.md.invalid
+
+2025-12-10T04:48:39.008Z - deck/Becoming Narrow Minded.md: [
+  {
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+→ deck/Becoming Narrow Minded.md.invalid
+
