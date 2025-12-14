@@ -132,18 +132,14 @@
 ]
 → deck/Forgotten Futures.md.invalid
 
-2025-12-14T13:40:19.119Z - profile/profile.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: profile,profile,1
-→ profile/profile.md.invalid
-
+2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
+2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
 2025-12-14T13:40:19.120Z - README.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
 params: README,base,1
 → README.md.invalid
 
-2025-12-14T13:40:19.121Z - identity/identity.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: identity,identity,1
-→ identity/identity.md.invalid
-
+2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
+2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
 2025-12-14T13:40:19.122Z - site-info/site-info.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
 params: site-info,site-info,1
 → site-info/site-info.md.invalid
