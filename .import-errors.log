@@ -1,0 +1,180 @@
+2025-11-27T17:52:44.753Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-11-27T17:52:44.753Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-01T15:24:52.304Z - [RECOVERED] deck/Forgotten Futures.md
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "metadata",
+      "status"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+2025-12-01T15:24:52.304Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-01T15:24:52.308Z - [RECOVERED] deck/Bots With An Attitude.md
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "metadata",
+      "status"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+2025-12-01T15:24:52.308Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-10T04:57:18.403Z - [RECOVERED] deck/Forgotten Futures.md
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+2025-12-10T04:57:18.403Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-10T04:57:18.407Z - [RECOVERED] deck/Bots With An Attitude.md
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+2025-12-10T04:57:18.407Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-10T04:57:18.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+2025-12-10T04:57:18.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-14T14:30:17.099Z - [RECOVERED] deck/Becoming Narrow Minded.md
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+2025-12-14T14:30:17.099Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-14T14:30:17.097Z - [RECOVERED] deck/Bots With An Attitude.md
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+2025-12-14T14:30:17.097Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-14T14:30:17.094Z - [RECOVERED] deck/Forgotten Futures.md
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+2025-12-14T14:30:17.094Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
+2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
+2025-12-14T14:33:22.757Z - [RECOVERED] README.md
+2025-12-14T14:33:22.757Z - [RECOVERED] README.md
+2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
+2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
+2025-12-14T14:33:22.769Z - [RECOVERED] site-info/site-info.md
+2025-12-14T14:33:22.769Z - [RECOVERED] site-info/site-info.md
+2025-12-14T14:33:22.777Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-14T14:33:22.777Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-14T14:33:22.781Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-14T14:33:22.781Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-14T14:33:22.784Z - [RECOVERED] post/False Media.md
+2025-12-14T14:33:22.784Z - [RECOVERED] post/False Media.md
+2025-12-14T14:33:22.787Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-14T14:33:22.787Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-14T14:33:22.789Z - [RECOVERED] post/Foam Party.md
+2025-12-14T14:33:22.789Z - [RECOVERED] post/Foam Party.md
+2025-12-14T14:33:22.793Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-14T14:33:22.793Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-14T14:33:22.796Z - [RECOVERED] post/The Low End Theory.md
+2025-12-14T14:33:22.796Z - [RECOVERED] post/The Low End Theory.md
+2025-12-14T14:33:22.800Z - [RECOVERED] post/Across Space And Time.md
+2025-12-14T14:33:22.800Z - [RECOVERED] post/Across Space And Time.md
+2025-12-14T14:33:22.806Z - [RECOVERED] post/Value Driven Development.md
+2025-12-14T14:33:22.806Z - [RECOVERED] post/Value Driven Development.md
+2025-12-14T14:33:22.809Z - [RECOVERED] post/Practice Innovation.md
+2025-12-14T14:33:22.809Z - [RECOVERED] post/Practice Innovation.md
+2025-12-14T14:33:22.812Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-14T14:33:22.812Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-14T14:33:22.814Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-14T14:33:22.814Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-14T14:33:22.816Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-14T14:33:22.816Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-14T14:33:22.818Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-14T14:33:22.818Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-14T14:33:22.820Z - [RECOVERED] post/Data Drive.md
+2025-12-14T14:33:22.820Z - [RECOVERED] post/Data Drive.md
+2025-12-14T14:33:22.822Z - [RECOVERED] post/Learning From Nature.md
+2025-12-14T14:33:22.822Z - [RECOVERED] post/Learning From Nature.md
+2025-12-14T14:33:22.825Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-14T14:33:22.825Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-14T14:33:22.828Z - [RECOVERED] post/Global Village People.md
+2025-12-14T14:33:22.828Z - [RECOVERED] post/Global Village People.md
+2025-12-14T14:33:22.831Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-14T14:33:22.831Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-14T14:33:22.833Z - [RECOVERED] post/The Good Foot.md
+2025-12-14T14:33:22.833Z - [RECOVERED] post/The Good Foot.md
+2025-12-14T14:33:22.835Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-14T14:33:22.835Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-14T14:33:22.837Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
+2025-12-14T14:33:22.837Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
