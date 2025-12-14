@@ -128,101 +128,53 @@
 2025-12-14T14:30:17.094Z - [RECOVERED] deck/Forgotten Futures.md
 2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
 2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
-2025-12-14T13:40:19.120Z - README.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: README,base,1
-→ README.md.invalid
-
+2025-12-14T14:33:22.757Z - [RECOVERED] README.md
+2025-12-14T14:33:22.757Z - [RECOVERED] README.md
 2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
 2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
-2025-12-14T13:40:19.122Z - site-info/site-info.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: site-info,site-info,1
-→ site-info/site-info.md.invalid
-
-2025-12-14T13:40:19.128Z - post/Urging New Institutions.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Urging New Institutions,post,1
-→ post/Urging New Institutions.md.invalid
-
-2025-12-14T13:40:19.129Z - post/Agency Trumps Humanness.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Agency Trumps Humanness,post,1
-→ post/Agency Trumps Humanness.md.invalid
-
-2025-12-14T13:40:19.130Z - post/False Media.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: False Media,post,1
-→ post/False Media.md.invalid
-
-2025-12-14T13:40:19.131Z - post/Reclaiming The Future.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Reclaiming The Future,post,1
-→ post/Reclaiming The Future.md.invalid
-
-2025-12-14T13:40:19.131Z - post/Foam Party.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Foam Party,post,1
-→ post/Foam Party.md.invalid
-
-2025-12-14T13:40:19.132Z - post/Align The Misaligned.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Align The Misaligned,post,1
-→ post/Align The Misaligned.md.invalid
-
-2025-12-14T13:40:19.133Z - post/The Low End Theory.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: The Low End Theory,post,1
-→ post/The Low End Theory.md.invalid
-
-2025-12-14T13:40:19.133Z - post/Across Space And Time.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Across Space And Time,post,1
-→ post/Across Space And Time.md.invalid
-
-2025-12-14T13:40:19.134Z - post/Value Driven Development.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Value Driven Development,post,1
-→ post/Value Driven Development.md.invalid
-
-2025-12-14T13:40:19.135Z - post/Practice Innovation.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Practice Innovation,post,1
-→ post/Practice Innovation.md.invalid
-
-2025-12-14T13:40:19.135Z - post/The Future of Work is Play.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: The Future of Work is Play,post,1
-→ post/The Future of Work is Play.md.invalid
-
-2025-12-14T13:40:19.136Z - post/Fundamentals of Trust.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Fundamentals of Trust,post,1
-→ post/Fundamentals of Trust.md.invalid
-
-2025-12-14T13:40:19.136Z - post/Intelligence Unleashed.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Intelligence Unleashed,post,1
-→ post/Intelligence Unleashed.md.invalid
-
-2025-12-14T13:40:19.137Z - post/Shenzen Goes Ham.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Shenzen Goes Ham,post,1
-→ post/Shenzen Goes Ham.md.invalid
-
-2025-12-14T13:40:19.137Z - post/Data Drive.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Data Drive,post,1
-→ post/Data Drive.md.invalid
-
-2025-12-14T13:40:19.138Z - post/Learning From Nature.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Learning From Nature,post,1
-→ post/Learning From Nature.md.invalid
-
-2025-12-14T13:40:19.138Z - post/Economy Of Garbage.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Economy Of Garbage,post,1
-→ post/Economy Of Garbage.md.invalid
-
-2025-12-14T13:40:19.139Z - post/Global Village People.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Global Village People,post,1
-→ post/Global Village People.md.invalid
-
-2025-12-14T13:40:19.139Z - post/When All We Have is a Hammer.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: When All We Have is a Hammer,post,1
-→ post/When All We Have is a Hammer.md.invalid
-
-2025-12-14T13:40:19.139Z - post/The Good Foot.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: The Good Foot,post,1
-→ post/The Good Foot.md.invalid
-
-2025-12-14T13:40:19.140Z - post/Learning Apart Together.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: Learning Apart Together,post,1
-→ post/Learning Apart Together.md.invalid
-
-2025-12-14T13:40:19.140Z - post/The Practice Of Ecosystem Architecture.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
-params: The Practice Of Ecosystem Architecture,post,1
-→ post/The Practice Of Ecosystem Architecture.md.invalid
-
+2025-12-14T14:33:22.769Z - [RECOVERED] site-info/site-info.md
+2025-12-14T14:33:22.769Z - [RECOVERED] site-info/site-info.md
+2025-12-14T14:33:22.777Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-14T14:33:22.777Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-14T14:33:22.781Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-14T14:33:22.781Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-14T14:33:22.784Z - [RECOVERED] post/False Media.md
+2025-12-14T14:33:22.784Z - [RECOVERED] post/False Media.md
+2025-12-14T14:33:22.787Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-14T14:33:22.787Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-14T14:33:22.789Z - [RECOVERED] post/Foam Party.md
+2025-12-14T14:33:22.789Z - [RECOVERED] post/Foam Party.md
+2025-12-14T14:33:22.793Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-14T14:33:22.793Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-14T14:33:22.796Z - [RECOVERED] post/The Low End Theory.md
+2025-12-14T14:33:22.796Z - [RECOVERED] post/The Low End Theory.md
+2025-12-14T14:33:22.800Z - [RECOVERED] post/Across Space And Time.md
+2025-12-14T14:33:22.800Z - [RECOVERED] post/Across Space And Time.md
+2025-12-14T14:33:22.806Z - [RECOVERED] post/Value Driven Development.md
+2025-12-14T14:33:22.806Z - [RECOVERED] post/Value Driven Development.md
+2025-12-14T14:33:22.809Z - [RECOVERED] post/Practice Innovation.md
+2025-12-14T14:33:22.809Z - [RECOVERED] post/Practice Innovation.md
+2025-12-14T14:33:22.812Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-14T14:33:22.812Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-14T14:33:22.814Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-14T14:33:22.814Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-14T14:33:22.816Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-14T14:33:22.816Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-14T14:33:22.818Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-14T14:33:22.818Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-14T14:33:22.820Z - [RECOVERED] post/Data Drive.md
+2025-12-14T14:33:22.820Z - [RECOVERED] post/Data Drive.md
+2025-12-14T14:33:22.822Z - [RECOVERED] post/Learning From Nature.md
+2025-12-14T14:33:22.822Z - [RECOVERED] post/Learning From Nature.md
+2025-12-14T14:33:22.825Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-14T14:33:22.825Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-14T14:33:22.828Z - [RECOVERED] post/Global Village People.md
+2025-12-14T14:33:22.828Z - [RECOVERED] post/Global Village People.md
+2025-12-14T14:33:22.831Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-14T14:33:22.831Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-14T14:33:22.833Z - [RECOVERED] post/The Good Foot.md
+2025-12-14T14:33:22.833Z - [RECOVERED] post/The Good Foot.md
+2025-12-14T14:33:22.835Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-14T14:33:22.835Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-14T14:33:22.837Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
+2025-12-14T14:33:22.837Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
