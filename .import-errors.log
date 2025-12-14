@@ -84,8 +84,7 @@
   }
 ]
 2025-12-10T04:57:18.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
-2025-12-10T05:07:59.212Z - deck/Becoming Narrow Minded.md: [
-  {
+2025-12-14T14:30:17.099Z - [RECOVERED] deck/Becoming Narrow Minded.md
     "received": "published",
     "code": "invalid_enum_value",
     "options": [
@@ -98,10 +97,8 @@
     "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
   }
 ]
-→ deck/Becoming Narrow Minded.md.invalid
-
-2025-12-10T05:07:59.212Z - deck/Bots With An Attitude.md: [
-  {
+2025-12-14T14:30:17.099Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-14T14:30:17.097Z - [RECOVERED] deck/Bots With An Attitude.md
     "received": "published",
     "code": "invalid_enum_value",
     "options": [
@@ -114,10 +111,8 @@
     "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
   }
 ]
-→ deck/Bots With An Attitude.md.invalid
-
-2025-12-10T05:07:59.212Z - deck/Forgotten Futures.md: [
-  {
+2025-12-14T14:30:17.097Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-14T14:30:17.094Z - [RECOVERED] deck/Forgotten Futures.md
     "received": "published",
     "code": "invalid_enum_value",
     "options": [
@@ -130,8 +125,7 @@
     "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
   }
 ]
-→ deck/Forgotten Futures.md.invalid
-
+2025-12-14T14:30:17.094Z - [RECOVERED] deck/Forgotten Futures.md
 2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
 2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
 2025-12-14T13:40:19.120Z - README.md: Failed query: select "id", "entityType", "content", "metadata", "contentWeight", "embedding", "created", "updated" from "entities" where ("entities"."id" = ? and "entities"."entityType" = ?) limit ?
