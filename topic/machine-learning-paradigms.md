@@ -8,18 +8,18 @@ Supervised learning relies on human-defined baselines, where models are trained 
 
 ## Keywords
 
-- supervised learning
-- unsupervised learning
-- machine learning
-- clustering
-- human baseline
-- algorithmic intelligence
-- pattern recognition
-- data analysis
-- artificial intelligence
-- intelligence paradigm
-- algorithmic discovery
+- ethical AI
+- creative intelligence
+- community values
+- agent design
+- knowledge synthesis
+- insight generation
+- value alignment
+- intelligent systems
+- ethical frameworks
+- human-centered automation
 
 ## Sources
 
 - Intelligence Unleashed (Intelligence Unleashed) [post]
+- Bots With An Attitude (Bots With An Attitude) [deck]

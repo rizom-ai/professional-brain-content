@@ -8,19 +8,18 @@ The author discusses how humanities scholars lack awareness of the digital tools
 
 ## Keywords
 
-- digital tools
-- workflow design
-- research methodology
-- teaching technology
-- tool selection
-- scholarly practice
-- craftsmanship
-- systems thinking
-- knowledge production
-- humanities education
-- software development
-- tool culture
+- tool design
+- community needs
+- distributed teams
+- knowledge communities
+- values-alignment
+- modular architecture
+- participatory design
+- asynchronous work
+- shared knowledge
+- community governance
 
 ## Sources
 
 - When All We Have is a Hammer (When All We Have is a Hammer) [post]
+- Bots With An Attitude (Bots With An Attitude) [deck]

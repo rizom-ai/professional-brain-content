@@ -8,19 +8,20 @@ In 2013, the author and Marijn Koolen proposed that the University of Amsterdam 
 
 ## Keywords
 
-- online learning
-- educational innovation
-- pedagogy
-- learning platforms
-- automation
-- student engagement
-- educational technology
-- interactive learning
-- course design
-- remote education
-- learning experience
-- educational quality
+- intelligence
+- emergence
+- agency
+- distributed systems
+- AI winters
+- decentralized
+- practice
+- collective intelligence
+- human-machine collaboration
+- knowledge systems
+- algorithmic trust
+- meaning-making
 
 ## Sources
 
 - Learning Apart Together (Learning Apart Together) [post]
+- Forgotten Futures (Forgotten Futures) [deck]

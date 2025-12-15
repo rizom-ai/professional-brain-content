@@ -8,19 +8,22 @@ Google X, founded by Larry Page and Sergey Brin through Astro Teller, operates o
 
 ## Keywords
 
-- moonshot thinking
-- exponential impact
-- problem-solving philosophy
-- practical solutions
+- narrow AI
+- general AI
+- moonshot
+- automation
+- human in the loop
+- single-purpose systems
+- organizational AI
 - low-hanging fruit
-- innovation strategy
-- resource allocation
-- copycat entrepreneurship
-- humility in business
-- incremental improvement
-- simplicity
-- everyday problems
+- specialized tools
+- practical AI implementation
+- knowledge management
+- messaging app integration
+- AI stack
+- real-world problems
 
 ## Sources
 
 - The Low End Theory (The Low End Theory) [post]
+- Becoming Narrow Minded (Becoming Narrow Minded) [deck]

@@ -9,20 +9,18 @@ Ecosystem architecture designs virtual spaces driven by shared values, moving be
 ## Keywords
 
 - ecosystem architecture
-- bottom-up emergence
-- intentional communities
-- decentralized design
-- regenerative design
-- vision type
-- vessel of transformation
-- minimum viable ecosystem
-- cellular automata
-- shared values
-- co-creation
-- sieve-order
-- creative practice
-- social transformation
+- knowledge infrastructure
+- decentralization
+- algorithmic trust
+- open protocols
+- ownership models
+- distributed systems
+- knowledge management
+- collective intelligence
+- platform design
+- living systems
 
 ## Sources
 
 - The Practice Of Ecosystem Architecture (The Practice Of Ecosystem Architecture) [post]
+- Forgotten Futures (Forgotten Futures) [deck]

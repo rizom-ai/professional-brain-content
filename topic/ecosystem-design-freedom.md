@@ -8,19 +8,20 @@ The article examines ecosystems as regenerative practices of continuous, decentr
 
 ## Keywords
 
-- ecosystem design
-- freedom of movement
-- voting with your feet
-- decentralized communities
-- network states
-- value pluralism
-- startup societies
-- digital architecture
-- shared values
-- moral premise
-- creative freedom
-- community autonomy
+- ethical AI
+- creative intelligence
+- collaborative agents
+- state machine architecture
+- distributed communities
+- knowledge management
+- asynchronous collaboration
+- bot design
+- community governance
+- information automation
+- domain models
+- ecosystem mapping
 
 ## Sources
 
 - The Good Foot (The Good Foot) [post]
+- Bots With An Attitude (Bots With An Attitude) [deck]

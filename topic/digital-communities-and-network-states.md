@@ -8,19 +8,21 @@ The article discusses how healthy ecosystems enable members to vote with their f
 
 ## Keywords
 
-- continental philosophy
-- philosophy of technology
-- knowledge systems
-- digital infrastructure
-- meaning-making
-- community formation
-- cultural implications
-- existential design
-- Heidegger
-- technological systems
-- human flourishing
+- distributed teams
+- asynchronous communication
+- knowledge management
+- collaborative tools
+- bot architecture
+- state machines
+- community governance
+- shared knowledge
+- modular systems
+- information architecture
+- ecosystem mapping
+- domain models
 
 ## Sources
 
 - The Good Foot (The Good Foot) [post]
 - profile (profile) [profile]
+- Bots With An Attitude (Bots With An Attitude) [deck]

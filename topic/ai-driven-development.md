@@ -8,20 +8,20 @@ AI-driven development integrates artificial intelligence into every phase of sof
 
 ## Keywords
 
-- AI-driven development
-- machine learning
-- code generation
-- automated testing
-- intelligent debugging
-- DevOps optimization
-- predictive analytics
-- code assistants
-- software lifecycle
-- quality assurance
-- security considerations
-- team training
-- bias mitigation
+- narrow AI
+- practical automation
+- human-in-the-loop
+- low-hanging fruit
+- knowledge infrastructure
+- single-purpose systems
+- AI integration
+- task automation
+- real-world problems
+- specialized tools
+- knowledge management
+- team collaboration
 
 ## Sources
 
 - AI-Driven Development: Building Smarter Systems Through Artificial Intelligence (AI-Driven Development: Building Smarter Systems Through Artificial Intelligence) [post]
+- Becoming Narrow Minded (Becoming Narrow Minded) [deck]

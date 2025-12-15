@@ -8,16 +8,22 @@ The Personal Brain is a personal knowledge assistant designed to help organize, 
 
 ## Keywords
 
-- knowledge management
-- content curation
-- organization
-- clarity
-- professional development
-- continuous learning
-- information architecture
-- knowledge capture
+- intelligence
+- emergence
+- agency
+- distributed systems
+- practice
+- control
+- AI winters
+- decentralized
+- collaborative intelligence
+- living systems
+- algorithmic trust
+- knowledge infrastructure
+- meaning-making
 
 ## Sources
 
 - identity (identity) [identity]
 - Machine Learning (Machine Learning) [deck]
+- Forgotten Futures (Forgotten Futures) [deck]

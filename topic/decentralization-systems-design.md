@@ -8,19 +8,19 @@ The article distinguishes between decentralization as a thoughtful cultural tech
 
 ## Keywords
 
-- decentralization
-- fragmentation
-- blockchain
-- cryptocurrency
-- DAOs
-- distributed systems
-- network architecture
-- cultural techniques
-- technical affordances
-- interconnected systems
-- excess mindset
-- systems design
+- decentralized
+- knowledge infrastructure
+- distributed protocols
+- ownership
+- algorithmic trust
+- git-based knowledge
+- open standards
+- collective intelligence
+- autonomy
+- interoperability
+- franchise model
 
 ## Sources
 
 - Economy Of Garbage (Economy Of Garbage) [post]
+- Forgotten Futures (Forgotten Futures) [deck]
