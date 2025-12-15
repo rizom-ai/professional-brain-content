@@ -9,20 +9,21 @@ Ecosystem architecture encourages investment in futures we would like to inhabit
 ## Keywords
 
 - ecosystem architecture
-- bottom-up design
-- emergent complexity
-- intentional communities
-- cellular automata
-- vision type
-- vessel of transformation
-- minimum viable ecosystem
-- decentralized design
-- regenerative systems
-- shared values
-- social transformation
-- creative practice
+- living systems
+- organizational design
+- decentralized organizations
+- knowledge infrastructure
+- community building
+- adaptive structures
+- regenerative design
+- distributed organizations
+- cultural hybridization
+- philosophy of technology
+- DAOs
+- mesh networks
 
 ## Sources
 
 - Reclaiming The Future (Reclaiming The Future) [post]
 - The Practice Of Ecosystem Architecture (The Practice Of Ecosystem Architecture) [post]
+- profile (profile) [profile]

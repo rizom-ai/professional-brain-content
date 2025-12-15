@@ -8,20 +8,19 @@ The article discusses how healthy ecosystems enable members to vote with their f
 
 ## Keywords
 
-- network states
-- digital communities
-- voting with your feet
-- startup societies
-- decentralized internet
-- shared values
-- ecosystem design
-- value pluralism
-- freedom to leave
-- territorial boundaries
-- moral propositions
-- digital territory
-- ecosystem architecture
+- continental philosophy
+- philosophy of technology
+- knowledge systems
+- digital infrastructure
+- meaning-making
+- community formation
+- cultural implications
+- existential design
+- Heidegger
+- technological systems
+- human flourishing
 
 ## Sources
 
 - The Good Foot (The Good Foot) [post]
+- profile (profile) [profile]

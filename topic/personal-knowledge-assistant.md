@@ -8,20 +8,14 @@ The Personal Brain is a personal knowledge assistant designed to help organize, 
 
 ## Keywords
 
-- machine learning
-- data preparation
-- algorithms
-- supervised learning
-- unsupervised learning
-- reinforcement learning
-- model evaluation
-- business value
-- ethical AI
-- implementation
-- over-engineering
-- data bias
-- practical constraints
-- interpretability
+- knowledge management
+- content curation
+- organization
+- clarity
+- professional development
+- continuous learning
+- information architecture
+- knowledge capture
 
 ## Sources
 
