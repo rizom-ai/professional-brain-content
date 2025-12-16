@@ -8,11 +8,11 @@ The post explores a fundamental shift in how we think about collaborative work b
 - state machine
 - bot architecture
 - workflow design
-- data processing
-- feedback loops
-- system design
-- automation pipeline
-- modular states
+- modular systems
+- data pipeline
+- state transitions
+- reusable patterns
+- automation framework
 
 ## Sources
 

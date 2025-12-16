@@ -6,12 +6,13 @@ The deck reframes AI winters not as failures but as selection pressures that sha
 ## Keywords
 
 - narrow AI
-- specialized systems
-- single-purpose AI
+- single-purpose systems
+- task-specific automation
 - practical AI
-- task-specific
-- AI automation
 - human-in-the-loop
+- specialized tools
+- real-world problems
+- AI stack
 
 ## Sources
 

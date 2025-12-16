@@ -9,9 +9,10 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 - virtual coworker
 - information management
 - knowledge organization
-- messaging integration
+- message moderation
 - knowledge base
-- team collaboration
+- team communication
+- Rizom
 
 ## Sources
 

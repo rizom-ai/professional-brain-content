@@ -5,16 +5,17 @@ Cellular automata serve as a powerful conceptual model for ecosystem architectur
 
 ## Keywords
 
-- cellular automata
-- Conway's Game of Life
-- emergent complexity
-- generative art
-- deterministic rules
-- complex systems
-- rule-based systems
-- innovation emergence
+- ecosystem architecture
+- decentralized systems
+- knowledge infrastructure
+- collective intelligence
+- distributed ownership
+- open protocols
+- franchise model
+- living systems
 
 ## Sources
 
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
 - The Good Foot (the-good-foot) [post]
+- Forgotten Futures (forgotten-futures) [deck]

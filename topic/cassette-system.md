@@ -5,14 +5,14 @@ Cassettes are reusable, single-purpose functions that lower the barrier for comm
 
 ## Keywords
 
-- cassettes
-- modular functions
+- modularity
+- reusable components
+- accessibility
 - extensibility
-- community-driven development
-- low-code tools
 - plugin architecture
-- distributed contribution
-- tool democratization
+- community contribution
+- low-code tools
+- composability
 
 ## Sources
 

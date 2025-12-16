@@ -6,12 +6,13 @@ The presentation argues for deliberately tackling the practical 90% of problems 
 ## Keywords
 
 - low-hanging fruit
+- practical problems
+- moonshot avoidance
 - pragmatic AI
-- problem-solving
-- radical automation
-- talent optimization
-- real-world solutions
-- iterative development
+- talent efficiency
+- immediate value
+- problem isolation
+- outcomes-focused
 
 ## Sources
 
