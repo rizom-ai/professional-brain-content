@@ -6,13 +6,13 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 ## Keywords
 
 - knowledge infrastructure
-- virtual coworker
 - information management
-- knowledge organization
-- message moderation
-- knowledge base
-- team communication
-- Rizom
+- message synchronization
+- onboarding
+- knowledge gaps
+- content organization
+- team collaboration
+- tacit knowledge
 
 ## Sources
 

@@ -5,14 +5,14 @@ The article argues that the true foundation of healthy democratic states is not 
 
 ## Keywords
 
-- distributed teams
-- asynchronous collaboration
-- community infrastructure
-- shared governance
-- knowledge management
-- community tools
-- accessibility
-- organizational design
+- state machine
+- bot architecture
+- workflow design
+- data pipeline
+- loop-back logic
+- modular design
+- agent behavior
+- quality assurance
 
 ## Sources
 
@@ -33,3 +33,4 @@ The article argues that the true foundation of healthy democratic states is not 
 - Agency Trumps Humanness (agency-trumps-humanness) [post]
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
+- Forgotten Futures (forgotten-futures) [deck]

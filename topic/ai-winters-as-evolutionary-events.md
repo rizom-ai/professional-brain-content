@@ -5,14 +5,13 @@ The deck reframes AI winters not as failures but as selection pressures that sha
 
 ## Keywords
 
-- narrow AI
-- single-purpose systems
-- task-specific automation
-- practical AI
-- human-in-the-loop
-- specialized tools
-- real-world problems
-- AI stack
+- AI winters
+- selection events
+- emergence
+- control
+- rule-based systems
+- statistical scaling
+- historical trajectory
 
 ## Sources
 

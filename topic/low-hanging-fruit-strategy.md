@@ -5,14 +5,14 @@ The presentation argues for deliberately tackling the practical 90% of problems 
 
 ## Keywords
 
-- low-hanging fruit
+- narrow AI
+- specialized systems
+- automation
 - practical problems
-- moonshot avoidance
-- pragmatic AI
-- talent efficiency
-- immediate value
-- problem isolation
-- outcomes-focused
+- moonshot fallacy
+- task-specific
+- AI strategy
+- real-world solutions
 
 ## Sources
 

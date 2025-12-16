@@ -5,14 +5,14 @@ Cellular automata serve as a powerful conceptual model for ecosystem architectur
 
 ## Keywords
 
-- ecosystem architecture
+- Rizom
 - decentralized systems
 - knowledge infrastructure
-- collective intelligence
-- distributed ownership
+- algorithmic trust
 - open protocols
-- franchise model
-- living systems
+- ownership
+- collective intelligence
+- distributed emergence
 
 ## Sources
 
