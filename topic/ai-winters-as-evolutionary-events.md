@@ -5,13 +5,14 @@ The deck reframes AI winters not as failures but as selection pressures that sha
 
 ## Keywords
 
-- AI winters
-- selection events
-- emergence
-- control
-- rule-based systems
-- statistical scaling
-- historical trajectory
+- narrow AI
+- specialized systems
+- task-specific intelligence
+- AI pragmatism
+- alternative to general AI
+- automation
+- real-world problems
+- focused AI agents
 
 ## Sources
 

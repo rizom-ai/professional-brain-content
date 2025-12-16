@@ -5,14 +5,14 @@ The article argues that the true foundation of healthy democratic states is not 
 
 ## Keywords
 
-- state machine
-- bot architecture
-- workflow design
-- data pipeline
-- loop-back logic
-- modular design
-- agent behavior
-- quality assurance
+- decentralized
+- distributed intelligence
+- collective agency
+- ownership
+- open protocols
+- knowledge systems
+- ecosystem architecture
+- living infrastructure
 
 ## Sources
 

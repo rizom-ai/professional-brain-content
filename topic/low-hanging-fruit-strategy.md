@@ -5,15 +5,16 @@ The presentation argues for deliberately tackling the practical 90% of problems 
 
 ## Keywords
 
-- narrow AI
-- specialized systems
-- automation
 - practical problems
-- moonshot fallacy
-- task-specific
-- AI strategy
-- real-world solutions
+- moonshots
+- automation
+- talent optimization
+- low-hanging fruit
+- incremental improvement
+- human-in-the-loop
+- workflow efficiency
 
 ## Sources
 
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
+- Forgotten Futures (forgotten-futures) [deck]

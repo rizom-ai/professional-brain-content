@@ -5,14 +5,13 @@ The post explores a fundamental shift in how we think about collaborative work b
 
 ## Keywords
 
-- human-in-the-loop
-- AI feedback
-- collaborative AI
-- user oversight
-- augmentation
-- continuous feedback
-- human agency
-- iterative refinement
+- state machine
+- bot architecture
+- workflow automation
+- data processing
+- iterative loops
+- modular design
+- cassettes
 
 ## Sources
 

@@ -5,16 +5,18 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 
 ## Keywords
 
-- craftsmanship
-- tool selection
-- developer culture
-- practice-driven development
-- community deliberation
-- intentional design
-- professional practice
-- technological constraints
+- knowledge management
+- virtual coworker
+- messaging integration
+- information organization
+- team collaboration
+- tacit knowledge
+- NLP systems
+- knowledge infrastructure
 
 ## Sources
 
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
 - The Future of Work is Play (the-future-of-work-is-play) [post]
+- Bots With An Attitude (bots-with-an-attitude) [deck]
+- Becoming Narrow Minded (becoming-narrow-minded) [deck]

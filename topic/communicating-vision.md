@@ -5,14 +5,13 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 
 ## Keywords
 
-- knowledge infrastructure
-- information management
-- message synchronization
-- onboarding
-- knowledge gaps
-- content organization
-- team collaboration
-- tacit knowledge
+- distributed teams
+- asynchronous collaboration
+- shared infrastructure
+- knowledge management
+- community governance
+- information architecture
+- collaborative intelligence
 
 ## Sources
 
