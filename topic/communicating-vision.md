@@ -5,14 +5,14 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 
 ## Keywords
 
-- ethical AI
-- creative agents
-- intelligence framework
-- community values
-- collaborative tools
-- agent design
-- value alignment
-- community ethics
+- knowledge infrastructure
+- virtual coworker
+- information management
+- knowledge organization
+- onboarding
+- tacit knowledge
+- messaging integration
+- knowledge graph
 
 ## Sources
 

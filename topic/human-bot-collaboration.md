@@ -6,13 +6,13 @@ The post explores a fundamental shift in how we think about collaborative work b
 ## Keywords
 
 - state machine
-- workflow architecture
-- bot design
-- information processing
-- acquire-clean-analyze-evaluate-present
-- non-linear flow
-- autonomous agents
-- modular design
+- bot architecture
+- workflow design
+- data processing
+- modular agents
+- autonomous systems
+- cassettes
+- automation pipeline
 
 ## Sources
 

@@ -5,14 +5,14 @@ The presentation argues for deliberately tackling the practical 90% of problems 
 
 ## Keywords
 
-- pragmatic approach
-- practical problems
 - low-hanging fruit
-- moonshots
-- real-world solutions
-- incremental value
-- problem selection
+- practical problems
+- radical automation
+- moonshot fallacy
+- problem isolation
 - achievable goals
+- immediate value
+- pragmatic approach
 
 ## Sources
 

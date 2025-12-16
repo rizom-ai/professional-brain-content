@@ -5,14 +5,14 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 
 ## Keywords
 
-- knowledge management
-- information organization
-- virtual coworker
-- knowledge base
-- data integration
-- tacit knowledge
-- organizational memory
-- content extraction
+- decentralized systems
+- knowledge infrastructure
+- distributed ownership
+- algorithmic trust
+- open protocols
+- collective intelligence
+- autonomy
+- living systems
 
 ## Sources
 
