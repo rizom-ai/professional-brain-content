@@ -5,14 +5,14 @@ The presentation argues for deliberately tackling the practical 90% of problems 
 
 ## Keywords
 
+- pragmatic approach
 - practical problems
-- moonshots
-- automation
-- talent optimization
 - low-hanging fruit
-- incremental improvement
-- human-in-the-loop
-- workflow efficiency
+- moonshots
+- real-world solutions
+- incremental value
+- problem selection
+- achievable goals
 
 ## Sources
 

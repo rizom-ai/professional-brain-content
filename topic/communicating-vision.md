@@ -5,13 +5,14 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 
 ## Keywords
 
-- distributed teams
-- asynchronous collaboration
-- shared infrastructure
-- knowledge management
-- community governance
-- information architecture
-- collaborative intelligence
+- ethical AI
+- creative agents
+- intelligence framework
+- community values
+- collaborative tools
+- agent design
+- value alignment
+- community ethics
 
 ## Sources
 

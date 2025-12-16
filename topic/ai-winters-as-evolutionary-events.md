@@ -6,13 +6,13 @@ The deck reframes AI winters not as failures but as selection pressures that sha
 ## Keywords
 
 - narrow AI
+- task-specific
 - specialized systems
-- task-specific intelligence
-- AI pragmatism
-- alternative to general AI
-- automation
+- practical automation
+- single-purpose
+- AI systems
 - real-world problems
-- focused AI agents
+- alternative to general AI
 
 ## Sources
 

@@ -5,14 +5,14 @@ The article argues that the true foundation of healthy democratic states is not 
 
 ## Keywords
 
+- Rizom
 - decentralized
 - distributed intelligence
-- collective agency
+- knowledge systems
 - ownership
 - open protocols
-- knowledge systems
-- ecosystem architecture
-- living infrastructure
+- collective intelligence
+- algorithmic trust
 
 ## Sources
 

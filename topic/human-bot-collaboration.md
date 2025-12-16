@@ -6,12 +6,13 @@ The post explores a fundamental shift in how we think about collaborative work b
 ## Keywords
 
 - state machine
-- bot architecture
-- workflow automation
-- data processing
-- iterative loops
+- workflow architecture
+- bot design
+- information processing
+- acquire-clean-analyze-evaluate-present
+- non-linear flow
+- autonomous agents
 - modular design
-- cassettes
 
 ## Sources
 

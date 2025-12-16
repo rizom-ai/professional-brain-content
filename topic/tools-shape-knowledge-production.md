@@ -6,13 +6,13 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 ## Keywords
 
 - knowledge management
-- virtual coworker
-- messaging integration
 - information organization
-- team collaboration
+- virtual coworker
+- knowledge base
+- data integration
 - tacit knowledge
-- NLP systems
-- knowledge infrastructure
+- organizational memory
+- content extraction
 
 ## Sources
 
@@ -20,3 +20,4 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 - The Future of Work is Play (the-future-of-work-is-play) [post]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
+- Forgotten Futures (forgotten-futures) [deck]
