@@ -10,14 +10,14 @@ The presentation frames AI winters not as failures but as selection events that 
 
 - AI winters
 - selection events
-- control
 - emergence
+- control systems
 - rule-based systems
 - statistical scaling
-- historical trajectory
-- funding pressure
-- complexity
-- predictability
+- evolutionary pressure
+- decentralization
+- adaptive systems
+- Conway's Game of Life
 
 ## Sources
 

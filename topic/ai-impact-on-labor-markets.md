@@ -8,17 +8,16 @@ AI is not taking jobs; it is exposing the massive opportunity cost of how we cur
 
 ## Keywords
 
-- radical automation
-- human-in-the-loop
-- labor efficiency
-- task automation
-- talent waste
-- feedback loops
-- practical problems
-- achievable gains
 - feature development
-- information overload
-- knowledge transfer
+- problem isolation
+- technical methodology
+- NLP
+- classification
+- rule engines
+- data requirements
+- pragmatic AI
+- implementation flow
+- tool integration
 
 ## Sources
 

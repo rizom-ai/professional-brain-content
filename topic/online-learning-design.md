@@ -8,14 +8,16 @@ Online learning has untapped potential that remains largely unexploited in 2020.
 
 ## Keywords
 
-- distributed teams
-- asynchronous communication
-- community infrastructure
-- knowledge management
-- governance systems
-- collaborative design
+- distributed communities
+- asynchronous collaboration
+- tool design
+- modular architecture
 - shared archives
+- governance systems
+- domain models
 - community values
+- scalable tools
+- knowledge management
 
 ## Sources
 

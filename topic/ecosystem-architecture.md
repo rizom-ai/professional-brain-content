@@ -8,18 +8,16 @@ Ecosystem architecture is the practice of designing and cultivating organization
 
 ## Keywords
 
-- knowledge management
 - virtual coworker
-- information organization
-- tacit knowledge
+- knowledge infrastructure
+- information management
 - team communication
-- knowledge capture
-- synchronization
+- knowledge organization
 - onboarding
-- knowledge gaps
-- content extraction
-- collaborative platforms
-- knowledge graphs
+- information overload
+- tacit knowledge
+- knowledge graph
+- team tools
 
 ## Sources
 
