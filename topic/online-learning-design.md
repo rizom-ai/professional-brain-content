@@ -8,16 +8,16 @@ Online learning has untapped potential that remains largely unexploited in 2020.
 
 ## Keywords
 
-- distributed communities
-- asynchronous collaboration
-- tool design
-- modular architecture
-- shared archives
-- governance systems
-- domain models
-- community values
-- scalable tools
-- knowledge management
+- intelligence
+- agency
+- emergence
+- practice
+- autonomy
+- purposeful action
+- distributed intelligence
+- active collaboration
+- meaning-making
+- entropy resistance
 
 ## Sources
 

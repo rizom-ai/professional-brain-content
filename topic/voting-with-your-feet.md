@@ -9,17 +9,15 @@ Voting with your feet is the freedom to leave one habitat for another, a princip
 ## Keywords
 
 - ecosystem architecture
-- bottom-up emergence
-- intentional communities
-- sieve-order
-- cellular automata
-- vision type
-- vessel of transformation
-- minimum viable ecosystem
-- de Certeau
-- emergent complexity
-- decentralized design
-- community cultivation
+- living systems
+- decentralized organizations
+- collective intelligence
+- distributed emergence
+- knowledge infrastructure
+- ownership models
+- open protocols
+- shared agency
+- Rizom
 
 ## Sources
 
@@ -31,3 +29,4 @@ Voting with your feet is the freedom to leave one habitat for another, a princip
 - Across Space And Time (Across Space And Time) [post]
 - Practice Innovation (Practice Innovation) [post]
 - Learning From Nature (Learning From Nature) [post]
+- Forgotten Futures (Forgotten Futures) [deck]

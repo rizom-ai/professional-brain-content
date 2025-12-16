@@ -8,16 +8,16 @@ AI is not taking jobs; it is exposing the massive opportunity cost of how we cur
 
 ## Keywords
 
-- feature development
-- problem isolation
-- technical methodology
-- NLP
-- classification
-- rule engines
-- data requirements
-- pragmatic AI
-- implementation flow
-- tool integration
+- narrow AI
+- general AI
+- moonshots
+- single-purpose systems
+- practical automation
+- human in the loop
+- specialized tools
+- real-world problems
+- AI stack
+- low-hanging fruit
 
 ## Sources
 
@@ -27,3 +27,4 @@ AI is not taking jobs; it is exposing the massive opportunity cost of how we cur
 - The Practice Of Ecosystem Architecture (The Practice Of Ecosystem Architecture) [post]
 - Bots With An Attitude (Bots With An Attitude) [deck]
 - Becoming Narrow Minded (Becoming Narrow Minded) [deck]
+- Forgotten Futures (Forgotten Futures) [deck]
