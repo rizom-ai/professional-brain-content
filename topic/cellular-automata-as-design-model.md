@@ -5,18 +5,19 @@ Cellular automata serve as a powerful conceptual model for ecosystem architectur
 
 ## Keywords
 
-- Rizom
-- ecosystem architecture
-- decentralized
-- knowledge infrastructure
-- ownership
-- algorithmic trust
-- open protocols
-- collective intelligence
 - living systems
+- organizational design
+- emergence
+- value alignment
+- adaptive systems
+- distributed coordination
+- system coherence
+- organizational structure
+- cultural transformation
 
 ## Sources
 
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
 - The Good Foot (the-good-foot) [post]
 - Forgotten Futures (forgotten-futures) [deck]
+- Beyond Hierarchy: How Decentralized Tools Enable Value-Aligned Collective Decision-Making (beyond-hierarchy-how-decentralized-tools-enable-value-aligned-collective-decision-making) [post]

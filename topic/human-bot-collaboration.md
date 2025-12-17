@@ -5,14 +5,14 @@ The post explores a fundamental shift in how we think about collaborative work b
 
 ## Keywords
 
-- state machine
-- bot architecture
-- modular design
-- information processing
-- cassettes
-- workflow automation
-- iterative refinement
-- non-linear states
+- human-in-the-loop
+- automation philosophy
+- radical automation
+- human-AI collaboration
+- talent waste prevention
+- user feedback loops
+- augmentation
+- practical problem-solving
 
 ## Sources
 

@@ -6,13 +6,13 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 ## Keywords
 
 - knowledge infrastructure
-- information management
 - virtual coworker
+- information management
 - team communication
 - knowledge organization
-- tacit knowledge
-- onboarding
+- messaging integration
 - knowledge graph
+- tacit knowledge
 
 ## Sources
 

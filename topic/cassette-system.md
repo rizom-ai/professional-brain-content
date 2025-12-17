@@ -5,15 +5,16 @@ Cassettes are reusable, single-purpose functions that lower the barrier for comm
 
 ## Keywords
 
-- cassettes
-- modular functions
+- plugin architecture
+- modularity
 - extensibility
 - community contribution
-- single-purpose
-- plugin architecture
-- democratized development
-- domain-specific features
+- single-purpose functions
+- API design
+- democratization
+- low-barrier entry
 
 ## Sources
 
 - Bots With An Attitude (bots-with-an-attitude) [deck]
+- Forgotten Futures (forgotten-futures) [deck]

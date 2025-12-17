@@ -5,14 +5,14 @@ The article argues that the true foundation of healthy democratic states is not 
 
 ## Keywords
 
-- distributed communities
-- asynchronous collaboration
-- shared infrastructure
-- community governance
-- knowledge archiving
-- domain models
-- ecosystem design
-- organizational tools
+- decentralized governance
+- distributed authority
+- consent-based decisions
+- stakeholder participation
+- decision-making infrastructure
+- collective coordination
+- transparency mechanisms
+- delegation models
 
 ## Sources
 
@@ -34,3 +34,4 @@ The article argues that the true foundation of healthy democratic states is not 
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
 - Forgotten Futures (forgotten-futures) [deck]
+- Beyond Hierarchy: How Decentralized Tools Enable Value-Aligned Collective Decision-Making (beyond-hierarchy-how-decentralized-tools-enable-value-aligned-collective-decision-making) [post]

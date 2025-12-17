@@ -8,11 +8,12 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 - ethical AI
 - creative intelligence
 - community values
-- collaborative tools
-- information synthesis
 - agent design
-- knowledge management
+- AI ethics
+- collaborative tools
 - value alignment
+- intelligent automation
+- community governance
 
 ## Sources
 
@@ -31,3 +32,4 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 - Learning From Nature (learning-from-nature) [post]
 - Global Village People (global-village-people) [post]
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
+- Beyond Hierarchy: How Decentralized Tools Enable Value-Aligned Collective Decision-Making (beyond-hierarchy-how-decentralized-tools-enable-value-aligned-collective-decision-making) [post]

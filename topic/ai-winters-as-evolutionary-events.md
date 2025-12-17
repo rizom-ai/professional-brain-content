@@ -5,15 +5,14 @@ The deck reframes AI winters not as failures but as selection pressures that sha
 
 ## Keywords
 
+- narrow AI
+- specialized systems
+- task-specific automation
+- general AI alternatives
+- practical AI
+- problem-focused development
 - AI stack
-- NLP
-- TensorFlow
-- spaCy
-- classification
-- rule engines
-- Slack integration
-- technology layers
-- system architecture
+- single-purpose tools
 
 ## Sources
 
