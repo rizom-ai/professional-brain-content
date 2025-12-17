@@ -5,14 +5,14 @@ The article argues that the true foundation of healthy democratic states is not 
 
 ## Keywords
 
-- Rizom
-- decentralized
-- distributed intelligence
-- knowledge systems
-- ownership
-- open protocols
-- collective intelligence
-- algorithmic trust
+- distributed communities
+- asynchronous collaboration
+- shared infrastructure
+- community governance
+- knowledge archiving
+- domain models
+- ecosystem design
+- organizational tools
 
 ## Sources
 

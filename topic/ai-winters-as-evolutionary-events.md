@@ -5,14 +5,15 @@ The deck reframes AI winters not as failures but as selection pressures that sha
 
 ## Keywords
 
-- AI winters
-- selection pressure
-- emergence
-- control systems
-- rule-based AI
-- statistical scaling
-- evolutionary trajectory
-- historical contingency
+- AI stack
+- NLP
+- TensorFlow
+- spaCy
+- classification
+- rule engines
+- Slack integration
+- technology layers
+- system architecture
 
 ## Sources
 

@@ -7,12 +7,12 @@ The post explores a fundamental shift in how we think about collaborative work b
 
 - state machine
 - bot architecture
-- workflow design
-- data processing
-- modular agents
-- autonomous systems
+- modular design
+- information processing
 - cassettes
-- automation pipeline
+- workflow automation
+- iterative refinement
+- non-linear states
 
 ## Sources
 

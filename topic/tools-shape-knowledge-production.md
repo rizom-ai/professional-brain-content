@@ -5,14 +5,14 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 
 ## Keywords
 
-- decentralization
-- knowledge systems
-- ownership
-- distributed networks
-- open protocols
-- algorithmic trust
-- shared agency
-- ecosystem architecture
+- knowledge infrastructure
+- information management
+- virtual coworker
+- team communication
+- knowledge organization
+- tacit knowledge
+- onboarding
+- knowledge graph
 
 ## Sources
 

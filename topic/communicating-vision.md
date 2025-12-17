@@ -5,14 +5,14 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 
 ## Keywords
 
-- intelligence
-- agency
-- practice
-- emergence
-- entropy
-- purposeful action
-- distributed systems
-- active participation
+- ethical AI
+- creative intelligence
+- community values
+- collaborative tools
+- information synthesis
+- agent design
+- knowledge management
+- value alignment
 
 ## Sources
 
