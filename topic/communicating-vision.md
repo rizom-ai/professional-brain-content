@@ -5,14 +5,14 @@ Effective advocacy for transformative ideas requires conveying not just conclusi
 
 ## Keywords
 
-- knowledge infrastructure
-- virtual coworker
-- information management
-- knowledge organization
-- onboarding
-- tacit knowledge
-- messaging integration
-- knowledge graph
+- intelligence
+- agency
+- practice
+- emergence
+- entropy
+- purposeful action
+- distributed systems
+- active participation
 
 ## Sources
 

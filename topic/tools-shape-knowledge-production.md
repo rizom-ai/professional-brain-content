@@ -5,14 +5,14 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 
 ## Keywords
 
-- decentralized systems
-- knowledge infrastructure
-- distributed ownership
-- algorithmic trust
+- decentralization
+- knowledge systems
+- ownership
+- distributed networks
 - open protocols
-- collective intelligence
-- autonomy
-- living systems
+- algorithmic trust
+- shared agency
+- ecosystem architecture
 
 ## Sources
 
