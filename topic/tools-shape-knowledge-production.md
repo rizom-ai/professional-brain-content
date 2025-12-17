@@ -5,14 +5,14 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 
 ## Keywords
 
-- knowledge infrastructure
-- virtual coworker
-- information management
-- team communication
-- knowledge organization
-- messaging integration
-- knowledge graph
-- tacit knowledge
+- organizational geometry
+- power distribution
+- organizational structure
+- hierarchy shape
+- decision architecture
+- organizational design
+- information flow
+- complexity management
 
 ## Sources
 
@@ -21,3 +21,4 @@ The post argues that humanities scholars fundamentally misunderstand the role of
 - Bots With An Attitude (bots-with-an-attitude) [deck]
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
 - Forgotten Futures (forgotten-futures) [deck]
+- Flat Geometries (flat-geometries) [post]

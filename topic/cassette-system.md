@@ -5,14 +5,14 @@ Cassettes are reusable, single-purpose functions that lower the barrier for comm
 
 ## Keywords
 
-- plugin architecture
 - modularity
 - extensibility
+- participatory design
+- feature development
+- reusable functions
 - community contribution
-- single-purpose functions
-- API design
-- democratization
-- low-barrier entry
+- lowered barriers
+- system integration
 
 ## Sources
 
