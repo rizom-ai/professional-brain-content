@@ -5,16 +5,15 @@ The piece identifies a systemic crisis where work has become disconnected from p
 
 ## Keywords
 
-- organizational failure
-- systemic misalignment
-- institutional obsolescence
-- work alienation
-- industrial frameworks
-- post-industrial mismatch
-- talent waste
-- burnout crisis
-- collective problems
-- systemic breakdown
+- medium theory
+- McLuhan
+- digital architecture
+- incentive structures
+- platform design
+- information flow
+- engagement metrics
+- content distribution
+- message transmission
 
 ## Sources
 
@@ -23,3 +22,4 @@ The piece identifies a systemic crisis where work has become disconnected from p
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
 - Across Space And Time (across-space-and-time) [post]
 - Practice Innovation (practice-innovation) [post]
+- False Media (false-media) [deck]

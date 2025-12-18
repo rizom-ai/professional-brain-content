@@ -5,15 +5,15 @@ Public Badges represents a practical solution for making trust measurable and co
 
 ## Keywords
 
-- knowledge infrastructure
 - knowledge systems
-- distributed collaboration
-- shared meaning
+- living systems
 - information architecture
-- organizational tools
-- async collaboration
-- context building
-- tool ecosystem
+- coherence optimization
+- dialogue-based meaning
+- reputation systems
+- infrastructure design
+- transparency
+- contextual knowledge
 - Rizom
 
 ## Sources
@@ -23,3 +23,4 @@ Public Badges represents a practical solution for making trust measurable and co
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
 - Ecosystem Architecture (ecosystem-architecture) [deck]
+- False Media (false-media) [deck]
