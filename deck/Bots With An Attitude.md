@@ -39,7 +39,7 @@ An army of evil bots that will render humanity obsolete
 
 ---
 
-### The Right Solution
+### The Right Solution 
 
 A network of creative, ethical, intelligent agents that allow us to easily automate laborious and complex tasks
 
@@ -130,13 +130,13 @@ A rule-based system of governance where each member of the community (bots and h
 
 ## Bot State Machine
 
-| State    | Description                                                  | Next States                |
-| -------- | ------------------------------------------------------------ | -------------------------- |
-| Acquire  | Get data from chat stream or external source                 | Clean, Acquire, Evaluate   |
-| Clean    | Remove irrelevant/sensitive data, translate to domain models | Acquire, Analyze, Evaluate |
-| Analyze  | Transform into recommendations and aggregations              | Evaluate, Present          |
-| Evaluate | Decide if data is ready or needs to reenter loop             | Present, Acquire           |
-| Present  | Show data in textual, visual, or other form                  | None                       |
+| State | Description | Next States |
+| ----- | ----------- | ----------- |
+| Acquire | Get data from chat stream or external source | Clean, Acquire, Evaluate |
+| Clean | Remove irrelevant/sensitive data, translate to domain models | Acquire, Analyze, Evaluate |
+| Analyze | Transform into recommendations and aggregations | Evaluate, Present |
+| Evaluate | Decide if data is ready or needs to reenter loop | Present, Acquire |
+| Present | Show data in textual, visual, or other form | None |
 
 ---
 
@@ -146,13 +146,13 @@ A rule-based system of governance where each member of the community (bots and h
 
 ### Tweet It Flow
 
-| State    | Action                                           | Next                        |
-| -------- | ------------------------------------------------ | --------------------------- |
-| Acquire  | Get user data for Rizom collaborators on Twitter | Clean                       |
-| Clean    | Tokenize tweets, reduce to three keywords        | Analyze                     |
-| Analyze  | Recommend relevant hashtags for next tweet       | Present                     |
-| Evaluate | Ask user if they will use the hashtags           | Yes → Present, No → Acquire |
-| Present  | Return tweet with hashtags to user               | None                        |
+| State | Action | Next |
+| ----- | ------ | ---- |
+| Acquire | Get user data for Rizom collaborators on Twitter | Clean |
+| Clean | Tokenize tweets, reduce to three keywords | Analyze |
+| Analyze | Recommend relevant hashtags for next tweet | Present |
+| Evaluate | Ask user if they will use the hashtags | Yes → Present, No → Acquire |
+| Present | Return tweet with hashtags to user | None |
 
 ---
 
@@ -162,11 +162,11 @@ A rule-based system of governance where each member of the community (bots and h
 
 ### The Cartographer Flow
 
-| State   | Action                                   | Next    |
-| ------- | ---------------------------------------- | ------- |
-| Acquire | Listen for links on chat stream          | Clean   |
-| Clean   | Remove invalid and internal links        | Acquire |
-| Acquire | Follow links and fetch data              | Clean   |
-| Clean   | Extract keywords, authors, metadata      | Analyze |
+| State | Action | Next |
+| ----- | ------ | ---- |
+| Acquire | Listen for links on chat stream | Clean |
+| Clean | Remove invalid and internal links | Acquire |
+| Acquire | Follow links and fetch data | Clean |
+| Clean | Extract keywords, authors, metadata | Analyze |
 | Analyze | Determine most relevant keywords/authors | Present |
-| Present | Visualize Rizom's online ecosystem       | None    |
+| Present | Visualize Rizom's online ecosystem | None |
