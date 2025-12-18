@@ -5,16 +5,15 @@ Online education represents a distinct mode of learning with unique opportunitie
 
 ## Keywords
 
-- higher education
-- pedagogy
-- coding education
-- instructional design
-- student engagement
-- institutional change
-- learning platforms
-- educational quality
-- technical education
-- transformation
+- internet fragmentation
+- foam
+- gongkai
+- network states
+- DAOs
+- decentralized governance
+- open-source
+- ecosystem diversity
+- distributed communities
 
 ## Sources
 
@@ -30,3 +29,4 @@ Online education represents a distinct mode of learning with unique opportunitie
 - Data Drive (data-drive) [post]
 - Global Village People (global-village-people) [post]
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
+- Ecosystem Architecture: Designing Multiple Inhabitable Futures (ecosystem-architecture-designing-multiple-inhabitable-futures) [deck]

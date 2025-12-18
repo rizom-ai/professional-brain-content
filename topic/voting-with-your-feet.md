@@ -5,15 +5,15 @@ The freedom to leave is a fundamental principle of healthy ecosystems, both in n
 
 ## Keywords
 
-- Align
-- Validate
-- Scale
-- Spin Out
-- vision type
-- vessel of transformation
-- minimum viable ecosystem
-- ecosystem development
-- stakeholder commitment
+- multiple futures
+- inhabitable
+- experimentation
+- adaptive learning
+- Afrofuturism
+- Shanzhai
+- radical imagination
+- creative remixing
+- community-centered design
 
 ## Sources
 
@@ -24,3 +24,4 @@ The freedom to leave is a fundamental principle of healthy ecosystems, both in n
 - Across Space And Time (across-space-and-time) [post]
 - Practice Innovation (practice-innovation) [post]
 - Learning From Nature (learning-from-nature) [post]
+- Ecosystem Architecture: Designing Multiple Inhabitable Futures (ecosystem-architecture-designing-multiple-inhabitable-futures) [deck]
