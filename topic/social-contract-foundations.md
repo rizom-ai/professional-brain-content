@@ -5,15 +5,16 @@ The article argues that institutional legitimacy is not derived from constitutio
 
 ## Keywords
 
-- Rizom
-- decentralized infrastructure
-- knowledge systems
-- distributed ownership
-- open protocols
-- algorithmic trust
-- collective intelligence
-- franchise model
-- living systems
+- decentralized organizations
+- distributed teams
+- remote work
+- async collaboration
+- organizational structure
+- DAOs
+- mesh networks
+- network structures
+- organizational change
+- distributed work
 
 ## Sources
 
@@ -33,3 +34,4 @@ The article argues that institutional legitimacy is not derived from constitutio
 - Global Village People (global-village-people) [post]
 - Forgotten Futures (forgotten-futures) [deck]
 - The Good Foot (the-good-foot) [post]
+- Ecosystem Architecture (ecosystem-architecture) [deck]

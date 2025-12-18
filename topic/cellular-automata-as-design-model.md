@@ -5,15 +5,18 @@ Cellular automata serve as a powerful conceptual model for understanding emergen
 
 ## Keywords
 
-- cellular automata
-- Conway's Game of Life
+- ecosystem architecture
+- organizational design
+- living systems
+- decentralization
 - emergence
-- deterministic rules
-- generative systems
-- complexity
-- generative art
-- rule-based evolution
+- adaptive systems
+- distributed structure
+- feedback loops
+- redundancy
+- organizational resilience
 
 ## Sources
 
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
+- Ecosystem Architecture (ecosystem-architecture) [deck]
