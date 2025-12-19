@@ -5,15 +5,14 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- data ownership
-- markdown files
-- portability
-- git integration
-- decentralization
-- data sovereignty
-- export flexibility
-- local storage
-- bidirectional sync
+- plugin architecture
+- modular design
+- composable systems
+- extensibility
+- knowledge system design
+- core services
+- customization
+- decoupling
 
 ## Sources
 
@@ -43,3 +42,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - Forgotten Futures (forgotten-futures) [deck]
 - About (README) [note]
+- Rizom Brains (rizom-brains) [project]

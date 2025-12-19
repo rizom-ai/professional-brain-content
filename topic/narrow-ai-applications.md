@@ -5,14 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- AI assistant
-- natural language interface
-- Claude
+- AI integration
 - semantic search
-- content creation
-- intelligent querying
-- AI enhancement
-- conversational interface
+- automated extraction
+- intelligent connections
+- Claude API
+- embeddings
+- content generation
+- knowledge intelligence
 
 ## Sources
 
@@ -24,3 +24,4 @@ The content presents a strategic case for building many specialized, single-purp
 - Learning Apart Together (learning-apart-together) [post]
 - Intelligence Unleashed (intelligence-unleashed) [post]
 - About (README) [note]
+- Rizom Brains (rizom-brains) [project]
