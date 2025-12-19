@@ -5,15 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- Align
-- Validate
-- Scale
-- Spin Out
-- vision type
-- vessel of transformation
-- minimum viable ecosystem
-- four phases
-- methodology
+- open-source framework
+- data portability
+- professional portfolio
+- local-first
+- AI interface
+- content publishing
+- intellectual property
+- infrastructure design
 
 ## Sources
 
@@ -30,3 +29,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
+- About (README) [note]

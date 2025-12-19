@@ -5,14 +5,15 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- human-in-the-loop
-- feedback loops
-- human-AI collaboration
-- user feedback
-- continuous learning
-- augmentation
-- decision-making
-- symbiotic systems
+- data ownership
+- markdown files
+- portability
+- git integration
+- decentralization
+- data sovereignty
+- export flexibility
+- local storage
+- bidirectional sync
 
 ## Sources
 
@@ -41,3 +42,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - Learning Apart Together (learning-apart-together) [post]
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - Forgotten Futures (forgotten-futures) [deck]
+- About (README) [note]

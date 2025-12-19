@@ -5,14 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- narrow AI
-- specialized systems
-- single-purpose
-- general AI
-- moonshots
-- automation
-- practical AI
-- task-specific
+- AI assistant
+- natural language interface
+- Claude
+- semantic search
+- content creation
+- intelligent querying
+- AI enhancement
+- conversational interface
 
 ## Sources
 
@@ -23,3 +23,4 @@ The content presents a strategic case for building many specialized, single-purp
 - The Low End Theory (the-low-end-theory) [post]
 - Learning Apart Together (learning-apart-together) [post]
 - Intelligence Unleashed (intelligence-unleashed) [post]
+- About (README) [note]
