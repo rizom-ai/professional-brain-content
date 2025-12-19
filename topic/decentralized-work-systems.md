@@ -5,14 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- open-source framework
-- data portability
-- professional portfolio
-- local-first
-- AI interface
-- content publishing
-- intellectual property
-- infrastructure design
+- decentralized organizations
+- organizational autonomy
+- distributed teams
+- coordination models
+- federation
+- self-hosted infrastructure
+- asynchronous work
+- collective governance
 
 ## Sources
 
@@ -30,3 +30,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - Bots With An Attitude (bots-with-an-attitude) [deck]
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
 - About (README) [note]
+- Rizom Collective (rizom-collective) [project]

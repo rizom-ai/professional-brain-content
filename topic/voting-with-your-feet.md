@@ -6,13 +6,12 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 ## Keywords
 
 - ecosystem architecture
-- bottom-up emergence
-- sieve-order
-- de Certeau
-- decentralized design
 - living systems
-- intentional communities
-- distributed agency
+- open source
+- organizational design
+- sustainable economics
+- replicable model
+- adaptive systems
 
 ## Sources
 
@@ -27,3 +26,4 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 - Practice Innovation (practice-innovation) [post]
 - The Future of Work is Play (the-future-of-work-is-play) [post]
 - Learning From Nature (learning-from-nature) [post]
+- Rizom Collective (rizom-collective) [project]

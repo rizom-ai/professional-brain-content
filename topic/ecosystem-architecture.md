@@ -5,14 +5,14 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- plugin architecture
-- modular design
-- composable systems
-- extensibility
-- knowledge system design
-- core services
-- customization
-- decoupling
+- cooperative economics
+- open source sustainability
+- collective ownership
+- decentralized revenue
+- platform independence
+- value creation
+- sustainable models
+- community-driven development
 
 ## Sources
 
@@ -43,3 +43,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - Forgotten Futures (forgotten-futures) [deck]
 - About (README) [note]
 - Rizom Brains (rizom-brains) [project]
+- Rizom Collective (rizom-collective) [project]
