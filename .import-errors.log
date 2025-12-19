@@ -236,11 +236,9 @@
 2025-12-15T15:11:13.406Z - [RECOVERED] deck/Bots With An Attitude.md
 2025-12-15T15:11:13.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
 2025-12-15T15:11:13.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
-2025-12-19T14:09:42.050Z - project/rizom-collective.md: Entity type registration failed for project: No adapter registered for entity type
-→ project/rizom-collective.md.invalid
+2025-12-19T16:53:10.707Z - [RECOVERED] project/rizom-collective.md
 
-2025-12-19T14:09:42.050Z - project/rizom-brains.md: Entity type registration failed for project: No adapter registered for entity type
-→ project/rizom-brains.md.invalid
+2025-12-19T16:53:10.711Z - [RECOVERED] project/rizom-brains.md
 
 2025-12-19T14:09:42.051Z - note/README.md: Entity type registration failed for note: No adapter registered for entity type
 → note/README.md.invalid
