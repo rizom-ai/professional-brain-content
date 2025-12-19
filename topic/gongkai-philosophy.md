@@ -5,16 +5,18 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 
 ## Keywords
 
-- craftsmanship
-- tool selection
-- professional practice
-- developer culture
-- deliberation
-- customization
-- community dialogue
-- practice-driven
+- gongkai
+- open hardware
+- intellectual property
+- knowledge sharing
+- blueprints
+- collaborative innovation
+- network IP
+- hardware hacking
+- open design
 
 ## Sources
 
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
+- The Low End Theory (the-low-end-theory) [post]

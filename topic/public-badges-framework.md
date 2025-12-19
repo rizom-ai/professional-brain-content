@@ -5,15 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- electronic waste
-- environmental impact
-- sustainability
-- carbon footprint
-- e-waste management
-- pollution
-- resource depletion
-- eco-innovation
-- manufacturing practices
+- voting with feet
+- exit rights
+- ecosystem design
+- freedom to leave
+- migration
+- decentralization
+- community choice
+- multiplicity
 
 ## Sources
 
@@ -23,3 +22,7 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - Learning Apart Together (learning-apart-together) [post]
 - Practice Innovation (practice-innovation) [post]
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
+- Data Drive (data-drive) [post]
+- Global Village People (global-village-people) [post]
+- Agency Trumps Humanness (agency-trumps-humanness) [post]
+- The Good Foot (the-good-foot) [post]

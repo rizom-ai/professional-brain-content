@@ -5,14 +5,15 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- surveillance capitalism
-- behavioral data
-- data exploitation
-- corporate control
-- digital extraction
-- behavioral prediction
-- online access
-- Shoshana Zuboff
+- Align
+- Validate
+- Scale
+- Spin Out
+- vision type
+- vessel of transformation
+- minimum viable ecosystem
+- four phases
+- methodology
 
 ## Sources
 
@@ -25,3 +26,7 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - Reclaiming The Future (reclaiming-the-future) [post]
 - Forgotten Futures (forgotten-futures) [deck]
 - Urging New Institutions (urging-new-institutions) [post]
+- Practice Innovation (practice-innovation) [post]
+- When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
+- Bots With An Attitude (bots-with-an-attitude) [deck]
+- The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]

@@ -5,13 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- ethical AI
-- creative intelligence
-- collaborative agents
-- community values
-- information synthesis
-- AI design framework
-- human-AI collaboration
+- narrow AI
+- specialized systems
+- single-purpose
+- general AI
+- moonshots
+- automation
+- practical AI
+- task-specific
 
 ## Sources
 

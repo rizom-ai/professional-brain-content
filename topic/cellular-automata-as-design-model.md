@@ -5,13 +5,14 @@ Cellular automata serve as a powerful model for understanding emergent ecosystem
 
 ## Keywords
 
-- ecosystem architecture
-- decentralized design
-- living systems
-- pragmatic philosophy
-- community needs
-- distributed solutions
-- organizational design
+- cellular automata
+- Conway's Game of Life
+- emergent complexity
+- rule-based systems
+- generative art
+- deterministic rules
+- ethical rules
+- system values
 
 ## Sources
 

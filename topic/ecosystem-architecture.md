@@ -5,13 +5,14 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- community design
-- distributed teams
-- asynchronous collaboration
-- knowledge infrastructure
-- tool customization
-- community values
-- participatory design
+- human-in-the-loop
+- feedback loops
+- human-AI collaboration
+- user feedback
+- continuous learning
+- augmentation
+- decision-making
+- symbiotic systems
 
 ## Sources
 
@@ -38,3 +39,5 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - Agency Trumps Humanness (agency-trumps-humanness) [post]
 - Fundamentals of Trust (fundamentals-of-trust) [post]
 - Learning Apart Together (learning-apart-together) [post]
+- Shenzhen Goes Ham (shenzhen-goes-ham) [post]
+- Forgotten Futures (forgotten-futures) [deck]

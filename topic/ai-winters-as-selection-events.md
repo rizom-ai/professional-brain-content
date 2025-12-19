@@ -7,13 +7,13 @@ AI winters are reframed not as failures but as evolutionary moments that selecte
 
 - AI winters
 - selection events
-- rule-based systems
-- statistical scaling
 - emergence
-- control mechanisms
-- evolutionary pressure
-- historical constraints
+- control
+- centralization
+- learning systems
+- design trajectory
 
 ## Sources
 
 - Forgotten Futures (forgotten-futures) [deck]
+- Reclaiming The Future (reclaiming-the-future) [post]

@@ -5,14 +5,16 @@ Cassettes are reusable, single-purpose functions designed to lower the barrier t
 
 ## Keywords
 
-- state machine
-- bot architecture
-- data pipeline
-- workflow design
-- iterative processing
-- system design
-- agent behavior
+- modularity
+- extensibility
+- reusable functions
+- single-purpose design
+- community contribution
+- feature integration
+- distributed agency
+- low-barrier entry
 
 ## Sources
 
 - Bots With An Attitude (bots-with-an-attitude) [deck]
+- Agency Trumps Humanness (agency-trumps-humanness) [post]
