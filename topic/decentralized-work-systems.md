@@ -5,14 +5,13 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralized organizations
-- organizational autonomy
-- distributed teams
-- coordination models
-- federation
-- self-hosted infrastructure
-- asynchronous work
-- collective governance
+- organizational design
+- modular participation
+- autonomous collaboration
+- sustainable economics
+- living systems
+- alternative employment
+- collective ownership
 
 ## Sources
 

@@ -5,15 +5,14 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- automated feedback
-- unit testing
-- learning systems
-- real-time assessment
-- educational automation
-- coding education
-- self-paced learning
-- scalability
-- intelligent tutoring
+- gamification
+- networking events
+- startup ecosystem
+- connection matching
+- competitive bidding
+- event design
+- breakthrough moments
+- community building
 
 ## Sources
 
@@ -25,3 +24,4 @@ Online education represents a fundamentally different mode of learning, not mere
 - Fundamentals of Trust (fundamentals-of-trust) [post]
 - Intelligence Unleashed (intelligence-unleashed) [post]
 - Data Drive (data-drive) [post]
+- superconnectors-io-d52d28 (superconnectors-io-d52d28) [link]

@@ -5,14 +5,13 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- AI integration
-- semantic search
-- automated extraction
-- intelligent connections
-- Claude API
-- embeddings
-- content generation
-- knowledge intelligence
+- problem-centric
+- critical asks
+- need-matching
+- introduction quality
+- network effects
+- breakthrough connections
+- value creation
 
 ## Sources
 
@@ -25,3 +24,4 @@ The content presents a strategic case for building many specialized, single-purp
 - Intelligence Unleashed (intelligence-unleashed) [post]
 - About (README) [note]
 - Rizom Brains (rizom-brains) [project]
+- superconnectors-io-d52d28 (superconnectors-io-d52d28) [link]

@@ -11,8 +11,7 @@ Rizom Brains treats plain markdown files with YAML frontmatter as the single sou
 - portability
 - version control
 - plain text
-- tool-agnostic
-- data independence
+- content storage
 
 ## Sources
 
