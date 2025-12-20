@@ -6,7 +6,7 @@ description: >-
   An AI platform that automates organizational friction points—onboarding,
   message synchronization, and knowledge management—while preserving human
   agency and decision-making.
-year: 2024
+year: 2020
 ---
 ## Context
 
