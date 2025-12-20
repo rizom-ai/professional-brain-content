@@ -5,13 +5,16 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- plugin architecture
-- modular design
-- extensibility
-- composable systems
-- customization
-- core services
-- functional separation
+- cellular automata
+- emergence
+- simple rules
+- Conway's Game of Life
+- deterministic systems
+- complex behavior
+- rule-based ethics
+- generative creativity
+- self-defined constraints
+- unpredictable patterns
 
 ## Sources
 

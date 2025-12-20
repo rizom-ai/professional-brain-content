@@ -1,6 +1,6 @@
 ---
-title: 'Offcourse Studio: Creative Technology for Knowledge Infrastructure'
-slug: offcourse-studio-creative-technology-for-knowledge-infrastructure
+title: Offcourse Studio
+slug: offcourse-studio
 status: draft
 description: >-
   A creative technology practice designing ethical AI systems and custom tools

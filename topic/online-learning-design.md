@@ -5,14 +5,14 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- gamification
-- networking events
-- startup ecosystem
-- connection matching
-- competitive bidding
-- event design
-- breakthrough moments
-- community building
+- distributed communities
+- collaborative systems
+- asynchronous communication
+- shared knowledge space
+- community governance
+- tool infrastructure
+- knowledge preservation
+- team coordination
 
 ## Sources
 
@@ -25,3 +25,6 @@ Online education represents a fundamentally different mode of learning, not mere
 - Intelligence Unleashed (intelligence-unleashed) [post]
 - Data Drive (data-drive) [post]
 - superconnectors-io-d52d28 (superconnectors-io-d52d28) [link]
+- Reclaiming The Future (reclaiming-the-future) [post]
+- Foam Party (foam-party) [post]
+- Bots With An Attitude (bots-with-an-attitude) [deck]

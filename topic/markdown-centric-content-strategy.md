@@ -6,13 +6,14 @@ Rizom Brains treats plain markdown files with YAML frontmatter as the single sou
 ## Keywords
 
 - markdown
+- plain text
 - YAML frontmatter
 - source of truth
-- portability
 - version control
-- plain text
+- portability
 - content storage
 
 ## Sources
 
 - Rizom Brains (rizom-brains) [project]
+- Forgotten Futures (forgotten-futures) [deck]

@@ -5,14 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- voting with feet
-- exit rights
-- ecosystem design
-- freedom to leave
-- migration
-- decentralization
-- community choice
-- multiplicity
+- knowledge management
+- information organization
+- virtual coworker
+- knowledge extraction
+- team collaboration
+- data integration
+- knowledge systems
 
 ## Sources
 
@@ -26,3 +25,10 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - Global Village People (global-village-people) [post]
 - Agency Trumps Humanness (agency-trumps-humanness) [post]
 - The Good Foot (the-good-foot) [post]
+- Reclaiming The Future (reclaiming-the-future) [post]
+- The Future of Work is Play (the-future-of-work-is-play) [post]
+- When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
+- Rizom Collective (rizom-collective) [project]
+- Rizom Brains (rizom-brains) [project]
+- About (README) [note]
+- Becoming Narrow Minded (becoming-narrow-minded) [deck]

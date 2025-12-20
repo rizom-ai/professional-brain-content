@@ -5,13 +5,15 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- organizational design
-- modular participation
-- autonomous collaboration
-- sustainable economics
-- living systems
-- alternative employment
-- collective ownership
+- decentralized
+- knowledge infrastructure
+- ownership
+- open protocols
+- collective intelligence
+- algorithmic trust
+- distributed systems
+- knowledge brains
+- agency
 
 ## Sources
 
@@ -30,3 +32,5 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
 - About (README) [note]
 - Rizom Collective (rizom-collective) [project]
+- Across Space And Time (across-space-and-time) [post]
+- Rizom Brains (rizom-brains) [project]

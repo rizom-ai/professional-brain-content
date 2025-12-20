@@ -5,15 +5,14 @@ Peter Sloterdijk's foam concept offers a reframing of internet fragmentation fro
 
 ## Keywords
 
-- internet fragmentation
-- digital ecosystems
-- geopolitical internet
-- regional networks
-- internet governance
-- data sovereignty
-- infrastructure interoperability
-- global connectivity
-- internet diversity
+- Sloterdijk
+- foam metaphor
+- multiplicity
+- fragmentation
+- universality
+- complexity
+- spheres trilogy
+- affirmative philosophy
 
 ## Sources
 

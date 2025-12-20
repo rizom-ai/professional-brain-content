@@ -5,13 +5,13 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- problem-centric
-- critical asks
-- need-matching
-- introduction quality
-- network effects
-- breakthrough connections
-- value creation
+- human-in-the-loop
+- collaborative AI
+- feedback loops
+- user feedback
+- AI oversight
+- human-AI collaboration
+- iterative improvement
 
 ## Sources
 
@@ -25,3 +25,4 @@ The content presents a strategic case for building many specialized, single-purp
 - About (README) [note]
 - Rizom Brains (rizom-brains) [project]
 - superconnectors-io-d52d28 (superconnectors-io-d52d28) [link]
+- Data Drive (data-drive) [post]

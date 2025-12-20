@@ -6,16 +6,18 @@ The rapid innovation cycle inherent to the shanzhai model generates significant 
 ## Keywords
 
 - Garb-Age
-- Borawake
 - waste
+- Borawake
 - nature
 - culture
+- purity
 - authenticity
+- garbage
 - fragmentation
-- artistic practice
-- consumption
+- landscape
 
 ## Sources
 
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - Economy Of Garbage (economy-of-garbage) [post]
+- The Low End Theory (the-low-end-theory) [post]
