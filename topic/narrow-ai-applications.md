@@ -5,14 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- Brains framework
-- open-source
-- knowledge platform
-- markdown storage
-- Preact
-- Claude AI
-- database sync
-- architecture
+- human-in-the-loop
+- AI feedback loops
+- user feedback
+- collaborative AI
+- human oversight
+- AI transparency
+- iterative design
+- continuous learning
 
 ## Sources
 

@@ -5,13 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- plugin architecture
-- composable systems
-- modular design
-- extensibility
-- core services
-- customization
-- functional separation
+- knowledge infrastructure
+- information management
+- virtual coworker
+- knowledge organization
+- team collaboration
+- knowledge graph
+- information synthesis
+- tacit knowledge
 
 ## Sources
 

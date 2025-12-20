@@ -5,13 +5,13 @@ Cassettes are reusable, single-purpose functions designed to lower the barrier t
 
 ## Keywords
 
-- state machine
-- bot architecture
-- workflow automation
-- iterative processing
-- system design
-- modular agents
-- cassettes
+- modular functions
+- community contribution
+- extensibility
+- plugin architecture
+- distributed development
+- low barrier entry
+- reusable components
 
 ## Sources
 

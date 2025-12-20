@@ -5,14 +5,13 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- cooperative economics
-- sustainable revenue
-- collective ownership
-- platform independence
-- distributed work
-- open-source sustainability
-- service-based revenue
-- shared infrastructure
+- low-hanging fruit
+- pragmatic solutions
+- everyday problems
+- simplicity
+- incremental improvement
+- humble design
+- practical impact
 
 ## Sources
 

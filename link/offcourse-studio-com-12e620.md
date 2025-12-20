@@ -1,23 +1,21 @@
 ---
 status: draft
-title: Offcourse Studio - Creative Technology & Knowledge Infrastructure
+title: Offcourse Studio - Creative Technology & Ethical AI Design
 url: 'https://offcourse-studio.com/'
 description: >-
-  Offcourse Studio develops ethical, creative AI and technology solutions that
-  help organizations strengthen their knowledge infrastructure and work more
-  effectively.
+  Offcourse Studio is a creative technology practice that designs ethical AI
+  systems and custom tools to help organizations strengthen their knowledge
+  infrastructure and work more effectively.
 keywords:
-  - knowledge infrastructure
   - ethical AI
+  - knowledge infrastructure
   - creative technology
-  - organizational design
-  - digital tools
+  - ecosystem design
+  - personalized learning
 domain: offcourse-studio.com
-capturedAt: '2025-12-20T08:33:08.723Z'
+capturedAt: '2025-12-20T15:13:47.830Z'
 source:
   ref: 'matrix:!l_3eKYM44a8VGmfYkWaE96VxhvS6FzcRygKQ5SgeVDw'
-  label: '!l_3eKYM44a8VGmfYkWaE96VxhvS6FzcRygKQ5SgeVDw'
+  label: yeehaa-brain-local-test
 ---
-Offcourse Studio is a creative technology practice founded by Jan Hein Hoogstad that designs and implements intelligent tools and systems for organizations. The studio works through a three-phase methodology: mapping existing data and knowledge ecosystems, strategizing infrastructure improvements, and intervening with custom tools like personalized AI assistants and ethical certification systems. Their work spans projects like "Bots with an Attitude" (AI assistants for artistic researchers) and "Public Badges" (an ethical values certification system for internet products), demonstrating their commitment to making technology that is creative, ethical, and genuinely useful.
-
-Jan Hein brings a unique background combining philosophy, media studies, software architecture, and international experience across multiple continents. His approach treats technology not as a replacement for human effort, but as a creative partner that helps organizations focus on critical challenges rather than routine tasks.
+Offcourse Studio works with organizations to develop technology that genuinely serves their needs through a three-step process: mapping existing data and knowledge ecosystems, strategizing infrastructure improvements, and intervening with custom tools and services. Founded by Jan Hein Hoogstad, a philosopher and software architect, the studio specializes in creating personalized learning systems, AI-powered bots with personality, data validation systems, and other solutions that blend creative potential with ethical considerations. Their approach treats technology as an additional dimension that can visualize multiple outcomes and possibilities, drawing on diverse expertise across education, cultural institutions, and international networks.
