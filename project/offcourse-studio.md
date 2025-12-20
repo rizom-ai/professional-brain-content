@@ -6,7 +6,7 @@ description: >-
   A creative technology practice designing ethical AI systems and custom tools
   that help organizations strengthen their knowledge infrastructure and work
   more effectively.
-year: 2024
+year: 2019
 ---
 ## Context
 
