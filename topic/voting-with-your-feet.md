@@ -5,17 +5,16 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
-- Align phase
-- Validate phase
-- Scale phase
-- Spin Out
-- vision type
-- vessel of transformation
-- minimum viable ecosystem
-- stakeholder commitment
-- iterative development
-- self-governance
-- community leadership
+- ecosystem architecture
+- digital systems
+- fragmentation
+- diversity
+- resilience
+- interconnected systems
+- decentralized design
+- adaptive networks
+- local innovation
+- mutual growth
 
 ## Sources
 
@@ -33,3 +32,4 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 - Rizom Collective (rizom-collective) [project]
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - Economy Of Garbage (economy-of-garbage) [post]
+- Forgotten Futures (forgotten-futures) [deck]

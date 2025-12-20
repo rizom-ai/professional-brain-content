@@ -6,15 +6,13 @@ The rapid innovation cycle inherent to the shanzhai model generates significant 
 ## Keywords
 
 - Garb-Age
-- waste
-- Borawake
-- nature
-- culture
-- purity
-- authenticity
-- garbage
+- waste as art
+- cultural practice
+- nature and culture
+- purity critique
+- artistic inquiry
 - fragmentation
-- landscape
+- abundance perspective
 
 ## Sources
 

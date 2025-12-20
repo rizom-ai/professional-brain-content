@@ -7,12 +7,13 @@ Peter Sloterdijk's foam concept offers a reframing of internet fragmentation fro
 
 - Sloterdijk
 - foam metaphor
-- multiplicity
 - fragmentation
+- multiplicity
 - universality
 - complexity
-- spheres trilogy
 - affirmative philosophy
+- digital ecosystems
+- topology
 
 ## Sources
 

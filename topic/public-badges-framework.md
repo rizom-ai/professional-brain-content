@@ -5,13 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- knowledge management
-- information organization
-- virtual coworker
-- knowledge extraction
-- team collaboration
-- data integration
-- knowledge systems
+- plugin architecture
+- composable systems
+- modular design
+- extensibility
+- core services
+- customization
+- functional separation
 
 ## Sources
 
@@ -32,3 +32,6 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - Rizom Brains (rizom-brains) [project]
 - About (README) [note]
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
+- The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
+- Across Space And Time (across-space-and-time) [post]
+- The Low End Theory (the-low-end-theory) [post]

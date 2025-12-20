@@ -5,13 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- human-in-the-loop
-- collaborative AI
-- feedback loops
-- user feedback
-- AI oversight
-- human-AI collaboration
-- iterative improvement
+- Brains framework
+- open-source
+- knowledge platform
+- markdown storage
+- Preact
+- Claude AI
+- database sync
+- architecture
 
 ## Sources
 
@@ -26,3 +27,4 @@ The content presents a strategic case for building many specialized, single-purp
 - Rizom Brains (rizom-brains) [project]
 - superconnectors-io-d52d28 (superconnectors-io-d52d28) [link]
 - Data Drive (data-drive) [post]
+- Agency Trumps Humanness (agency-trumps-humanness) [post]

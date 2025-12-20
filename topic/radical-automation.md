@@ -5,16 +5,20 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- AI integration
-- semantic search
-- embeddings
-- topic extraction
-- content generation
-- intelligent connections
-- Claude API
+- data ownership
+- plain text
+- portability
+- vendor lock-in
+- export
+- backup
+- user control
+- decentralization
 
 ## Sources
 
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
 - Data Drive (data-drive) [post]
 - Rizom Brains (rizom-brains) [project]
+- When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
+- Rizom Collective (rizom-collective) [project]
+- About (README) [note]

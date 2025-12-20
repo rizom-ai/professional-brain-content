@@ -5,16 +5,14 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- cellular automata
-- emergence
-- simple rules
-- Conway's Game of Life
-- deterministic systems
-- complex behavior
-- rule-based ethics
-- generative creativity
-- self-defined constraints
-- unpredictable patterns
+- cooperative economics
+- sustainable revenue
+- collective ownership
+- platform independence
+- distributed work
+- open-source sustainability
+- service-based revenue
+- shared infrastructure
 
 ## Sources
 

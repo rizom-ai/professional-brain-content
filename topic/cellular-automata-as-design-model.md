@@ -5,14 +5,14 @@ Cellular automata serve as a powerful model for understanding emergent ecosystem
 
 ## Keywords
 
-- filter bubbles
-- echo chambers
-- algorithms
-- community
-- shared values
-- entrapment
-- solipsism
-- digital ecosystems
+- cellular automata
+- Conway's Game of Life
+- emergent complexity
+- deterministic rules
+- generative systems
+- complex behavior
+- rule-based design
+- emergence
 
 ## Sources
 

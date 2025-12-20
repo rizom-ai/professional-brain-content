@@ -7,12 +7,12 @@ AI winters are reframed not as failures but as evolutionary moments that selecte
 
 - AI winters
 - selection events
-- rule-based systems
-- statistical scaling
 - emergence
 - control
-- path dependency
-- technical choices
+- rule-based systems
+- statistical scaling
+- historical choices
+- technological path
 
 ## Sources
 

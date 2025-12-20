@@ -5,14 +5,16 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- distributed communities
-- collaborative systems
-- asynchronous communication
-- shared knowledge space
-- community governance
-- tool infrastructure
-- knowledge preservation
-- team coordination
+- tribalism
+- echo chambers
+- filter bubbles
+- polarization
+- digital communities
+- cultural division
+- online identity
+- algorithmic reinforcement
+- McLuhan
+- global village
 
 ## Sources
 
