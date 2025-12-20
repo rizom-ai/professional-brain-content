@@ -106,12 +106,12 @@ on moonshots. We take the opposite approach—deliberately tackling the 90% firs
 
 ### AI Stack
 
-| Layer | Technology |
-| ----- | ---------- |
-| NLP | spaCy, Compromise |
-| Classification | TensorFlow.js |
-| Rules | Custom rule engines |
-| Integration | Slack, Microsoft Teams |
+| Layer          | Technology             |
+| -------------- | ---------------------- |
+| NLP            | spaCy, Compromise      |
+| Classification | TensorFlow.js          |
+| Rules          | Custom rule engines    |
+| Integration    | Slack, Microsoft Teams |
 
 ---
 

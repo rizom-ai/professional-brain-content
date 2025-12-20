@@ -38,6 +38,7 @@ I call this practice ecosystem architecture: designing and cultivating organizat
 ## Current Focus
 
 Rizom: knowledge infrastructure for organizations that work like living systems. Looking for collaborators who want to build with me.
+
 ## Availability
 
 Open to speaking engagements, consulting on ecosystem design and knowledge architecture, and collaborations on projects exploring the future of distributed organizations.
