@@ -5,13 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- knowledge management
-- information organization
+- knowledge infrastructure
+- information management
 - virtual coworker
-- knowledge extraction
+- knowledge organization
 - team collaboration
-- data integration
-- knowledge systems
+- knowledge graph
+- information synthesis
+- tacit knowledge
 
 ## Sources
 

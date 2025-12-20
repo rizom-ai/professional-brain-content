@@ -6,12 +6,13 @@ The content presents a strategic case for building many specialized, single-purp
 ## Keywords
 
 - human-in-the-loop
-- collaborative AI
-- feedback loops
+- AI feedback loops
 - user feedback
-- AI oversight
-- human-AI collaboration
-- iterative improvement
+- collaborative AI
+- human oversight
+- AI transparency
+- iterative design
+- continuous learning
 
 ## Sources
 
