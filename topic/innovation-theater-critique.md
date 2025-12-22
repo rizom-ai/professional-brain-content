@@ -5,13 +5,13 @@ The essay critiques how the moonshot narrative has been commodified and imitated
 
 ## Keywords
 
+- copycat innovation
+- marketing rhetoric
+- venture capital hype
+- Shenzhen culture
+- false promises
 - innovation theater
-- counterfeit solutions
-- marketing narrative
-- venture capital culture
-- problem-solving theater
-- fashion-driven problems
-- ego-driven innovation
+- entrepreneurial culture
 
 ## Sources
 

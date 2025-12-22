@@ -5,14 +5,14 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- data ownership
-- plain text
-- portability
-- vendor lock-in
-- export
-- backup
-- user control
-- decentralization
+- knowledge management
+- information overload
+- onboarding automation
+- content extraction
+- knowledge gaps
+- NLP
+- message synchronization
+- tacit knowledge
 
 ## Sources
 
@@ -22,3 +22,4 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
 - Rizom Collective (rizom-collective) [project]
 - About (README) [note]
+- Bots With An Attitude (bots-with-an-attitude) [deck]
