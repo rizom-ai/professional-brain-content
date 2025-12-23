@@ -5,13 +5,16 @@ Cassettes are reusable, single-purpose functions designed to lower the barrier t
 
 ## Keywords
 
-- modular functions
-- community contribution
-- extensibility
-- plugin architecture
-- distributed development
-- low barrier entry
-- reusable components
+- state machine
+- bot architecture
+- workflow design
+- acquire
+- clean
+- analyze
+- evaluate
+- present
+- feedback loops
+- iterative processing
 
 ## Sources
 

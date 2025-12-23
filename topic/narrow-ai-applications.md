@@ -5,14 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
+- narrow AI
+- specialized systems
+- single-purpose AI
+- pragmatic AI
+- task-specific automation
+- AI stack
 - human-in-the-loop
-- AI feedback loops
-- user feedback
-- collaborative AI
-- human oversight
-- AI transparency
-- iterative design
-- continuous learning
+- AI moonshots
 
 ## Sources
 

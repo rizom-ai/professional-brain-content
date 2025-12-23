@@ -5,14 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralized infrastructure
-- organizational autonomy
-- distributed teams
-- Matrix protocol
-- self-hosted communication
-- federation
-- coordination without hierarchy
-- asynchronous collaboration
+- knowledge infrastructure
+- virtual coworker
+- organizational tools
+- team collaboration
+- message moderation
+- tool integration
+- distributed work
+- collective intelligence
 
 ## Sources
 
@@ -34,3 +34,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - Across Space And Time (across-space-and-time) [post]
 - Rizom Brains (rizom-brains) [project]
 - Global Village People (global-village-people) [post]
+- Becoming Narrow Minded (becoming-narrow-minded) [deck]
