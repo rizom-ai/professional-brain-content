@@ -5,13 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- public badges
-- verification mechanism
-- organizational values
-- transparency
-- credibility markers
-- evidence communication
-- accountability systems
+- misinformation
+- information integrity
+- systemic design
+- verification mechanisms
+- false media
+- information asymmetry
+- decentralized trust
+- narrative control
 
 ## Sources
 
