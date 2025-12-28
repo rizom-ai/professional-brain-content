@@ -6,15 +6,15 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 ## Keywords
 
 - ecosystem architecture
-- digital systems
-- fragmentation
-- diversity
-- resilience
-- interconnected systems
-- decentralized design
-- adaptive networks
-- local innovation
-- mutual growth
+- decentralized systems
+- regenerative design
+- organizational design
+- living systems
+- community building
+- knowledge systems
+- adaptive organizations
+- distributed organizations
+- systemic thinking
 
 ## Sources
 
@@ -33,3 +33,4 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
 - Economy Of Garbage (economy-of-garbage) [post]
 - Forgotten Futures (forgotten-futures) [deck]
+- series-ecosystem-architecture (ecosystem-architecture) [series]

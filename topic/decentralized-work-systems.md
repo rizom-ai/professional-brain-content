@@ -5,14 +5,16 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- knowledge infrastructure
-- virtual coworker
-- organizational tools
-- team collaboration
-- message moderation
-- tool integration
-- distributed work
+- decentralized organizations
+- DAOs
+- distributed authority
+- peer-to-peer
+- mesh networks
+- organizational models
 - collective intelligence
+- participatory structures
+- network coordination
+- autonomous systems
 
 ## Sources
 
@@ -35,3 +37,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - Rizom Brains (rizom-brains) [project]
 - Global Village People (global-village-people) [post]
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
+- series-ecosystem-architecture (ecosystem-architecture) [series]

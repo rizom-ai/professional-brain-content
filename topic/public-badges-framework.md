@@ -5,13 +5,16 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- low-hanging fruit
-- pragmatic design
-- simplicity
-- everyday problems
-- user needs
-- incremental improvement
-- organizational friction
+- misinformation
+- information systems
+- institutional design
+- media infrastructure
+- system redesign
+- information validation
+- ecosystem architecture
+- platform incentives
+- trust infrastructure
+- false media
 
 ## Sources
 
@@ -35,3 +38,5 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
 - Across Space And Time (across-space-and-time) [post]
 - The Low End Theory (the-low-end-theory) [post]
+- series-new-institutions (new-institutions) [series]
+- series-public-badges (public-badges) [series]

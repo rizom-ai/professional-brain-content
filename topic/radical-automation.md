@@ -5,14 +5,16 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- knowledge management
-- information overload
-- onboarding automation
-- content extraction
-- knowledge gaps
-- NLP
-- message synchronization
-- tacit knowledge
+- knowledge infrastructure
+- knowledge systems
+- information architecture
+- Rizom
+- knowledge sharing
+- organizational learning
+- information management
+- knowledge platforms
+- collaborative systems
+- data architecture
 
 ## Sources
 
@@ -23,3 +25,4 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 - Rizom Collective (rizom-collective) [project]
 - About (README) [note]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
+- series-ecosystem-architecture (ecosystem-architecture) [series]
