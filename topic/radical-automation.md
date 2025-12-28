@@ -5,16 +5,16 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- knowledge infrastructure
 - knowledge systems
 - information architecture
-- Rizom
-- knowledge sharing
 - organizational learning
-- information management
-- knowledge platforms
-- collaborative systems
-- data architecture
+- distributed knowledge
+- content management
+- knowledge sharing
+- collaborative platforms
+- information discovery
+- learning infrastructure
+- knowledge curation
 
 ## Sources
 
@@ -26,3 +26,4 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 - About (README) [note]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
 - series-ecosystem-architecture (ecosystem-architecture) [series]
+- series-new-institutions (new-institutions) [series]

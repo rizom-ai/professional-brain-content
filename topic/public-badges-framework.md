@@ -5,16 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- misinformation
-- information systems
-- institutional design
-- media infrastructure
-- system redesign
-- information validation
-- ecosystem architecture
-- platform incentives
-- trust infrastructure
-- false media
+- organizational values
+- value communication
+- stakeholder alignment
+- principle-driven design
+- transparency
+- commitment signaling
+- community trust
 
 ## Sources
 
