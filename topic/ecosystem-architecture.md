@@ -5,14 +5,17 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
+- community building
 - community design
-- social cohesion
-- distributed communities
-- trust building
-- participatory governance
-- community resilience
 - organizational culture
-- collective learning
+- participation
+- belonging
+- collective purpose
+- community thriving
+- social dynamics
+- community spaces
+- community engagement
+- cultural design
 
 ## Sources
 
