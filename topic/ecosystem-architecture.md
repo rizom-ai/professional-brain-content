@@ -6,15 +6,13 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 ## Keywords
 
 - community design
-- group dynamics
-- shared purpose
-- collective learning
 - social cohesion
-- participatory culture
+- distributed communities
 - trust building
+- participatory governance
 - community resilience
-- belonging
-- emergent collaboration
+- organizational culture
+- collective learning
 
 ## Sources
 
@@ -47,3 +45,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - Rizom Brains (rizom-brains) [project]
 - Rizom Collective (rizom-collective) [project]
 - series-ecosystem-architecture (ecosystem-architecture) [series]
+- series-new-institutions (new-institutions) [series]

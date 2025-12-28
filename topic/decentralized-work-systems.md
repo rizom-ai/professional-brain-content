@@ -5,16 +5,16 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralized organizations
+- decentralization
 - DAOs
 - distributed authority
-- peer-to-peer
 - mesh networks
-- organizational models
-- collective intelligence
-- participatory structures
-- network coordination
-- autonomous systems
+- organizational autonomy
+- distributed decision-making
+- network governance
+- peer coordination
+- organizational resilience
+- non-hierarchical structures
 
 ## Sources
 
