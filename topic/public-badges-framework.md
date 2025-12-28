@@ -5,14 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
+- public badges
+- verification mechanism
 - organizational values
-- behavior-driven development
-- practice alignment
-- cultural coherence
-- ecosystem design
-- value implementation
-- feedback loops
-- distributed organizations
+- transparency
+- credibility markers
+- evidence communication
+- accountability systems
 
 ## Sources
 
