@@ -5,14 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- value-driven development
-- behaviour driven development
-- engineering practices
-- organizational values
-- ethical development
-- technical alignment
-- system values
-- development methodology
+- decentralized systems
+- distributed verification
+- stakeholder validation
+- accountability networks
+- transparency protocols
+- collective attestation
+- trust networks
 
 ## Sources
 
