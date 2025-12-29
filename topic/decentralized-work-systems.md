@@ -5,15 +5,15 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralization
-- distributed-authority
-- organizational-structure
+- decentralized organizations
+- distributed decision-making
 - DAOs
-- mesh-networks
-- federated-systems
-- coordination
-- resilience
-- adaptive-organizations
+- mesh networks
+- peer-to-peer systems
+- autonomous teams
+- organizational autonomy
+- coordination mechanisms
+- shared governance
 
 ## Sources
 
@@ -37,3 +37,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - Global Village People (global-village-people) [post]
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
 - series-ecosystem-architecture (ecosystem-architecture) [series]
+- series-new-institutions (new-institutions) [series]

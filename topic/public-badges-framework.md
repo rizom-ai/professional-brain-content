@@ -5,13 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- value driven development
-- organizational values
-- behaviour driven development
-- engineering practices
-- value alignment
-- technical decisions
-- cultural integration
+- misinformation
+- system design
+- verification mechanisms
+- institutional failure
+- fact-checking
+- information infrastructure
+- meaning-making
+- distributed systems
 
 ## Sources
 
