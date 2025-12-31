@@ -5,15 +5,14 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- hierarchical organization
-- machine metaphor
-- rigid processes
-- centralized control
-- organizational structure
-- top-down planning
-- predictable outputs
-- bureaucratic design
-- organizational failure
+- knowledge systems
+- information architecture
+- organizational learning
+- collaborative tools
+- knowledge sharing
+- information flow
+- learning platforms
+- digital infrastructure
 
 ## Sources
 

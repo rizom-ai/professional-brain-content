@@ -5,14 +5,16 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- distributed organizations
-- remote work
-- asynchronous collaboration
-- decentralized teams
-- geographic independence
-- digital networks
-- organizational structure
-- cross-continental teams
+- decentralization
+- distributed power
+- autonomous systems
+- DAOs
+- peer-to-peer
+- mesh networks
+- local autonomy
+- network coordination
+- resilience
+- decision-making
 
 ## Sources
 

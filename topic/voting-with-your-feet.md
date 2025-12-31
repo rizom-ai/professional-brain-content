@@ -5,16 +5,14 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
-- ecosystem architecture
-- organizational design
-- adaptive systems
-- decentralization
+- ecosystem design
 - living systems
-- complexity theory
-- local responsiveness
-- organizational evolution
+- decentralized organizations
+- emergent structures
 - distributed networks
-- systemic design
+- organizational resilience
+- adaptive governance
+- systemic thinking
 
 ## Sources
 
