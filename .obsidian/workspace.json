@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c98216acc6a55e",
+        "id": "75b68996486ad42a",
         "type": "tabs",
         "children": [
           {
-            "id": "151cab71842117d1",
+            "id": "3dafd88845afec49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deck/Forgotten Futures.md",
+                "file": "link/offcourse-studio-com-12e620.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forgotten Futures"
-            }
-          },
-          {
-            "id": "5c301919618b160e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "profile/profile.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "profile"
+              "title": "offcourse-studio-com-12e620"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,10 +183,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c301919618b160e",
+  "active": "3dafd88845afec49",
   "lastOpenFiles": [
-    "post/When All We Have is a Hammer.md",
+    "social-post/V-qTEqeDNYRu.md",
+    "social-post",
+    "series/series-public-badges.md.invalid",
+    "series/series-new-institutions.md.invalid",
+    "series/series-ecosystem-architecture.md.invalid",
+    "topic/innovation-theater-critique.md",
+    "series/series-public-badges.md",
+    "series/series-new-institutions.md",
+    "series/series-ecosystem-architecture.md",
+    "series",
+    "project/offcourse.md",
+    "project/lefthoek.md",
+    "project/bots-with-an-attitude-ethical-ai-collaboration.md",
+    "link/www-lefthoek-com-8537b0.md",
+    "link/waag-org-9ab39d.md",
+    "link/offcourse-io-efdda5.md",
+    "note/README.md",
+    "topic/ai-winters-as-selection-events.md",
+    "deck/Forgotten Futures.md",
+    "Untitled.md",
     "profile/profile.md",
+    "post/When All We Have is a Hammer.md",
     "brain.db",
     "deck/Bots With An Attitude.md~",
     "post/Value Driven Development.md",
@@ -212,8 +217,6 @@
     "post/Data Drive.md",
     "post/Agency Trumps Humanness.md",
     "deck/Bots With An Attitude.md",
-    "post/Global Village People.md",
-    "post/Align The Misaligned.md",
-    "post/Across Space And Time.md"
+    "post/Global Village People.md"
   ]
 }
