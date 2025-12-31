@@ -5,16 +5,16 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- tribalism
-- echo chambers
-- filter bubbles
-- polarization
-- digital communities
-- cultural division
-- online identity
-- algorithmic reinforcement
-- McLuhan
-- global village
+- adaptive systems
+- cellular automata
+- emergence
+- local rules
+- distributed decision-making
+- agent-based systems
+- feedback loops
+- resilience
+- decentralized organization
+- complex behavior
 
 ## Sources
 
@@ -30,3 +30,6 @@ Online education represents a fundamentally different mode of learning, not mere
 - Reclaiming The Future (reclaiming-the-future) [post]
 - Foam Party (foam-party) [post]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
+- The Future of Work is Play (the-future-of-work-is-play) [post]
+- series-new-institutions (new-institutions) [series]
+- M51d0yQ7zRk4 (most-organizations-are-built-like-machines-they) [social-post]

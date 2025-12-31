@@ -5,14 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- narrow AI
-- specialized systems
-- single-purpose AI
-- pragmatic AI
-- task-specific automation
-- AI stack
-- human-in-the-loop
-- AI moonshots
+- low-hanging fruit
+- pragmatic solutions
+- everyday problems
+- simplicity
+- incremental improvement
+- user satisfaction
+- practical design
+- unglamorous work
 
 ## Sources
 

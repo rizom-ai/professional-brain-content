@@ -5,15 +5,14 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 
 ## Keywords
 
-- gongkai
-- open hardware
-- intellectual property
-- knowledge sharing
-- shanzhai
-- decentralized manufacturing
-- open design
-- hardware blueprints
-- collaborative innovation
+- Heidegger
+- technology philosophy
+- computation
+- digital epistemology
+- Kittler
+- contemplation
+- technological change
+- critical theory
 
 ## Sources
 

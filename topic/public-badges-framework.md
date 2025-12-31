@@ -5,14 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- misinformation
-- system design
-- verification mechanisms
-- institutional failure
-- fact-checking
-- information infrastructure
-- meaning-making
-- distributed systems
+- trust
+- digital trust
+- distributed teams
+- remote collaboration
+- organizational culture
+- connection
+- transparency
+- asynchronous communication
 
 ## Sources
 
@@ -38,3 +38,5 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - The Low End Theory (the-low-end-theory) [post]
 - series-new-institutions (new-institutions) [series]
 - series-public-badges (public-badges) [series]
+- series-ecosystem-architecture (ecosystem-architecture) [series]
+- FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
