@@ -5,16 +5,13 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- regenerative design
-- permaculture
-- sustainability
-- value creation
-- extractive capitalism
-- natural systems
-- ecological thinking
-- stakeholder value
-- restoration
-- long-term viability
+- value-driven development
+- metrics optimization
+- team incentives
+- measurement
+- meaningful impact
+- organizational alignment
+- success metrics
 
 ## Sources
 
@@ -49,3 +46,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - series-new-institutions (new-institutions) [series]
 - series-public-badges (public-badges) [series]
+- qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]

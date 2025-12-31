@@ -5,16 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralization
-- distributed power
-- autonomous systems
-- DAOs
-- peer-to-peer
-- mesh networks
-- local autonomy
-- network coordination
-- resilience
-- decision-making
+- ecosystem architecture
+- organizational design
+- living systems
+- hierarchy
+- rigidity
+- structure
+- flexibility
+- adaptive organizations
 
 ## Sources
 
@@ -41,3 +39,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - series-new-institutions (new-institutions) [series]
 - V-qTEqeDNYRu (we-tell-our-children-to-find-work-that-matters-to) [social-post]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
+- qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]

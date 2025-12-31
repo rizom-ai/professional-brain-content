@@ -5,14 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- institutional architecture
-- organizational design
-- governance structures
-- regenerative systems
-- community building
-- decentralization
-- organizational culture
-- adaptive systems
+- signal-to-noise ratio
+- information systems
+- noise
+- engagement optimization
+- meaning-making
+- misinformation
+- system breakdown
 
 ## Sources
 
@@ -40,3 +39,4 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - series-public-badges (public-badges) [series]
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
+- qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
