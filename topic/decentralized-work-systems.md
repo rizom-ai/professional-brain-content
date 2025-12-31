@@ -5,16 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralization
-- DAOs
-- distributed governance
-- mesh networks
-- peer-to-peer
-- autonomy
-- organizational resilience
-- shared authority
-- network effects
-- distributed decision-making
+- work culture
+- organizational assumptions
+- scarcity mindset
+- abundance thinking
+- problem solving
+- organizational values
+- future of work
+- systemic change
 
 ## Sources
 
@@ -42,3 +40,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - V-qTEqeDNYRu (we-tell-our-children-to-find-work-that-matters-to) [social-post]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
+- RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]

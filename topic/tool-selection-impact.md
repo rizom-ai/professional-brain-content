@@ -5,13 +5,16 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 
 ## Keywords
 
-- tool selection
+- tool design
 - problem framing
-- technical infrastructure
-- methodology bias
-- solution design
-- optimization metrics
+- constraint thinking
+- optimization bias
+- systems thinking
+- technological assumption
+- methodology
+- engineering culture
 
 ## Sources
 
 - bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
+- RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]

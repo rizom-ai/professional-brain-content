@@ -5,14 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- trust mechanisms
-- institutional trust
-- decentralized trust
-- transparency
-- accountability
-- verification systems
-- community reputation
-- incentive alignment
+- organizational diversity
+- resilience
+- adaptive capacity
+- inclusion
+- structural diversity
+- heterogeneity
+- system strength
+- innovation
 
 ## Sources
 
@@ -41,3 +41,5 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
+- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
+- IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
