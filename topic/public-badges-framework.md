@@ -5,14 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- organizational diversity
-- resilience
-- adaptive capacity
-- inclusion
-- structural diversity
-- heterogeneity
-- system strength
-- innovation
+- trust systems
+- decentralization
+- verification
+- institutional confidence
+- transparency
+- accountability
+- distributed trust
+- control mechanisms
 
 ## Sources
 

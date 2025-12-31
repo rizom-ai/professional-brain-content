@@ -5,13 +5,14 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- precision
-- focus
-- constraints
-- sustainable value
-- user needs
-- intellectual honesty
-- execution quality
+- knowledge systems
+- information architecture
+- organizational learning
+- data infrastructure
+- collective intelligence
+- distributed knowledge
+- digital tools
+- information flow
 
 ## Sources
 
