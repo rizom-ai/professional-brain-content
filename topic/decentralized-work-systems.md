@@ -5,14 +5,13 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- work culture
-- organizational assumptions
-- scarcity mindset
-- abundance thinking
-- problem solving
-- organizational values
-- future of work
-- systemic change
+- organizational culture
+- vulnerability
+- authenticity
+- psychological safety
+- reciprocal relationships
+- professional interaction
+- cultural transformation
 
 ## Sources
 
@@ -41,3 +40,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
 - RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
+- cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]

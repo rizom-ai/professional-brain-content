@@ -6,13 +6,12 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 ## Keywords
 
 - ecosystem design
-- organizational structure
-- decentralization
-- regenerative systems
 - living systems
-- institutional design
-- adaptive organizations
-- systems thinking
+- organizational structure
+- mutual dependencies
+- resource flows
+- hierarchy alternatives
+- adaptive coordination
 
 ## Sources
 
@@ -39,3 +38,4 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 - RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
 - GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
+- cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
