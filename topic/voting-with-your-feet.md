@@ -1,0 +1,36 @@
+# Voting with Your Feet
+
+## Content
+Voting with your feet is a fundamental principle of healthy ecosystems that enables freedom of movement and exit. Drawing from natural systems where organisms migrate in response to environmental conditions, this concept applies to digital and organizational ecosystems where members can freely choose to leave and join other communities. The freedom to exit is not merely an individual right but a necessary mechanism for ecosystem health, preventing entrapment and fostering innovation through the possibility of imagining alternative habitats. This principle challenges monolithic, universal systems by affirming value pluralism—the recognition that no single ecosystem can or should serve all people. Healthy ecosystems should actively encourage this freedom rather than restrict it, as forced containment signals fundamental moral failures in the ecosystem's foundational values.
+
+## Keywords
+
+- ecosystem architecture
+- decentralized systems
+- organizational design
+- living systems
+- regenerative design
+- distributed organizations
+- adaptive structures
+- community building
+- knowledge infrastructure
+
+## Sources
+
+- The Good Foot (the-good-foot) [post]
+- The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
+- Becoming Narrow Minded (becoming-narrow-minded) [deck]
+- False Media (false-media) [post]
+- Reclaiming The Future (reclaiming-the-future) [post]
+- Foam Party (foam-party) [post]
+- Align The Misaligned (align-the-misaligned) [post]
+- Across Space And Time (across-space-and-time) [post]
+- Practice Innovation (practice-innovation) [post]
+- The Future of Work is Play (the-future-of-work-is-play) [post]
+- Learning From Nature (learning-from-nature) [post]
+- Rizom Collective (rizom-collective) [project]
+- Shenzhen Goes Ham (shenzhen-goes-ham) [post]
+- Economy Of Garbage (economy-of-garbage) [post]
+- Forgotten Futures (forgotten-futures) [deck]
+- series-ecosystem-architecture (ecosystem-architecture) [series]
+- series-new-institutions (new-institutions) [series]
