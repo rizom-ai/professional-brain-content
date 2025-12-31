@@ -5,13 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- signal-to-noise ratio
-- information systems
-- noise
-- engagement optimization
-- meaning-making
-- misinformation
-- system breakdown
+- trust mechanisms
+- institutional trust
+- decentralized trust
+- transparency
+- accountability
+- verification systems
+- community reputation
+- incentive alignment
 
 ## Sources
 

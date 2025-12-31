@@ -5,13 +5,13 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- value-driven development
-- metrics optimization
-- team incentives
-- measurement
-- meaningful impact
-- organizational alignment
-- success metrics
+- purpose
+- values
+- metrics
+- intentionality
+- efficiency
+- meaningful outcomes
+- development philosophy
 
 ## Sources
 
@@ -47,3 +47,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - series-new-institutions (new-institutions) [series]
 - series-public-badges (public-badges) [series]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
+- bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
