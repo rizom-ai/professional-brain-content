@@ -5,15 +5,16 @@ Peter Sloterdijk's foam concept offers a reframing of internet fragmentation fro
 
 ## Keywords
 
-- Sloterdijk
-- foam metaphor
-- fragmentation
-- multiplicity
-- universality
-- complexity
-- affirmative philosophy
-- digital ecosystems
-- topology
+- filter bubbles
+- echo chambers
+- algorithmic curation
+- entrapment
+- solipsism
+- shared values
+- community
+- information curation
+- ecosystem boundaries
+- selective content
 
 ## Sources
 

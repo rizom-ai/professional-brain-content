@@ -5,15 +5,13 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
-- ecosystem architecture
-- decentralized systems
-- organizational design
+- ecosystem design
 - living systems
-- regenerative design
-- distributed organizations
-- adaptive structures
-- community building
-- knowledge infrastructure
+- organizational structure
+- mutual dependencies
+- resource flows
+- hierarchy alternatives
+- adaptive coordination
 
 ## Sources
 
@@ -34,3 +32,10 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 - Forgotten Futures (forgotten-futures) [deck]
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - series-new-institutions (new-institutions) [series]
+- series-public-badges (public-badges) [series]
+- FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
+- M51d0yQ7zRk4 (most-organizations-are-built-like-machines-they) [social-post]
+- RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
+- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
+- IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
+- cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]

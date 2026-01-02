@@ -5,14 +5,13 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- values
-- development practice
-- behavior-driven development
-- organizational alignment
-- technical decisions
-- culture
-- principles
-- system design
+- product design
+- user experience
+- practical solutions
+- friction reduction
+- workflow optimization
+- team dynamics
+- simplicity
 
 ## Sources
 
@@ -47,3 +46,7 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - series-new-institutions (new-institutions) [series]
 - series-public-badges (public-badges) [series]
+- qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
+- bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
+- IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
+- hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]

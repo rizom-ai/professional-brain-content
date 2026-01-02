@@ -5,14 +5,13 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- narrow AI
-- specialized systems
-- single-purpose AI
-- pragmatic AI
-- task-specific automation
-- AI stack
-- human-in-the-loop
-- AI moonshots
+- problem-solving
+- resource allocation
+- ambition
+- execution
+- organizational design
+- pragmatism
+- value creation
 
 ## Sources
 
@@ -28,3 +27,4 @@ The content presents a strategic case for building many specialized, single-purp
 - superconnectors-io-d52d28 (superconnectors-io-d52d28) [link]
 - Data Drive (data-drive) [post]
 - Agency Trumps Humanness (agency-trumps-humanness) [post]
+- hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]

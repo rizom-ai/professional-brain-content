@@ -5,15 +5,13 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralized organizations
-- distributed decision-making
-- DAOs
-- mesh networks
-- peer-to-peer systems
-- autonomous teams
-- organizational autonomy
-- coordination mechanisms
-- shared governance
+- organizational culture
+- vulnerability
+- authenticity
+- psychological safety
+- reciprocal relationships
+- professional interaction
+- cultural transformation
 
 ## Sources
 
@@ -38,3 +36,8 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - Becoming Narrow Minded (becoming-narrow-minded) [deck]
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - series-new-institutions (new-institutions) [series]
+- V-qTEqeDNYRu (we-tell-our-children-to-find-work-that-matters-to) [social-post]
+- FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
+- qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
+- RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
+- cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]

@@ -7,11 +7,12 @@ The post examines the moonshot framework popularized by Google X, which aims for
 
 - moonshot factory
 - exponential thinking
-- problem-solving
 - Google X
+- 10x impact
+- impossible problems
 - venture capital
 - innovation strategy
-- resource allocation
+- ambitious goals
 
 ## Sources
 

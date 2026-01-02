@@ -5,15 +5,13 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 
 ## Keywords
 
-- gongkai
-- open hardware
-- intellectual property
-- knowledge sharing
-- shanzhai
-- decentralized manufacturing
-- open design
-- hardware blueprints
-- collaborative innovation
+- networking
+- vulnerability
+- need-based matching
+- authentic collaboration
+- value exchange
+- problem-solving alignment
+- professional relationships
 
 ## Sources
 
@@ -21,3 +19,4 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 - When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
 - The Low End Theory (the-low-end-theory) [post]
 - Data Drive (data-drive) [post]
+- cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]

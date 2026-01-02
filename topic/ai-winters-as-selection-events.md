@@ -8,11 +8,13 @@ AI winters are reframed not as failures but as evolutionary moments that selecte
 - AI winters
 - selection events
 - emergence
-- control
-- rule-based systems
+- control systems
+- rule-based
 - statistical scaling
-- historical choices
-- technological path
+- Conway's Game of Life
+- technological constraints
+- design choices
+- alternative futures
 
 ## Sources
 

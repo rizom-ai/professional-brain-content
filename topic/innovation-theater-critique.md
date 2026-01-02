@@ -5,13 +5,14 @@ The essay critiques how the moonshot narrative has been commodified and imitated
 
 ## Keywords
 
-- copycat innovation
-- marketing rhetoric
-- venture capital hype
-- Shenzhen culture
-- false promises
-- innovation theater
-- entrepreneurial culture
+- Shenzhen
+- iterative design
+- practical innovation
+- incremental improvement
+- product adaptation
+- pragmatism
+- efficiency
+- market-driven solutions
 
 ## Sources
 
