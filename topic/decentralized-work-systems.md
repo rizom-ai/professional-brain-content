@@ -5,13 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- organizational culture
-- vulnerability
-- authenticity
-- psychological safety
-- reciprocal relationships
-- professional interaction
-- cultural transformation
+- decentralization
+- distributed governance
+- DAOs
+- mesh networks
+- shared authority
+- network coordination
+- peer-to-peer
+- collective decision-making
 
 ## Sources
 
