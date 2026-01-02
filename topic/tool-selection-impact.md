@@ -5,16 +5,19 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 
 ## Keywords
 
-- tool design
-- problem framing
-- constraint thinking
-- optimization bias
-- systems thinking
-- technological assumption
-- methodology
-- engineering culture
+- regenerative systems
+- permaculture
+- sustainability
+- cyclical design
+- natural systems
+- resource abundance
+- organizational renewal
+- ecological design
+- systems regeneration
+- circular economy
 
 ## Sources
 
 - bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
 - RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
+- series-ecosystem-architecture (ecosystem-architecture) [series]
