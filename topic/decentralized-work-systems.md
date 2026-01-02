@@ -6,13 +6,13 @@ The article explores how emerging technologies enable fundamentally new ways of 
 ## Keywords
 
 - decentralization
-- distributed governance
+- distributed authority
 - DAOs
 - mesh networks
-- shared authority
-- network coordination
-- peer-to-peer
-- collective decision-making
+- cooperative structures
+- power distribution
+- organizational autonomy
+- decentralized decision-making
 
 ## Sources
 
