@@ -5,16 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralization
-- distributed authority
-- DAOs
-- mesh networks
-- autonomy
-- network coordination
-- participatory governance
-- distributed decision-making
-- organizational structure
-- collective intelligence
+- future of work
+- organizational change
+- adaptive leadership
+- knowledge work
+- distributed participation
+- organizational transformation
+- intentional design
+- business evolution
 
 ## Sources
 
@@ -44,3 +42,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
 - RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
+- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]

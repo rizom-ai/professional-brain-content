@@ -5,14 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- surveillance capitalism
-- data extraction
-- behavioral control
-- digital autonomy
-- platform power
-- privacy
-- data sovereignty
-- digital futures
+- organizational design
+- hierarchical structures
+- living systems
+- adaptive organizations
+- command-and-control
+- organizational culture
+- people management
+- systemic thinking
 
 ## Sources
 
@@ -41,5 +41,5 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
-- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
+- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
