@@ -5,14 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- surveillance capitalism
-- data extraction
-- behavioral control
-- privacy protection
-- extractive systems
-- data ownership
-- human agency
-- digital autonomy
+- trust
+- verification
+- accountability
+- transparency
+- digital trust
+- decentralized trust
+- trustless systems
 
 ## Sources
 

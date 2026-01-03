@@ -5,16 +5,14 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- adaptive systems
-- cellular automata
-- emergence
-- local rules
-- distributed decision-making
-- agent-based systems
-- feedback loops
-- resilience
-- decentralized organization
-- complex behavior
+- badges
+- credentialing
+- digital identity
+- verification
+- decentralized reputation
+- skills validation
+- portable credentials
+- trust systems
 
 ## Sources
 
@@ -33,3 +31,4 @@ Online education represents a fundamentally different mode of learning, not mere
 - The Future of Work is Play (the-future-of-work-is-play) [post]
 - series-new-institutions (new-institutions) [series]
 - M51d0yQ7zRk4 (most-organizations-are-built-like-machines-they) [social-post]
+- series-public-badges (public-badges) [series]

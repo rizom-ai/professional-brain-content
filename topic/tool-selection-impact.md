@@ -6,18 +6,16 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 ## Keywords
 
 - regenerative design
-- permaculture
-- circular economy
 - sustainability
-- ecological thinking
-- abundance mindset
-- natural systems
-- cyclical design
 - value creation
-- environmental renewal
+- circular systems
+- long-term thinking
+- ecological principles
+- stakeholder flourishing
 
 ## Sources
 
 - bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
 - RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
 - series-ecosystem-architecture (ecosystem-architecture) [series]
+- series-new-institutions (new-institutions) [series]
