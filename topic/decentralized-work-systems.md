@@ -5,14 +5,16 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- future of work
-- organizational change
-- adaptive leadership
-- knowledge work
-- distributed participation
 - organizational transformation
-- intentional design
-- business evolution
+- machine model
+- living systems
+- adaptation
+- organizational dysfunction
+- structural change
+- contextual responsiveness
+- organizational frameworks
+- modernization
+- future of work
 
 ## Sources
 
@@ -43,3 +45,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
 - xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
+- IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]

@@ -5,14 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- organizational design
-- hierarchical structures
-- living systems
-- adaptive organizations
-- command-and-control
-- organizational culture
-- people management
-- systemic thinking
+- decentralization
+- distributed governance
+- DAOs
+- mesh networks
+- organizational autonomy
+- collective decision-making
+- alternative structures
 
 ## Sources
 
@@ -41,5 +40,7 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
-- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
+- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
+- hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
+- cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]

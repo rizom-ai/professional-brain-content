@@ -5,13 +5,13 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- product design
-- user experience
-- practical solutions
-- friction reduction
-- workflow optimization
-- team dynamics
-- simplicity
+- purpose
+- values
+- metrics
+- optimization
+- intentional design
+- outcome focus
+- meaningful impact
 
 ## Sources
 

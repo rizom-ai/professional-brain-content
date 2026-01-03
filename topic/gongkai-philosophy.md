@@ -5,13 +5,14 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 
 ## Keywords
 
-- networking
-- vulnerability
+- networking format
 - need-based matching
-- authentic collaboration
-- value exchange
+- authentic connection
+- vulnerability
 - problem-solving alignment
-- professional relationships
+- value proposition
+- community building
+- superconnectors
 
 ## Sources
 

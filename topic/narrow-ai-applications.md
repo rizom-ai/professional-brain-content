@@ -5,13 +5,13 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- problem-solving
-- resource allocation
-- ambition
-- execution
-- organizational design
-- pragmatism
+- simplicity
+- elegant design
+- user friction
+- low end theory
+- functional design
 - value creation
+- refinement
 
 ## Sources
 
