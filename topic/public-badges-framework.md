@@ -5,16 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
+- trust systems
+- verification
+- decentralization
+- accountability
+- credibility
+- digital trust
 - institutional design
-- organizational structure
-- governance models
-- ecosystem architecture
-- decentralized systems
-- adaptive organizations
-- organizational resilience
-- institutional innovation
-- living systems
-- distributed governance
+- security
 
 ## Sources
 
