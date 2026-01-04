@@ -5,14 +5,14 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 
 ## Keywords
 
-- networking format
-- need-based matching
+- networking
+- needs-based matching
 - authentic connection
 - vulnerability
+- complementarity
+- ecosystem design
 - problem-solving alignment
-- value proposition
-- community building
-- superconnectors
+- resource flow
 
 ## Sources
 

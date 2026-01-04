@@ -5,16 +5,15 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- organizational transformation
-- machine model
+- organizational design
+- hierarchy
+- role-based structure
 - living systems
-- adaptation
-- organizational dysfunction
-- structural change
-- contextual responsiveness
-- organizational frameworks
-- modernization
-- future of work
+- decentralization
+- adaptive systems
+- resource allocation
+- organizational culture
+- ecosystem architecture
 
 ## Sources
 
@@ -46,3 +45,4 @@ The article explores how emerging technologies enable fundamentally new ways of 
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
 - xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
+- hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]

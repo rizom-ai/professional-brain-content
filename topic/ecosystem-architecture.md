@@ -8,10 +8,11 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - purpose
 - values
 - metrics
-- optimization
-- intentional design
-- outcome focus
-- meaningful impact
+- outcomes
+- meaningful work
+- intention
+- goal alignment
+- impact measurement
 
 ## Sources
 
@@ -50,3 +51,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
+- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
