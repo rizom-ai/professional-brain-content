@@ -6,12 +6,14 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 ## Keywords
 
 - regenerative design
-- sustainable systems
-- community flourishing
-- value creation
-- ecosystem health
-- restorative practices
+- permaculture
+- ecological thinking
+- sustainability
+- feedback loops
+- natural systems
+- organizational renewal
 - circular systems
+- ecological principles
 
 ## Sources
 
