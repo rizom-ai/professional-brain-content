@@ -5,13 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- decentralization
-- distributed authority
-- DAOs
-- mesh networks
-- participatory governance
-- power distribution
-- network structures
+- trust systems
+- decentralized trust
+- transparency
+- verification
+- digital trust
+- governance
+- surveillance capitalism
+- distributed systems
 
 ## Sources
 
