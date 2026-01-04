@@ -6,12 +6,12 @@ Public Badges represents a practical tool designed to address the trust crisis b
 ## Keywords
 
 - decentralization
-- distributed governance
+- distributed authority
 - DAOs
 - mesh networks
-- organizational autonomy
-- collective decision-making
-- alternative structures
+- participatory governance
+- power distribution
+- network structures
 
 ## Sources
 
