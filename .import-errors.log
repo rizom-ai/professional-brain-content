@@ -318,3 +318,33 @@
 
 2026-01-03T14:24:12.676Z - [RECOVERED] social-post/bDkiKdwAJjst.md
 
+2026-01-04T14:43:28.244Z - series/series-new-institutions.md: Entity type registration failed for series: No adapter registered for entity type
+→ series/series-new-institutions.md.invalid
+
+2026-01-04T14:43:28.245Z - series/series-ecosystem-architecture.md: Entity type registration failed for series: No adapter registered for entity type
+→ series/series-ecosystem-architecture.md.invalid
+
+2026-01-04T14:43:28.245Z - series/series-public-badges.md: Entity type registration failed for series: No adapter registered for entity type
+→ series/series-public-badges.md.invalid
+
+2026-01-04T14:43:28.252Z - social-post/cdkbC25n-r2q.md: Entity type registration failed for social-post: No adapter registered for entity type
+→ social-post/cdkbC25n-r2q.md.invalid
+
+2026-01-04T14:43:28.253Z - social-post/ADZcPto9FzFW.md: Entity type registration failed for social-post: No adapter registered for entity type
+→ social-post/ADZcPto9FzFW.md.invalid
+
+2026-01-04T14:43:28.253Z - social-post/xAOt86-vHMm8.md: Entity type registration failed for social-post: No adapter registered for entity type
+→ social-post/xAOt86-vHMm8.md.invalid
+
+2026-01-04T14:43:28.253Z - social-post/GNDoc7Yn0j4Y.md: Entity type registration failed for social-post: No adapter registered for entity type
+→ social-post/GNDoc7Yn0j4Y.md.invalid
+
+2026-01-04T14:43:28.253Z - social-post/hZ0AygfQ4V8d.md: Entity type registration failed for social-post: No adapter registered for entity type
+→ social-post/hZ0AygfQ4V8d.md.invalid
+
+2026-01-04T14:43:28.253Z - social-post/IF9oRL_4q_Db.md: Entity type registration failed for social-post: No adapter registered for entity type
+→ social-post/IF9oRL_4q_Db.md.invalid
+
+2026-01-04T14:43:28.254Z - social-post/bDkiKdwAJjst.md: Entity type registration failed for social-post: No adapter registered for entity type
+→ social-post/bDkiKdwAJjst.md.invalid
+
