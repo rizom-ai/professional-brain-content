@@ -5,16 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralized organizations
-- distributed governance
-- DAOs
-- mesh networks
-- network structures
-- decision-making distribution
-- organizational resilience
-- agency
-- autonomy
-- collective intelligence
+- network states
+- startup societies
+- digital communities
+- decentralization
+- shared values
+- diplomatic recognition
+- network archipelago
+- digital territory
 
 ## Sources
 

@@ -5,13 +5,16 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 
 ## Keywords
 
-- technology philosophy
-- digital infrastructure
-- power structures
-- meaning-making
-- social shaping of technology
-- continental philosophy
-- technological determinism
+- shanzhai
+- gongkai
+- decentralized manufacturing
+- hardware innovation
+- peer-to-peer production
+- open hardware
+- intellectual property
+- ecosystem-sourced development
+- rapid iteration
+- electronic waste
 
 ## Sources
 

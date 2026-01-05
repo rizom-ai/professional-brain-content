@@ -9,6 +9,7 @@ excerpt: >-
   peer-to-peer manufacturing model surpasses both traditional innovation and
   Western open source, while confronting its environmental costs.
 author: Yeehaa
+coverImageId: shenzhen-goes-ham-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 6
 ---

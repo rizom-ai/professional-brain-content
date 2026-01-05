@@ -9,6 +9,7 @@ excerpt: >-
   understood as potential ecosystems rather than problems to burst, embracing
   complexity without universal norms.
 author: Yeehaa
+coverImageId: foam-party-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 5
 ---

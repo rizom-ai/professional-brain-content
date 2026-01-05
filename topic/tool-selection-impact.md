@@ -5,16 +5,16 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 
 ## Keywords
 
+- electronic waste
+- environmental impact
+- carbon footprint
+- e-waste management
+- sustainability
+- manufacturing pollution
+- resource depletion
+- green technology
 - regenerative design
-- permaculture
-- sustainable systems
-- natural patterns
-- value creation
-- community resilience
-- adaptive capacity
-- knowledge cultivation
-- healing systems
-- environmental stewardship
+- environmental standards
 
 ## Sources
 
@@ -24,3 +24,4 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 - series-new-institutions (new-institutions) [series]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - Practice Innovation (practice-innovation) [post]
+- Shenzhen Goes Ham (shenzhen-goes-ham) [post]

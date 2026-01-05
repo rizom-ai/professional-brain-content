@@ -5,16 +5,14 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- media control
-- communication channels
-- infrastructure
-- big tech
-- data dominance
-- algorithmic power
-- net neutrality
-- Kittler
-- information warfare
-- platform monopoly
+- decentralized internet
+- internet architecture
+- value-based communities
+- digital territory
+- modernism
+- architectural metaphor
+- digital space
+- boundary dissolution
 
 ## Sources
 
@@ -34,3 +32,4 @@ Online education represents a fundamentally different mode of learning, not mere
 - series-new-institutions (new-institutions) [series]
 - M51d0yQ7zRk4 (most-organizations-are-built-like-machines-they) [social-post]
 - series-public-badges (public-badges) [series]
+- The Good Foot (the-good-foot) [post]

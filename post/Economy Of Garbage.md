@@ -9,6 +9,7 @@ excerpt: >-
   practice reframes garbage as intrinsic to nature and culture, offering a
   paradigm shift from extraction to regeneration.
 author: Yeehaa
+coverImageId: economy-of-garbage-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 7
 ---

@@ -9,6 +9,7 @@ excerpt: >-
   territorial boundaries, building startup societies around shared values rather
   than contingent geography.
 author: Yeehaa
+coverImageId: the-good-foot-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 9
 ---

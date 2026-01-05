@@ -10,6 +10,7 @@ excerpt: >-
   competition with natural systems optimizing for collective health through
   alignment.
 author: Yeehaa
+coverImageId: learning-from-nature-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 8
 ---

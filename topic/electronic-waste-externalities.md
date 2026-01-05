@@ -9,13 +9,13 @@ The rapid innovation cycle inherent to the shanzhai model generates significant 
 - garbage
 - Garb-Age
 - Borawake
-- materiality
-- cultural practice
 - nature
+- culture
+- purity
 - fragmentation
-- consumption
-- authenticity
-- artistic practice
+- abundance
+- aesthetic
+- reframing
 
 ## Sources
 
