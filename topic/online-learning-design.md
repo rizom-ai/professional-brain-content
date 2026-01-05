@@ -6,15 +6,13 @@ Online education represents a fundamentally different mode of learning, not mere
 ## Keywords
 
 - digital credentials
-- micro-credentials
-- achievement verification
-- social proof
-- decentralized credentialing
-- skill recognition
-- community trust
-- portable credentials
-- badge systems
-- transparent validation
+- decentralized recognition
+- public badges
+- reputation systems
+- skill verification
+- community validation
+- alternative credentials
+- trustless verification
 
 ## Sources
 

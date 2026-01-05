@@ -7,11 +7,12 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 - knowledge systems
 - information architecture
-- learning platforms
 - knowledge sharing
+- collective intelligence
+- data infrastructure
 - organizational learning
-- community knowledge
-- epistemic infrastructure
+- distributed knowledge
+- information flow
 
 ## Sources
 
@@ -33,3 +34,5 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 - ADZcPto9FzFW (weve-built-our-entire-economic-system-on-scarcity) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - Practice Innovation (practice-innovation) [post]
+- Untitled WEBP image (across-space-and-time-cover) [image]
+- Across Space And Time (across-space-and-time) [post]

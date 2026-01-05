@@ -5,14 +5,13 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 
 ## Keywords
 
-- networking
-- needs-based matching
-- authentic connection
-- vulnerability
-- complementarity
-- ecosystem design
-- problem-solving alignment
-- resource flow
+- technology philosophy
+- digital infrastructure
+- power structures
+- meaning-making
+- social shaping of technology
+- continental philosophy
+- technological determinism
 
 ## Sources
 
@@ -21,3 +20,4 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 - The Low End Theory (the-low-end-theory) [post]
 - Data Drive (data-drive) [post]
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
+- Untitled WEBP image (across-space-and-time-cover) [image]
