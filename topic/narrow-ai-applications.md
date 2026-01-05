@@ -6,12 +6,13 @@ The content presents a strategic case for building many specialized, single-purp
 ## Keywords
 
 - decentralization
-- recognition
-- distributed authority
-- community validation
 - peer recognition
-- ecosystem design
-- cultural values
+- community validation
+- distributed authority
+- credentialing
+- transparency
+- social incentives
+- achievement systems
 
 ## Sources
 

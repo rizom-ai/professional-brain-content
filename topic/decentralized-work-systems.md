@@ -7,13 +7,11 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 - surveillance capitalism
 - data extraction
-- behavioral prediction
-- human autonomy
-- digital power
-- privacy
-- data sovereignty
-- platform control
-- behavioral modification
+- behavioral control
+- digital autonomy
+- power concentration
+- alternative futures
+- data ethics
 
 ## Sources
 
