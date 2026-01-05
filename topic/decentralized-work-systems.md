@@ -5,14 +5,16 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- ecosystem architecture
-- organizational structure
-- living systems
+- decentralized organizations
 - distributed governance
-- institutional design
-- decentralization
-- regenerative systems
-- adaptive organizations
+- DAOs
+- mesh networks
+- network structures
+- decision-making distribution
+- organizational resilience
+- agency
+- autonomy
+- collective intelligence
 
 ## Sources
 
