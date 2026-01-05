@@ -8,6 +8,7 @@ excerpt: >-
   article explores how ecosystem architecture can embrace this fragmentation as
   an opportunity for innovation rather than a problem to solve.
 author: Yeehaa
+coverImageId: align-the-misaligned-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 3
 ---

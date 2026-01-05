@@ -5,14 +5,16 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- digital credentials
-- decentralized recognition
-- public badges
-- reputation systems
-- skill verification
-- community validation
-- alternative credentials
-- trustless verification
+- digital sovereignty
+- data sovereignty
+- local control
+- privacy
+- cultural preservation
+- regional autonomy
+- geopolitical
+- infrastructure ownership
+- community needs
+- local innovation
 
 ## Sources
 

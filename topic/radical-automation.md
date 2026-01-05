@@ -5,14 +5,14 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- knowledge systems
-- information architecture
+- transparency
+- expertise discovery
+- skill visibility
+- open credentialing
 - knowledge sharing
-- collective intelligence
-- data infrastructure
-- organizational learning
-- distributed knowledge
-- information flow
+- trust building
+- decentralized networks
+- public recognition
 
 ## Sources
 

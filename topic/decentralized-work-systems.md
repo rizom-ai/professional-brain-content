@@ -5,16 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralization
-- distributed networks
-- DAOs
-- organizational structure
-- mesh networks
-- autonomous systems
-- decision-making
-- flat hierarchies
-- network governance
-- distributed authority
+- surveillance capitalism
+- data exploitation
+- behavioral control
+- digital autonomy
+- Zuboff
+- data commodification
+- privacy
+- algorithmic control
 
 ## Sources
 
