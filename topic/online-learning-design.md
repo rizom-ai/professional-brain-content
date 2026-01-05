@@ -5,14 +5,14 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- badges
-- credentials
-- verification
-- recognition
-- micro-credentials
-- decentralized
-- transparency
-- portable credentials
+- digital networks
+- distributed organizations
+- asynchronous collaboration
+- internet infrastructure
+- decentralized systems
+- geographic dispersion
+- virtual ecosystems
+- technological platforms
 
 ## Sources
 
