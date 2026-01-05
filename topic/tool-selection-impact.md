@@ -5,15 +5,14 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 
 ## Keywords
 
-- regenerative systems
-- permaculture
-- sustainability
-- natural design
-- circular economy
-- ecological thinking
-- systems renewal
-- abundance mindset
-- environmental design
+- regenerative design
+- governance models
+- community flourishing
+- adaptive systems
+- value creation
+- decision-making
+- resource allocation
+- cultural hybridity
 
 ## Sources
 
