@@ -5,14 +5,13 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- decentralized internet
-- internet architecture
-- value-based communities
-- digital territory
-- modernism
-- architectural metaphor
-- digital space
-- boundary dissolution
+- digital futures
+- technological inevitability
+- counter-futures
+- Afrofuturism
+- agency reclamation
+- alternative possibilities
+- narrative resistance
 
 ## Sources
 

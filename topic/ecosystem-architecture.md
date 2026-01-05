@@ -5,16 +5,15 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- Bataille
-- excess
-- abundance
-- scarcity
-- expenditure
-- non-utilitarian
-- economy
-- waste
-- paradigm shift
-- capitalism
+- rules as values
+- ethical design
+- cellular automata
+- emergent behavior
+- deterministic systems
+- moral framework
+- system values
+- design ethics
+- cultural codification
 
 ## Sources
 

@@ -5,14 +5,15 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
-- ecosystem design
-- freedom to exit
-- voting with feet
-- value pluralism
-- community boundaries
-- regenerative systems
-- decentralization
-- ecosystem health
+- Align phase
+- Validate phase
+- Scale phase
+- Spin Out phase
+- vision type
+- vessel of transformation
+- minimum viable ecosystem
+- stakeholder commitment
+- ecosystem maturation
 
 ## Sources
 
