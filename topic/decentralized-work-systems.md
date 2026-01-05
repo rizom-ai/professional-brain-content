@@ -5,14 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- surveillance capitalism
-- data exploitation
-- behavioral control
-- digital autonomy
-- Zuboff
-- data commodification
-- privacy
-- algorithmic control
+- ecosystem architecture
+- organizational structure
+- living systems
+- distributed governance
+- institutional design
+- decentralization
+- regenerative systems
+- adaptive organizations
 
 ## Sources
 

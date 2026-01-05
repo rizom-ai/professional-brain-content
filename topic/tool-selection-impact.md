@@ -7,12 +7,12 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 
 - regenerative design
 - permaculture
-- restoration
-- sustainability
-- natural systems
+- systemic renewal
 - circular economy
-- system renewal
-- ecological thinking
+- abundance thinking
+- natural systems
+- sustainability
+- waste transformation
 
 ## Sources
 
