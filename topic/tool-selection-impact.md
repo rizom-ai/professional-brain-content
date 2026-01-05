@@ -6,13 +6,13 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 ## Keywords
 
 - regenerative design
-- governance models
-- community flourishing
-- adaptive systems
+- living systems
+- systemic health
 - value creation
-- decision-making
-- resource allocation
-- cultural hybridity
+- feedback loops
+- community wellbeing
+- institutional metrics
+- ecological impact
 
 ## Sources
 
@@ -21,3 +21,4 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - series-new-institutions (new-institutions) [series]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
+- Practice Innovation (practice-innovation) [post]
