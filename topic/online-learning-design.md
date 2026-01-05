@@ -5,16 +5,16 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- digital sovereignty
-- data sovereignty
-- local control
-- privacy
-- cultural preservation
-- regional autonomy
-- geopolitical
-- infrastructure ownership
-- community needs
-- local innovation
+- media control
+- communication channels
+- infrastructure
+- big tech
+- data dominance
+- algorithmic power
+- net neutrality
+- Kittler
+- information warfare
+- platform monopoly
 
 ## Sources
 

@@ -9,6 +9,7 @@ excerpt: >-
   and divides us through digital echo chambers and control over communication
   channels.
 author: Yeehaa
+coverImageId: global-village-people-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 4
 ---
