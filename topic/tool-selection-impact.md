@@ -9,12 +9,11 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 - permaculture
 - natural systems
 - restoration
-- feedback loops
-- cyclical processes
-- abundance mindset
-- ecological health
-- sustainable practice
-- extractive models
+- ecological design
+- sustainable organizations
+- circular systems
+- abundance
+- participatory models
 
 ## Sources
 

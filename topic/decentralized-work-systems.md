@@ -5,15 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- organizational design
-- hierarchy
-- role-based structure
-- living systems
-- decentralization
-- adaptive systems
-- resource allocation
-- organizational culture
-- ecosystem architecture
+- decentralized organizations
+- DAOs
+- distributed governance
+- mesh networks
+- peer-to-peer systems
+- organizational resilience
+- decision-making
+- agency distribution
 
 ## Sources
 
