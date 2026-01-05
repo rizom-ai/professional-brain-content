@@ -9,6 +9,7 @@ excerpt: >-
   practice—Align, Validate, Scale, Spin Out—drawing from de Certeau's
   sieve-order and cellular automata's emergent complexity.
 author: Yeehaa
+coverImageId: the-practice-of-ecosystem-architecture-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 10
 ---

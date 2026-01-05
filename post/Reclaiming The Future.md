@@ -9,6 +9,7 @@ excerpt: >-
   advocating ecosystem architecture as the practice to design multiple
   inhabitable futures against predetermined dystopias.
 author: Yeehaa
+coverImageId: reclaiming-the-future-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 11
 ---
