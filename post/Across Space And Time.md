@@ -9,7 +9,7 @@ excerpt: >-
   organizations require new frameworks of ecosystem architecture to design and
   cultivate thriving, non-hierarchical structures.
 author: Yeehaa
-coverImageId: across-space-and-time
+coverImageId: across-space-and-time-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 1
 ---
