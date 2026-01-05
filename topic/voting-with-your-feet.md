@@ -5,14 +5,16 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
-- ecosystem architecture
-- decentralized organizations
+- ecosystem design
 - living systems
 - organizational design
-- regenerative design
-- distributed structures
-- adaptive systems
-- institutional design
+- decentralization
+- regenerative systems
+- adaptive organizations
+- distributed networks
+- emergence
+- systems thinking
+- organizational architecture
 
 ## Sources
 

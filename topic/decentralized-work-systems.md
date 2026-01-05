@@ -5,14 +5,16 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- surveillance capitalism
-- data extraction
-- behavioral control
-- digital autonomy
-- data privacy
-- technological ethics
-- human dignity
-- trust systems
+- decentralization
+- DAOs
+- distributed governance
+- autonomous organizations
+- mesh networks
+- peer coordination
+- flat hierarchies
+- distributed decision-making
+- network organizations
+- blockchain governance
 
 ## Sources
 

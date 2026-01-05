@@ -5,14 +5,14 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- knowledge infrastructure
 - knowledge systems
+- knowledge infrastructure
+- learning platforms
 - information architecture
-- collaborative tools
+- Rizom
 - organizational learning
-- sense-making
-- collective intelligence
 - knowledge sharing
+- digital tools
 
 ## Sources
 
