@@ -40,5 +40,3 @@ True innovation is a practice involving continuous ideation, experimentation, an
 — [Michel de Certeau](https://en.wikipedia.org/wiki/The_Practice_of_Everyday_Life)
 
 It is in this practical notion of innovation that decentralized and regenerative design meet. Regeneration goes beyond sustainability by not only aiming to restore, but also to renew and revitalize systems and communities. Whereas sustainable design aims for damage control by mitigating harm, regenerative design seeks to make ecosystems healthier and more vibrant than ever before. From the perspective of regeneration, waste becomes the seeds of a promising future rather than the remnants of a paradise lost. Wabi-sabi and Kintsugi, rather than perfection and wholeness, are key to a better future. Ecosystem architecture thus embraces these and related practices wholeheartedly.
-
-![Innovation in practice](entity://image/practice-innovation-cover)
