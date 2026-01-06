@@ -7,12 +7,13 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 - ecosystem architecture
 - decentralization
-- regenerative design
-- innovation practice
-- adaptive systems
+- regenerative systems
 - community building
-- sustainable solutions
-- organizational design
+- distributed governance
+- resilience
+- interconnectedness
+- living systems
+- sustainable innovation
 
 ## Sources
 
