@@ -6,14 +6,12 @@ Public Badges represents a practical tool designed to address the trust crisis b
 ## Keywords
 
 - innovation practice
-- experimentation
-- continuous refinement
+- continuous experimentation
 - creative culture
 - problem-solving
-- adaptation
-- practice-based approach
 - ideation
-- organizational culture
+- adaptability
+- resilience
 - sustainable innovation
 
 ## Sources
