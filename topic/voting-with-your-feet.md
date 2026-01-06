@@ -5,15 +5,16 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
-- Align phase
-- Validate phase
-- Scale phase
-- Spin Out phase
-- vision type
-- vessel of transformation
-- minimum viable ecosystem
-- stakeholder commitment
-- ecosystem maturation
+- ecosystem architecture
+- decentralized systems
+- regenerative design
+- living systems
+- community resilience
+- sustainable development
+- distributed coordination
+- social equity
+- organizational design
+- interconnectedness
 
 ## Sources
 

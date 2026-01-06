@@ -5,13 +5,16 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- surveillance capitalism
-- behavioral data
-- data exploitation
-- corporate control
-- predictive analytics
-- digital autonomy
-- internet control
+- innovation practice
+- continuous improvement
+- experimentation
+- problem-solving culture
+- adaptability
+- collaboration
+- resilience
+- ideation
+- creative culture
+- sustainable solutions
 
 ## Sources
 
