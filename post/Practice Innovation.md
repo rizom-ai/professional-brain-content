@@ -9,6 +9,7 @@ excerpt: >-
   practice, rather than artifact, can transform communities through sustainable
   and equitable solutions.
 author: Yeehaa
+coverImageId: practice-innovation-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 2
 ---

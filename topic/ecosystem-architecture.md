@@ -7,15 +7,14 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 - regenerative design
 - renewal
-- restoration
-- ecosystem health
-- waste transformation
+- revitalization
 - sustainability
-- resilience
+- waste transformation
 - wabi-sabi
 - kintsugi
-- vitality
-- circular systems
+- ecosystem health
+- resilience
+- transformative solutions
 
 ## Sources
 
