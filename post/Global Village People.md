@@ -2,17 +2,17 @@
 title: Global Village People
 slug: global-village-people
 status: published
-publishedAt: "2024-08-25T10:09:13.847Z"
+publishedAt: '2024-08-25T10:09:13.847Z'
 excerpt: >-
   McLuhan predicted the global village, but also its tribalism. This article
   examines how the internet's collapse of space and time simultaneously connects
   and divides us through digital echo chambers and control over communication
   channels.
 author: Yeehaa
+coverImageId: global-village-people-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 4
 ---
-
 In his revelatory works _The Gutenberg Galaxy_ (1962) and _Understanding Media_ (1964), Marshall McLuhan predicts that connecting the world through technology will not lead to further unification. Rather, the connective powers of electricity, and the technical media built on top of it, will turn the world into a global village. As information travels rapidly across the globe, traditional distinctions between local and global, as well as between different cultures, are eroded. The concept of global village designates a contraction of space and time, creating a sense of simultaneous existence for people worldwide.
 
 To understand this concept in today's terms, imagine how social media platforms like Twitter or Facebook allow news and trends to spread globally within minutes. A protest in Hong Kong can inspire activists in New York almost instantaneously, exemplifying this collapse of geographical and temporal barriers.

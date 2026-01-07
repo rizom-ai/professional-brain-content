@@ -7,9 +7,8 @@ description: >-
   the field and proposing intelligence as practice rather than service.
   Introduces Rizom as living infrastructure for collective intelligence.
 author: Yeehaa
-publishedAt: "2025-09-01T00:00:00.000Z"
+publishedAt: '2025-09-01T00:00:00.000Z'
 ---
-
 # Forgotten Futures
 
 ## Intelligence as Practice

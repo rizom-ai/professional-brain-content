@@ -2,7 +2,7 @@
 title: Value Driven Development
 slug: value-driven-development
 status: published
-publishedAt: "2020-04-23T00:00:00.000Z"
+publishedAt: '2020-04-23T00:00:00.000Z'
 excerpt: >-
   Behaviour Driven Development is a practice that helps engineers and their
   users to align their expectations. In this post, I explain how Public Badges
@@ -12,7 +12,6 @@ author: Yeehaa
 seriesName: Public Badges
 seriesIndex: 2
 ---
-
 > 'Cause anything's possible, yeah
 > There's no code of ethics out here
 
