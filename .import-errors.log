@@ -242,8 +242,7 @@
 
 2025-12-19T17:46:37.318Z - [RECOVERED] note/README.md
 
-2025-12-31T05:51:49.927Z - series/series-public-badges.md: [
-  {
+2026-01-07T09:30:26.062Z - [RECOVERED] series/series-public-badges.md
     "code": "invalid_type",
     "expected": "string",
     "received": "undefined",
@@ -262,10 +261,8 @@
     "message": "Required"
   }
 ]
-→ series/series-public-badges.md.invalid
-
-2025-12-31T05:51:49.928Z - series/series-ecosystem-architecture.md: [
-  {
+2026-01-07T09:30:26.062Z - [RECOVERED] series/series-public-badges.md
+2026-01-07T09:30:26.065Z - [RECOVERED] series/series-ecosystem-architecture.md
     "code": "invalid_type",
     "expected": "string",
     "received": "undefined",
@@ -284,10 +281,8 @@
     "message": "Required"
   }
 ]
-→ series/series-ecosystem-architecture.md.invalid
-
-2025-12-31T05:51:49.928Z - series/series-new-institutions.md: [
-  {
+2026-01-07T09:30:26.065Z - [RECOVERED] series/series-ecosystem-architecture.md
+2026-01-07T09:30:26.067Z - [RECOVERED] series/series-new-institutions.md
     "code": "invalid_type",
     "expected": "string",
     "received": "undefined",
@@ -306,8 +301,7 @@
     "message": "Required"
   }
 ]
-→ series/series-new-institutions.md.invalid
-
+2026-01-07T09:30:26.067Z - [RECOVERED] series/series-new-institutions.md
 2026-01-03T14:24:12.683Z - [RECOVERED] social-post/cdkbC25n-r2q.md
 
 2026-01-03T14:24:12.679Z - [RECOVERED] social-post/GNDoc7Yn0j4Y.md
@@ -318,14 +312,11 @@
 
 2026-01-03T14:24:12.676Z - [RECOVERED] social-post/bDkiKdwAJjst.md
 
-2026-01-04T14:43:28.244Z - series/series-new-institutions.md: Entity type registration failed for series: No adapter registered for entity type
-→ series/series-new-institutions.md.invalid
+2026-01-07T09:30:26.067Z - [RECOVERED] series/series-new-institutions.md
 
-2026-01-04T14:43:28.245Z - series/series-ecosystem-architecture.md: Entity type registration failed for series: No adapter registered for entity type
-→ series/series-ecosystem-architecture.md.invalid
+2026-01-07T09:30:26.065Z - [RECOVERED] series/series-ecosystem-architecture.md
 
-2026-01-04T14:43:28.245Z - series/series-public-badges.md: Entity type registration failed for series: No adapter registered for entity type
-→ series/series-public-badges.md.invalid
+2026-01-07T09:30:26.062Z - [RECOVERED] series/series-public-badges.md
 
 2026-01-04T15:26:22.049Z - [RECOVERED] social-post/cdkbC25n-r2q.md
 
