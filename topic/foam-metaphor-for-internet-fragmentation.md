@@ -5,14 +5,14 @@ Peter Sloterdijk's foam concept offers a reframing of internet fragmentation fro
 
 ## Keywords
 
-- foam metaphor
 - Sloterdijk
+- foam metaphor
 - multiplicity
 - fragmentation
-- bubbles
-- fragile units
+- spheres trilogy
 - topological allocation
-- affirmative act
+- living space
+- affirmative philosophy
 
 ## Sources
 

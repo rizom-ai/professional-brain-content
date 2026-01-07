@@ -5,15 +5,16 @@ The essay identifies a critical problem in contemporary digital culture: the col
 
 ## Keywords
 
+- tribalism
 - echo chambers
 - filter bubbles
-- digital tribalism
+- digital division
 - polarization
-- algorithmic curation
 - online communities
-- ideological division
+- algorithmic curation
 - McLuhan
-- tribal identity
+- global village
+- social fragmentation
 
 ## Sources
 
@@ -21,3 +22,8 @@ The essay identifies a critical problem in contemporary digital culture: the col
 - Global Village People (global-village-people) [post]
 - Reclaiming The Future (reclaiming-the-future) [post]
 - Data Drive (data-drive) [post]
+- Across Space And Time (across-space-and-time) [post]
+- Align The Misaligned (align-the-misaligned) [post]
+- Urging New Institutions (urging-new-institutions) [post]
+- False Media (false-media) [post]
+- About (README) [note]

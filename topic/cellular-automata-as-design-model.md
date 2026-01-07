@@ -9,12 +9,10 @@ Cellular automata serve as a powerful model for understanding emergent ecosystem
 - Conway's Game of Life
 - emergent complexity
 - deterministic rules
+- generative systems
+- self-organization
+- pattern emergence
 - ethical rules
-- generative patterns
-- system evolution
-- rule-based design
-- creative emergence
-- innovation frameworks
 
 ## Sources
 

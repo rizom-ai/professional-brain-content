@@ -5,15 +5,15 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- environmental impact
 - e-waste
-- sustainability
+- environmental impact
 - carbon footprint
-- eco-innovation
-- manufacturing pollution
-- regenerative design
+- electronic waste
+- sustainability
+- pollution
 - resource depletion
-- circular economy
+- energy efficiency
+- regenerative design
 
 ## Sources
 

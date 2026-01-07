@@ -8,10 +8,11 @@ Filter bubbles represent curated digital spaces where algorithms and shared valu
 - filter bubbles
 - algorithms
 - echo chambers
+- biased curation
+- information economy
+- shared values
 - entrapment
 - solipsism
-- information curation
-- shared values
 - digital ecosystems
 
 ## Sources

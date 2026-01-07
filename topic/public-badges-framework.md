@@ -5,14 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- reputation systems
-- agent credibility
-- trust mechanisms
-- contributor quality
-- misinformation control
-- meritocracy
-- governance
-- content moderation
+- epistemology
+- information verification
+- source credibility
+- fake news
+- truth claims
+- agent evaluation
+- information quality
+- media literacy
 
 ## Sources
 
@@ -41,9 +41,12 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
-- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
+- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
 - Bots With An Attitude (bots-with-an-attitude) [deck]
 - Forgotten Futures (forgotten-futures) [deck]
+- bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
+- ADZcPto9FzFW (weve-built-our-entire-economic-system-on-scarcity) [social-post]
+- Intelligence Unleashed (intelligence-unleashed) [post]

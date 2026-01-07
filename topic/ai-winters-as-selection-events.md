@@ -5,14 +5,14 @@ AI winters are reframed not as failures but as evolutionary moments that selecte
 
 ## Keywords
 
-- counter-futures
-- temporal narratives
-- Afrofuturism
-- inevitability
-- alternative futures
-- agency
-- dystopia prevention
-- revisionist history
+- AI winters
+- selection events
+- emergence
+- control
+- centralization
+- rule-based systems
+- statistical scaling
+- technological choice
 
 ## Sources
 

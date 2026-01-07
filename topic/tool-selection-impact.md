@@ -5,16 +5,14 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 
 ## Keywords
 
-- industrial paradigm
-- organizational structure
-- institutional design
-- hierarchical control
-- labor alienation
-- standardization
-- systemic constraints
-- post-industrial mismatch
-- factory mindset
-- institutional collapse
+- regenerative design
+- renewal
+- revitalization
+- sustainability
+- wabi-sabi
+- kintsugi
+- ecosystem health
+- restoration
 
 ## Sources
 

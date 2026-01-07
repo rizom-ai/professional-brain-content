@@ -6,16 +6,16 @@ Georges Bataille's economic philosophy challenges the scarcity-driven logic that
 ## Keywords
 
 - Bataille
-- excess
-- abundance
+- excess economy
 - expenditure
-- scarcity
-- economy
-- wastefulness
-- non-utilitarian
-- generosity
-- paradigm shift
+- abundance mindset
+- accursed share
+- non-utilitarian value
+- symbolic economy
+- waste affirmation
 
 ## Sources
 
 - Economy Of Garbage (economy-of-garbage) [post]
+- Becoming Narrow Minded (becoming-narrow-minded) [deck]
+- The Low End Theory (the-low-end-theory) [post]

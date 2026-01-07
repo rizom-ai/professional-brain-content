@@ -5,12 +5,14 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- teaching and research integration
-- learning platforms
+- teaching platforms
+- research tools
+- institutional integration
+- workflow fragmentation
+- digital ecosystems
 - pedagogical design
-- digital education
-- classroom metaphor
-- platform architecture
+- knowledge infrastructure
+- platform separation
 
 ## Sources
 

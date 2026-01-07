@@ -5,15 +5,14 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- agency
-- collaboration
-- autonomous agents
-- human-bot teams
-- distributed work
-- hybrid systems
-- team contribution
-- artificial intelligence
 - remote collaboration
+- distributed teams
+- asynchronous communication
+- bot-mediated coordination
+- geographic dispersion
+- online teams
+- collaboration infrastructure
+- time zones
 
 ## Sources
 
@@ -40,3 +39,6 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 - Intelligence Unleashed (intelligence-unleashed) [post]
 - Forgotten Futures (forgotten-futures) [deck]
 - Value Driven Development (value-driven-development) [post]
+- The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post]
+- bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
+- The Good Foot (the-good-foot) [post]

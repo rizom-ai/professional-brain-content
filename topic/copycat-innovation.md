@@ -5,14 +5,14 @@ The essay describes how the moonshot model has been widely imitated by organizat
 
 ## Keywords
 
-- copycat culture
-- diluted innovation
-- marketing hype
-- Shenzhen model
-- venture capital
-- startup culture
-- counterfeit solutions
-- aspirational claims
+- imitation
+- innovation theater
+- marketing narrative
+- venture culture
+- counterfeit
+- Shenzhen
+- entrepreneurship
+- copycat strategies
 
 ## Sources
 

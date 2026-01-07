@@ -7,12 +7,12 @@ Cassettes are reusable, single-purpose functions designed to lower the barrier t
 
 - state machine
 - bot architecture
-- workflow automation
-- data processing pipeline
-- iterative refinement
-- agent design
-- system states
-- feedback loops
+- workflow design
+- asynchronous processing
+- domain modeling
+- system design
+- modular agents
+- automation pipeline
 
 ## Sources
 

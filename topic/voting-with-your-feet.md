@@ -5,14 +5,14 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
-- organic systems
-- community governance
-- meritocracy
-- algorithmic moderation
-- reputation thresholds
-- distributed management
-- self-regulation
-- ecosystem design
+- governance design
+- community moderation
+- algorithmic systems
+- feedback loops
+- accountability mechanisms
+- ecosystem thinking
+- distributed moderation
+- reputation systems
 
 ## Sources
 

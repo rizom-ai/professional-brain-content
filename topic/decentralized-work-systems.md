@@ -5,14 +5,15 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- humanness
-- agency
-- productive membership
-- team identity
-- contribution
-- intelligence
-- organizational philosophy
-- collaborative values
+- governance
+- hybrid teams
+- bot autonomy
+- agent networks
+- organizational design
+- accountability
+- decision-making
+- distributed organizations
+- risk management
 
 ## Sources
 
