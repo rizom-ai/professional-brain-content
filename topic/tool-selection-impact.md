@@ -5,16 +5,16 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 
 ## Keywords
 
-- electronic waste
-- environmental impact
-- carbon footprint
-- e-waste management
-- sustainability
-- manufacturing pollution
-- resource depletion
-- green technology
-- regenerative design
-- environmental standards
+- industrial paradigm
+- organizational structure
+- institutional design
+- hierarchical control
+- labor alienation
+- standardization
+- systemic constraints
+- post-industrial mismatch
+- factory mindset
+- institutional collapse
 
 ## Sources
 
@@ -25,3 +25,7 @@ The choice of tools fundamentally shapes what problems we can perceive and solve
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - Practice Innovation (practice-innovation) [post]
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post]
+- Learning From Nature (learning-from-nature) [post]
+- When All We Have is a Hammer (when-all-we-have-is-a-hammer) [post]
+- Bots With An Attitude (bots-with-an-attitude) [deck]
+- The Future of Work is Play (the-future-of-work-is-play) [post]

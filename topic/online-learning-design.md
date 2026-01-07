@@ -5,13 +5,12 @@ Online education represents a fundamentally different mode of learning, not mere
 
 ## Keywords
 
-- digital futures
-- technological inevitability
-- counter-futures
-- Afrofuturism
-- agency reclamation
-- alternative possibilities
-- narrative resistance
+- teaching and research integration
+- learning platforms
+- pedagogical design
+- digital education
+- classroom metaphor
+- platform architecture
 
 ## Sources
 
@@ -32,3 +31,5 @@ Online education represents a fundamentally different mode of learning, not mere
 - M51d0yQ7zRk4 (most-organizations-are-built-like-machines-they) [social-post]
 - series-public-badges (public-badges) [series]
 - The Good Foot (the-good-foot) [post]
+- False Media (false-media) [post]
+- Value Driven Development (value-driven-development) [post]

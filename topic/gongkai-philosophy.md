@@ -6,15 +6,15 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 ## Keywords
 
 - shanzhai
+- decentralization
+- manufacturing
 - gongkai
-- decentralized manufacturing
-- hardware innovation
-- peer-to-peer production
 - open hardware
+- peer-to-peer
+- innovation
 - intellectual property
-- ecosystem-sourced development
+- ecosystem resilience
 - rapid iteration
-- electronic waste
 
 ## Sources
 
@@ -24,3 +24,5 @@ Gongkai, meaning 'open' or 'to make public,' represents a fundamentally differen
 - Data Drive (data-drive) [post]
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
 - Untitled WEBP image (across-space-and-time-cover) [image]
+- bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
+- The Good Foot (the-good-foot) [post]

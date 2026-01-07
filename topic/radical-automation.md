@@ -5,14 +5,15 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- knowledge systems
-- information architecture
-- collective intelligence
-- data sovereignty
-- knowledge governance
-- distributed networks
-- information flow
-- knowledge infrastructure
+- agency
+- collaboration
+- autonomous agents
+- human-bot teams
+- distributed work
+- hybrid systems
+- team contribution
+- artificial intelligence
+- remote collaboration
 
 ## Sources
 
@@ -29,10 +30,13 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 - The Future of Work is Play (the-future-of-work-is-play) [post]
 - series-public-badges (public-badges) [series]
 - M51d0yQ7zRk4 (most-organizations-are-built-like-machines-they) [social-post]
-- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
+- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
 - hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
 - ADZcPto9FzFW (weve-built-our-entire-economic-system-on-scarcity) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - Practice Innovation (practice-innovation) [post]
 - Untitled WEBP image (across-space-and-time-cover) [image]
 - Across Space And Time (across-space-and-time) [post]
+- Intelligence Unleashed (intelligence-unleashed) [post]
+- Forgotten Futures (forgotten-futures) [deck]
+- Value Driven Development (value-driven-development) [post]

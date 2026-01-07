@@ -5,16 +5,15 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 
 ## Keywords
 
-- regeneration
-- restoration
-- renewal
+- environmental impact
+- e-waste
 - sustainability
-- waste reduction
-- ecosystem health
-- Kintsugi
-- Wabi-sabi
-- circular thinking
-- transformative design
+- carbon footprint
+- eco-innovation
+- manufacturing pollution
+- regenerative design
+- resource depletion
+- circular economy
 
 ## Sources
 
@@ -54,3 +53,4 @@ Ecosystem architecture is a forward-thinking practice that blends decentralized 
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
 - xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
+- ADZcPto9FzFW (weve-built-our-entire-economic-system-on-scarcity) [social-post]

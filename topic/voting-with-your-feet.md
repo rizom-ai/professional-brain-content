@@ -5,16 +5,14 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 
 ## Keywords
 
+- organic systems
+- community governance
+- meritocracy
+- algorithmic moderation
+- reputation thresholds
+- distributed management
+- self-regulation
 - ecosystem design
-- decentralization
-- regenerative design
-- organizational structure
-- living systems
-- innovation practice
-- resilience
-- sustainability
-- community building
-- systemic thinking
 
 ## Sources
 
@@ -39,10 +37,11 @@ Voting with your feet is a fundamental principle of healthy ecosystems that enab
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - M51d0yQ7zRk4 (most-organizations-are-built-like-machines-they) [social-post]
 - RSOUU_oqX-AR (ive-been-revisiting-some-of-my-older-essays-latel) [social-post]
-- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
+- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
 - ADZcPto9FzFW (weve-built-our-entire-economic-system-on-scarcity) [social-post]
 - hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
 - bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]
 - Untitled WEBP image (across-space-and-time-cover) [image]
+- The Low End Theory (the-low-end-theory) [post]

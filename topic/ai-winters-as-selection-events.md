@@ -5,18 +5,18 @@ AI winters are reframed not as failures but as evolutionary moments that selecte
 
 ## Keywords
 
-- AI winters
-- selection events
-- emergence
-- control systems
-- rule-based
-- statistical scaling
-- Conway's Game of Life
-- technological constraints
-- design choices
+- counter-futures
+- temporal narratives
+- Afrofuturism
+- inevitability
 - alternative futures
+- agency
+- dystopia prevention
+- revisionist history
 
 ## Sources
 
 - Forgotten Futures (forgotten-futures) [deck]
 - Reclaiming The Future (reclaiming-the-future) [post]
+- Becoming Narrow Minded (becoming-narrow-minded) [deck]
+- bDkiKdwAJjst (ive-been-thinking-a-lot-about-the-gap-between-how) [social-post]

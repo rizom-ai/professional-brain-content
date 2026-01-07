@@ -5,16 +5,14 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- innovation practice
-- experimentation
-- creativity
-- problem-solving
-- adaptation
-- collaborative culture
-- sustainable innovation
-- ideation
-- refinement
-- cultural transformation
+- reputation systems
+- agent credibility
+- trust mechanisms
+- contributor quality
+- misinformation control
+- meritocracy
+- governance
+- content moderation
 
 ## Sources
 
@@ -43,7 +41,9 @@ Public Badges represents a practical tool designed to address the trust crisis b
 - series-ecosystem-architecture (ecosystem-architecture) [series]
 - FEay0MHlzz4N (ecosystems-dont-need-to-be-confined-to-one-place) [social-post]
 - qHwpR6gM_n8f (were-drowning-in-information-but-starving-for-mea) [social-post]
-- GNDoc7Yn0j4Y (weve-been-building-organizations-like-machines-fo) [social-post]
+- xAOt86-vHMm8 (weve-been-building-organizations-like-machines-fo) [social-post]
 - IF9oRL_4q_Db (most-organizations-are-built-like-machines-we-de) [social-post]
 - hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
 - cdkbC25n-r2q (most-networking-events-are-built-backwards-we-sh) [social-post]
+- Bots With An Attitude (bots-with-an-attitude) [deck]
+- Forgotten Futures (forgotten-futures) [deck]

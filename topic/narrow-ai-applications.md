@@ -5,14 +5,14 @@ The content presents a strategic case for building many specialized, single-purp
 
 ## Keywords
 
-- decentralization
-- peer recognition
-- community validation
-- distributed authority
-- credentialing
-- transparency
-- social incentives
-- achievement systems
+- fake news
+- misinformation
+- fact-checking
+- information verification
+- source credibility
+- truth problem
+- content evaluation
+- epistemic challenges
 
 ## Sources
 
@@ -30,3 +30,5 @@ The content presents a strategic case for building many specialized, single-purp
 - Agency Trumps Humanness (agency-trumps-humanness) [post]
 - hZ0AygfQ4V8d (everyone-wants-to-cure-cancer-and-end-poverty-go) [social-post]
 - series-public-badges (public-badges) [series]
+- The Good Foot (the-good-foot) [post]
+- False Media (false-media) [post]

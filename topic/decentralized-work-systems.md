@@ -5,14 +5,14 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- network states
-- startup societies
-- digital communities
-- decentralization
-- shared values
-- diplomatic recognition
-- network archipelago
-- digital territory
+- humanness
+- agency
+- productive membership
+- team identity
+- contribution
+- intelligence
+- organizational philosophy
+- collaborative values
 
 ## Sources
 
