@@ -7,9 +7,8 @@ description: >-
   narrow AIs is a better approach than chasing general AI moonshots. The thesis
   remains as relevant as ever in the age of LLMs.
 author: Yeehaa
-publishedAt: "2020-12-13T00:00:00.000Z"
+publishedAt: '2020-12-13T00:00:00.000Z'
 ---
-
 # Becoming Narrow Minded
 
 ## AI: A Case for Low-Hanging Fruit
@@ -107,12 +106,12 @@ on moonshots. We take the opposite approach—deliberately tackling the 90% firs
 
 ### AI Stack
 
-| Layer          | Technology             |
-| -------------- | ---------------------- |
-| NLP            | spaCy, Compromise      |
-| Classification | TensorFlow.js          |
-| Rules          | Custom rule engines    |
-| Integration    | Slack, Microsoft Teams |
+| Layer | Technology |
+| ----- | ---------- |
+| NLP | spaCy, Compromise |
+| Classification | TensorFlow.js |
+| Rules | Custom rule engines |
+| Integration | Slack, Microsoft Teams |
 
 ---
 

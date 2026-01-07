@@ -2,17 +2,17 @@
 title: Reclaiming The Future
 slug: reclaiming-the-future
 status: published
-publishedAt: "2024-11-12T08:27:26.648Z"
+publishedAt: '2024-11-12T08:27:26.648Z'
 excerpt: >-
   Zuboff's surveillance capitalism weaponizes data to control behavior, making
   connection without alignment dangerous. This article concludes the series by
   advocating ecosystem architecture as the practice to design multiple
   inhabitable futures against predetermined dystopias.
 author: Yeehaa
+coverImageId: reclaiming-the-future-cover
 seriesName: Ecosystem Architecture
 seriesIndex: 11
 ---
-
 Ecosystem architecture encourages us to invest in futures that we would like to inhabit rather than settling for the one we expect to become reality. From its inception, the true promise of the decentralized internet has been the multiplication of public and private spaces. More importantly, we acquired an unrivaled degree of ownership over them. We did not lose the internet due to fragmentation, but because we started outsourcing our responsibility to take care of it to governments and corporations. It is high time to reclaim it.
 
 While the internet is irrecoverably shattered, I sincerely believe that it is still possible to prevent the tectonic plates from further drifting apart. However, the odds are rapidly stacking against us. Without swift and clear interventions, we will be destined for a future that is already being written for us.
