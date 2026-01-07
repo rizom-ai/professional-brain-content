@@ -11,7 +11,7 @@ year: 2024
 ---
 ## Context
 
-42Workspace is Rotterdam's premier coworking space, serving as a central hub for the city's tech startup and innovation community. The facility was designed to address a fundamental gap in Rotterdam's ecosystem: while the city had technical talent and entrepreneurial energy, it lacked a physical and social infrastructure where these forces could connect and collaborate. The space operates as both a practical workspace provider and a community architect, hosting everything from day-pass users to private office tenants, while maintaining an active calendar of networking events, tech talks, pitch competitions, and hackathons.
+42Workspace is Rotterdam's leading coworking space, serving as a central hub for the city's tech startup and innovation community. The facility was designed to address a fundamental gap in Rotterdam's ecosystem: while the city had technical talent and entrepreneurial energy, it lacked a physical and social infrastructure where these forces could connect and collaborate. The space operates as both a practical workspace provider and a community architect, hosting everything from day-pass users to private office tenants, while maintaining an active calendar of networking events, tech talks, pitch competitions, and hackathons.
 
 ## Problem
 
