@@ -7,6 +7,7 @@ description: >-
   connecting startups with superconnectors who can provide game-changing
   introductions to solve critical business challenges.
 year: 2021
+coverImageId: superconnectors-cover
 ---
 ## Context
 
