@@ -5,16 +5,13 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- decentralized work
-- alternative systems
-- autonomous coordination
-- blockchain trust
-- ownership models
-- creator economy
-- remote collaboration
-- distributed networks
-- institutional alternatives
-- value exchange
+- play-based work
+- intrinsic motivation
+- human nature
+- voluntary engagement
+- creative collaboration
+- meaning-making
+- autonomous work
 
 ## Sources
 
