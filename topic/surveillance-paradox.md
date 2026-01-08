@@ -5,16 +5,13 @@ The essay identifies a critical problem in contemporary digital culture: the col
 
 ## Keywords
 
-- tribalism
-- echo chambers
-- filter bubbles
-- digital division
-- polarization
-- online communities
-- algorithmic curation
-- McLuhan
-- global village
-- social fragmentation
+- institutional legitimacy
+- democratic crisis
+- constitutional failure
+- political disregard
+- institutional bankruptcy
+- selective authority
+- populism
 
 ## Sources
 

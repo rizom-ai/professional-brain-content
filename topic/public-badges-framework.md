@@ -5,16 +5,13 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- systemic breakdown
-- organizational misalignment
-- industrial frameworks
-- work alienation
-- collective action traps
-- institutional constraints
-- talent waste
-- purpose deficit
-- permission culture
-- structural reform
+- institutional reform
+- decentralized systems
+- civil society
+- institutional design
+- modern governance
+- institutional innovation
+- structural redesign
 
 ## Sources
 
