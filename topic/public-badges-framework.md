@@ -5,14 +5,16 @@ Public Badges represents a practical tool designed to address the trust crisis b
 
 ## Keywords
 
-- epistemology
-- information verification
-- source credibility
-- fake news
-- truth claims
-- agent evaluation
-- information quality
-- media literacy
+- systemic breakdown
+- organizational misalignment
+- industrial frameworks
+- work alienation
+- collective action traps
+- institutional constraints
+- talent waste
+- purpose deficit
+- permission culture
+- structural reform
 
 ## Sources
 

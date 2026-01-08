@@ -5,15 +5,16 @@ The article explores how emerging technologies enable fundamentally new ways of 
 
 ## Keywords
 
-- governance
-- hybrid teams
-- bot autonomy
-- agent networks
-- organizational design
-- accountability
-- decision-making
-- distributed organizations
-- risk management
+- decentralized work
+- alternative systems
+- autonomous coordination
+- blockchain trust
+- ownership models
+- creator economy
+- remote collaboration
+- distributed networks
+- institutional alternatives
+- value exchange
 
 ## Sources
 
