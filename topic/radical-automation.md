@@ -5,14 +5,13 @@ Radical automation is presented as a core principle for tackling low-hanging fru
 
 ## Keywords
 
-- remote collaboration
-- distributed teams
-- asynchronous communication
-- bot-mediated coordination
-- geographic dispersion
-- online teams
-- collaboration infrastructure
-- time zones
+- AI integration
+- semantic search
+- embeddings
+- topic extraction
+- automated summarization
+- intelligent connections
+- Claude API
 
 ## Sources
 

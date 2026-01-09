@@ -7,6 +7,7 @@ description: >-
   A plugin-based knowledge management system that turns markdown into an
   intelligent, AI-powered digital brain.
 year: 2024
+coverImageId: rizom-brains-cover
 technologies:
   - TypeScript
   - Bun

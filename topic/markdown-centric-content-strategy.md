@@ -7,12 +7,11 @@ Rizom Brains treats plain markdown files with YAML frontmatter as the single sou
 
 - markdown
 - YAML frontmatter
-- plain text
 - version control
 - portability
-- source of truth
-- filesystem sync
-- tool-agnostic
+- single source of truth
+- directory sync
+- plain text
 
 ## Sources
 
