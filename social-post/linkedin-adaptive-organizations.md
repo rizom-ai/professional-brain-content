@@ -1,4 +1,5 @@
 ---
+title: Adaptive Organizations
 platform: linkedin
 status: queued
 queueOrder: 2

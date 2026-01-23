@@ -1,4 +1,5 @@
 ---
+title: Beyond the Hammer
 platform: linkedin
 status: queued
 queueOrder: 1

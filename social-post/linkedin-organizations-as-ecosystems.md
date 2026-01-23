@@ -1,4 +1,5 @@
 ---
+title: Organizations as Ecosystems
 platform: linkedin
 status: queued
 queueOrder: 3

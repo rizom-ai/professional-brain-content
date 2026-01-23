@@ -1,4 +1,5 @@
 ---
+title: Economy of Abundance
 platform: linkedin
 status: queued
 queueOrder: 1
