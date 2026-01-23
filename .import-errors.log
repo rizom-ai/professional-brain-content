@@ -332,3 +332,94 @@
 
 2026-01-04T15:26:22.042Z - [RECOVERED] social-post/bDkiKdwAJjst.md
 
+2026-01-23T06:54:36.356Z - social-post/hZ0AygfQ4V8d.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/hZ0AygfQ4V8d.md.invalid
+
+2026-01-23T06:54:36.358Z - social-post/xAOt86-vHMm8.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/xAOt86-vHMm8.md.invalid
+
+2026-01-23T06:54:36.359Z - social-post/IF9oRL_4q_Db.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/IF9oRL_4q_Db.md.invalid
+
+2026-01-23T06:54:36.360Z - social-post/ADZcPto9FzFW.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/ADZcPto9FzFW.md.invalid
+
+2026-01-23T06:54:36.360Z - social-post/bDkiKdwAJjst.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/bDkiKdwAJjst.md.invalid
+
+2026-01-23T06:54:36.361Z - social-post/GNDoc7Yn0j4Y.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/GNDoc7Yn0j4Y.md.invalid
+
+2026-01-23T06:54:36.362Z - social-post/cdkbC25n-r2q.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/cdkbC25n-r2q.md.invalid
+
