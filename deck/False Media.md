@@ -6,6 +6,7 @@ description: >-
   An exploration of how fake news isn't just bad information—it's a symptom of
   broken systems. We need to redesign the structures that produce and distribute
   meaning, not just fact-check our way out of the problem.
+coverImageId: false-media-cover
 ---
 # False Media
 
