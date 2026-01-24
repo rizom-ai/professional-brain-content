@@ -2,11 +2,10 @@
 name: Ecosystem Architecture
 slug: ecosystem-architecture
 description: >-
-  Ecosystem Architecture explores how to design organizations and communities as
-  living systems rather than machines, moving beyond surveillance capitalism and
-  extractive models toward regenerative, decentralized structures. From
-  fragmented digital networks to permaculture principles and startup societies,
-  this series charts a practice for building inhabitable futures through
-  alignment, emergence, and collective intelligence.
+  Explore ecosystem architecture as a practice for building decentralized,
+  regenerative organizations that transcend traditional hierarchies. This series
+  traces how fragmented digital networks, nature's collaborative systems, and
+  alternative economic models offer blueprints for designing intentional
+  communities that work like living systems rather than machines.
 ---
 # Ecosystem Architecture
