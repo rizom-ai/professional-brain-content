@@ -5,15 +5,13 @@ Effectively communicating transformative ideas requires more than presenting con
 
 ## Keywords
 
-- knowledge sharing
-- information circulation
-- network effects
-- intellectual resources
-- open knowledge
-- collaborative learning
-- information abundance
-- value multiplication
-- knowledge systems
+- values alignment
+- shared values
+- democratic consensus
+- community agreement
+- value negotiation
+- civic foundation
+- collective commitment
 
 ## Sources
 
@@ -25,3 +23,4 @@ Effectively communicating transformative ideas requires more than presenting con
 - The Low End Theory (linkedin-the-low-end-theory-20260123) [social-post] <linkedin-the-low-end-theory|53b16259bed16c85e67257b7ba0f3450141bb12a482cf7e31eeba23165598721>
 - Beyond the Hammer (linkedin-beyond-the-hammer-20260123) [social-post] <linkedin-beyond-the-hammer|b35034d3c050d403080d5ec1385fb0c08fa1416ecfa8ad53df9415d0cda6de0f>
 - Economy of Abundance (linkedin-economy-of-abundance-20260123) [social-post] <linkedin-economy-of-abundance|d57125024128dfc47bb9893c45ccfa6af3694144a6194e4ef711f1763efe1189>
+- Urging New Institutions (urging-new-institutions) [post] <Urging New Institutions|1f4088adde6a9835cda52d0669a4caf140be8086aa0355322758747d77197d94>

@@ -9,7 +9,7 @@ excerpt: >-
   series on rebuilding civil societies with decentralized tools, grounded in
   aligned values and functioning social contracts.
 author: Yeehaa
-coverImageId: urging-new-institutions
+coverImageId: urging-new-institutions-cover
 seriesName: New Institutions
 seriesIndex: 1
 ---

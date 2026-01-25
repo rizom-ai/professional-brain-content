@@ -5,15 +5,13 @@ Ecosystem architecture is a design practice for creating multiple inhabitable fu
 
 ## Keywords
 
-- ecosystem architecture
-- organizational design
-- living systems
-- adaptive organizations
-- knowledge infrastructure
-- team building
-- systemic flourishing
-- circular value
-- regenerative design
+- institutional reform
+- decentralized systems
+- civil society
+- organizational redesign
+- modern governance
+- institutional architecture
+- asynchronous tools
 
 ## Sources
 
@@ -42,3 +40,4 @@ Ecosystem architecture is a design practice for creating multiple inhabitable fu
 - Flip the Network Script (linkedin-flip-the-network-script-20260123) [social-post] <linkedin-flip-the-network-script|a4b7126c4b728db2c6a022b4282628ce807de713400fe2dad0d4934860df6b6b>
 - Beyond the Hammer (linkedin-beyond-the-hammer-20260123) [social-post] <linkedin-beyond-the-hammer|b35034d3c050d403080d5ec1385fb0c08fa1416ecfa8ad53df9415d0cda6de0f>
 - Economy of Abundance (linkedin-economy-of-abundance-20260123) [social-post] <linkedin-economy-of-abundance|d57125024128dfc47bb9893c45ccfa6af3694144a6194e4ef711f1763efe1189>
+- Urging New Institutions (urging-new-institutions) [post] <Urging New Institutions|1f4088adde6a9835cda52d0669a4caf140be8086aa0355322758747d77197d94>
