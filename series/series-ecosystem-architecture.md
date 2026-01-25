@@ -2,10 +2,11 @@
 title: Ecosystem Architecture
 slug: ecosystem-architecture
 description: >-
-  Explore how to design organizations and communities as living systems rather
-  than machines. This series examines ecosystem architecture—blending
-  decentralization, regenerative design, and complexity theory—to build
-  inhabitable futures that embrace fragmentation, honor multiplicity, and create
-  structures where people can genuinely thrive.
+  Ecosystem Architecture explores how to design organizations and communities
+  that work like living systems rather than machines. Drawing from philosophy,
+  nature, and global innovation practices, this series shows you how to embrace
+  complexity, decentralization, and regenerative thinking to build inhabitable
+  futures that resist predetermined dystopias.
+coverImageId: ecosystem-architecture-cover
 ---
 # Ecosystem Architecture
