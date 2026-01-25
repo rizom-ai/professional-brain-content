@@ -444,3 +444,42 @@
 2026-01-24T13:26:50.321Z - website-metrics/website-metrics-2026-01-21.md: Entity type registration failed for website-metrics: No adapter registered for entity type
 → website-metrics/website-metrics-2026-01-21.md.invalid
 
+2026-01-25T18:22:21.497Z - series/series-public-badges.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ series/series-public-badges.md.invalid
+
+2026-01-25T18:22:21.504Z - series/series-ecosystem-architecture.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ series/series-ecosystem-architecture.md.invalid
+
+2026-01-25T18:22:21.504Z - series/series-new-institutions.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ series/series-new-institutions.md.invalid
+
