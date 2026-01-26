@@ -1,7 +1,7 @@
 ---
 title: Ecosystem Architecture
 slug: ecosystem-architecture
-coverImageId: ecosystem-architecture-cover
+coverImageId: ecosystem-architecture-series-cover
 ---
 # Ecosystem Architecture
 
