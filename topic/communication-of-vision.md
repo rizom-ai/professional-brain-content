@@ -5,13 +5,14 @@ Effectively communicating transformative ideas requires more than presenting con
 
 ## Keywords
 
-- values alignment
-- shared values
-- democratic consensus
-- community agreement
-- value negotiation
-- civic foundation
-- collective commitment
+- work culture
+- play
+- creativity
+- exploration
+- experimentation
+- meaningful work
+- intrinsic motivation
+- human flourishing
 
 ## Sources
 
@@ -24,3 +25,4 @@ Effectively communicating transformative ideas requires more than presenting con
 - Beyond the Hammer (linkedin-beyond-the-hammer-20260123) [social-post] <linkedin-beyond-the-hammer|b35034d3c050d403080d5ec1385fb0c08fa1416ecfa8ad53df9415d0cda6de0f>
 - Economy of Abundance (linkedin-economy-of-abundance-20260123) [social-post] <linkedin-economy-of-abundance|d57125024128dfc47bb9893c45ccfa6af3694144a6194e4ef711f1763efe1189>
 - Urging New Institutions (urging-new-institutions) [post] <Urging New Institutions|1f4088adde6a9835cda52d0669a4caf140be8086aa0355322758747d77197d94>
+- Future of Work is Play (linkedin-future-of-work-is-play-20260126) [social-post] <linkedin-future-of-work-is-play-20260124|814fb48c5b1dc26d19d3b07ae6dab31515221485dba26b76ef1df8b7ef6839f0>

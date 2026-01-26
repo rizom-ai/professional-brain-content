@@ -8,83 +8,82 @@ description: >-
   ecosystem instead of a rigid hierarchy.
 author: Rizom
 ---
-# Distributed Expertise
+# Why do the best people work alone?
 
 ---
 
-## Why do the best people work alone?
+## They're done.
 
-They're tired of waiting for consensus.
+Done waiting for consensus.
 
-They're tired of meetings about meetings.
+Done with meetings about meetings.
 
-They're tired of organizational drag.
+Done subsidizing organizational drag.
 
-But complex problems need multiple perspectives. So they stay isolated—or they join firms that slow them down.
+But complex problems need multiple minds.
 
-There's a third way.
+So they stay isolated—or join firms that slow them down.
 
----
-
-## The Problem Nobody Talks About
-
-Knowledge is trapped.
-
-Not in databases. In people. In proprietary processes. In organizations designed for the 1980s.
-
-When you need expertise, you either:
-
-**Hire a firm** → 3-month sales cycle, team you didn't choose, cookie-cutter approach
-
-**Hire individuals** → Fragmented advice, no accountability, no methodology
-
-There's no middle ground. Until now.
+**There's a third way.**
 
 ---
 
-## What If Expertise Moved Like a Network?
+## The Real Problem
 
-Not like a hierarchy. Like a nervous system.
+Knowledge doesn't flow. It gets trapped.
 
-Specialized nodes. Shared methodology. Instant coordination.
+In people's heads. In old Slack threads. In private AI chats.
 
-The best consultant in Berlin doesn't know the best strategist in São Paulo. But they should be able to work together in hours, not months.
+When you need expertise, you get two bad options:
 
-That's the network we're building.
+- **Hire a firm** → 3-month sales cycle. Team you didn't pick. Generic playbook.
+- **Hire freelancers** → No shared context. No methodology. No accountability.
+
+Both options fail for the same reason: they can't solve the knowledge problem.
 
 ---
 
-## The TMS Framework
+## What Actually Works
 
-**Specialization** → Deep expertise, not generalists
+High-performing teams don't share all knowledge.
 
-**Methodology** → Shared language, repeatable quality
+They share awareness of *who knows what*—and systems to access it fast.
 
-**Coordination** → AI + infrastructure that makes collaboration frictionless
+This is called a Transactive Memory System.
 
-When these three align, something changes. You don't get a team. You get an organism.
+It's not a tool. It's not a process.
+
+It's how effective collaboration actually happens.
+
+---
+
+## Three Dimensions
+
+- **Specialization** → Deep expertise, clearly mapped. Everyone knows who knows what.
+- **Credibility** → Trust in each other's judgment. No second-guessing, no redundant verification.
+- **Coordination** → Right knowledge reaches the right person at the right moment.
+
+When all three align, you don't get a team.
+
+You get an organism.
 
 ---
 
 ## Rizom Is Three Things
 
-**A network of independent professionals** who chose to be here because they work better together
+- **A network** of independent professionals who work better together than apart
+- **A methodology** that lets specialists collaborate without reinventing process every time
+- **Infrastructure** that handles knowledge flow, coordination, and the operational overhead
 
-**A methodology** that lets specialists from different domains collaborate without reinventing process
-
-**Infrastructure** that handles the boring stuff—scheduling, documentation, knowledge flow, client coordination
-
-You call with a problem. We assemble the right people. Work starts tomorrow.
+You call with a problem. We assemble the right people. Work starts in days, not months.
 
 ---
 
-## Outcome-Based Teams
+## Outcome-Based, Not Hours-Based
 
-We don't bill hours. We ship outcomes.
+We don't bill time. We ship results.
 
-You define the problem. We propose the team and the timeline. We own the result.
-
-This changes everything about how we work:
+You define the problem. We propose the team and timeline. We own the outcome.
 
 - No padding timelines
 - No unnecessary people in the room
@@ -94,52 +93,43 @@ We win when you win.
 
 ---
 
-## The Workshop Model
+## Start With Clarity
 
 Most consulting starts with a 3-month discovery phase.
 
 We start with a 2-day intensive workshop.
 
-In 48 hours, the right people in the room can clarify what actually matters. Map the real constraints. Identify what's solvable.
+The right people in one room can clarify what actually matters, map real constraints, and identify what's solvable—in 48 hours.
 
-Then we either build the solution or hand you the blueprint to build it yourself.
+Then we build the solution or hand you the blueprint.
 
 ---
 
-## Infrastructure for Professionals
+## Infrastructure That Disappears
 
 We built tools for how independent experts actually work:
 
-- **Async-first collaboration** → No more calendar Tetris
+- **Async-first** → No calendar Tetris
 - **Knowledge capture** → What you learn stays accessible
-- **Client transparency** → Real-time progress, no surprises
-- **Credential verification** → You know who you're working with
+- **Client transparency** → Real-time progress, no status theater
 
-This is the scaffolding that lets specialists act like a single organism.
+The scaffolding that lets specialists act like a single organism.
 
 ---
 
 ## Speed Is a Feature
 
-Traditional consultancy: 3 months to assemble a team, understand your problem, and propose a solution.
+Traditional consultancy: months to assemble, understand, propose.
 
-Rizom: 48 hours.
+Rizom: days.
 
-Not because we're smarter. Because we're already organized. The network is pre-formed. The methodology is shared. The infrastructure is built.
+Not because we're smarter. Because we're already organized.
+
+- The network exists
+- The methodology is shared
+- The infrastructure is built
 
 We don't need to learn how to work together. We already know.
-
----
-
-## Who This Is For
-
-Companies that need expertise they can't hire internally.
-
-Organizations tired of consulting theater.
-
-Leaders who want to move fast without sacrificing quality.
-
-You don't need a firm. You need a network.
 
 ---
 
@@ -149,10 +139,19 @@ Traditional firms optimize for utilization. Every consultant needs to be billabl
 
 We optimize for impact. People work on what matters.
 
-This means:
-- Better thinking (no pressure to pad projects)
-- Faster delivery (no organizational overhead)
-- Higher quality (specialists stay sharp by choosing their work)
+- **Better thinking** — no pressure to pad projects
+- **Faster delivery** — no organizational overhead
+- **Higher quality** — specialists stay sharp by choosing their work
+
+---
+
+## Who This Is For
+
+- Organizations that need expertise they can't hire
+- Leaders tired of consulting theater
+- Teams that want to move fast without sacrificing quality
+
+You don't need a firm. You need a network.
 
 ---
 
@@ -164,18 +163,18 @@ We propose a team and approach. No pitch deck. No sales theater.
 
 You say yes or no.
 
-If yes, we start in 48 hours.
+If yes, we start immediately.
 
 ---
 
-## This Is How Work Actually Works
+## This Is How Work Should Work
 
-Not through hierarchy or organizational charts.
+Not through hierarchy. Not through organizational charts.
 
 Through networks of people who know how to think together.
 
 We're building the infrastructure that makes this possible at scale.
 
-The question isn't whether distributed networks outperform traditional organizations.
+**The question isn't whether distributed networks outperform traditional organizations.**
 
-The question is why you're still waiting for a call back from a firm.
+**The question is why you're still waiting.**
