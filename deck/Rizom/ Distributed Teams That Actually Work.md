@@ -28,18 +28,30 @@ So they stay isolated—or join firms that slow them down.
 
 ---
 
-## The Real Problem
+## Knowledge Gets Trapped
 
-Knowledge doesn't flow. It gets trapped.
+In people's heads.
 
-In people's heads. In old Slack threads. In private AI chats.
+In old Slack threads.
 
-When you need expertise, you get two bad options:
+In private AI chats.
 
-- **Hire a firm** → 3-month sales cycle. Team you didn't pick. Generic playbook.
-- **Hire freelancers** → No shared context. No methodology. No accountability.
+In systems designed for the 1980s.
 
-Both options fail for the same reason: they can't solve the knowledge problem.
+This is why teams fail to scale. Every time.
+
+---
+
+## Two Bad Options
+
+When you need expertise:
+
+- **Hire a firm** → 3-month sales cycle. Team you didn't pick. Cookie-cutter playbook.
+- **Hire freelancers** → Fragmented advice. No shared context. No accountability.
+
+Both fail for the same reason.
+
+They can't solve the knowledge problem.
 
 ---
 
@@ -47,35 +59,101 @@ Both options fail for the same reason: they can't solve the knowledge problem.
 
 High-performing teams don't share all knowledge.
 
-They share awareness of *who knows what*—and systems to access it fast.
+They share awareness of *who knows what*.
 
-This is called a Transactive Memory System.
-
-It's not a tool. It's not a process.
-
-It's how effective collaboration actually happens.
+And they build trust and systems to access it fast.
 
 ---
 
-## Three Dimensions
+## Transactive Memory Systems
 
-- **Specialization** → Deep expertise, clearly mapped. Everyone knows who knows what.
-- **Credibility** → Trust in each other's judgment. No second-guessing, no redundant verification.
-- **Coordination** → Right knowledge reaches the right person at the right moment.
+This is an organizational psychology framework that explains how effective teams actually function.
 
-When all three align, you don't get a team.
+It has three dimensions:
+
+---
+
+## Specialization
+
+Knowledge is distributed, not duplicated.
+
+Everyone knows who knows what.
+
+*When this breaks: everyone tries to know everything, or nobody knows who to ask.*
+
+---
+
+## Credibility
+
+Team members trust each other's expertise.
+
+No second-guessing. No redundant verification.
+
+*When this breaks: slow decisions, constant re-checking, politics.*
+
+---
+
+## Coordination
+
+The right knowledge reaches the right person at the right moment.
+
+*When this breaks: bottlenecks, delays, context loss.*
+
+---
+
+## When All Three Align
+
+You don't get a team.
 
 You get an organism.
 
 ---
 
-## Rizom Is Three Things
+## This Is What Rizom Builds
 
-- **A network** of independent professionals who work better together than apart
-- **A methodology** that lets specialists collaborate without reinventing process every time
-- **Infrastructure** that handles knowledge flow, coordination, and the operational overhead
+A distributed consultancy that can do what traditional consultancies cannot:
 
-You call with a problem. We assemble the right people. Work starts in days, not months.
+Mobilize specialized expertise in days, not months—without the knowledge loss and coordination overhead that normally comes with flexible teams.
+
+---
+
+## The Network
+
+Independent professionals who chose to work together.
+
+Pre-formed relationships. Shared language. Trust already built.
+
+This is the product.
+
+---
+
+## The Methodology
+
+TMS-informed practices, playbooks, and contracts.
+
+How we onboard. How we hand off. How we capture what we learn.
+
+This is the intellectual property.
+
+---
+
+## The Infrastructure
+
+AI agents that maintain specialization maps, build credibility signals, and enable coordination at scale.
+
+Rover. Recall. Ranger.
+
+This is what makes the network operationally viable.
+
+---
+
+## What This Means For You
+
+You call with a problem.
+
+We assemble the right people.
+
+Work starts in days.
 
 ---
 
@@ -83,61 +161,31 @@ You call with a problem. We assemble the right people. Work starts in days, not 
 
 We don't bill time. We ship results.
 
-You define the problem. We propose the team and timeline. We own the outcome.
+- You define the problem
+- We propose the team and timeline
+- We own the outcome
 
-- No padding timelines
-- No unnecessary people in the room
-- No "we'll scope this later"
-
-We win when you win.
+No padding. No unnecessary people. No "we'll scope this later."
 
 ---
 
-## Start With Clarity
+## Start With a Workshop
 
-Most consulting starts with a 3-month discovery phase.
+Most consulting begins with a 3-month discovery phase.
 
-We start with a 2-day intensive workshop.
+We start with a 2-day intensive.
 
-The right people in one room can clarify what actually matters, map real constraints, and identify what's solvable—in 48 hours.
+The right people can clarify what matters, map constraints, and identify what's solvable—in 48 hours.
 
-Then we build the solution or hand you the blueprint.
-
----
-
-## Infrastructure That Disappears
-
-We built tools for how independent experts actually work:
-
-- **Async-first** → No calendar Tetris
-- **Knowledge capture** → What you learn stays accessible
-- **Client transparency** → Real-time progress, no status theater
-
-The scaffolding that lets specialists act like a single organism.
-
----
-
-## Speed Is a Feature
-
-Traditional consultancy: months to assemble, understand, propose.
-
-Rizom: days.
-
-Not because we're smarter. Because we're already organized.
-
-- The network exists
-- The methodology is shared
-- The infrastructure is built
-
-We don't need to learn how to work together. We already know.
+Then we build it or hand you the blueprint.
 
 ---
 
 ## The Distributed Advantage
 
-Traditional firms optimize for utilization. Every consultant needs to be billable.
+Traditional firms optimize for utilization. Every consultant must be billable.
 
-We optimize for impact. People work on what matters.
+We optimize for impact.
 
 - **Better thinking** — no pressure to pad projects
 - **Faster delivery** — no organizational overhead
@@ -149,7 +197,7 @@ We optimize for impact. People work on what matters.
 
 - Organizations that need expertise they can't hire
 - Leaders tired of consulting theater
-- Teams that want to move fast without sacrificing quality
+- Teams that want speed without sacrificing quality
 
 You don't need a firm. You need a network.
 
@@ -159,7 +207,7 @@ You don't need a firm. You need a network.
 
 You bring a problem. We listen.
 
-We propose a team and approach. No pitch deck. No sales theater.
+We propose a team and approach.
 
 You say yes or no.
 
@@ -167,14 +215,12 @@ If yes, we start immediately.
 
 ---
 
-## This Is How Work Should Work
+## Distributed Teams That Actually Work
 
-Not through hierarchy. Not through organizational charts.
+Not through hierarchy.
 
 Through networks of people who know how to think together.
 
-We're building the infrastructure that makes this possible at scale.
-
-**The question isn't whether distributed networks outperform traditional organizations.**
+**The question isn't whether this outperforms traditional organizations.**
 
 **The question is why you're still waiting.**
