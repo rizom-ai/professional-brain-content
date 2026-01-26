@@ -1,7 +1,7 @@
 ---
 title: Adaptive Organizations
 platform: linkedin
-status: queued
+status: draft
 queueOrder: 2
 retryCount: 0
 ---

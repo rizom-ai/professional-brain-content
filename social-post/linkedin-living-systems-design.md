@@ -1,7 +1,7 @@
 ---
 title: Living Systems Design
 platform: linkedin
-status: queued
+status: draft
 queueOrder: 4
 retryCount: 0
 ---

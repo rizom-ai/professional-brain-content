@@ -1,7 +1,7 @@
 ---
 title: Flip the Network Script
 platform: linkedin
-status: queued
+status: draft
 queueOrder: 5
 retryCount: 0
 ---
