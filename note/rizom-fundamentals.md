@@ -96,4 +96,3 @@ A world where talent flows to opportunity without friction, professionals own wh
 - "Distributed teams that actually work."
 - "The consultancy that scales like software."
 - "High-performing teams, assembled in hours."
-
