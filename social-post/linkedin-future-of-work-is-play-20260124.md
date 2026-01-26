@@ -2,6 +2,7 @@
 title: Future of Work is Play
 platform: linkedin
 status: draft
+coverImageId: future-of-work-is-play
 retryCount: 0
 ---
 We've been taught that work is the opposite of play.
