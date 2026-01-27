@@ -7,6 +7,7 @@ description: >-
   traditional organizations—proving that flexibility and excellence are not
   tradeoffs.
 year: 2024
+coverImageId: rizom-collective-cover
 ---
 ## Context
 

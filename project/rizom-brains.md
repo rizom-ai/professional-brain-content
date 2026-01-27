@@ -8,6 +8,7 @@ description: >-
   open protocols to transform how organizations share expertise and scale
   without friction.
 year: 2024
+coverImageId: rizom-brains-cover
 ---
 ## Context
 
