@@ -1,6 +1,6 @@
 ---
 subject: Why Fragmentation is Actually Your Best Opportunity
-status: draft
+status: published
 entityIds:
   - Align The Misaligned
 ---
