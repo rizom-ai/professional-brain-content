@@ -5,14 +5,13 @@ Effectively communicating transformative ideas requires more than presenting con
 
 ## Keywords
 
-- work culture
-- play
-- creativity
-- exploration
-- experimentation
-- meaningful work
-- intrinsic motivation
-- human flourishing
+- AI assistants
+- chatbot design
+- conversational AI
+- user interaction
+- viral systems
+- assistant architecture
+- AI deployment
 
 ## Sources
 
@@ -26,3 +25,5 @@ Effectively communicating transformative ideas requires more than presenting con
 - Economy of Abundance (linkedin-economy-of-abundance-20260123) [social-post] <linkedin-economy-of-abundance|d57125024128dfc47bb9893c45ccfa6af3694144a6194e4ef711f1763efe1189>
 - Urging New Institutions (urging-new-institutions) [post] <Urging New Institutions|1f4088adde6a9835cda52d0669a4caf140be8086aa0355322758747d77197d94>
 - Future of Work is Play (linkedin-future-of-work-is-play-20260126) [social-post] <linkedin-future-of-work-is-play-20260124|814fb48c5b1dc26d19d3b07ae6dab31515221485dba26b76ef1df8b7ef6839f0>
+- www.forbes.com (www-forbes-com-9aed58) [link] <www-forbes-com-9aed58|d5760117ba457a52119d16d6d2e2822cdaea3564577955a28497f3692618aac2>
+- www.wired.com (www-wired-com-b0b9cf) [link] <www-wired-com-b0b9cf|9fc4c2147fde7187da7e1581a829d6624892768041958204f4f36c8f732e19f4>
