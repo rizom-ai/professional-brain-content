@@ -1,8 +1,10 @@
 ---
 title: The Low End Theory
 platform: linkedin
-status: draft
+status: published
+coverImageId: the-low-end-theory
 queueOrder: 5
+publishedAt: '2026-02-02T08:06:22.793Z'
 sourceEntityId: The Low End Theory
 sourceEntityType: post
 retryCount: 0
