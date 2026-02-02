@@ -9,7 +9,7 @@ retryCount: 0
 ---
 Everyone wants to cure cancer and end poverty.
 
-Google does moonshots. They throw enormous resources at unsolvable problems. That's their playbook—and it works for them.
+Google does moonshots. They throw enormous resources at unsolvable problems. That's their playbook and it works for them.
 
 But somewhere along the way, we started confusing the problem with the solution.
 
