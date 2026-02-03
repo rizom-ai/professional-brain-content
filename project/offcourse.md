@@ -6,6 +6,7 @@ description: >-
   An open source platform democratizing online learning by enabling users to
   curate and share knowledge resources as structured, collaborative courses.
 year: 2013
+coverImageId: offcourse-cover
 ---
 ## Context
 

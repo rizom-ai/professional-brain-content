@@ -2,6 +2,7 @@
 title: Economy of Abundance
 platform: linkedin
 status: draft
+coverImageId: economy-of-abundance-cover
 queueOrder: 1
 retryCount: 0
 ---

@@ -7,6 +7,7 @@ description: >-
   that help organizations strengthen their knowledge infrastructure and work
   more effectively.
 year: 2019
+coverImageId: offcourse-studio-cover
 ---
 ## Context
 

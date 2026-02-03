@@ -7,6 +7,7 @@ description: >-
   message synchronization, and knowledge management—while preserving human
   agency and decision-making.
 year: 2020
+coverImageId: lefthoek-cover
 ---
 ## Context
 

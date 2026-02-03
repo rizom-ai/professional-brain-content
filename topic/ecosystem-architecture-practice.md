@@ -5,14 +5,16 @@ Ecosystem architecture is a design practice for creating multiple inhabitable fu
 
 ## Keywords
 
-- ecosystem architecture
-- organizational design
-- living systems
-- decentralization
-- regenerative design
-- human-centered organizations
-- adaptive structures
-- organizational culture
+- hybrid governance
+- reputation systems
+- meritocratic discourse
+- community values
+- accountability
+- decision-making
+- stakeholder alignment
+- quality evaluation
+- distributed governance
+- bot governance
 
 ## Sources
 
@@ -33,7 +35,7 @@ Ecosystem architecture is a design practice for creating multiple inhabitable fu
 - The Good Foot (the-good-foot) [post] <The Good Foot|cfbdf4b4ef8841a1cf62351719df9d4a0ec9df23ba4766aee8d0abc8f6f6ee04>
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post] <The Practice Of Ecosystem Architecture|d827e2468e0431f216422b292decd91447569ea3b5b7c0260ffd32885663b745>
 - Bots With An Attitude (bots-with-an-attitude) [deck] <Bots With An Attitude|399e56096f81245e034028b2099ddfa0b1f859f4afd325eac6a72a453a65ab56>
-- Rizom Collective (rizom-collective) [project] <rizom-collective|a01abc81615b5e3ae6ff0271141aa48bcb6d02c155880823b123f8fc77a76ba9>
+- Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|6ab6170736e9794dd46c8626cd10c7ab844ddb1be779193d2025f5a47ef70506>
 - Adaptive Organizations (linkedin-adaptive-organizations-20260123) [social-post] <linkedin-adaptive-organizations|71b8f749975b750bda8e5434c13904abb860d37ba6f6a75965f6b784517ad1ae>
 - Living Systems Design (linkedin-living-systems-design-20260123) [social-post] <linkedin-living-systems-design|5b2a1adb51d885ba44d28698510f92c4ddd82fea06a7ccbfddb89c557372df33>
 - The Low End Theory (linkedin-the-low-end-theory-20260123) [social-post] <linkedin-the-low-end-theory|53b16259bed16c85e67257b7ba0f3450141bb12a482cf7e31eeba23165598721>
@@ -43,3 +45,7 @@ Ecosystem architecture is a design practice for creating multiple inhabitable fu
 - Economy of Abundance (linkedin-economy-of-abundance-20260123) [social-post] <linkedin-economy-of-abundance|d57125024128dfc47bb9893c45ccfa6af3694144a6194e4ef711f1763efe1189>
 - Urging New Institutions (urging-new-institutions) [post] <Urging New Institutions|1f4088adde6a9835cda52d0669a4caf140be8086aa0355322758747d77197d94>
 - Future of Work is Play (linkedin-future-of-work-is-play-20260126) [social-post] <linkedin-future-of-work-is-play-20260124|814fb48c5b1dc26d19d3b07ae6dab31515221485dba26b76ef1df8b7ef6839f0>
+- Rizom Brains: Knowledge Infrastructure for Distributed Teams (rizom-brains-knowledge-infrastructure-for-distributed-teams) [project] <rizom-brains|84b54a8e191f3c2745cf7cc517d07a3f85cdabf4770f1b90374e6d49c34295f4>
+- Superconnectors (superconnectors) [project] <superconnectors|cbf090d6f708a99efc431d2b6feee4ccc81bb29c9dadd35b4c66aadcfb43e607>
+- Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1c44cfe323da389f0267d618aa0e8bb0b7d7a6c17352333d24c94aad9db96c13>
+- Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|938ae3957a88742c40d01b6eeeb17ffcd7b7c3d98739dcdeabac536b93c88ac1>

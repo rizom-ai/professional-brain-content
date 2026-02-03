@@ -7,6 +7,7 @@ description: >-
   community members in collaborative spaces, redefining human-AI relationships
   through ethical creative intelligence.
 year: 2020
+coverImageId: bots-with-an-attitude-cover
 ---
 ## Context
 

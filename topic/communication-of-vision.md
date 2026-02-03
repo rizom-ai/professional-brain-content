@@ -5,13 +5,16 @@ Effectively communicating transformative ideas requires more than presenting con
 
 ## Keywords
 
-- AI assistants
-- chatbot design
-- conversational AI
-- user interaction
-- viral systems
-- assistant architecture
-- AI deployment
+- cassette architecture
+- modular design
+- state machines
+- bot development
+- participatory systems
+- reusable functions
+- low barriers to entry
+- extensible platforms
+- community-driven development
+- democratized AI
 
 ## Sources
 
@@ -27,3 +30,9 @@ Effectively communicating transformative ideas requires more than presenting con
 - Future of Work is Play (linkedin-future-of-work-is-play-20260126) [social-post] <linkedin-future-of-work-is-play-20260124|814fb48c5b1dc26d19d3b07ae6dab31515221485dba26b76ef1df8b7ef6839f0>
 - www.forbes.com (www-forbes-com-9aed58) [link] <www-forbes-com-9aed58|d5760117ba457a52119d16d6d2e2822cdaea3564577955a28497f3692618aac2>
 - www.wired.com (www-wired-com-b0b9cf) [link] <www-wired-com-b0b9cf|9fc4c2147fde7187da7e1581a829d6624892768041958204f4f36c8f732e19f4>
+- Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|6ab6170736e9794dd46c8626cd10c7ab844ddb1be779193d2025f5a47ef70506>
+- Rizom Brains: Knowledge Infrastructure for Distributed Teams (rizom-brains-knowledge-infrastructure-for-distributed-teams) [project] <rizom-brains|84b54a8e191f3c2745cf7cc517d07a3f85cdabf4770f1b90374e6d49c34295f4>
+- Lefthoek (lefthoek) [project] <lefthoek|60e4d44a5935409976c45f8012eb1ac9bfa36397090e9c7b3a1f42a35351eb8a>
+- Offcourse (offcourse) [project] <offcourse|0797782fb71e24c50ef624db5962ad1f4c5538f292b0f6ecc3f815b466096db6>
+- Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1c44cfe323da389f0267d618aa0e8bb0b7d7a6c17352333d24c94aad9db96c13>
+- Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|938ae3957a88742c40d01b6eeeb17ffcd7b7c3d98739dcdeabac536b93c88ac1>

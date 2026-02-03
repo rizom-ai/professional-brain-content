@@ -5,15 +5,13 @@ Rizom represents a concrete instantiation of distributed intelligence through op
 
 ## Keywords
 
-- markdown
-- plain text
-- portability
-- version control
-- YAML frontmatter
-- source of truth
-- vendor independence
-- content sync
-- format agnostic
+- knowledge curation
+- content aggregation
+- resource organization
+- learning pathways
+- thematic organization
+- curator model
+- knowledge architecture
 
 ## Sources
 
@@ -22,3 +20,4 @@ Rizom represents a concrete instantiation of distributed intelligence through op
 - About (README) [note] <README|d1ab55cd16fd46a1aa4c7f26d5834e963a5abd8c86dfe5a81aaa65dda1fb0f34>
 - Rizom Collective (rizom-collective) [project] <rizom-collective|a01abc81615b5e3ae6ff0271141aa48bcb6d02c155880823b123f8fc77a76ba9>
 - Rizom Brains (rizom-brains) [project] <rizom-brains|c8c3ccc29d7af3974fc47b905e01cb1a89c206c99e991944b56b3f2ff2dc8340>
+- Offcourse (offcourse) [project] <offcourse|0797782fb71e24c50ef624db5962ad1f4c5538f292b0f6ecc3f815b466096db6>

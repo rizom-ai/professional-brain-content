@@ -5,15 +5,18 @@ Online learning represents a distinct educational modality that should be optimi
 
 ## Keywords
 
-- education reform
-- institutional change
-- pedagogical innovation
-- learning experience
-- teaching methodology
-- educational quality
-- alternative platforms
-- institutional resistance
+- decentralized learning
+- crowdlearning
+- peer-to-peer education
+- knowledge curation
+- online learning design
+- community-driven education
+- collaborative knowledge
+- distributed learning
+- learning infrastructure
 
 ## Sources
 
 - Learning Apart Together (learning-apart-together) [post] <Learning Apart Together|5e5140e92c35da920a38e7226b080c0f75417afd4b323f000038132e1f03ba4c>
+- Superconnectors (superconnectors) [project] <superconnectors|cbf090d6f708a99efc431d2b6feee4ccc81bb29c9dadd35b4c66aadcfb43e607>
+- Offcourse (offcourse) [project] <offcourse|0797782fb71e24c50ef624db5962ad1f4c5538f292b0f6ecc3f815b466096db6>
