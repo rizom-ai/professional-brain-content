@@ -1,7 +1,7 @@
 ---
 title: 'Bots with an Attitude: Ethical AI Collaboration'
 slug: bots-with-an-attitude-ethical-ai-collaboration
-status: draft
+status: published
 description: >-
   A framework for designing intelligent agents that participate as equal
   community members in collaborative spaces, redefining human-AI relationships

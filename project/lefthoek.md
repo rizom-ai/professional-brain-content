@@ -1,7 +1,7 @@
 ---
 title: Lefthoek
 slug: lefthoek
-status: draft
+status: published
 description: >-
   An AI platform that automates organizational friction points—onboarding,
   message synchronization, and knowledge management—while preserving human

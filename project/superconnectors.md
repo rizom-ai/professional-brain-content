@@ -1,7 +1,7 @@
 ---
 title: Superconnectors
 slug: superconnectors
-status: draft
+status: published
 description: >-
   A gamified networking platform that moves beyond traditional pitch formats by
   connecting startups with superconnectors who can provide game-changing

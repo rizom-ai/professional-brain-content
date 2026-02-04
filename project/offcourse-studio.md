@@ -1,7 +1,7 @@
 ---
 title: Offcourse Studio
 slug: offcourse-studio
-status: draft
+status: published
 description: >-
   A creative technology practice designing ethical AI systems and custom tools
   that help organizations strengthen their knowledge infrastructure and work

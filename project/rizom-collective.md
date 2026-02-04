@@ -1,7 +1,7 @@
 ---
 title: 'Rizom: Distributed Teams That Scale'
 slug: rizom-distributed-teams-that-scale
-status: draft
+status: published
 description: >-
   Building infrastructure for distributed professionals to outperform
   traditional organizations—proving that flexibility and excellence are not

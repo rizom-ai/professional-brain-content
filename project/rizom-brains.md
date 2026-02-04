@@ -1,7 +1,7 @@
 ---
 title: 'Rizom Brains: Knowledge Infrastructure for Distributed Teams'
 slug: rizom-brains-knowledge-infrastructure-for-distributed-teams
-status: draft
+status: published
 description: >-
   A distributed knowledge management system that enables teams to work like
   living organisms—combining personal knowledge brains, outcome-based trust, and
