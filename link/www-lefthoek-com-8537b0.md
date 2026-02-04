@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 title: Lefthoek - AI-Powered Virtual Team Members
 url: 'https://www.lefthoek.com/'
 description: >-

@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 title: The Power of Visiontypes
 url: 'https://www.svpg.com/the-power-of-visiontypes/'
 description: >-

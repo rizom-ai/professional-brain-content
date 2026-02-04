@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 title: >-
   Your Clawdbot (Moltbot) AI Assistant Has Shell Access and One Prompt Injection
   Away from Disaster

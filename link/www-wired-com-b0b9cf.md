@@ -1,5 +1,5 @@
 ---
-status: pending
+status: published
 title: www.wired.com
 url: 'https://www.wired.com/story/clawdbot-moltbot-viral-ai-assistant/'
 description: ''

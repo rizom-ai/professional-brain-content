@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 title: Offcourse - Open Source Crowdlearning Platform
 url: 'https://offcourse.io/about'
 description: >-

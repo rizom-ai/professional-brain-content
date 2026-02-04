@@ -1,5 +1,5 @@
 ---
-status: pending
+status: published
 title: www.forbes.com
 url: >-
   https://www.forbes.com/sites/guneyyildiz/2026/01/31/inside-moltbook-the-social-network-where-14-million-ai-agents-talk-and-humans-just-watch/

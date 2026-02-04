@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 title: 42workspace - Rotterdam's Leading Tech Coworking Space
 url: 'https://42workspace.com/'
 description: >-

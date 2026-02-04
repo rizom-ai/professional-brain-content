@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 title: Offcourse Studio - Creative Technology & Ethical AI Design
 url: 'https://offcourse-studio.com/'
 description: >-

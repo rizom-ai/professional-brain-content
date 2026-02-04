@@ -1,5 +1,5 @@
 ---
-status: draft
+status: published
 title: >-
   Bots with an Attitude: Designing Ethical Creative Intelligence for
   Collaborative Communities
