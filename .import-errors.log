@@ -1,0 +1,485 @@
+2025-11-27T17:52:44.753Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-11-27T17:52:44.753Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-01T15:24:52.304Z - [RECOVERED] deck/Forgotten Futures.md
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "metadata",
+      "status"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+2025-12-01T15:24:52.304Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-01T15:24:52.308Z - [RECOVERED] deck/Bots With An Attitude.md
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "metadata",
+      "status"
+    ],
+    "message": "Required"
+  },
+  {
+    "expected": "'draft' | 'presented'",
+    "received": "undefined",
+    "code": "invalid_type",
+    "path": [
+      "status"
+    ],
+    "message": "Required"
+  }
+]
+2025-12-01T15:24:52.308Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-10T04:57:18.403Z - [RECOVERED] deck/Forgotten Futures.md
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+2025-12-10T04:57:18.403Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-10T04:57:18.407Z - [RECOVERED] deck/Bots With An Attitude.md
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+2025-12-10T04:57:18.407Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-10T04:57:18.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
+    "received": "presented",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "published"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'published', received 'presented'"
+  }
+]
+2025-12-10T04:57:18.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-14T14:30:17.099Z - [RECOVERED] deck/Becoming Narrow Minded.md
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+2025-12-14T14:30:17.099Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-14T14:30:17.097Z - [RECOVERED] deck/Bots With An Attitude.md
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+2025-12-14T14:30:17.097Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-14T14:30:17.094Z - [RECOVERED] deck/Forgotten Futures.md
+    "received": "published",
+    "code": "invalid_enum_value",
+    "options": [
+      "draft",
+      "presented"
+    ],
+    "path": [
+      "status"
+    ],
+    "message": "Invalid enum value. Expected 'draft' | 'presented', received 'published'"
+  }
+]
+2025-12-14T14:30:17.094Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
+2025-12-14T13:53:33.854Z - [RECOVERED] profile/profile.md
+2025-12-14T14:33:22.757Z - [RECOVERED] README.md
+2025-12-14T14:33:22.757Z - [RECOVERED] README.md
+2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
+2025-12-14T13:53:33.859Z - [RECOVERED] identity/identity.md
+2025-12-14T14:33:22.769Z - [RECOVERED] site-info/site-info.md
+2025-12-14T14:33:22.769Z - [RECOVERED] site-info/site-info.md
+2025-12-14T14:33:22.777Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-14T14:33:22.777Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-14T14:33:22.781Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-14T14:33:22.781Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-14T14:33:22.784Z - [RECOVERED] post/False Media.md
+2025-12-14T14:33:22.784Z - [RECOVERED] post/False Media.md
+2025-12-14T14:33:22.787Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-14T14:33:22.787Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-14T14:33:22.789Z - [RECOVERED] post/Foam Party.md
+2025-12-14T14:33:22.789Z - [RECOVERED] post/Foam Party.md
+2025-12-14T14:33:22.793Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-14T14:33:22.793Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-14T14:33:22.796Z - [RECOVERED] post/The Low End Theory.md
+2025-12-14T14:33:22.796Z - [RECOVERED] post/The Low End Theory.md
+2025-12-14T14:33:22.800Z - [RECOVERED] post/Across Space And Time.md
+2025-12-14T14:33:22.800Z - [RECOVERED] post/Across Space And Time.md
+2025-12-14T14:33:22.806Z - [RECOVERED] post/Value Driven Development.md
+2025-12-14T14:33:22.806Z - [RECOVERED] post/Value Driven Development.md
+2025-12-14T14:33:22.809Z - [RECOVERED] post/Practice Innovation.md
+2025-12-14T14:33:22.809Z - [RECOVERED] post/Practice Innovation.md
+2025-12-14T14:33:22.812Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-14T14:33:22.812Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-14T14:33:22.814Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-14T14:33:22.814Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-14T14:33:22.816Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-14T14:33:22.816Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-14T14:33:22.818Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-14T14:33:22.818Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-14T14:33:22.820Z - [RECOVERED] post/Data Drive.md
+2025-12-14T14:33:22.820Z - [RECOVERED] post/Data Drive.md
+2025-12-14T14:33:22.822Z - [RECOVERED] post/Learning From Nature.md
+2025-12-14T14:33:22.822Z - [RECOVERED] post/Learning From Nature.md
+2025-12-14T14:33:22.825Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-14T14:33:22.825Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-14T14:33:22.828Z - [RECOVERED] post/Global Village People.md
+2025-12-14T14:33:22.828Z - [RECOVERED] post/Global Village People.md
+2025-12-14T14:33:22.831Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-14T14:33:22.831Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-14T14:33:22.833Z - [RECOVERED] post/The Good Foot.md
+2025-12-14T14:33:22.833Z - [RECOVERED] post/The Good Foot.md
+2025-12-14T14:33:22.835Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-14T14:33:22.835Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-14T14:33:22.837Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
+2025-12-14T14:33:22.837Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
+2025-12-14T16:30:03.632Z - [RECOVERED] profile/profile.md
+2025-12-14T16:30:03.632Z - [RECOVERED] profile/profile.md
+2025-12-15T15:35:20.045Z - [RECOVERED] README.md
+
+2025-12-14T16:30:03.639Z - [RECOVERED] identity/identity.md
+2025-12-14T16:30:03.639Z - [RECOVERED] identity/identity.md
+2025-12-15T15:11:13.382Z - [RECOVERED] site-info/site-info.md
+2025-12-15T15:11:13.382Z - [RECOVERED] site-info/site-info.md
+2025-12-15T04:44:59.670Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-15T04:44:59.670Z - [RECOVERED] post/Urging New Institutions.md
+2025-12-15T04:44:59.674Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-15T04:44:59.674Z - [RECOVERED] post/Agency Trumps Humanness.md
+2025-12-15T04:44:59.678Z - [RECOVERED] post/False Media.md
+2025-12-15T04:44:59.678Z - [RECOVERED] post/False Media.md
+2025-12-15T04:44:59.681Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-15T04:44:59.681Z - [RECOVERED] post/Reclaiming The Future.md
+2025-12-15T04:44:59.684Z - [RECOVERED] post/Foam Party.md
+2025-12-15T04:44:59.684Z - [RECOVERED] post/Foam Party.md
+2025-12-15T04:44:59.687Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-15T04:44:59.687Z - [RECOVERED] post/Align The Misaligned.md
+2025-12-15T04:44:59.690Z - [RECOVERED] post/The Low End Theory.md
+2025-12-15T04:44:59.690Z - [RECOVERED] post/The Low End Theory.md
+2025-12-15T04:44:59.693Z - [RECOVERED] post/Across Space And Time.md
+2025-12-15T04:44:59.693Z - [RECOVERED] post/Across Space And Time.md
+2025-12-15T04:44:59.695Z - [RECOVERED] post/Value Driven Development.md
+2025-12-15T04:44:59.695Z - [RECOVERED] post/Value Driven Development.md
+2025-12-15T04:44:59.698Z - [RECOVERED] post/Practice Innovation.md
+2025-12-15T04:44:59.698Z - [RECOVERED] post/Practice Innovation.md
+2025-12-15T04:44:59.700Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-15T04:44:59.700Z - [RECOVERED] post/The Future of Work is Play.md
+2025-12-15T04:44:59.702Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-15T04:44:59.702Z - [RECOVERED] post/Fundamentals of Trust.md
+2025-12-15T04:44:59.704Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-15T04:44:59.704Z - [RECOVERED] post/Intelligence Unleashed.md
+2025-12-15T04:44:59.707Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-15T04:44:59.707Z - [RECOVERED] post/Shenzen Goes Ham.md
+2025-12-15T04:44:59.709Z - [RECOVERED] post/Data Drive.md
+2025-12-15T04:44:59.709Z - [RECOVERED] post/Data Drive.md
+2025-12-15T04:44:59.711Z - [RECOVERED] post/Learning From Nature.md
+2025-12-15T04:44:59.711Z - [RECOVERED] post/Learning From Nature.md
+2025-12-15T04:44:59.714Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-15T04:44:59.714Z - [RECOVERED] post/Economy Of Garbage.md
+2025-12-15T04:44:59.716Z - [RECOVERED] post/Global Village People.md
+2025-12-15T04:44:59.716Z - [RECOVERED] post/Global Village People.md
+2025-12-15T04:44:59.718Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-15T04:44:59.718Z - [RECOVERED] post/When All We Have is a Hammer.md
+2025-12-15T04:44:59.720Z - [RECOVERED] post/The Good Foot.md
+2025-12-15T04:44:59.720Z - [RECOVERED] post/The Good Foot.md
+2025-12-15T04:44:59.723Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-15T04:44:59.723Z - [RECOVERED] post/Learning Apart Together.md
+2025-12-15T04:44:59.726Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
+2025-12-15T04:44:59.726Z - [RECOVERED] post/The Practice Of Ecosystem Architecture.md
+2025-12-15T15:11:13.403Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-15T15:11:13.403Z - [RECOVERED] deck/Forgotten Futures.md
+2025-12-15T15:11:13.406Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-15T15:11:13.406Z - [RECOVERED] deck/Bots With An Attitude.md
+2025-12-15T15:11:13.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-15T15:11:13.409Z - [RECOVERED] deck/Becoming Narrow Minded.md
+2025-12-19T16:53:10.707Z - [RECOVERED] project/rizom-collective.md
+
+2025-12-19T16:53:10.711Z - [RECOVERED] project/rizom-brains.md
+
+2025-12-19T17:46:37.318Z - [RECOVERED] note/README.md
+
+2026-01-07T09:30:26.062Z - [RECOVERED] series/series-public-badges.md
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "name"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "slug"
+    ],
+    "message": "Required"
+  }
+]
+2026-01-07T09:30:26.062Z - [RECOVERED] series/series-public-badges.md
+2026-01-07T09:30:26.065Z - [RECOVERED] series/series-ecosystem-architecture.md
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "name"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "slug"
+    ],
+    "message": "Required"
+  }
+]
+2026-01-07T09:30:26.065Z - [RECOVERED] series/series-ecosystem-architecture.md
+2026-01-07T09:30:26.067Z - [RECOVERED] series/series-new-institutions.md
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "name"
+    ],
+    "message": "Required"
+  },
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "slug"
+    ],
+    "message": "Required"
+  }
+]
+2026-01-07T09:30:26.067Z - [RECOVERED] series/series-new-institutions.md
+2026-01-03T14:24:12.683Z - [RECOVERED] social-post/cdkbC25n-r2q.md
+
+2026-01-03T14:24:12.679Z - [RECOVERED] social-post/GNDoc7Yn0j4Y.md
+
+2026-01-03T14:24:12.667Z - [RECOVERED] social-post/hZ0AygfQ4V8d.md
+
+2026-01-03T14:24:12.673Z - [RECOVERED] social-post/IF9oRL_4q_Db.md
+
+2026-01-03T14:24:12.676Z - [RECOVERED] social-post/bDkiKdwAJjst.md
+
+2026-01-07T09:30:26.067Z - [RECOVERED] series/series-new-institutions.md
+
+2026-01-07T09:30:26.065Z - [RECOVERED] series/series-ecosystem-architecture.md
+
+2026-01-07T09:30:26.062Z - [RECOVERED] series/series-public-badges.md
+
+2026-01-04T15:26:22.049Z - [RECOVERED] social-post/cdkbC25n-r2q.md
+
+2026-01-04T15:26:22.040Z - [RECOVERED] social-post/ADZcPto9FzFW.md
+
+2026-01-04T15:26:22.034Z - [RECOVERED] social-post/xAOt86-vHMm8.md
+
+2026-01-04T15:26:22.045Z - [RECOVERED] social-post/GNDoc7Yn0j4Y.md
+
+2026-01-04T15:26:22.031Z - [RECOVERED] social-post/hZ0AygfQ4V8d.md
+
+2026-01-04T15:26:22.037Z - [RECOVERED] social-post/IF9oRL_4q_Db.md
+
+2026-01-04T15:26:22.042Z - [RECOVERED] social-post/bDkiKdwAJjst.md
+
+2026-01-23T06:54:36.356Z - social-post/hZ0AygfQ4V8d.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/hZ0AygfQ4V8d.md.invalid
+
+2026-01-23T06:54:36.358Z - social-post/xAOt86-vHMm8.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/xAOt86-vHMm8.md.invalid
+
+2026-01-23T06:54:36.359Z - social-post/IF9oRL_4q_Db.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/IF9oRL_4q_Db.md.invalid
+
+2026-01-23T06:54:36.360Z - social-post/ADZcPto9FzFW.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/ADZcPto9FzFW.md.invalid
+
+2026-01-23T06:54:36.360Z - social-post/bDkiKdwAJjst.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/bDkiKdwAJjst.md.invalid
+
+2026-01-23T06:54:36.361Z - social-post/GNDoc7Yn0j4Y.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/GNDoc7Yn0j4Y.md.invalid
+
+2026-01-23T06:54:36.362Z - social-post/cdkbC25n-r2q.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ social-post/cdkbC25n-r2q.md.invalid
+
+2026-01-24T13:26:50.318Z - website-metrics/website-metrics-2026-01-20.md: Entity type registration failed for website-metrics: No adapter registered for entity type
+→ website-metrics/website-metrics-2026-01-20.md.invalid
+
+2026-01-24T13:26:50.318Z - website-metrics/website-metrics-2026-01-18.md: Entity type registration failed for website-metrics: No adapter registered for entity type
+→ website-metrics/website-metrics-2026-01-18.md.invalid
+
+2026-01-24T13:26:50.319Z - website-metrics/website-metrics-2026-01-19.md: Entity type registration failed for website-metrics: No adapter registered for entity type
+→ website-metrics/website-metrics-2026-01-19.md.invalid
+
+2026-01-24T13:26:50.319Z - website-metrics/website-metrics-2026-01-23.md: Entity type registration failed for website-metrics: No adapter registered for entity type
+→ website-metrics/website-metrics-2026-01-23.md.invalid
+
+2026-01-24T13:26:50.320Z - website-metrics/website-metrics-2026-01-17.md: Entity type registration failed for website-metrics: No adapter registered for entity type
+→ website-metrics/website-metrics-2026-01-17.md.invalid
+
+2026-01-24T13:26:50.320Z - website-metrics/website-metrics-2026-01-22.md: Entity type registration failed for website-metrics: No adapter registered for entity type
+→ website-metrics/website-metrics-2026-01-22.md.invalid
+
+2026-01-24T13:26:50.321Z - website-metrics/website-metrics-2026-01-21.md: Entity type registration failed for website-metrics: No adapter registered for entity type
+→ website-metrics/website-metrics-2026-01-21.md.invalid
+
+2026-01-25T18:22:21.497Z - series/series-public-badges.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ series/series-public-badges.md.invalid
+
+2026-01-25T18:22:21.504Z - series/series-ecosystem-architecture.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ series/series-ecosystem-architecture.md.invalid
+
+2026-01-25T18:22:21.504Z - series/series-new-institutions.md: [
+  {
+    "code": "invalid_type",
+    "expected": "string",
+    "received": "undefined",
+    "path": [
+      "title"
+    ],
+    "message": "Required"
+  }
+]
+→ series/series-new-institutions.md.invalid
+
