@@ -12,7 +12,7 @@ We optimize for efficiency, scalability, metrics.
 
 But somewhere along the way, we stopped asking: efficient at what? Scalable toward what? Measuring what actually matters?
 
-I wrote about this a few years ago, and it's only gotten more urgent. The tools we reach for—the hammers we know how to swing—shape what problems we can even see.
+I wrote about this a few years ago, and it's only gotten more urgent. The tools we reach for, the hammers we know how to swing ,shape what problems we can even see.
 
 When all we have is a hammer, everything looks like a nail. And we've built an entire infrastructure that's very, very good at hammering.
 
