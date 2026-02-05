@@ -2,6 +2,7 @@
 title: Beyond the Hammer
 platform: linkedin
 status: draft
+coverImageId: beyond-the-hammer
 queueOrder: 1
 retryCount: 0
 ---
