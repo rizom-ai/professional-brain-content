@@ -2,6 +2,7 @@
 title: Broken Social Contracts and Institutional Collapse
 platform: linkedin
 status: draft
+coverImageId: broken-social-contracts
 retryCount: 0
 ---
 Institutions don't protect democracy.
