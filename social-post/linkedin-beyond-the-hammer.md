@@ -1,9 +1,10 @@
 ---
 title: Beyond the Hammer
 platform: linkedin
-status: draft
+status: published
 coverImageId: beyond-the-hammer
 queueOrder: 1
+publishedAt: '2026-02-05T07:11:33.917Z'
 retryCount: 0
 ---
 I've been thinking a lot about the gap between how we build things and why we build them.
