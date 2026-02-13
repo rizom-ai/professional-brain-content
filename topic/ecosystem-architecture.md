@@ -5,14 +5,14 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 
 ## Keywords
 
-- ecosystem design
-- organizational systems
-- living systems
-- regenerative design
 - decentralized organizations
-- system thinking
-- adaptive organizations
-- infrastructure
+- autonomous coordination
+- alternative structures
+- technology infrastructure
+- collective ownership
+- value networks
+- distributed work
+- post-institutional
 
 ## Sources
 

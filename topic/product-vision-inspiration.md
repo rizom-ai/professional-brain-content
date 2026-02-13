@@ -5,16 +5,17 @@ Marty Cagan explores the concept of visiontypes—prototypes that communicate an
 
 ## Keywords
 
-- values alignment
-- ethical design
-- organizational values
-- bespoke solutions
-- technology ethics
-- human-centered design
-- creative partnership
-- regenerative design
+- intrinsic motivation
+- meaningful work
+- purpose alignment
+- burnout
+- talent waste
+- voluntary engagement
+- creative work
+- human flourishing
 
 ## Sources
 
 - The Power of Visiontypes (www-svpg-com-6c4dd6) [link] <www-svpg-com-6c4dd6|3fe8eb00cbd7d6492486be1f7d0744ca478fc946c3220006ae80ce32bffa4bd0>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|3d2909da68e4e3e580f34c817f1fa956485382bf2a15f0eb241808c232d0a32e>
+- The Future of Work is Play (the-future-of-work-is-play) [post] <The Future of Work is Play|d80604100387d87d753df6da40e5e583f270100e3dd4cecd3c5a3bbb1a0dcb39>

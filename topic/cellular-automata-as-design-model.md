@@ -5,16 +5,14 @@ Cellular automata serve as a conceptual model for understanding emergent complex
 
 ## Keywords
 
-- ecosystem architecture
-- organizational design
+- ecosystem design
 - living systems
-- decentralized organizations
-- emergence
-- collective intelligence
-- franchise model
-- AI agents
-- network coordination
-- regenerative design
+- organizational architecture
+- values-based networks
+- autonomous coordination
+- infrastructure thinking
+- community formation
+- systemic change
 
 ## Sources
 
@@ -23,3 +21,4 @@ Cellular automata serve as a conceptual model for understanding emergent complex
 - www.forbes.com (www-forbes-com-9aed58) [link] <www-forbes-com-9aed58|ae747b97ce2d32d7fac71211d527a8689fe787e092ac7a05018dfae490d1b450>
 - Superconnectors (superconnectors) [project] <superconnectors|712c89a8b10de4e362e4be8b7fda5f22ecdfcfc97a8c29e3c592fc4c2f9450bb>
 - Rizom Brains: Knowledge Infrastructure for Distributed Teams (rizom-brains-knowledge-infrastructure-for-distributed-teams) [project] <rizom-brains|4f1285d45e62df09b0648ef34c176755ed5eeb79bef978e6891c1950cee02977>
+- The Future of Work is Play (the-future-of-work-is-play) [post] <The Future of Work is Play|d80604100387d87d753df6da40e5e583f270100e3dd4cecd3c5a3bbb1a0dcb39>

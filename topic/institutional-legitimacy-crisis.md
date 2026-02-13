@@ -5,15 +5,14 @@ The article argues that public institutions no longer function as effective safe
 
 ## Keywords
 
-- outcome-based certification
-- trust mechanisms
-- credibility signals
-- decentralized authority
-- expertise discovery
-- distributed collaboration
-- reputation systems
-- capability-based recognition
-- network trust
+- institutional legitimacy
+- institutional collapse
+- political authority
+- constitutional failure
+- institutional crisis
+- democratic breakdown
+- institutional trust
+- authority erosion
 
 ## Sources
 
