@@ -2,6 +2,7 @@
 title: Values Drive Everything
 platform: linkedin
 status: draft
+coverImageId: values-drive-everything-image
 retryCount: 0
 ---
 We spend more time at work than anywhere else.
