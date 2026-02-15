@@ -2,7 +2,6 @@
 title: Future of Work Decentralization
 platform: linkedin
 status: draft
-retryCount: 0
 ---
 We've been designing organizations like machines.
 

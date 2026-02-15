@@ -4,7 +4,6 @@ platform: linkedin
 status: published
 coverImageId: optimizations-hidden-cost-cover
 publishedAt: '2026-02-12T05:22:31.465Z'
-retryCount: 0
 ---
 We have been taught that perfection is the goal.
 

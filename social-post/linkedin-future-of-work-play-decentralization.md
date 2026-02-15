@@ -2,7 +2,6 @@
 title: Future of Work Play Decentralization
 platform: linkedin
 status: draft
-retryCount: 0
 ---
 We've been telling people to find work that matters.
 

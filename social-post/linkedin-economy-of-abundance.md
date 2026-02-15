@@ -3,9 +3,7 @@ title: Economy of Abundance
 platform: linkedin
 status: published
 coverImageId: economy-of-abundance-cover
-queueOrder: 1
 publishedAt: '2026-02-03T07:06:23.877Z'
-retryCount: 0
 ---
 We've built our entire economic system on scarcity.
 

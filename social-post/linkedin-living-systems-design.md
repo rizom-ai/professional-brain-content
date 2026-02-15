@@ -3,9 +3,7 @@ title: Living Systems Design
 platform: linkedin
 status: published
 coverImageId: living-systems-design-cover
-queueOrder: 4
 publishedAt: '2026-02-09T08:49:52.829Z'
-retryCount: 0
 ---
 Most organizations are built like machines.
 

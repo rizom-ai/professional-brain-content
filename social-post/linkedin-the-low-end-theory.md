@@ -3,11 +3,9 @@ title: The Low End Theory
 platform: linkedin
 status: published
 coverImageId: the-low-end-theory
-queueOrder: 5
 publishedAt: '2026-02-02T08:06:22.793Z'
 sourceEntityId: The Low End Theory
 sourceEntityType: post
-retryCount: 0
 ---
 Everyone wants to cure cancer and end poverty.
 

@@ -3,9 +3,7 @@ title: Organizations as Ecosystems
 platform: linkedin
 status: published
 coverImageId: organizations-as-ecosystems-cover-image
-queueOrder: 3
 publishedAt: '2026-02-01T07:27:12.125Z'
-retryCount: 0
 ---
 We've been building organizations like machines for centuries.
 

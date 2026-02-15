@@ -5,7 +5,6 @@ status: draft
 coverImageId: shenzhens-gongkai-model-image
 sourceEntityId: Shenzen Goes Ham
 sourceEntityType: post
-retryCount: 0
 ---
 Most of what we call "decentralization" is actually just a rebranding of power dynamics that already existed centuries ago.
 

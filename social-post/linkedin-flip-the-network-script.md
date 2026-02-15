@@ -2,8 +2,6 @@
 title: Flip the Network Script
 platform: linkedin
 status: draft
-queueOrder: 5
-retryCount: 0
 ---
 Most networking events are built backwards.
 

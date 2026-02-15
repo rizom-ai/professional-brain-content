@@ -2,8 +2,6 @@
 title: Adaptive Organizations
 platform: linkedin
 status: draft
-queueOrder: 2
-retryCount: 0
 ---
 We've been building organizations like machines for 200 years.
 
