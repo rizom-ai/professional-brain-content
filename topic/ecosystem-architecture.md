@@ -1,21 +1,18 @@
-# Ecosystem Architecture
-
-## Content
+---
+title: Ecosystem Architecture
+keywords:
+  - decentralized organizations
+  - autonomous coordination
+  - alternative structures
+  - technology infrastructure
+  - collective ownership
+  - value networks
+  - distributed work
+  - post-institutional
+---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
-## Keywords
-
-- decentralized organizations
-- autonomous coordination
-- alternative structures
-- technology infrastructure
-- collective ownership
-- value networks
-- distributed work
-- post-institutional
-
 ## Sources
-
 - Reclaiming The Future (reclaiming-the-future) [post] <Reclaiming The Future|04c7807590bacd2edab8ef5833cfaa28e2296d789e3972a5de9e40c1f722b608>
 - Foam Party (foam-party) [post] <Foam Party|63729df0cc606f85af9e44413493d191cc76fa437af0bbf49952bb9b86a60918>
 - Align The Misaligned (align-the-misaligned) [post] <Align The Misaligned|4d3075cc74cb9d0daea9f94cf97efd478e81f1b9a6468ba35a96b18d9035b800>

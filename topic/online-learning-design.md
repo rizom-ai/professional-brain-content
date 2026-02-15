@@ -1,21 +1,18 @@
-# Online Learning Design
-
-## Content
+---
+title: Online Learning Design
+keywords:
+  - knowledge management
+  - information extraction
+  - collective memory
+  - knowledge architecture
+  - institutional knowledge
+  - resource organization
+  - semantic tagging
+  - living systems
+---
 Online education represents a distinct mode of learning that should not be treated as a compromise or substitute for in-person instruction, but rather as its own medium with unique affordances. Effective online learning design moves beyond recreating the classroom experience and instead leverages the specific advantages of digital platforms. Key principles include creating focused, shorter learning units (5-10 minutes), providing real-time automated feedback through tools like in-browser editors and unit tests, and integrating interactive assignments that feel engaging rather than burdensome. The author argues that platforms like Code School demonstrated how online learning could be superior to traditional methods by fully embracing the medium rather than fighting against it, suggesting that the future of education requires rethinking pedagogical approaches specifically for digital contexts.
 
-## Keywords
-
-- knowledge management
-- information extraction
-- collective memory
-- knowledge architecture
-- institutional knowledge
-- resource organization
-- semantic tagging
-- living systems
-
 ## Sources
-
 - Learning Apart Together (learning-apart-together) [post] <Learning Apart Together|5e5140e92c35da920a38e7226b080c0f75417afd4b323f000038132e1f03ba4c>
 - Forgotten Futures (forgotten-futures) [deck] <Forgotten Futures|14df7a9b9805e65076edfe5623b6716510a10b15ee964600b753e4085378de1d>
 - Bots With An Attitude (bots-with-an-attitude) [deck] <Bots With An Attitude|aea3247ecae7c12c66c7d98a0ea9dd6faab6628826def18513792f97c6ea0929>

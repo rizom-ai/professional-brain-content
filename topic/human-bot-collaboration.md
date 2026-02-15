@@ -1,21 +1,18 @@
-# Human-Bot Collaboration
-
-## Content
+---
+title: Human-Bot Collaboration
+keywords:
+  - augmentation
+  - human agency
+  - privacy
+  - data control
+  - user autonomy
+  - tool design
+  - organizational culture
+  - technology ethics
+---
 The piece explores a novel approach to distributed team collaboration by integrating artificial agents (bots) alongside human team members. Rather than treating humanness as a prerequisite for collaboration, the thesis prioritizes agency and effective contribution to collective goals. This challenges traditional assumptions about what makes a valid team member, proposing that if an agent—whether human or artificial—effectively advances shared objectives, their ontological status becomes secondary. The approach raises critical questions about how we evaluate contribution value, define productivity, and structure governance in hybrid human-bot networks.
 
-## Keywords
-
-- augmentation
-- human agency
-- privacy
-- data control
-- user autonomy
-- tool design
-- organizational culture
-- technology ethics
-
 ## Sources
-
 - Agency Trumps Humanness (agency-trumps-humanness) [post] <Agency Trumps Humanness|df9e5a8ae7941f37ad16e2b8989861d41bccb481f5ab748979028c2e641a9eed>
 - False Media (false-media) [post] <False Media|2dd829b4d3d26273e3d6b7352aaa2029cb1f573958e0a6cd84ecf96a17b7f593>
 - Bots With An Attitude (bots-with-an-attitude) [deck] <Bots With An Attitude|aea3247ecae7c12c66c7d98a0ea9dd6faab6628826def18513792f97c6ea0929>

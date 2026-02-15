@@ -1,21 +1,18 @@
-# Institutional Legitimacy Crisis
-
-## Content
+---
+title: Institutional Legitimacy Crisis
+keywords:
+  - institutional legitimacy
+  - institutional collapse
+  - political authority
+  - constitutional failure
+  - institutional crisis
+  - democratic breakdown
+  - institutional trust
+  - authority erosion
+---
 The article argues that public institutions no longer function as effective safeguards for democracy because they lack legitimacy rooted in shared values. Rather than institutions protecting democracy through constitutional frameworks, the author contends that institutions are only recognized as legitimate when they serve particular interests, and are easily dismissed otherwise. The COVID pandemic exemplified this crisis, revealing that citizens were willing to suspend constitutional protections when convenient, demonstrating that the constitution was never a true safeguard but merely a 'suspension of disbelief.' This institutional bankruptcy is evident globally, from Israel's disregard for UN resolutions to widespread institutional erosion across the political spectrum. The core insight is that institutions cannot protect democracy without a functioning social contract underpinning them.
 
-## Keywords
-
-- institutional legitimacy
-- institutional collapse
-- political authority
-- constitutional failure
-- institutional crisis
-- democratic breakdown
-- institutional trust
-- authority erosion
-
 ## Sources
-
 - Urging New Institutions (urging-new-institutions) [post] <Urging New Institutions|1f4088adde6a9835cda52d0669a4caf140be8086aa0355322758747d77197d94>
 - Agency Trumps Humanness (agency-trumps-humanness) [post] <Agency Trumps Humanness|df9e5a8ae7941f37ad16e2b8989861d41bccb481f5ab748979028c2e641a9eed>
 - False Media (false-media) [post] <False Media|2dd829b4d3d26273e3d6b7352aaa2029cb1f573958e0a6cd84ecf96a17b7f593>
