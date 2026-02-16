@@ -483,8 +483,7 @@
 ]
 → series/series-new-institutions.md.invalid
 
-2026-02-16T05:10:29.646Z - social-post/linkedin-lunar-new-year-systems-renewal.md: [
-  {
+2026-02-16T05:28:44.412Z - [RECOVERED] social-post/linkedin-lunar-new-year-systems-renewal.md
     "code": "invalid_string",
     "validation": "datetime",
     "message": "Invalid datetime",
@@ -493,10 +492,8 @@
     ]
   }
 ]
-→ social-post/linkedin-lunar-new-year-systems-renewal.md.invalid
-
-2026-02-16T05:23:48.319Z - social-post/linkedin-lunar-new-year-systems-renewal.md: [
-  {
+2026-02-16T05:28:44.412Z - [RECOVERED] social-post/linkedin-lunar-new-year-systems-renewal.md
+2026-02-16T05:28:44.412Z - [RECOVERED] social-post/linkedin-lunar-new-year-systems-renewal.md
     "code": "invalid_string",
     "validation": "datetime",
     "message": "Invalid datetime",
@@ -505,5 +502,4 @@
     ]
   }
 ]
-→ social-post/linkedin-lunar-new-year-systems-renewal.md.invalid
-
+2026-02-16T05:28:44.412Z - [RECOVERED] social-post/linkedin-lunar-new-year-systems-renewal.md

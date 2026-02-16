@@ -4,7 +4,6 @@ platform: linkedin
 status: draft
 coverImageId: lunar-new-year-systems-renewal-image
 ---
-
 Lunar New Year reminds us of something institutions have largely forgotten: renewal happens in cycles, not straight lines.
 
 We've built our organizations around linear time: quarterly targets, annual reviews, perpetual growth. But living systems do not work that way. They pulse. They rest. They shed what no longer serves them before growing again.
