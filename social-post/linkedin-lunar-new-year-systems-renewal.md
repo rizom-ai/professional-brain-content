@@ -2,6 +2,7 @@
 title: Lunar New Year Systems Renewal
 platform: linkedin
 status: draft
+coverImageId: lunar-new-year-systems-renewal-image
 ---
 Lunar New Year reminds us of something institutions have largely forgotten: renewal happens in cycles, not straight lines.
 
