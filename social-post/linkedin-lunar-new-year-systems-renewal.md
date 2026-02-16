@@ -1,8 +1,9 @@
 ---
 title: Lunar New Year Systems Renewal
 platform: linkedin
-status: draft
+status: published
 coverImageId: lunar-new-year-systems-renewal-image
+publishedAt: '2026-02-16T05:31:18.647Z'
 ---
 Lunar New Year reminds us of something institutions have largely forgotten: renewal happens in cycles, not straight lines.
 
