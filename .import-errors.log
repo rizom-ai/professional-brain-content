@@ -483,3 +483,15 @@
 ]
 → series/series-new-institutions.md.invalid
 
+2026-02-16T05:10:29.646Z - social-post/linkedin-lunar-new-year-systems-renewal.md: [
+  {
+    "code": "invalid_string",
+    "validation": "datetime",
+    "message": "Invalid datetime",
+    "path": [
+      "publishedAt"
+    ]
+  }
+]
+→ social-post/linkedin-lunar-new-year-systems-renewal.md.invalid
+
