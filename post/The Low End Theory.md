@@ -9,6 +9,7 @@ excerpt: >-
   Most others only copy the unsolvable problem bit. We leave shooting at moons
   to Google and pick low-hanging fruit instead.
 author: Yeehaa
+coverImageId: the-low-end-theory-cover-image
 ---
 > There's a tidal wave of mysticism
 > Surging through our jet-aged generation
