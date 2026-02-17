@@ -10,6 +10,7 @@ excerpt: >-
   2013 at the University of Amsterdam. Forgot all about it, but boy, is it
   relevant today.
 author: Yeehaa
+coverImageId: data-drive-cover-image
 ---
 > Like a Lexus, if driven wrong it's sure to hurt you
 
