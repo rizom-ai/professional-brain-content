@@ -1,14 +1,14 @@
 ---
 title: Online Learning Design
 keywords:
-  - knowledge management
-  - information extraction
-  - collective memory
-  - knowledge architecture
-  - institutional knowledge
-  - resource organization
-  - semantic tagging
-  - living systems
+  - data-driven knowledge
+  - digital information
+  - knowledge production
+  - big data
+  - quantitative analysis
+  - representation
+  - epistemology
+  - actionable knowledge
 ---
 Online education represents a distinct mode of learning that should not be treated as a compromise or substitute for in-person instruction, but rather as its own medium with unique affordances. Effective online learning design moves beyond recreating the classroom experience and instead leverages the specific advantages of digital platforms. Key principles include creating focused, shorter learning units (5-10 minutes), providing real-time automated feedback through tools like in-browser editors and unit tests, and integrating interactive assignments that feel engaging rather than burdensome. The author argues that platforms like Code School demonstrated how online learning could be superior to traditional methods by fully embracing the medium rather than fighting against it, suggesting that the future of education requires rethinking pedagogical approaches specifically for digital contexts.
 
@@ -26,3 +26,4 @@ Online education represents a distinct mode of learning that should not be treat
 - Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|4c5ceffb7bad7303115d77d4df6f05e1b29515910b0b6b24943035e113cd95c8>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|3d2909da68e4e3e580f34c817f1fa956485382bf2a15f0eb241808c232d0a32e>
 - Lefthoek (lefthoek) [project] <lefthoek|ef59fe5665a303e0668b65e04cdc0c16d893a44f516ff1a78cb33e2c86f0ed4a>
+- Data Drive (data-drive) [post] <Data Drive|46e28be6ec320c636a1c80f929002c1f6c2ae703c9cf4d9fd9328482b363a857>
