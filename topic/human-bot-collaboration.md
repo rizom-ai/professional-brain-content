@@ -1,14 +1,16 @@
 ---
 title: Human-Bot Collaboration
 keywords:
-  - augmentation
-  - human agency
-  - privacy
-  - data control
-  - user autonomy
-  - tool design
-  - organizational culture
-  - technology ethics
+  - digital humanities
+  - interpretation
+  - contemplation
+  - actionable knowledge
+  - academic research
+  - commercial ventures
+  - knowledge production
+  - disciplinary frameworks
+  - thinking and action
+  - validation
 ---
 The piece explores a novel approach to distributed team collaboration by integrating artificial agents (bots) alongside human team members. Rather than treating humanness as a prerequisite for collaboration, the thesis prioritizes agency and effective contribution to collective goals. This challenges traditional assumptions about what makes a valid team member, proposing that if an agent—whether human or artificial—effectively advances shared objectives, their ontological status becomes secondary. The approach raises critical questions about how we evaluate contribution value, define productivity, and structure governance in hybrid human-bot networks.
 
@@ -24,3 +26,4 @@ The piece explores a novel approach to distributed team collaboration by integra
 - www.wired.com (www-wired-com-b0b9cf) [link] <www-wired-com-b0b9cf|907007b66f1534de67e36d34767030b3080848261d42f03a74a020e6198264e4>
 - Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|08db7565f6b7b8b0e0eb034e66aa7af405ee8a989c2632ad95712ee487d30b5d>
 - Lefthoek (lefthoek) [project] <lefthoek|ef59fe5665a303e0668b65e04cdc0c16d893a44f516ff1a78cb33e2c86f0ed4a>
+- Data Drive (data-drive) [post] <Data Drive|46e28be6ec320c636a1c80f929002c1f6c2ae703c9cf4d9fd9328482b363a857>
