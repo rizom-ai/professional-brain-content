@@ -8,6 +8,7 @@ description: >-
   systems and tools.
 year: 2019
 coverImageId: offcourse-studio-cover
+url: 'http://offcourse-studio.com/'
 ---
 ## Context
 

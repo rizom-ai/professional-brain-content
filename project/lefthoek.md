@@ -8,6 +8,7 @@ description: >-
   agency and decision-making.
 year: 2020
 coverImageId: lefthoek-cover
+url: 'https://lefthoek.com'
 ---
 ## Context
 

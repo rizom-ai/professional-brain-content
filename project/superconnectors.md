@@ -8,6 +8,7 @@ description: >-
   introductions to solve critical business challenges.
 year: 2021
 coverImageId: superconnectors-cover
+url: 'https://superconnectors.io'
 ---
 ## Context
 
