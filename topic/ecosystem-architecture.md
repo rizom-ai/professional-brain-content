@@ -1,15 +1,14 @@
 ---
 title: Ecosystem Architecture
 keywords:
-  - knowledge systems
-  - information architecture
-  - organizational learning
-  - data ecosystems
-  - infrastructure design
-  - knowledge mapping
-  - information flow
-  - custom tools
-  - organizational effectiveness
+  - gamification
+  - incentive mechanisms
+  - event design
+  - participant engagement
+  - competition
+  - reward systems
+  - behavioral design
+  - user motivation
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -38,10 +37,10 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - Offcourse - Open Source Crowdlearning Platform (offcourse-io-efdda5) [link] <offcourse-io-efdda5|91a1227fa36402a0ab08f21def7cd417bfa32ee82e34967f672841004a29ee34>
 - Offcourse Studio - Creative Technology & Ethical AI Design (offcourse-studio-com-12e620) [link] <offcourse-studio-com-12e620|969a6f2d572c5ee5484dc1362d0dc514a819d1917e141feda7e9173993efc9f7>
 - 42workspace - Rotterdam's Leading Tech Coworking Space (42workspace-com-c8c1e5) [link] <42workspace-com-c8c1e5|440a74e0c3bbc00234e612c6715442a1edf90dadcdd3b0419efc2a31ff7f3bf9>
-- Superconnectors (superconnectors) [project] <superconnectors|712c89a8b10de4e362e4be8b7fda5f22ecdfcfc97a8c29e3c592fc4c2f9450bb>
-- Rizom Brains: Knowledge Infrastructure for Distributed Teams (rizom-brains-knowledge-infrastructure-for-distributed-teams) [project] <rizom-brains|4f1285d45e62df09b0648ef34c176755ed5eeb79bef978e6891c1950cee02977>
-- Offcourse (offcourse) [project] <offcourse|a3d07efca1864bddd8df7e712eac5337cd6fdbe1de82186507a74a9bc2f1038a>
+- Superconnectors (superconnectors) [project] <superconnectors|5309ca8c76bbc9de28721bc3db98268e4aa72010c1846172edd3c584a5016378>
+- Rizom Brains (rizom-brains) [project] <rizom-brains|7bee0458528d160e9424a0f20d8d7b63858dbbb003b85046487a816990c0f277>
+- Offcourse (offcourse) [project] <offcourse|8adf3ac9f90611ebb3c6609bab398f9c153f4414f9325ea5ffe3cd12439fa783>
 - Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|08db7565f6b7b8b0e0eb034e66aa7af405ee8a989c2632ad95712ee487d30b5d>
-- Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|4c5ceffb7bad7303115d77d4df6f05e1b29515910b0b6b24943035e113cd95c8>
+- Rizom Collective (rizom-collective) [project] <rizom-collective|3daacab9b59c3914009d43a6e4a2aea89ef9085c1f384c0e9009395d9f4289eb>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>
 - Lefthoek (lefthoek) [project] <lefthoek|eb0cfae6a2a640096e8f29d7ecbb8595a649943ac503bf9bf2b2be78948ca249>

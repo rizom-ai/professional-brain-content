@@ -1,16 +1,15 @@
 ---
 title: Online Learning Design
 keywords:
-  - behavior driven development
-  - BDD
-  - user-centered
-  - specifications
-  - Gherkin
-  - domain specific language
-  - test driven development
-  - expectations management
-  - user requirements
-  - stakeholder communication
+  - knowledge infrastructure
+  - knowledge capture
+  - knowledge accessibility
+  - distributed knowledge
+  - Git repositories
+  - open standards
+  - knowledge systems
+  - AI agents
+  - coordination overhead
 ---
 Online education represents a distinct mode of learning that should not be treated as a compromise or substitute for in-person instruction, but rather as its own medium with unique affordances. Effective online learning design moves beyond recreating the classroom experience and instead leverages the specific advantages of digital platforms. Key principles include creating focused, shorter learning units (5-10 minutes), providing real-time automated feedback through tools like in-browser editors and unit tests, and integrating interactive assignments that feel engaging rather than burdensome. The author argues that platforms like Code School demonstrated how online learning could be superior to traditional methods by fully embracing the medium rather than fighting against it, suggesting that the future of education requires rethinking pedagogical approaches specifically for digital contexts.
 
@@ -24,9 +23,10 @@ Online education represents a distinct mode of learning that should not be treat
 - Offcourse Studio - Creative Technology & Ethical AI Design (offcourse-studio-com-12e620) [link] <offcourse-studio-com-12e620|969a6f2d572c5ee5484dc1362d0dc514a819d1917e141feda7e9173993efc9f7>
 - Your Clawdbot (Moltbot) AI Assistant Has Shell Access and One Prompt Injection Away from Disaster (snyk-io-b67a29) [link] <snyk-io-b67a29|526c06a7e1a1c210b603f0c65a606fd3bee6a0a33cd4e48f4467c5fb84a32262>
 - Bots with an Attitude: Designing Ethical Creative Intelligence for Collaborative Communities (waag-org-9ab39d) [link] <waag-org-9ab39d|78bc0933bf5dfbeb673d12a7d35ac91da8a502c4c7f0090060b2b2b08c3695ef>
-- Offcourse (offcourse) [project] <offcourse|a3d07efca1864bddd8df7e712eac5337cd6fdbe1de82186507a74a9bc2f1038a>
-- Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|4c5ceffb7bad7303115d77d4df6f05e1b29515910b0b6b24943035e113cd95c8>
+- Offcourse (offcourse) [project] <offcourse|8adf3ac9f90611ebb3c6609bab398f9c153f4414f9325ea5ffe3cd12439fa783>
+- Rizom Collective (rizom-collective) [project] <rizom-collective|3daacab9b59c3914009d43a6e4a2aea89ef9085c1f384c0e9009395d9f4289eb>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|3d2909da68e4e3e580f34c817f1fa956485382bf2a15f0eb241808c232d0a32e>
 - Lefthoek (lefthoek) [project] <lefthoek|ef59fe5665a303e0668b65e04cdc0c16d893a44f516ff1a78cb33e2c86f0ed4a>
 - Data Drive (data-drive) [post] <Data Drive|46e28be6ec320c636a1c80f929002c1f6c2ae703c9cf4d9fd9328482b363a857>
 - Value Driven Development (value-driven-development) [post] <Value Driven Development|231e9c93fdc319977cc108fa143838611aa207418e669d07885be0f95afb2320>
+- Rizom Brains (rizom-brains) [project] <rizom-brains|7bee0458528d160e9424a0f20d8d7b63858dbbb003b85046487a816990c0f277>

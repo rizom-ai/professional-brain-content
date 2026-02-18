@@ -1,14 +1,15 @@
 ---
 title: Human-Bot Collaboration
 keywords:
-  - human-centered design
-  - augmentation
-  - automation ethics
-  - human agency
-  - meaningful work
-  - tedious work elimination
-  - human-AI collaboration
-  - decision-making preservation
+  - artificial intelligence
+  - AI ethics
+  - value-driven design
+  - human augmentation
+  - responsible technology
+  - AI assistants
+  - organizational values
+  - technology ethics
+  - human-centered AI
 ---
 The piece explores a novel approach to distributed team collaboration by integrating artificial agents (bots) alongside human team members. Rather than treating humanness as a prerequisite for collaboration, the thesis prioritizes agency and effective contribution to collective goals. This challenges traditional assumptions about what makes a valid team member, proposing that if an agent—whether human or artificial—effectively advances shared objectives, their ontological status becomes secondary. The approach raises critical questions about how we evaluate contribution value, define productivity, and structure governance in hybrid human-bot networks.
 
@@ -25,3 +26,4 @@ The piece explores a novel approach to distributed team collaboration by integra
 - Bots with an Attitude (bots-with-an-attitude) [project] <bots-with-an-attitude-ethical-ai-collaboration|49a1d2a5212de6a84426adbe673a7c59b1de8e06f28b8fa2b933414a35d2c78d>
 - Lefthoek (lefthoek) [project] <lefthoek|eb0cfae6a2a640096e8f29d7ecbb8595a649943ac503bf9bf2b2be78948ca249>
 - Data Drive (data-drive) [post] <Data Drive|46e28be6ec320c636a1c80f929002c1f6c2ae703c9cf4d9fd9328482b363a857>
+- Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>

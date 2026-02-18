@@ -1,13 +1,15 @@
 ---
 title: Institutional Legitimacy Crisis
 keywords:
-  - institutional change
-  - university
-  - disciplinary frameworks
-  - knowledge validation
-  - academic-commercial boundaries
-  - research methodology
-  - interdisciplinary collaboration
+  - trust
+  - outcome-based certification
+  - credibility signals
+  - decentralized trust
+  - gatekeepers
+  - equity
+  - franchise model
+  - distributed authority
+  - organizational psychology
 ---
 The article argues that public institutions no longer function as effective safeguards for democracy because they lack legitimacy rooted in shared values. Rather than institutions protecting democracy through constitutional frameworks, the author contends that institutions are only recognized as legitimate when they serve particular interests, and are easily dismissed otherwise. The COVID pandemic exemplified this crisis, revealing that citizens were willing to suspend constitutional protections when convenient, demonstrating that the constitution was never a true safeguard but merely a 'suspension of disbelief.' This institutional bankruptcy is evident globally, from Israel's disregard for UN resolutions to widespread institutional erosion across the political spectrum. The core insight is that institutions cannot protect democracy without a functioning social contract underpinning them.
 
@@ -23,4 +25,4 @@ The article argues that public institutions no longer function as effective safe
 - Global Village People (global-village-people) [post] <Global Village People|e55e2805440e1817605ea76a8dcd62a9f0dee02636b02accafb6bc9f4ef875a3>
 - The Good Foot (the-good-foot) [post] <The Good Foot|cfbdf4b4ef8841a1cf62351719df9d4a0ec9df23ba4766aee8d0abc8f6f6ee04>
 - Your Clawdbot (Moltbot) AI Assistant Has Shell Access and One Prompt Injection Away from Disaster (snyk-io-b67a29) [link] <snyk-io-b67a29|526c06a7e1a1c210b603f0c65a606fd3bee6a0a33cd4e48f4467c5fb84a32262>
-- Rizom Brains: Knowledge Infrastructure for Distributed Teams (rizom-brains-knowledge-infrastructure-for-distributed-teams) [project] <rizom-brains|4f1285d45e62df09b0648ef34c176755ed5eeb79bef978e6891c1950cee02977>
+- Rizom Brains (rizom-brains) [project] <rizom-brains|7bee0458528d160e9424a0f20d8d7b63858dbbb003b85046487a816990c0f277>
