@@ -1,16 +1,16 @@
 ---
 title: Human-Bot Collaboration
 keywords:
-  - cassette architecture
-  - state machine
-  - modular design
-  - plugin system
-  - reusable functions
-  - bot extensibility
-  - participatory development
-  - low-barrier contribution
-  - community-driven development
-  - composable intelligence
+  - hybrid governance
+  - reputation systems
+  - multi-agent decision-making
+  - contribution quality
+  - community values
+  - algorithmic governance
+  - safeguards
+  - stakeholder alignment
+  - value-driven systems
+  - distributed authority
 ---
 The piece explores a novel approach to distributed team collaboration by integrating artificial agents (bots) alongside human team members. Rather than treating humanness as a prerequisite for collaboration, the thesis prioritizes agency and effective contribution to collective goals. This challenges traditional assumptions about what makes a valid team member, proposing that if an agent—whether human or artificial—effectively advances shared objectives, their ontological status becomes secondary. The approach raises critical questions about how we evaluate contribution value, define productivity, and structure governance in hybrid human-bot networks.
 
