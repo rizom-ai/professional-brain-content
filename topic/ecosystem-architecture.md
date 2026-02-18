@@ -1,14 +1,16 @@
 ---
 title: Ecosystem Architecture
 keywords:
-  - gamification
-  - incentive mechanisms
-  - event design
-  - participant engagement
-  - competition
-  - reward systems
-  - behavioral design
-  - user motivation
+  - values operationalization
+  - measurable ethics
+  - value frameworks
+  - accountability infrastructure
+  - ethical practice
+  - standards design
+  - verification systems
+  - value commitments
+  - operational ethics
+  - systems design
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -44,3 +46,4 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - Rizom Collective (rizom-collective) [project] <rizom-collective|3daacab9b59c3914009d43a6e4a2aea89ef9085c1f384c0e9009395d9f4289eb>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>
 - Lefthoek (lefthoek) [project] <lefthoek|eb0cfae6a2a640096e8f29d7ecbb8595a649943ac503bf9bf2b2be78948ca249>
+- Public Badges (public-badges) [project] <public-badges|0bf45bfa1e950a5f71154fb2d4b4a4cebb6ea44d8ebf586669d71eb11a500d66>
