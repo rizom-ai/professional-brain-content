@@ -2,6 +2,7 @@
 title: Adaptive Organizations
 platform: linkedin
 status: draft
+coverImageId: adaptive-organizations-cover-image
 ---
 We've been building organizations like machines for 200 years.
 
