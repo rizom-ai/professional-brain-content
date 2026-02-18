@@ -1,14 +1,15 @@
 ---
 title: Ecosystem Architecture
 keywords:
-  - knowledge management
-  - knowledge architecture
-  - institutional memory
-  - information extraction
-  - knowledge capture
-  - collective memory
-  - knowledge infrastructure
-  - documentation automation
+  - knowledge systems
+  - information architecture
+  - organizational learning
+  - data ecosystems
+  - infrastructure design
+  - knowledge mapping
+  - information flow
+  - custom tools
+  - organizational effectiveness
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -42,5 +43,5 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - Offcourse (offcourse) [project] <offcourse|a3d07efca1864bddd8df7e712eac5337cd6fdbe1de82186507a74a9bc2f1038a>
 - Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|08db7565f6b7b8b0e0eb034e66aa7af405ee8a989c2632ad95712ee487d30b5d>
 - Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|4c5ceffb7bad7303115d77d4df6f05e1b29515910b0b6b24943035e113cd95c8>
-- Offcourse Studio (offcourse-studio) [project] <offcourse-studio|3d2909da68e4e3e580f34c817f1fa956485382bf2a15f0eb241808c232d0a32e>
+- Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>
 - Lefthoek (lefthoek) [project] <lefthoek|eb0cfae6a2a640096e8f29d7ecbb8595a649943ac503bf9bf2b2be78948ca249>
