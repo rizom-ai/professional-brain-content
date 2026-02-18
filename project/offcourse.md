@@ -7,10 +7,11 @@ description: >-
   curate and share knowledge resources as structured, collaborative courses.
 year: 2013
 coverImageId: offcourse-cover
+url: https://offcourse.io
 ---
 ## Context
 
-Offcourse was founded by Jan Hein Hoogstad and an international team with diverse educational backgrounds. The platform emerged from a conviction that traditional institutional education was limiting human potential and that knowledge sharing should be decentralized. Built during a period when online learning was still treated as a compromise rather than a distinct medium, Offcourse represented an early attempt to create infrastructure for what the founder calls "crowdlearning"—a community-driven approach where individuals collectively curate and share knowledge.
+Offcourse was founded by an international team with diverse educational backgrounds. The platform emerged from a conviction that traditional institutional education was limiting human potential and that knowledge sharing should be decentralized. Built during a period when online learning was still treated as a compromise rather than a distinct medium, Offcourse represented an early attempt to create infrastructure for "crowdlearning"—a community-driven approach where individuals collectively curate and share knowledge.
 
 ## Problem
 
@@ -22,4 +23,4 @@ Offcourse built an open source platform that inverted the traditional education 
 
 ## Outcome
 
-Offcourse demonstrated that crowdlearning was viable and that communities could self-organize around shared learning goals. The platform proved that knowledge sharing promotes growth for everyone involved. More importantly, the project validated a foundational insight: online education should be designed from first principles as a superior alternative, not as a compromise. This learning directly influenced subsequent work in ecosystem architecture and knowledge infrastructure. Offcourse established patterns for distributed communities, asynchronous collaboration, and shared knowledge spaces that would become central to later projects like Rizom. The platform showed that when you remove institutional gatekeeping and give people tools to curate and share, learning becomes an act of collective meaning-making rather than content consumption.
+Offcourse demonstrated that crowdlearning was viable and that communities could self-organize around shared learning goals. The platform proved that knowledge sharing promotes growth for everyone involved. More importantly, the project validated a foundational insight: online education should be designed from first principles as a superior alternative, not as a compromise. This learning directly influenced subsequent work in ecosystem architecture and knowledge infrastructure. The platform established patterns for distributed communities, asynchronous collaboration, and shared knowledge spaces that would become central to later projects. It showed that when you remove institutional gatekeeping and give people tools to curate and share, learning becomes an act of collective meaning-making rather than content consumption.
