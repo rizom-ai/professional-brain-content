@@ -1,8 +1,9 @@
 ---
 title: Values Drive Everything
 platform: linkedin
-status: draft
+status: published
 coverImageId: values-drive-everything-cover-image
+publishedAt: '2026-02-18T08:33:29.629Z'
 ---
 We spend more time at work than anywhere else.
 
