@@ -3,13 +3,13 @@ title: Ecosystem Architecture
 keywords:
   - ecosystem architecture
   - living systems
-  - distributed intelligence
   - organizational design
+  - permaculture
+  - biomimicry
   - regenerative design
-  - decentralized structures
-  - collective intelligence
   - emergence
-  - knowledge infrastructure
+  - adaptive capacity
+  - resilience
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -42,6 +42,6 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - Rizom Brains (rizom-brains) [project] <rizom-brains|7bee0458528d160e9424a0f20d8d7b63858dbbb003b85046487a816990c0f277>
 - Offcourse (offcourse) [project] <offcourse|8adf3ac9f90611ebb3c6609bab398f9c153f4414f9325ea5ffe3cd12439fa783>
 - Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|08db7565f6b7b8b0e0eb034e66aa7af405ee8a989c2632ad95712ee487d30b5d>
-- Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|4c5ceffb7bad7303115d77d4df6f05e1b29515910b0b6b24943035e113cd95c8>
+- Rizom Collective (rizom-collective) [project] <rizom-collective|3daacab9b59c3914009d43a6e4a2aea89ef9085c1f384c0e9009395d9f4289eb>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>
 - Lefthoek (lefthoek) [project] <lefthoek|eb0cfae6a2a640096e8f29d7ecbb8595a649943ac503bf9bf2b2be78948ca249>
