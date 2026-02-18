@@ -7,6 +7,7 @@ description: >-
   values of organizations, products, and protocols visible and measurable
   through Open Badges and automated testing.
 year: 2019
+coverImageId: public-badges-cover-image
 url: 'https://publicbadges.com'
 ---
 ## Context
