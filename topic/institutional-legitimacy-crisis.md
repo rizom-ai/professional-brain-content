@@ -1,16 +1,16 @@
 ---
 title: Institutional Legitimacy Crisis
 keywords:
-  - ethical accountability
-  - certification systems
-  - open badges
+  - ethical certification
+  - Open Badges
+  - accountability
   - values measurement
-  - digital ethics
+  - evidence-based
   - pluralism
-  - transparency
-  - automated testing
-  - ethical commitments
-  - internet governance
+  - digital governance
+  - ethical standards
+  - verification
+  - organizational transparency
 ---
 The article argues that public institutions no longer function as effective safeguards for democracy because they lack legitimacy rooted in shared values. Rather than institutions protecting democracy through constitutional frameworks, the author contends that institutions are only recognized as legitimate when they serve particular interests, and are easily dismissed otherwise. The COVID pandemic exemplified this crisis, revealing that citizens were willing to suspend constitutional protections when convenient, demonstrating that the constitution was never a true safeguard but merely a 'suspension of disbelief.' This institutional bankruptcy is evident globally, from Israel's disregard for UN resolutions to widespread institutional erosion across the political spectrum. The core insight is that institutions cannot protect democracy without a functioning social contract underpinning them.
 
@@ -27,4 +27,4 @@ The article argues that public institutions no longer function as effective safe
 - The Good Foot (the-good-foot) [post] <The Good Foot|cfbdf4b4ef8841a1cf62351719df9d4a0ec9df23ba4766aee8d0abc8f6f6ee04>
 - Your Clawdbot (Moltbot) AI Assistant Has Shell Access and One Prompt Injection Away from Disaster (snyk-io-b67a29) [link] <snyk-io-b67a29|526c06a7e1a1c210b603f0c65a606fd3bee6a0a33cd4e48f4467c5fb84a32262>
 - Rizom Brains (rizom-brains) [project] <rizom-brains|7bee0458528d160e9424a0f20d8d7b63858dbbb003b85046487a816990c0f277>
-- Public Badges (public-badges) [project] <public-badges|0bf45bfa1e950a5f71154fb2d4b4a4cebb6ea44d8ebf586669d71eb11a500d66>
+- Public Badges (public-badges) [project] <public-badges|390fea71e6d6ca374203c99cdf1c1d46b6baac4d836aab314d5f932f8278a131>
