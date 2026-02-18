@@ -1,14 +1,13 @@
 ---
 title: Ecosystem Architecture
 keywords:
-  - behavior driven development
-  - BDD
-  - user expectations
-  - specifications
-  - gherkin
-  - domain specific language
-  - developer-user dialogue
-  - requirements management
+  - digital humanities
+  - humanist practice
+  - interpretation
+  - actionable knowledge
+  - Kittler
+  - contemplation
+  - knowledge production
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -23,7 +22,7 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - The Future of Work is Play (the-future-of-work-is-play) [post] <The Future of Work is Play|d80604100387d87d753df6da40e5e583f270100e3dd4cecd3c5a3bbb1a0dcb39>
 - Intelligence Unleashed (intelligence-unleashed) [post] <Intelligence Unleashed|6bab14a0675957405842ac1dd20abeeb2eda3ea7d5ad8f851b0c31f1141e792e>
 - Shenzhen Goes Ham (shenzhen-goes-ham) [post] <Shenzen Goes Ham|42cff53f9f2225dbaa425d7459da853c9344724f150e7ec5c35a8eca4f8df68e>
-- Data Drive (data-drive) [post] <Data Drive|75c44f8cc8a7252084c70d1c6696a4f4a1a49ba87ec09e67e39c8b41013bde3b>
+- Data Drive (data-drive) [post] <Data Drive|46e28be6ec320c636a1c80f929002c1f6c2ae703c9cf4d9fd9328482b363a857>
 - Learning From Nature (learning-from-nature) [post] <Learning From Nature|dd02a2353af8c92d9c4e3d095fd1e6534e783ecfadcf9ecbd332575c34060155>
 - Economy Of Garbage (economy-of-garbage) [post] <Economy Of Garbage|c8d4798b7ab8351b17e65c79c24a9bf8e3cd491949ca6f1754ed47e53b7d9d92>
 - Global Village People (global-village-people) [post] <Global Village People|e55e2805440e1817605ea76a8dcd62a9f0dee02636b02accafb6bc9f4ef875a3>
