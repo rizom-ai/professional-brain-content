@@ -2,13 +2,12 @@
 title: Ecosystem Architecture
 keywords:
   - gamification
-  - incentive mechanisms
-  - event design
-  - participant engagement
-  - competition
-  - reward systems
-  - behavioral design
-  - user motivation
+  - incentive design
+  - network activation
+  - competition mechanics
+  - value recognition
+  - engagement design
+  - connection brokering
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -37,10 +36,11 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - Offcourse - Open Source Crowdlearning Platform (offcourse-io-efdda5) [link] <offcourse-io-efdda5|91a1227fa36402a0ab08f21def7cd417bfa32ee82e34967f672841004a29ee34>
 - Offcourse Studio - Creative Technology & Ethical AI Design (offcourse-studio-com-12e620) [link] <offcourse-studio-com-12e620|969a6f2d572c5ee5484dc1362d0dc514a819d1917e141feda7e9173993efc9f7>
 - 42workspace - Rotterdam's Leading Tech Coworking Space (42workspace-com-c8c1e5) [link] <42workspace-com-c8c1e5|440a74e0c3bbc00234e612c6715442a1edf90dadcdd3b0419efc2a31ff7f3bf9>
-- Superconnectors (superconnectors) [project] <superconnectors|5309ca8c76bbc9de28721bc3db98268e4aa72010c1846172edd3c584a5016378>
-- Rizom Brains (rizom-brains) [project] <rizom-brains|7bee0458528d160e9424a0f20d8d7b63858dbbb003b85046487a816990c0f277>
+- Superconnectors (superconnectors) [project] <superconnectors|3bc9b6324e40cfaa283ebbbcc22317421ce2d4895dd7b7993500369c7de86e6e>
+- Rizom Brains (rizom-brains) [project] <rizom-brains|3ee1a3c787e13dcdf62f4eed98e8902c676131c8c678e312ebdf8184ef5da4ef>
 - Offcourse (offcourse) [project] <offcourse|8adf3ac9f90611ebb3c6609bab398f9c153f4414f9325ea5ffe3cd12439fa783>
 - Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|08db7565f6b7b8b0e0eb034e66aa7af405ee8a989c2632ad95712ee487d30b5d>
-- Rizom Collective (rizom-collective) [project] <rizom-collective|3daacab9b59c3914009d43a6e4a2aea89ef9085c1f384c0e9009395d9f4289eb>
+- Rizom Collective (rizom-collective) [project] <rizom-collective|28b86b330616817a84ae637c0372e7341d52c46f8cd18acb8b88817ac7d0bca1>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>
 - Lefthoek (lefthoek) [project] <lefthoek|eb0cfae6a2a640096e8f29d7ecbb8595a649943ac503bf9bf2b2be78948ca249>
+- Public Badges (public-badges) [project] <public-badges|0bf45bfa1e950a5f71154fb2d4b4a4cebb6ea44d8ebf586669d71eb11a500d66>
