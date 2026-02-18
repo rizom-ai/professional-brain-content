@@ -1,13 +1,14 @@
 ---
 title: Online Learning Design
 keywords:
-  - digital humanities
-  - humanist tradition
-  - methodology transformation
-  - disciplinary frameworks
-  - interpretation
-  - technology adoption
-  - academic practice
+  - test driven development
+  - TDD
+  - unit tests
+  - test first
+  - contracts
+  - code expectations
+  - software methodology
+  - Ruby
 ---
 Online education represents a distinct mode of learning that should not be treated as a compromise or substitute for in-person instruction, but rather as its own medium with unique affordances. Effective online learning design moves beyond recreating the classroom experience and instead leverages the specific advantages of digital platforms. Key principles include creating focused, shorter learning units (5-10 minutes), providing real-time automated feedback through tools like in-browser editors and unit tests, and integrating interactive assignments that feel engaging rather than burdensome. The author argues that platforms like Code School demonstrated how online learning could be superior to traditional methods by fully embracing the medium rather than fighting against it, suggesting that the future of education requires rethinking pedagogical approaches specifically for digital contexts.
 
@@ -26,3 +27,4 @@ Online education represents a distinct mode of learning that should not be treat
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|3d2909da68e4e3e580f34c817f1fa956485382bf2a15f0eb241808c232d0a32e>
 - Lefthoek (lefthoek) [project] <lefthoek|ef59fe5665a303e0668b65e04cdc0c16d893a44f516ff1a78cb33e2c86f0ed4a>
 - Data Drive (data-drive) [post] <Data Drive|46e28be6ec320c636a1c80f929002c1f6c2ae703c9cf4d9fd9328482b363a857>
+- Value Driven Development (value-driven-development) [post] <Value Driven Development|231e9c93fdc319977cc108fa143838611aa207418e669d07885be0f95afb2320>
