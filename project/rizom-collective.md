@@ -8,7 +8,7 @@ description: >-
   tradeoffs.
 year: 2024
 coverImageId: rizom-collective-cover
-url: https://rizom.ai
+url: 'https://rizom.ai'
 ---
 ## Context
 

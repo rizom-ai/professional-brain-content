@@ -9,7 +9,7 @@ description: >-
   without friction.
 year: 2024
 coverImageId: rizom-brains-cover
-url: https://rizom.ai/products
+url: 'https://rizom.ai/products'
 ---
 ## Context
 

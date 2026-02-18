@@ -7,7 +7,7 @@ description: >-
   curate and share knowledge resources as structured, collaborative courses.
 year: 2013
 coverImageId: offcourse-cover
-url: https://offcourse.io
+url: 'https://offcourse.io'
 ---
 ## Context
 
