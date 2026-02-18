@@ -9,6 +9,7 @@ excerpt: >-
   build on this practice by rendering the implicit values behind these
   expectations explicit.
 author: Yeehaa
+coverImageId: value-driven-development-cover-image
 seriesName: Public Badges
 seriesIndex: 2
 ---
