@@ -1,14 +1,14 @@
 ---
 title: Human-Bot Collaboration
 keywords:
-  - narrow AI
-  - specialized systems
-  - focused agents
-  - pragmatic automation
-  - problem-solving
-  - organizational friction
-  - practical implementation
-  - AI agents
+  - human-centered design
+  - augmentation
+  - automation ethics
+  - human agency
+  - meaningful work
+  - tedious work elimination
+  - human-AI collaboration
+  - decision-making preservation
 ---
 The piece explores a novel approach to distributed team collaboration by integrating artificial agents (bots) alongside human team members. Rather than treating humanness as a prerequisite for collaboration, the thesis prioritizes agency and effective contribution to collective goals. This challenges traditional assumptions about what makes a valid team member, proposing that if an agent—whether human or artificial—effectively advances shared objectives, their ontological status becomes secondary. The approach raises critical questions about how we evaluate contribution value, define productivity, and structure governance in hybrid human-bot networks.
 
