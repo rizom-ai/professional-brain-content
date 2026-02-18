@@ -2,14 +2,13 @@
 title: Ecosystem Architecture
 keywords:
   - ecosystem design
-  - organizational systems
+  - distributed systems
+  - organizational structure
   - living systems
-  - decentralized organizations
-  - regenerative design
-  - system thinking
-  - organizational architecture
-  - adaptive complexity
-  - infrastructure
+  - community infrastructure
+  - decentralized governance
+  - emergence
+  - system design
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -40,7 +39,7 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - 42workspace - Rotterdam's Leading Tech Coworking Space (42workspace-com-c8c1e5) [link] <42workspace-com-c8c1e5|440a74e0c3bbc00234e612c6715442a1edf90dadcdd3b0419efc2a31ff7f3bf9>
 - Superconnectors (superconnectors) [project] <superconnectors|712c89a8b10de4e362e4be8b7fda5f22ecdfcfc97a8c29e3c592fc4c2f9450bb>
 - Rizom Brains: Knowledge Infrastructure for Distributed Teams (rizom-brains-knowledge-infrastructure-for-distributed-teams) [project] <rizom-brains|4f1285d45e62df09b0648ef34c176755ed5eeb79bef978e6891c1950cee02977>
-- Offcourse (offcourse) [project] <offcourse|a3d07efca1864bddd8df7e712eac5337cd6fdbe1de82186507a74a9bc2f1038a>
+- Offcourse (offcourse) [project] <offcourse|8adf3ac9f90611ebb3c6609bab398f9c153f4414f9325ea5ffe3cd12439fa783>
 - Bots with an Attitude: Ethical AI Collaboration (bots-with-an-attitude-ethical-ai-collaboration) [project] <bots-with-an-attitude-ethical-ai-collaboration|08db7565f6b7b8b0e0eb034e66aa7af405ee8a989c2632ad95712ee487d30b5d>
 - Rizom: Distributed Teams That Scale (rizom-distributed-teams-that-scale) [project] <rizom-collective|4c5ceffb7bad7303115d77d4df6f05e1b29515910b0b6b24943035e113cd95c8>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>
