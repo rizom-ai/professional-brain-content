@@ -1,8 +1,9 @@
 ---
 title: Website Launch & Essays Collection
 platform: linkedin
-status: draft
+status: published
 coverImageId: website-launch-essays-collection-cover-image
+publishedAt: '2026-02-19T06:15:20.933Z'
 ---
 After years of scattered thinking across platforms, I've finally brought it all together in one place.
 
