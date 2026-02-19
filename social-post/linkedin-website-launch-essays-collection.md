@@ -2,7 +2,7 @@
 title: Website Launch & Essays Collection
 platform: linkedin
 status: draft
-coverImageId: website-launch-essays-collection-image
+coverImageId: website-launch-essays-collection-cover-image
 ---
 After years of scattered thinking across platforms, I've finally consolidated my work in one place.
 
