@@ -1,8 +1,9 @@
 ---
 title: Ecosystem Architecture vs Traditional Design
 platform: linkedin
-status: draft
+status: published
 coverImageId: ecosystem-architecture-vs-traditional-design-cover-image
+publishedAt: '2026-02-24T06:08:03.946Z'
 ---
 Most organizations are still built like machines.
 
