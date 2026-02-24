@@ -509,9 +509,7 @@
 2026-02-23T17:39:28.960Z - identity/identity.md: Entity type registration failed for identity: No adapter registered for entity type
 → identity/identity.md.invalid
 
-2026-02-24T08:02:11.535Z - note/rizom-fundamentals.md: Entity type registration failed for note: No adapter registered for entity type
-→ note/rizom-fundamentals.md.invalid
+2026-02-24T08:06:32.961Z - [RECOVERED] rizom-fundamentals.md
 
-2026-02-24T08:02:11.537Z - note/README.md: Entity type registration failed for note: No adapter registered for entity type
-→ note/README.md.invalid
+2026-02-24T08:06:32.850Z - [RECOVERED] README.md
 
