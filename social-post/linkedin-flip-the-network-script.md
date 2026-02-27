@@ -15,7 +15,7 @@ I have been thinking about this through the lens of ecosystem design. Traditiona
 
 A networking format that flips the script entirely.
 
-That was the original premise behind Superconnectors, and we have taken it to the next level with Fatality!
+That was the original premise behind Superconnectors, and Rizom has taken it to the next level with Fatality!
 
 Instead of pitching accomplishments, you articulate genuine needs. Instead of broadcasting your value, you listen for complementarity. The matching happens naturally Not through resume scanning, but through real problem-solving alignment.
 
