@@ -1,8 +1,9 @@
 ---
 title: Flip the Network Script
 platform: linkedin
-status: draft
+status: published
 coverImageId: flip-the-network-script-cover-image
+publishedAt: '2026-02-27T06:45:04.208Z'
 ---
 Most networking events are built backwards.
 
