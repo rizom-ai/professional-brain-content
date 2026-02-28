@@ -6,5 +6,3 @@ logo: false
 themeMode: light
 cta: ""
 ---
-
-<!-- Write your content here -->

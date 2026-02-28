@@ -12,5 +12,3 @@ expertise: []
 currentFocus: ""
 availability: ""
 ---
-
-<!-- Write your content here -->

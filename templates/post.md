@@ -13,5 +13,3 @@ ogDescription: ""
 twitterCard: summary
 canonicalUrl: ""
 ---
-
-<!-- Write your content here -->

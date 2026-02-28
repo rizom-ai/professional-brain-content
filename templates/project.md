@@ -9,4 +9,10 @@ coverImageId: ""
 url: ""
 ---
 
-<!-- Write your content here -->
+## Context
+
+## Problem
+
+## Solution
+
+## Outcome
