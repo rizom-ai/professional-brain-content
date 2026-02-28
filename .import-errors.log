@@ -549,3 +549,39 @@
 2026-02-28T06:20:36.083Z - .obsidian/templates/topic.md: Entity type registration failed for .obsidian: No adapter registered for entity type
 → .obsidian/templates/topic.md.invalid
 
+2026-02-28T15:40:36.459Z - templates/anchor-profile.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/anchor-profile.md.invalid
+
+2026-02-28T15:40:36.462Z - templates/base.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/base.md.invalid
+
+2026-02-28T15:40:36.463Z - templates/brain-character.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/brain-character.md.invalid
+
+2026-02-28T15:40:36.464Z - templates/deck.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/deck.md.invalid
+
+2026-02-28T15:40:36.465Z - templates/link.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/link.md.invalid
+
+2026-02-28T15:40:36.466Z - templates/newsletter.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/newsletter.md.invalid
+
+2026-02-28T15:40:36.467Z - templates/post.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/post.md.invalid
+
+2026-02-28T15:40:36.468Z - templates/project.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/project.md.invalid
+
+2026-02-28T15:40:36.469Z - templates/series.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/series.md.invalid
+
+2026-02-28T15:40:36.470Z - templates/site-info.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/site-info.md.invalid
+
+2026-02-28T15:40:36.470Z - templates/social-post.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/social-post.md.invalid
+
+2026-02-28T15:40:36.471Z - templates/topic.md: Entity type registration failed for templates: No adapter registered for entity type
+→ templates/topic.md.invalid
+
