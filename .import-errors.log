@@ -513,3 +513,39 @@
 
 2026-02-24T08:06:32.850Z - [RECOVERED] README.md
 
+2026-02-28T06:20:36.073Z - .obsidian/templates/anchor-profile.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/anchor-profile.md.invalid
+
+2026-02-28T06:20:36.075Z - .obsidian/templates/base.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/base.md.invalid
+
+2026-02-28T06:20:36.076Z - .obsidian/templates/brain-character.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/brain-character.md.invalid
+
+2026-02-28T06:20:36.077Z - .obsidian/templates/deck.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/deck.md.invalid
+
+2026-02-28T06:20:36.077Z - .obsidian/templates/link.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/link.md.invalid
+
+2026-02-28T06:20:36.078Z - .obsidian/templates/newsletter.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/newsletter.md.invalid
+
+2026-02-28T06:20:36.079Z - .obsidian/templates/post.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/post.md.invalid
+
+2026-02-28T06:20:36.080Z - .obsidian/templates/project.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/project.md.invalid
+
+2026-02-28T06:20:36.081Z - .obsidian/templates/series.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/series.md.invalid
+
+2026-02-28T06:20:36.082Z - .obsidian/templates/site-info.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/site-info.md.invalid
+
+2026-02-28T06:20:36.082Z - .obsidian/templates/social-post.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/social-post.md.invalid
+
+2026-02-28T06:20:36.083Z - .obsidian/templates/topic.md: Entity type registration failed for .obsidian: No adapter registered for entity type
+→ .obsidian/templates/topic.md.invalid
+
