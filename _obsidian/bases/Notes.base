@@ -2,7 +2,7 @@ filters:
   and:
     - file.inFolder("base")
 views:
-  - name: All Bases
+  - name: All Notes
     order:
       - file.name
       - title
