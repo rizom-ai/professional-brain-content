@@ -1,4 +1,5 @@
 ---
+Files Paths: newsletter
 fields:
   - name: subject
     type: Input

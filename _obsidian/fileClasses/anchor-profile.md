@@ -1,4 +1,5 @@
 ---
+Files Paths: anchor-profile
 fields:
   - name: name
     type: Input

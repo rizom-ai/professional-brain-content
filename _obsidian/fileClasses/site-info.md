@@ -1,4 +1,5 @@
 ---
+Files Paths: site-info
 fields:
   - name: title
     type: Input

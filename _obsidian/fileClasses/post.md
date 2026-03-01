@@ -1,4 +1,5 @@
 ---
+Files Paths: post
 fields:
   - name: title
     type: Input

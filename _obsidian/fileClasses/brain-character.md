@@ -1,4 +1,5 @@
 ---
+Files Paths: brain-character
 fields:
   - name: name
     type: Input
