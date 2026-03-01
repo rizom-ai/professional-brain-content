@@ -1,0 +1,31 @@
+filters:
+  and:
+    - file.inFolder("deck")
+views:
+  - name: All Decks
+    order:
+      - file.name
+      - title
+      - slug
+      - description
+      - author
+      - status
+      - publishedAt
+      - event
+      - coverImageId
+    type: table
+  - groupBy:
+      direction: ASC
+      property: status
+    name: By Status
+    order:
+      - file.name
+      - title
+      - slug
+      - description
+      - author
+      - status
+      - publishedAt
+      - event
+      - coverImageId
+    type: table
