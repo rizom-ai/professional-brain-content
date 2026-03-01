@@ -1,9 +1,0 @@
-filters:
-  and:
-    - file.folder == ""
-views:
-  - name: All Notes
-    order:
-      - file.name
-      - title
-    type: table
