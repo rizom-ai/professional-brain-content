@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.folder.isEmpty()
 views:
   - name: All Notes
     order:
