@@ -696,3 +696,6 @@
 2026-03-01T17:51:10.737Z - _obsidian/fileClasses/topic.md: Entity type registration failed for _obsidian: No adapter registered for entity type
 → _obsidian/fileClasses/topic.md.invalid
 
+2026-03-01T18:06:09.432Z - _obsidian/bases/Notes.base: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/bases/Notes.base.invalid
+
