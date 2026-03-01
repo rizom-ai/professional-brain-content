@@ -1,5 +1,4 @@
 ---
-Files Paths: project
 fields:
   - name: title
     type: Input
@@ -20,4 +19,5 @@ fields:
     type: Input
   - name: url
     type: Input
+filesPaths: project
 ---

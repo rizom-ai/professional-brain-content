@@ -1,5 +1,4 @@
 ---
-Files Paths: social-post
 fields:
   - name: title
     type: Input
@@ -27,4 +26,5 @@ fields:
       - '0': post
       - '1': deck
     type: Select
+filesPaths: social-post
 ---

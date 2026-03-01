@@ -1,5 +1,4 @@
 ---
-Files Paths: link
 fields:
   - name: status
     options:
@@ -21,4 +20,5 @@ fields:
     type: Input
   - name: source
     type: Input
+filesPaths: link
 ---

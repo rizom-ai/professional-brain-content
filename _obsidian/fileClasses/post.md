@@ -1,5 +1,4 @@
 ---
-Files Paths: post
 fields:
   - name: title
     type: Input
@@ -34,4 +33,5 @@ fields:
     type: Select
   - name: canonicalUrl
     type: Input
+filesPaths: post
 ---

@@ -1,5 +1,4 @@
 ---
-Files Paths: newsletter
 fields:
   - name: subject
     type: Input
@@ -20,4 +19,5 @@ fields:
     type: Input
   - name: sourceEntityType
     type: Input
+filesPaths: newsletter
 ---

@@ -1,5 +1,4 @@
 ---
-Files Paths: site-info
 fields:
   - name: title
     type: Input
@@ -16,4 +15,5 @@ fields:
     type: Select
   - name: cta
     type: Input
+filesPaths: site-info
 ---
