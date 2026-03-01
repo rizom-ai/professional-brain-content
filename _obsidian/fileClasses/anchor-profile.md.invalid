@@ -1,28 +1,40 @@
 ---
 fields:
-  - name: name
+  - id: name
+    name: name
     type: Input
-  - name: description
+  - id: description
+    name: description
     type: Input
-  - name: avatar
+  - id: avatar
+    name: avatar
     type: Input
-  - name: website
+  - id: website
+    name: website
     type: Input
-  - name: email
+  - id: email
+    name: email
     type: Input
-  - name: socialLinks
+  - id: socialLinks
+    name: socialLinks
     type: Multi
-  - name: tagline
+  - id: tagline
+    name: tagline
     type: Input
-  - name: intro
+  - id: intro
+    name: intro
     type: Input
-  - name: story
+  - id: story
+    name: story
     type: Input
-  - name: expertise
+  - id: expertise
+    name: expertise
     type: Multi
-  - name: currentFocus
+  - id: currentFocus
+    name: currentFocus
     type: Input
-  - name: availability
+  - id: availability
+    name: availability
     type: Input
 filesPaths: anchor-profile
 ---

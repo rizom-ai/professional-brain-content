@@ -1,23 +1,30 @@
 ---
 fields:
-  - name: subject
+  - id: subject
+    name: subject
     type: Input
-  - name: status
+  - id: status
+    name: status
     options:
-      - '0': draft
-      - '1': queued
-      - '2': published
-      - '3': failed
+      '0': draft
+      '1': queued
+      '2': published
+      '3': failed
     type: Select
-  - name: entityIds
+  - id: entityIds
+    name: entityIds
     type: Multi
-  - name: scheduledFor
+  - id: scheduledFor
+    name: scheduledFor
     type: Input
-  - name: sentAt
+  - id: sentAt
+    name: sentAt
     type: Input
-  - name: buttondownId
+  - id: buttondownId
+    name: buttondownId
     type: Input
-  - name: sourceEntityType
+  - id: sourceEntityType
+    name: sourceEntityType
     type: Input
 filesPaths: newsletter
 ---

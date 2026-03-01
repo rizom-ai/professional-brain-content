@@ -1,37 +1,50 @@
 ---
 fields:
-  - name: title
+  - id: title
+    name: title
     type: Input
-  - name: slug
+  - id: slug
+    name: slug
     type: Input
-  - name: status
+  - id: status
+    name: status
     options:
-      - '0': draft
-      - '1': queued
-      - '2': published
+      '0': draft
+      '1': queued
+      '2': published
     type: Select
-  - name: publishedAt
+  - id: publishedAt
+    name: publishedAt
     type: Input
-  - name: excerpt
+  - id: excerpt
+    name: excerpt
     type: Input
-  - name: author
+  - id: author
+    name: author
     type: Input
-  - name: coverImageId
+  - id: coverImageId
+    name: coverImageId
     type: Input
-  - name: seriesName
+  - id: seriesName
+    name: seriesName
     type: Input
-  - name: seriesIndex
+  - id: seriesIndex
+    name: seriesIndex
     type: Number
-  - name: ogImage
+  - id: ogImage
+    name: ogImage
     type: Input
-  - name: ogDescription
+  - id: ogDescription
+    name: ogDescription
     type: Input
-  - name: twitterCard
+  - id: twitterCard
+    name: twitterCard
     options:
-      - '0': summary
-      - '1': summary_large_image
+      '0': summary
+      '1': summary_large_image
     type: Select
-  - name: canonicalUrl
+  - id: canonicalUrl
+    name: canonicalUrl
     type: Input
 filesPaths: post
 ---
