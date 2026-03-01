@@ -1,5 +1,4 @@
 ---
-Files Paths: brain-character
 fields:
   - name: name
     type: Input
@@ -9,4 +8,5 @@ fields:
     type: Input
   - name: values
     type: Multi
+filesPaths: brain-character
 ---

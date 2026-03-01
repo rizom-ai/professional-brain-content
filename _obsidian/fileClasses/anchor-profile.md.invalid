@@ -1,5 +1,4 @@
 ---
-Files Paths: anchor-profile
 fields:
   - name: name
     type: Input
@@ -25,4 +24,5 @@ fields:
     type: Input
   - name: availability
     type: Input
+filesPaths: anchor-profile
 ---

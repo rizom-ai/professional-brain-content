@@ -1,5 +1,4 @@
 ---
-Files Paths: series
 fields:
   - name: title
     type: Input
@@ -7,4 +6,5 @@ fields:
     type: Input
   - name: coverImageId
     type: Input
+filesPaths: series
 ---
