@@ -1,8 +1,10 @@
 ---
 fields:
-  - name: title
+  - id: title
+    name: title
     type: Input
-  - name: keywords
+  - id: keywords
+    name: keywords
     type: Multi
 filesPaths: topic
 ---

@@ -1,10 +1,13 @@
 ---
 fields:
-  - name: title
+  - id: title
+    name: title
     type: Input
-  - name: slug
+  - id: slug
+    name: slug
     type: Input
-  - name: coverImageId
+  - id: coverImageId
+    name: coverImageId
     type: Input
 filesPaths: series
 ---

@@ -1,6 +1,7 @@
 ---
 fields:
-  - name: title
+  - id: title
+    name: title
     type: Input
 filesPaths: base
 ---

@@ -1,23 +1,31 @@
 ---
 fields:
-  - name: title
+  - id: title
+    name: title
     type: Input
-  - name: slug
+  - id: slug
+    name: slug
     type: Input
-  - name: status
+  - id: status
+    name: status
     options:
       '0': draft
       '1': published
     type: Select
-  - name: publishedAt
+  - id: publishedAt
+    name: publishedAt
     type: Input
-  - name: description
+  - id: description
+    name: description
     type: Input
-  - name: year
+  - id: year
+    name: year
     type: Number
-  - name: coverImageId
+  - id: coverImageId
+    name: coverImageId
     type: Input
-  - name: url
+  - id: url
+    name: url
     type: Input
 filesPaths: project
 ---

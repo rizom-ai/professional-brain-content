@@ -1,24 +1,32 @@
 ---
 fields:
-  - name: status
+  - id: status
+    name: status
     options:
       '0': pending
       '1': draft
       '2': published
     type: Select
-  - name: title
+  - id: title
+    name: title
     type: Input
-  - name: url
+  - id: url
+    name: url
     type: Input
-  - name: description
+  - id: description
+    name: description
     type: Input
-  - name: keywords
+  - id: keywords
+    name: keywords
     type: Multi
-  - name: domain
+  - id: domain
+    name: domain
     type: Input
-  - name: capturedAt
+  - id: capturedAt
+    name: capturedAt
     type: Input
-  - name: source
+  - id: source
+    name: source
     type: Input
 filesPaths: link
 ---

@@ -1,19 +1,25 @@
 ---
 fields:
-  - name: title
+  - id: title
+    name: title
     type: Input
-  - name: description
+  - id: description
+    name: description
     type: Input
-  - name: copyright
+  - id: copyright
+    name: copyright
     type: Input
-  - name: logo
+  - id: logo
+    name: logo
     type: Boolean
-  - name: themeMode
+  - id: themeMode
+    name: themeMode
     options:
       '0': light
       '1': dark
     type: Select
-  - name: cta
+  - id: cta
+    name: cta
     type: Input
 filesPaths: site-info
 ---

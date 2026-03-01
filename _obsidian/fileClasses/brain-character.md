@@ -1,12 +1,16 @@
 ---
 fields:
-  - name: name
+  - id: name
+    name: name
     type: Input
-  - name: role
+  - id: role
+    name: role
     type: Input
-  - name: purpose
+  - id: purpose
+    name: purpose
     type: Input
-  - name: values
+  - id: values
+    name: values
     type: Multi
 filesPaths: brain-character
 ---
