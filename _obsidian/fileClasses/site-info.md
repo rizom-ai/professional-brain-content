@@ -10,8 +10,8 @@ fields:
     type: Boolean
   - name: themeMode
     options:
-      - '0': light
-      - '1': dark
+      '0': light
+      '1': dark
     type: Select
   - name: cta
     type: Input

@@ -4,10 +4,10 @@ fields:
     type: Input
   - name: status
     options:
-      - '0': draft
-      - '1': queued
-      - '2': published
-      - '3': failed
+      '0': draft
+      '1': queued
+      '2': published
+      '3': failed
     type: Select
   - name: entityIds
     type: Multi

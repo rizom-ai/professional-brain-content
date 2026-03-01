@@ -6,9 +6,9 @@ fields:
     type: Input
   - name: status
     options:
-      - '0': draft
-      - '1': queued
-      - '2': published
+      '0': draft
+      '1': queued
+      '2': published
     type: Select
   - name: publishedAt
     type: Input
@@ -28,8 +28,8 @@ fields:
     type: Input
   - name: twitterCard
     options:
-      - '0': summary
-      - '1': summary_large_image
+      '0': summary
+      '1': summary_large_image
     type: Select
   - name: canonicalUrl
     type: Input
