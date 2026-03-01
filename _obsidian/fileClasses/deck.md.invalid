@@ -1,4 +1,5 @@
 ---
+Files Paths: deck
 fields:
   - name: title
     type: Input

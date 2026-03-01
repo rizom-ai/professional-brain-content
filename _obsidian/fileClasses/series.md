@@ -1,4 +1,5 @@
 ---
+Files Paths: series
 fields:
   - name: title
     type: Input

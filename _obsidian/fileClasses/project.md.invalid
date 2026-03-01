@@ -1,4 +1,5 @@
 ---
+Files Paths: project
 fields:
   - name: title
     type: Input
