@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.isEmpty()
+    - file.folder == ""
 views:
   - name: All Notes
     order:
