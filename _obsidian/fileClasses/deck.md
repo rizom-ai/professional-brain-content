@@ -9,11 +9,11 @@ fields:
   - name: author
     type: Input
   - name: status
-    type: Select
     options:
-      "0": draft
-      "1": queued
-      "2": published
+      - '0': draft
+      - '1': queued
+      - '2': published
+    type: Select
   - name: publishedAt
     type: Input
   - name: event

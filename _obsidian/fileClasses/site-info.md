@@ -9,10 +9,10 @@ fields:
   - name: logo
     type: Boolean
   - name: themeMode
-    type: Select
     options:
-      "0": light
-      "1": dark
+      - '0': light
+      - '1': dark
+    type: Select
   - name: cta
     type: Input
 ---

@@ -1,11 +1,11 @@
 ---
 fields:
   - name: status
-    type: Select
     options:
-      "0": pending
-      "1": draft
-      "2": published
+      - '0': pending
+      - '1': draft
+      - '2': published
+    type: Select
   - name: title
     type: Input
   - name: url

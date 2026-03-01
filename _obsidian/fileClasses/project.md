@@ -5,10 +5,10 @@ fields:
   - name: slug
     type: Input
   - name: status
-    type: Select
     options:
-      "0": draft
-      "1": published
+      - '0': draft
+      - '1': published
+    type: Select
   - name: publishedAt
     type: Input
   - name: description
