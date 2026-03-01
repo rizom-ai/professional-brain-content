@@ -1,7 +1,0 @@
-filters: {}
-views:
-  - name: All Notes
-    order:
-      - file.name
-      - title
-    type: table
