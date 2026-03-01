@@ -624,3 +624,24 @@
 2026-03-01T05:41:10.127Z - _obsidian/templates/project.md: Entity type registration failed for _obsidian: No adapter registered for entity type
 → _obsidian/templates/project.md.invalid
 
+2026-03-01T06:56:09.804Z - _obsidian/fileClasses/deck.md: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/fileClasses/deck.md.invalid
+
+2026-03-01T06:56:09.808Z - _obsidian/fileClasses/link.md: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/fileClasses/link.md.invalid
+
+2026-03-01T06:56:09.811Z - _obsidian/fileClasses/newsletter.md: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/fileClasses/newsletter.md.invalid
+
+2026-03-01T06:56:09.818Z - _obsidian/fileClasses/post.md: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/fileClasses/post.md.invalid
+
+2026-03-01T06:56:09.821Z - _obsidian/fileClasses/project.md: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/fileClasses/project.md.invalid
+
+2026-03-01T06:56:09.824Z - _obsidian/fileClasses/site-info.md: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/fileClasses/site-info.md.invalid
+
+2026-03-01T06:56:09.828Z - _obsidian/fileClasses/social-post.md: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/fileClasses/social-post.md.invalid
+
