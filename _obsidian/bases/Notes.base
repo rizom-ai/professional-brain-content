@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("base")
+views:
+  - name: All Notes
+    order:
+      - file.name
+      - title
+    type: table
