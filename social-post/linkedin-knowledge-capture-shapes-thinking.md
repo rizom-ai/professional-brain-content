@@ -1,8 +1,9 @@
 ---
 title: Knowledge Capture Shapes Thinking
 platform: linkedin
-status: draft
+status: published
 coverImageId: knowledge-capture-shapes-thinking-cover-image
+publishedAt: '2026-03-02T06:25:18.071Z'
 ---
 Most organizations treat knowledge management as a filing system.
 
