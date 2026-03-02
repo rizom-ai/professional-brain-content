@@ -6,7 +6,7 @@ coverImageId: shenzhens-gongkai-model-image
 sourceEntityId: Shenzen Goes Ham
 sourceEntityType: post
 ---
-Most of what we call "decentralization" is actually just a rebranding of power dynamics that already existed centuries ago.
+Most of what we call decentralization is actually just a rebranding of power dynamics that already existed centuries ago.
 
 The real innovation isn't blockchain. It's happening in Shenzhen.
 
