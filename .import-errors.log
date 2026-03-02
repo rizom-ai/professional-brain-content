@@ -699,3 +699,6 @@
 2026-03-01T18:06:09.432Z - _obsidian/bases/Notes.base: Entity type registration failed for _obsidian: No adapter registered for entity type
 → _obsidian/bases/Notes.base.invalid
 
+2026-03-02T05:56:09.450Z - _obsidian/bases/Settings.base: Entity type registration failed for _obsidian: No adapter registered for entity type
+→ _obsidian/bases/Settings.base.invalid
+
