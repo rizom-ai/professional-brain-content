@@ -2,6 +2,7 @@
 title: AI Partnership Announcement
 platform: linkedin
 status: draft
+coverImageId: human-agent-collaboration-teaser-image
 ---
 We've been asking the wrong question about AI.
 
