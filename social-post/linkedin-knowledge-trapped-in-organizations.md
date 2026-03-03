@@ -2,6 +2,7 @@
 title: Knowledge Trapped in Organizations
 platform: linkedin
 status: draft
+coverImageId: knowledge-trapped-in-organizations-cover-image
 ---
 Your best engineer leaves.
 
