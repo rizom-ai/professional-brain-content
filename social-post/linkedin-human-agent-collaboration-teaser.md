@@ -2,6 +2,7 @@
 title: Human-Agent Collaboration Teaser
 platform: linkedin
 status: draft
+coverImageId: human-agent-collaboration-teaser-cover-image
 ---
 We're building something that shouldn't work but does.
 
