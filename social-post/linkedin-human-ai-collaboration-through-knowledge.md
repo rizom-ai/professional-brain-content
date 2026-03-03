@@ -2,6 +2,7 @@
 title: Human-AI Collaboration Through Knowledge
 platform: linkedin
 status: draft
+coverImageId: human-ai-collaboration-through-knowledge-image
 ---
 We're asking the wrong question about AI.
 
