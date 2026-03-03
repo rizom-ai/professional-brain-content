@@ -2,7 +2,7 @@
 title: Human-Agent Collaboration
 platform: linkedin
 status: draft
-coverImageId: human-agent-collaboration-image
+coverImageId: human-agent-collaboration-cover-image
 ---
 What happens when you stop treating AI as a tool to replace human judgment and start designing for genuine collaboration?
 
