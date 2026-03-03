@@ -9,12 +9,12 @@ filters:
         - file.inFolder("newsletter")
     - status != "published"
 views:
-  - groupBy:
-      direction: ASC
-      property: status
+  - type: table
     name: Pipeline
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - file.folder
       - status
-    type: table

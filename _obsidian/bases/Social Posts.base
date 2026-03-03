@@ -2,7 +2,8 @@ filters:
   and:
     - file.inFolder("social-post")
 views:
-  - name: All Social Posts
+  - type: table
+    name: All Social Posts
     order:
       - file.name
       - title
@@ -13,11 +14,16 @@ views:
       - platformPostId
       - sourceEntityId
       - sourceEntityType
-    type: table
-  - groupBy:
-      direction: ASC
-      property: status
+    sort:
+      - property: status
+        direction: ASC
+      - property: publishedAt
+        direction: DESC
+  - type: table
     name: By Status
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - title
@@ -28,4 +34,3 @@ views:
       - platformPostId
       - sourceEntityId
       - sourceEntityType
-    type: table
