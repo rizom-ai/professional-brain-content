@@ -2,7 +2,8 @@ filters:
   and:
     - file.inFolder("post")
 views:
-  - name: All Posts
+  - type: table
+    name: All Posts
     order:
       - file.name
       - title
@@ -18,11 +19,11 @@ views:
       - ogDescription
       - twitterCard
       - canonicalUrl
-    type: table
-  - groupBy:
-      direction: ASC
-      property: status
+  - type: table
     name: By Status
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - title
@@ -38,4 +39,3 @@ views:
       - ogDescription
       - twitterCard
       - canonicalUrl
-    type: table

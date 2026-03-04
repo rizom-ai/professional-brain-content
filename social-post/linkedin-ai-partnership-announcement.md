@@ -5,7 +5,7 @@ status: published
 coverImageId: human-agent-collaboration-teaser-image
 publishedAt: '2026-03-04T05:31:18.047Z'
 ---
-The question whether AI will replace humans?" is naive.
+The question 'If AI will replace humans?' is naive.
 
 It assumes intelligence is a fixed resource, something you either have or outsource. But intelligence has never worked that way. It is always relational. Always situated. Always shaped by the tools and interlocutors it thinks alongside.
 
@@ -15,7 +15,7 @@ Since my Bots with an Attitude project in 2019, I've been convinced that the arc
 
 Real transformation requires building knowledge systems where human and agent intelligence are genuinely co-constitutive from the start.
 
-https://yeehaa.io/essays/agency-trumps-humanness
+https://yeehaa.io/projects/bots-with-an-attitude
 
 That is the problem Rizom is working on. More coming soon.
 
