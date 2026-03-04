@@ -4,7 +4,6 @@ platform: linkedin
 status: draft
 coverImageId: human-agent-collaboration-teaser-image
 ---
-
 The question whether AI will replace humans?" is naive.
 
 It assumes intelligence is a fixed resource, something you either have or outsource. But intelligence has never worked that way. It is always relational. Always situated. Always shaped by the tools and interlocutors it thinks alongside.
