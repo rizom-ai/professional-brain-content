@@ -16,6 +16,6 @@ Real transformation requires building knowledge systems where human and agent in
 
 https://yeehaa.io/essays/agency-trumps-humanness
 
-That's the problem I'm working on. More coming soon.
+That is the problem Rizom is working on. More coming soon.
 
 #EcosystemArchitecture #HumanAI #KnowledgeSystems #FutureOfWork #Rizom
