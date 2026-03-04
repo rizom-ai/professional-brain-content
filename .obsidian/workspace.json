@@ -11,14 +11,13 @@
             "id": "3dafd88845afec49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "social-post/linkedin-ai-partnership-announcement.md",
-                "mode": "source",
-                "source": false
+                "file": "_obsidian/bases/Pipeline.base",
+                "viewName": "Pipeline"
               },
-              "icon": "lucide-file",
-              "title": "linkedin-ai-partnership-announcement"
+              "icon": "lucide-table",
+              "title": "Pipeline"
             }
           }
         ]
@@ -185,14 +184,15 @@
   },
   "active": "3dafd88845afec49",
   "lastOpenFiles": [
+    "social-post/linkedin-ai-partnership-announcement.md~",
     "_obsidian/bases/Social Posts.base",
+    "social-post/linkedin-ai-partnership-announcement.md",
     "social-post/linkedin-human-ai-collaboration-through-knowledge.md",
     "_obsidian/bases/Pipeline.base",
     "social-post/linkedin-human-agent-collaboration-teaser.md",
     "social-post/linkedin-human-agent-collaboration.md",
     "the-problem-is-real.md",
     "social-post/linkedin-knowledge-trapped-in-organizations.md",
-    "social-post/linkedin-ai-partnership-announcement.md",
     "link/rizom-ai-5b7e16.md",
     "image/knowledge-trapped-in-organizations-cover-image.png",
     "image/human-ai-collaboration-through-knowledge-image.png",

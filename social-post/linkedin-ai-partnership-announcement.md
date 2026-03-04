@@ -4,25 +4,19 @@ platform: linkedin
 status: draft
 coverImageId: human-agent-collaboration-teaser-image
 ---
-We've been asking the wrong question about AI.
 
-It's not "will machines replace humans?" It's "what becomes possible when humans and agents think together?"
+The question whether AI will replace humans?" is naive.
 
-I've been exploring this with Rizom brains—what happens when you design knowledge systems that let humans and AI collaborate at the edges of what each does best.
+It assumes intelligence is a fixed resource, something you either have or outsource. But intelligence has never worked that way. It is always relational. Always situated. Always shaped by the tools and interlocutors it thinks alongside.
 
-Humans bring judgment, creativity, and context.
-Agents bring speed, pattern recognition, and tireless iteration.
+Humans bring judgment, creativity, and context. Agents bring speed, pattern recognition, and relentless iteration. The interesting question is not which is more valuable. It is what emerges in the collaboration.
 
-Together? They create something neither could alone.
+Since my Bots with an Attitude project in 2019, I've been convinced that the architecture of thinking matters as much as the thinking itself. Most AI tools are designed as add-ons, a layer of intelligence draped over existing infrastructure. That produces augmentation, not transformation.
 
-But here's what most people miss: this only works if your infrastructure is designed for it. Most tools treat AI as a separate layer, bolted on top of human work. That's backwards.
+Real transformation requires building knowledge systems where human and agent intelligence are genuinely co-constitutive from the start.
 
-What if your knowledge system was built from the ground up to be a genuine collaboration space?
+https://yeehaa.io/essays/agency-trumps-humanness
 
-I'm working through these ideas in depth—the philosophy, the architecture, the implications.
-
-https://yeehaa.io/essays/practice-innovation
-
-What's your experience been with AI as a thinking partner, not just a tool?
+That's the problem I'm working on. More coming soon.
 
 #EcosystemArchitecture #HumanAI #KnowledgeSystems #FutureOfWork #Rizom
