@@ -1,8 +1,9 @@
 ---
 title: AI Partnership Announcement
 platform: linkedin
-status: draft
+status: published
 coverImageId: human-agent-collaboration-teaser-image
+publishedAt: '2026-03-04T05:31:18.047Z'
 ---
 The question whether AI will replace humans?" is naive.
 
