@@ -1,8 +1,9 @@
 ---
 title: Scaling People and Technology
 platform: linkedin
-status: draft
+status: published
 coverImageId: scaling-people-and-technology-cover-image
+publishedAt: '2026-03-05T05:57:28.554Z'
 ---
 Most founders hit the same wall around 15-30 people.
 
