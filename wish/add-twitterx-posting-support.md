@@ -2,7 +2,7 @@
 title: Add Twitter/X posting support
 status: new
 priority: medium
-requested: 5
+requested: 6
 tags:
   - social-media
   - integration
