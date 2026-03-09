@@ -11,14 +11,12 @@
             "id": "3dafd88845afec49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "social-post/linkedin-transactive-memory-systems-ai-teams.md",
-                "mode": "source",
-                "source": false
+                "file": "image/transactive-memory-systems-ai-teams-cover-image.png"
               },
-              "icon": "lucide-file",
-              "title": "linkedin-transactive-memory-systems-ai-teams"
+              "icon": "lucide-image",
+              "title": "transactive-memory-systems-ai-teams-cover-image"
             }
           }
         ]
@@ -185,6 +183,11 @@
   },
   "active": "3dafd88845afec49",
   "lastOpenFiles": [
+    "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
+    "online-workshop-designing-hybrid-human-ai-teams-90-min.md",
+    "image/transactive-memory-systems-ai-teams-image.png",
+    "image/transactive-memory-systems-ai-teams-cover-image.png",
+    "social-post/linkedin-transactive-memory-systems-ai-teams.md",
     "social-post/linkedin-transactive-memory-systems-ai-teams.md~",
     "workshop-design-hybrid-human-ai-teams.md",
     "_obsidian/bases/Pipeline.base",
@@ -199,13 +202,11 @@
     "social-post/linkedin-human-ai-collaboration-through-knowledge.md",
     "social-post/linkedin-knowledge-trapped-in-organizations.md",
     "social-post/linkedin-shenzhens-gongkai-model.md",
-    "social-post/linkedin-transactive-memory-systems-ai-teams.md",
     "social-post/linkedin-beyond-the-hammer.md",
     "_obsidian/bases/Settings.base",
     "_obsidian/bases/Posts.base",
     "social-post/linkedin-adaptive-organizations.md",
     "book-proposal-the-future-of-work-is-play.md",
-    "image/transactive-memory-systems-ai-teams-image.png",
     "image/ai-teams-why-most-fail-image.png",
     "image/ai-teams-fail-without-transactive-memory-image.png",
     " Why Most AI Teams Fail (And How to Fix It).md",
@@ -222,15 +223,12 @@
     "_obsidian/templates/wish.md",
     "_obsidian/fileClasses/wish.md",
     "social-post/linkedin-scaling-people-and-technology.md~",
-    "social-post/linkedin-scaling-people-and-technology.md",
     "image/scaling-people-and-technology-image.png",
     "image/scaling-people-and-technology-cover-image.png",
-    "social-post/linkedin-ai-partnership-announcement.md~",
     "image/knowledge-trapped-in-organizations-cover-image.png",
     "image/human-ai-collaboration-through-knowledge-image.png",
     "image/human-agent-collaboration-teaser-image.png",
     "image/human-agent-collaboration-teaser-cover-image.png",
-    "image/human-agent-collaboration-image.png",
     "Untitled.canvas"
   ]
 }
