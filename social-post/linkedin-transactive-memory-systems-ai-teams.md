@@ -2,6 +2,7 @@
 title: Transactive Memory Systems AI Teams
 platform: linkedin
 status: draft
+coverImageId: transactive-memory-systems-ai-teams-image
 ---
 Your AI implementation is failing at collaboration. Not because the model is weak or your engineers aren't skilled—but because nobody actually knows who knows what.
 

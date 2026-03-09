@@ -2,6 +2,7 @@
 title: AI Teams Fail Without Transactive Memory
 platform: linkedin
 status: draft
+coverImageId: ai-teams-fail-without-transactive-memory-image
 ---
 Most AI implementations fail not because the technology is bad.
 
