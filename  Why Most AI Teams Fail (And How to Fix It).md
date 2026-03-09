@@ -1,12 +1,5 @@
 ---
 title: 'Transactive Memory Systems: Why Most AI Teams Fail (And How to Fix It)'
-slug: transactive-memory-systems-why-most-ai-teams-fail-and-how-to-fix-it
-status: draft
-excerpt: >-
-  Most AI implementations fail not because the AI is dumb, but because teams
-  don't know who knows what anymore. Transactive memory—the shared understanding
-  of expertise—is what makes human-AI collaboration actually work.
-author: Yeehaa
 ---
 > "The more I know, the less I understand" — Don Toliver
 
