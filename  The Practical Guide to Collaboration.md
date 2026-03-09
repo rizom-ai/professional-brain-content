@@ -1,12 +1,5 @@
 ---
 title: 'Designing Hybrid AI-Human Teams: The Practical Guide to Collaboration'
-slug: designing-hybrid-ai-human-teams-the-practical-guide-to-collaboration
-status: draft
-excerpt: >-
-  AI isn't replacing teams—it's forcing us to rethink what collaboration
-  actually means. The real work isn't in the technology; it's in designing the
-  handoff.
-author: Yeehaa
 ---
 > "The test of a first-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function." — F. Scott Fitzgerald
 
