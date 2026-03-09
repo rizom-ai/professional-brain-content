@@ -2,6 +2,7 @@
 title: 'AI Teams: Why Most Fail'
 platform: linkedin
 status: draft
+coverImageId: ai-teams-why-most-fail-image
 ---
 Most AI implementations fail not because the technology isn't good enough.
 

@@ -2,6 +2,7 @@
 title: Distributed Knowledge in AI Collaboration
 platform: linkedin
 status: draft
+coverImageId: transactive-memory-systems-ai-teams-image
 ---
 Most AI implementations fail at the team level.
 
