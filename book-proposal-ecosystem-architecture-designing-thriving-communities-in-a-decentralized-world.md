@@ -1,7 +1,6 @@
 # Book Proposal: Ecosystem Architecture
 ## Designing Thriving Communities in a Decentralized World
 
----
 
 ## Executive Summary
 
@@ -9,7 +8,6 @@ This book introduces **Ecosystem Architecture** as a critical new practice for d
 
 The book addresses a fundamental shift in how we organize human endeavor: from bounded, geographically-constrained institutions to distributed, asynchronous ecosystems that span space and time. It challenges the assumption that institutions—as they currently exist—can protect democracy, and proposes instead that aligned values and functioning social contracts are the true foundation of healthy organizations.
 
----
 
 ## Core Thesis
 
@@ -17,7 +15,6 @@ The book addresses a fundamental shift in how we organize human endeavor: from b
 
 Ecosystem Architecture is the practice of designing such intentional communities through bottom-up emergence rather than top-down control, grounded in aligned values and functioning social contracts.
 
----
 
 ## Target Audience
 
@@ -26,7 +23,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - **Tertiary:** Activists, civil society builders, and anyone interested in alternative institutional models
 - **Age/Profile:** Professionals and intellectuals aged 25-55 seeking new paradigms for organizing human collaboration
 
----
 
 ## Key Themes & Chapters
 
@@ -143,7 +139,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - Vision for organizations in the next decade
 - The role of ecosystem architects in building better futures
 
----
 
 ## Key Arguments & Insights
 
@@ -159,7 +154,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 
 6. **The four-phase practice provides structure without hierarchy.** Align, Validate, Scale, Spin Out offers a repeatable framework that allows for emergence while maintaining coherence.
 
----
 
 ## Unique Selling Points
 
@@ -170,7 +164,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - **Actionable:** Provides frameworks and phases that leaders can immediately apply
 - **Visionary:** Offers hope and possibility in an age of institutional decay
 
----
 
 ## Writing Style & Tone
 
@@ -179,7 +172,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - **Illustrated with examples:** Uses case studies, metaphors (Game of Life, farming), and real-world applications
 - **Hopeful and constructive:** Acknowledges institutional failure while proposing generative alternatives
 
----
 
 ## Competitive Landscape
 
@@ -191,7 +183,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 
 - **Unique position:** Only comprehensive framework combining institutional critique, philosophical foundations, and practical methodology for ecosystem design
 
----
 
 ## Manuscript Details
 
@@ -201,7 +192,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - **Illustrations:** Diagrams for the four phases, cellular automata examples, organizational structures
 - **Appendices:** Practical templates for vision types, vessels of transformation, alignment exercises
 
----
 
 ## Author Platform & Credentials
 
@@ -210,7 +200,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - Expertise spanning: organizational theory, political philosophy, digital culture, creative practice
 - Engaged audience through blog and professional network
 
----
 
 ## Marketing & Distribution Strategy
 
@@ -220,7 +209,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - **Speaking engagements:** Conferences on organizational design, decentralization, institutional innovation
 - **Supplementary content:** Workshops, templates, online courses based on the four-phase framework
 
----
 
 ## Timeline
 
@@ -229,7 +217,6 @@ Ecosystem Architecture is the practice of designing such intentional communities
 - **Revision & feedback:** 2-3 months
 - **Final manuscript:** 8-11 months total
 
----
 
 ## Conclusion
 

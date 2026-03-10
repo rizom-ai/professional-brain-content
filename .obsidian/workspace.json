@@ -11,12 +11,14 @@
             "id": "3dafd88845afec49",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "image/transactive-memory-systems-ai-teams-cover-image.png"
+                "file": "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "transactive-memory-systems-ai-teams-cover-image"
+              "icon": "lucide-file",
+              "title": "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min"
             }
           }
         ]
@@ -183,10 +185,12 @@
   },
   "active": "3dafd88845afec49",
   "lastOpenFiles": [
+    "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md~",
+    "_obsidian/bases/Notes.base",
+    "image/transactive-memory-systems-ai-teams-cover-image.png",
     "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
     "online-workshop-designing-hybrid-human-ai-teams-90-min.md",
     "image/transactive-memory-systems-ai-teams-image.png",
-    "image/transactive-memory-systems-ai-teams-cover-image.png",
     "social-post/linkedin-transactive-memory-systems-ai-teams.md",
     "social-post/linkedin-transactive-memory-systems-ai-teams.md~",
     "workshop-design-hybrid-human-ai-teams.md",
@@ -221,8 +225,6 @@
     "_obsidian/bases/Wishs.base",
     "wish",
     "_obsidian/templates/wish.md",
-    "_obsidian/fileClasses/wish.md",
-    "social-post/linkedin-scaling-people-and-technology.md~",
     "image/scaling-people-and-technology-image.png",
     "image/scaling-people-and-technology-cover-image.png",
     "image/knowledge-trapped-in-organizations-cover-image.png",

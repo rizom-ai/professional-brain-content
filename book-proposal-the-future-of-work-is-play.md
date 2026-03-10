@@ -88,7 +88,6 @@ We are wasting unprecedented amounts of human talent by forcing post-industrial 
 - Manuscript completion: [6-9 months from start]
 - Publication: [12-18 months from completion]
 
----
 
 ## Alternative: Ecosystem Architecture (Broader Scope)
 
