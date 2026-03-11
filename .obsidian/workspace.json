@@ -11,14 +11,13 @@
             "id": "3dafd88845afec49",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
-                "mode": "source",
-                "source": false
+                "file": "_obsidian/bases/Pipeline.base",
+                "viewName": "Pipeline"
               },
-              "icon": "lucide-file",
-              "title": "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min"
+              "icon": "lucide-table",
+              "title": "Pipeline"
             }
           }
         ]
@@ -185,12 +184,13 @@
   },
   "active": "3dafd88845afec49",
   "lastOpenFiles": [
+    "social-post/linkedin-agency-trumps-humanness.md~",
+    "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
     "social-post/linkedin-agency-trumps-humanness.md",
     "linkedin-agency-trumps-humanness.md",
     "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md~",
     "README.md",
     "image/broken-social-contracts.png",
-    "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
     "workshop-design-hybrid-human-ai-teams.md",
     "_obsidian/bases/Notes.base",
     "image/transactive-memory-systems-ai-teams-cover-image.png",
@@ -224,7 +224,6 @@
     "post/Designing Hybrid AI-Human Teams/ The Practical Guide to Collaboration.md",
     "post/Designing Hybrid AI-Human Teams",
     "brains-architecture.md",
-    "book-proposal-ecosystem-architecture-designing-thriving-communities-in-a-decentralized-world.md",
     "_obsidian/bases/Wishs.base",
     "image/scaling-people-and-technology-image.png",
     "image/scaling-people-and-technology-cover-image.png",

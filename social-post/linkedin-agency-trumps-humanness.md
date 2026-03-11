@@ -6,9 +6,9 @@ coverImageId: agency-trumps-humanness-cover-image
 sourceEntityId: Agency Trumps Humanness
 sourceEntityType: post
 ---
-What if the most effective team member you work with isn't human?
+What if the most effective team member you work with is not human?
 
-Last year I was asked to design a vision for online collaboration where team members might never be in the same room. The answer wasn't more synchronous tools or better meeting software.
+A few years back, I was asked to design a vision for online collaboration where team members might never be in the same room. The answer I came up with was not more synchronous tools or better meeting software.
 
 It was a mob of bots with an attitude.
 
@@ -26,7 +26,7 @@ When does efficiency become dangerous?
 
 I explored these questions through Planet B, a thought experiment about colonizing a distant planet. It's a safe space to ask uncomfortable questions about collaboration, intelligence, and what productive membership actually means.
 
-The answers we develop in imagination might well shape how we design real collaborative systems tomorrow.
+The answers we developed in imagination might well shape how we design real collaborative systems tomorrow.
 
 Read the full piece to explore the governance challenges and philosophical implications:
 
