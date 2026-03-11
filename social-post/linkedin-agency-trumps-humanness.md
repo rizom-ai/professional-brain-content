@@ -26,7 +26,7 @@ When does efficiency become dangerous?
 
 I explored these questions through Planet B, a thought experiment about colonizing a distant planet. It's a safe space to ask uncomfortable questions about collaboration, intelligence, and what productive membership actually means.
 
-The answers we developed in imagination might well shape how we design real collaborative systems tomorrow.
+The answers we develop in imagination might well shape how we design real collaborative systems tomorrow.
 
 Read the full piece to explore the governance challenges and philosophical implications:
 
