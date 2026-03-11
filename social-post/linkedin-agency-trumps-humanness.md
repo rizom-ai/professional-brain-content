@@ -14,7 +14,7 @@ It was a mob of bots with an attitude.
 
 This sounds like science fiction, but the underlying question is urgent: Does it matter whether a coworker is human if their contributions are valuable?
 
-In a distributed mission where outcomes matter more than presence, agency trumps humanness. What counts is whether an agent—human or artificial—effectively moves the work forward.
+In a distributed mission where outcomes matter more than presence, agency trumps humanness. What counts is whether an agent — human or artificial — effectively moves the work forward.
 
 But this immediately raises harder questions:
 
