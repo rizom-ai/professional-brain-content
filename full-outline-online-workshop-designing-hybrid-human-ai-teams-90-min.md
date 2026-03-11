@@ -1,15 +1,15 @@
 # Who Knows What? Designing Hybrid Human-AI Teams That Actually Work
 **90-Minute Online Workshop Outline**
 
-## SEGMENT 1: OPENING (10 minutes)
-**Objective:** Make the audience feel the fragility of implicit knowledge systems — before AI even enters the conversation.
 
-### Presenter Opening (3 min)
+## SEGMENT 1: OPENING (15 minutes)
+**Objective:** Make the audience feel the fragility of implicit knowledge systems, then give them the language to understand why.
 
-**Opening:**
+### Opening Analogy (3 min)
+
 > "You're a cook, mid-service, thirty tickets on the rail. You reach for your mise en place — it's been moved. A new sous chef reorganized your station that morning. Now you're standing there, hands empty, orders piling up, in a kitchen you've worked in for years.
 >
-> The guy next to you sends out a plate with the wrong sauce — he was waiting on you and improvised. The pass is backing up. Everybody's good at their job. Nobody knows where they stand anymore.
+> The cook next to you sends out a plate with the wrong sauce — they were waiting on you and improvised. The pass is backing up. Everybody's good at their job. Nobody knows where they stand anymore.
 >
 > Nobody did anything wrong. Someone was trying to help."
 
@@ -19,206 +19,195 @@
 - The system was always fragile. It just took a new person to make that visible.
 - This workshop is about building the real system — the one you never had.
 
+### Transactive Memory Systems (10 min)
 
-### Transactive Memory Systems (TMS) Concept (5 min)
+**What is TMS?**
+A team's collective knowledge architecture — the shared understanding of who knows what, who's good at what, and how things get done. Not individual intelligence, but the system that connects it.
 
-**Define TMS:**
-- A team's collective knowledge system about *who knows what*
-- Not about individual knowledge, but about *knowing where knowledge lives*
-- The glue that lets teams coordinate without constant communication
-- Built over time through shared experience, explicit agreements, and feedback loops
+**TMS has three dimensions:**
 
-**Why Most TMS Is Already Fragile:**
-- It's implicit — built on habit, not design
-- It lives in people's heads, not in any shared structure
-- It breaks every time someone leaves, joins, or changes roles
-- Teams paper over the cracks with intuition and overwork
+1. **Specialization** — Team members have distinct, differentiated expertise. Everyone doesn't need to know everything. They need to know *who* knows what.
+
+2. **Credibility** — Team members trust each other's expertise. You don't just know Sarah handles product strategy — you trust her judgment on it. Without credibility, the directory is useless.
+
+3. **Coordination** — The team knows how to work together. Who hands off to whom, how decisions flow, what happens when something goes wrong.
+
+**Why most TMS is already fragile:**
+- All three dimensions are usually implicit — built on habit, not design
+- They live in people's heads, not in any shared structure
+- They break every time someone leaves, joins, or changes roles
 - You don't notice it's broken until something forces the question
 
 **Key Insight:**
 > "Most teams don't have a knowledge system. They have a knowledge habit. And habits break the moment something changes."
 
-### Poll/Chat Moment (2 min)
+### Poll (2 min)
 
 **Prompt:** "When was the last time someone on your team duplicated work because nobody knew it had already been done?"
 
 
-## SEGMENT 2: CORE FRAMEWORK (25 minutes)
-**Objective:** Introduce TMS + SMM. Show that AI exposes fragility that was already there — and can be the tool that fixes it.
+## SEGMENT 2: AI AS THE REVEALER (10 minutes)
+**Objective:** Reframe AI from threat to diagnostic.
 
-### Part A: The Two Systems (12 min)
+### The Reframe (8 min)
 
-**TMS = Knowledge Directory**
-- *What it is:* Who knows what? Where does expertise live?
-- *How it works:* "Ask Sarah for product roadmap, ask Marcus for stakeholder politics, ask the database for historical trends"
-- *Why it's usually broken already:* The directory is implicit. People leave and take their entry with them. New hires spend months figuring out who actually knows what. Nobody maintains it because nobody built it in the first place.
+AI doesn't break your team's knowledge system — it *exposes* that you never really had one.
 
-**SMM = Operating Playbook**
-- *What it is:* How do we do things around here? What are our implicit rules?
-- *How it works:* "When we launch a feature, we always do user research first, then design, then dev, then QA."
-- *Why it's usually broken already:* The playbook is unwritten. It lives in "how we've always done it." It contradicts itself across teams. New people either figure it out slowly or never do.
+When you add a capable new agent, every implicit assumption surfaces: Who owns this? Who decided that? Who's checking? This is uncomfortable. It's also the most valuable thing AI has done for your team — because now you can see what was invisible.
 
-**The AI Moment:**
-- AI doesn't break these systems — it *exposes* that they were never really systems to begin with
-- When you add a capable new agent, every implicit assumption surfaces: Who owns this? Who decided that? Who's checking?
-- This is uncomfortable but valuable — it's a forced audit of your team's actual knowledge architecture
-- The question isn't "how do we protect our system from AI?" — it's "why didn't we have a real system before?"
+The question isn't "how do we protect our system from AI?" It's "why didn't we have a real system before?"
 
-### Part B: "Agency Trumps Humanness" (8 min)
+**The opportunity:** AI can actually *strengthen* your TMS — if you use this moment to make the implicit explicit. It forces you to map expertise nobody documented, define trust levels nobody articulated, and write down playbooks that lived in people's heads. That's not a threat. That's a gift.
 
-> "In hybrid teams, clarity about *what each party is responsible for* matters more than whether that party is human or AI. A clear, bounded AI role beats an ambiguous human role."
+### Chat Prompt (2 min)
 
-- Don't hire AI to be a "junior team member" who does everything
-- Define *specific capabilities* and *specific boundaries*
-- This applies to humans too — most team roles are vaguely defined
-- AI forces the clarity that should have existed all along
-- Clear agency + clear boundaries = functional teams
-- Ambiguous agency + blurred boundaries = chaos (with or without AI)
-
-### Part C: Calibrating Trust (5 min)
-
-**Three Dimensions of Trust:**
-1. **Competence:** Can this agent (human or AI) actually do this task?
-2. **Consistency:** Will they perform the same way next time?
-3. **Alignment:** Do they understand and care about the same outcomes?
-
-**The opportunity:** AI can actually score higher on consistency than most human team members — *if* you define what you're asking it to do. The problem is never the AI's capability. It's the team's clarity about what that capability should be used for.
-
-**Chat Prompt:** "Where on your team is role ambiguity causing more problems than any tool could fix?"
+**Prompt:** "Where on your team is ambiguity causing more problems than any tool could fix?"
 
 
-## SEGMENT 3: DISCUSSION & MAPPING EXERCISE (15 minutes)
+## SEGMENT 3: THE FRAGILITY TEST (15 minutes)
+**Objective:** Make it personal. Each participant feels how fragile their own team's TMS is.
 
-### Setup (2 min)
+### Individual Exercise (5 min)
 
-**Template for participants:**
-```
-PROJECT: [Name]
+**One prompt, written in silence:**
 
-WHO KNOWS WHAT (Current):
-- [Role/Person]: [Expertise]
-- [AI Tool]: [Expertise/Capability]
+> "Pick one person on your team. Write down what they know that nobody else does. Now imagine they leave tomorrow. What breaks?"
 
-WHERE IS IT IMPLICIT?
-- What knowledge exists only in someone's head?
-- What processes are unwritten?
-- What would break if someone left tomorrow?
+That's it. No template, no framework. Just the question.
 
-FRAGILITY LEVEL (1-5):
-- How much of your team's coordination is habit vs. system?
-```
+### Group Discussion (10 min)
 
-### Breakout Mapping (10 min)
-- 3-4 people per room, ideally from same organization
-- Prompt: "Walk through a recent project. Who knew what? Was any of that written down? What would have happened if one person had been out sick?"
-- Look for: implicit knowledge, unwritten processes, single points of failure, ambiguity that existed *before* any AI was involved
+**Open it up to the room:**
+- "What did you find? How long was your list?"
+- "How much of what you wrote down is documented anywhere?"
+- "How many of you picked the same person your whole team would pick?"
 
-### Report Back (3 min)
-> "Notice how most of these gaps have nothing to do with AI. They were there all along. AI just makes it impossible to keep ignoring them."
+**What to listen for:**
+- Single points of failure everywhere
+- Knowledge that exists only in people's heads
+- The realization that this has nothing to do with AI — the fragility was already there
+
+> "Notice how none of this is about technology. This is about your team's knowledge architecture. AI didn't create these gaps. But it's going to make them impossible to ignore."
 
 
 ## BREAK (5 minutes)
 
 
-## SEGMENT 4: BUILDING THE SYSTEM (20 minutes)
-**Objective:** Use AI as the catalyst to build the explicit knowledge system most teams never had.
+## SEGMENT 4: BUILDING YOUR TMS (30 minutes)
+**Objective:** Go from diagnosis to action. Participants start building, then see what the infrastructure looks like at scale.
 
-### Part A: Advisory vs. Consequential Decisions (7 min)
+### The Protocol Canvas (3 min)
 
-| | Advisory | Consequential |
-|--|----------|---------------|
-| Stakes | Lower, reversible | Higher, irreversible |
-| AI Role | Generate options, support exploration | Provide info, flag risks |
-| Human Role | Evaluate, choose | Decide, take responsibility |
+**Three sections, one per TMS dimension:**
 
-- Most teams have never explicitly categorized their decisions this way — for humans *or* AI
-- Doing this exercise for AI forces you to do it for the whole team
-- That's the gift: AI adoption becomes the reason to finally build clarity
+| TMS Dimension | Canvas Section | The Question It Answers |
+|---------------|---------------|------------------------|
+| Specialization | **Expertise Map** | Who knows what? |
+| Credibility | **Trust Boundaries** | Who do we trust on what — and where do we verify? |
+| Coordination | **Operating Playbook** | How do things actually get done? |
 
-### Part B: Making the Implicit Explicit (8 min)
+That's the whole canvas. Three dimensions, three tools. Each one includes how you build it *and* how you keep it alive.
 
-**1. Expertise Maps** — the TMS made visible:
+### Build It — Live Exercise (12 min)
+
+**Prompt:** "Take the person you wrote about in the fragility test. Now build the first section of the canvas for them."
+
 ```
-| Domain | Primary Owner | AI Support | Confidence |
-|--------|---------------|-----------|------------|
-| User research | Marcus | Claude (synthesis) | High |
-| Content drafting | Sarah | Claude (generation) | Medium |
-| Client strategy | Aisha | None yet | — |
+EXPERTISE MAP (partial):
+
+Who: [The person you picked]
+What they know that nobody else does:
+  - [from your earlier exercise]
+  
+Where does this knowledge need to live instead?
+  - [document / system / shared resource]
+  
+Who else needs access?
+  - [roles / people]
+
+What's the first step to making this explicit?
+  - [one concrete action]
 ```
-- This map probably doesn't exist for your team. Build it.
-- Include AI where it already plays a role. Name the gaps.
 
-**2. Decision Logs** — Date | Decision | Owner | AI Input | Rationale
-- Not bureaucracy — *memory*. The team's TMS made durable.
-- When someone new joins, they can read the log and understand who decided what and why.
+**Individual work (7 min),** then **share with the room (5 min):**
+- "What did you put for 'where does this knowledge need to live?'"
+- "What's your first step?"
+- "How many of you realized the answer is: nobody knows where to put it?"
 
-**3. Escalation Boundaries:**
-- AI confidence low → escalate to domain expert
-- Decision affects many people → escalate to decision owner
-- Decision is irreversible → always human sign-off
-- These rules should apply to *everyone*, not just AI
+### From Canvas to Agents (5 min)
 
-**4. Feedback Loops** — Monthly/quarterly: Is the expertise map still accurate? Has trust changed? What's working?
+The canvas gives you the design. But maintaining it is work — and this is where most good intentions die. The expertise map gets written once and never updated. The playbook lives in a doc nobody reads.
 
-### Part C: Content Team Example (5 min)
+This is where AI agents change the game — not as generic assistants, but as team members with defined roles in your TMS:
+- They hold specific expertise (specialization)
+- Their reliability is tested and calibrated (credibility)
+- They have clear places in the workflow (coordination)
 
-**Before (Implicit):** Everyone uses AI differently, nobody knows what it's produced, publishing decisions unclear. But the real problem: nobody knew who owned what *before* AI either. AI just made the mess undeniable.
+An agent that understands your team's context, values, and knowledge is fundamentally different from a generic chatbot. It's the difference between the new sous chef who read the kitchen's playbook and one who just showed up and started reorganizing.
 
-**After (Explicit):** Expertise map defines who owns what. Decision log captures the why. Escalation boundaries are clear. Feedback loops keep the system alive. AI didn't create this structure — the decision to take AI seriously did.
+But agents need something to work *from*. They need the team's knowledge to be captured, structured, and alive. That's the infrastructure problem.
+
+### From Agents to Brains (10 min)
+
+**Rizom Brains** are that infrastructure. They're organizational knowledge systems — not a chatbot, not another SaaS dashboard. They're where TMS becomes real and stays alive.
+
+Brains work at three levels:
+
+**Professional Brains** — Each team member's expertise is captured and structured. What they know, what they've decided, what they've learned. Their knowledge becomes accessible without being extracted from them.
+
+**Team Brains** — The team's collective TMS: expertise maps, decision logs, operating playbooks, trust boundaries. The living system that keeps the team coordinated — and that new members can actually read and understand.
+
+**Collective Brains** — Knowledge flows across teams and projects. Patterns that emerge in one team become available to others. The organization learns, not just the individuals.
+
+**Why this works where documents and wikis don't:**
+- Knowledge is structured, not just stored — AI agents can actually work with it
+- It updates as the team works — not a snapshot that decays
+- New team members don't just read a doc — they interact with the team's living knowledge
+- Built on open standards — the organization owns its knowledge, not a vendor
+
+Remember the exercise: you identified knowledge trapped in one person's head. Brains are where that knowledge lives instead — accessible, structured, and connected to everything else the team knows.
 
 
-## SEGMENT 5: HYBRID TEAM PROTOCOL CANVAS (10 minutes)
+## SEGMENT 5: CLOSE (10 minutes)
+**Objective:** Send them out with urgency, not just a summary.
 
-**The 4 Quadrants:**
+### Q&A (5 min)
 
-| | Left | Right |
-|--|------|-------|
-| **Top** | **Knowledge Directory** — Who knows what? (The TMS made visible) | **Operating Playbook** — How do we work? (The SMM made explicit) |
-| **Bottom** | **Trust Boundaries** — What's advisory vs. consequential? | **Learning Loops** — How do we update the system? |
+**Anticipated questions:**
+- "What if AI gets it wrong?" → Does your team have a system for *anyone* getting it wrong? Build that first.
+- "Doesn't this add overhead?" → You're already spending this time — through confusion, duplication, and onboarding that takes months instead of days.
+- "We're too small for this." → Small teams have the most fragile TMS. One person leaving a five-person team is a 20% knowledge loss.
 
-Walk-through with content team example for each quadrant, including specific entries for Knowledge Directory, Operating Playbook (workflow with clear handoffs), Trust Boundaries (what AI does autonomously vs. with sign-off), and Learning Loops (weekly/monthly/quarterly cadence).
+### Closing Provocation (5 min)
 
-**Key point:** This canvas isn't an "AI governance tool." It's a *team design tool* that most teams should have built years ago. AI is just the reason they're finally doing it.
+> "You all just did something most teams never do: you looked at your knowledge system honestly. You found the person everyone depends on. You saw how much lives in their head. You felt what it would mean if they left.
+>
+> That feeling? Your team has it too. They just don't talk about it.
+>
+> The question isn't whether your TMS is fragile. You already know it is. The question is whether you're going to do something about it this week — or wait until the next person leaves and take the hit."
 
-
-## SEGMENT 6: Q&A + CLOSE (5 minutes)
-
-**5 Key Takeaways:**
-1. Your team's knowledge system was probably already fragile — built on habit, not design
-2. AI doesn't break your TMS — it exposes that you never really had one
-3. That exposure is a gift: it forces the clarity you always needed
-4. Agency trumps humanness — design for clear roles, not species
-5. The Protocol Canvas is your tool to build the system you should have had all along
-
-**Anticipated Q&A:**
-- "What if AI gets it wrong?" → The question is: does your team have a system for *anyone* getting it wrong? Build that first.
-- "Doesn't this add overhead?" → You're already spending this time — just inefficiently, through confusion and duplication
-- "What if AI's role changes?" → That's why you have learning loops. The system is alive, not fixed.
-
-**Closing:** This workshop exists because AI is forcing a question teams should have asked a long time ago: *who knows what around here?* The teams that answer it — explicitly, honestly — will be the ones that thrive. Not because they have better AI, but because they finally have a real system.
-
-Brief Rizom mention + offer consulting availability.
+Offer consulting availability.
 
 
 ## PRESENTER NOTES
 
 **Energy & Pacing:**
-- 0-10 min: Opening analogy lands in the body, then builds to framework
-- 10-35 min: Dense material — slow down, use examples. The reframe ("it was already broken") is the key moment
-- 35-50 min: Breakout exercise makes it personal — participants see their own fragility
-- 50-70 min: Practical protocols — participants feel empowered, not threatened
-- 70-80 min: Canvas is the payoff — a tool they leave with
-- 80-90 min: Closing should feel like a beginning, not a warning
+- 0-15 min: Opening analogy lands in the body, then TMS gives them the language
+- 15-25 min: The reframe — keep it conversational, not lecturing
+- 25-40 min: Exercise is the emotional peak — let the silence sit during individual work
+- 45-75 min: Back half is active — they're building, not just listening
+- 75-85 min: Brains section should feel like relief — "this is how you actually do it"
+- 85-90 min: Close with urgency
 
 **Narrative Arc:**
-The emotional journey is: discomfort (my system is fragile) → recognition (it was always fragile) → relief (AI exposed this, not caused it) → empowerment (now I can build something real)
+Discomfort (my system is fragile) → Recognition (it was always fragile) → Relief (AI exposed this, not caused it) → Agency (I can start building right now) → Urgency (do it this week)
 
 **Audience Customization:**
-- **Engineering teams:** Emphasize decision logs, use code review as analogy for explicit systems
-- **Creative teams:** Emphasize feedback loops, use "draft + iterate" as analogy
-- **Leadership teams:** Emphasize expertise maps, use succession planning as analogy
+- **Engineering teams:** Emphasize the expertise map, use code ownership / bus factor as framing
+- **Creative teams:** Emphasize the operating playbook, use "draft + iterate" as analogy
+- **Leadership teams:** Emphasize trust boundaries, use succession planning as framing
 
 **Post-Workshop:**
-- Send Protocol Canvas template + example within 24 hours
+- Send Protocol Canvas template within 24 hours
 - Offer 30-min office hours
 - Collect feedback: "What's one thing you'll change this week?"
