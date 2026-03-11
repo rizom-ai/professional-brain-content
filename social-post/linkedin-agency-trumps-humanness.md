@@ -1,9 +1,8 @@
 ---
 title: Agency Trumps Humanness
 platform: linkedin
-status: published
+status: draft
 coverImageId: agency-trumps-humanness-cover-image
-publishedAt: '2026-03-11T07:47:40.771Z'
 sourceEntityId: Agency Trumps Humanness
 sourceEntityType: post
 ---
