@@ -2,10 +2,10 @@ filters:
   and:
     - file.inFolder("series")
 views:
-  - name: All Series
+  - type: table
+    name: All Series
     order:
       - file.name
       - title
       - slug
       - coverImageId
-    type: table

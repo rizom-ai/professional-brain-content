@@ -2,7 +2,8 @@ filters:
   and:
     - file.inFolder("deck")
 views:
-  - name: All Decks
+  - type: table
+    name: All Decks
     order:
       - file.name
       - title
@@ -13,11 +14,11 @@ views:
       - publishedAt
       - event
       - coverImageId
-    type: table
-  - groupBy:
-      direction: ASC
-      property: status
+  - type: table
     name: By Status
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - title
@@ -28,4 +29,3 @@ views:
       - publishedAt
       - event
       - coverImageId
-    type: table
