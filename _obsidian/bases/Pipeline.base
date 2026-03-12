@@ -7,15 +7,17 @@ filters:
         - file.inFolder("project")
         - file.inFolder("social-post")
         - file.inFolder("newsletter")
-        - file.inFolder("wish")
     - status != "published"
 views:
-  - groupBy:
-      direction: ASC
-      property: status
+  - type: table
     name: Pipeline
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - file.folder
       - status
-    type: table
+    sort:
+      - property: file.folder
+        direction: DESC

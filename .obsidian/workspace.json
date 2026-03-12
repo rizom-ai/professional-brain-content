@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "5c9dd64014dd6d02",
+    "type": "split",
+    "children": [
+      {
+        "id": "75b68996486ad42a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dafd88845afec49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "social-post/linkedin-ai-exposes-what-was-never-there.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "linkedin-ai-exposes-what-was-never-there"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61dd23f5e698a7a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "60e4d4902defdf60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "02fda0b714afab73",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "aeaa2f6542c69687",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a2fcdea50310e48d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7d2019154bbd1d9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d6a26c58ab0e360",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6a27981b10e801d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "deck/Forgotten Futures.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Forgotten Futures"
+            }
+          },
+          {
+            "id": "732ebb93fe9d0771",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "deck/Forgotten Futures.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Forgotten Futures"
+            }
+          },
+          {
+            "id": "524a8318c54643f3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fe727d4c05b25823",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-ghost",
+              "title": "all-properties"
+            }
+          },
+          {
+            "id": "02d38340573a87fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "deck/Forgotten Futures.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Forgotten Futures"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "3dafd88845afec49",
+  "lastOpenFiles": [
+    "social-post/linkedin-ai-exposes-what-was-never-there.md~",
+    "image/ai-exposes-what-was-never-there-cover-image.png",
+    "_obsidian/bases/Pipeline.base",
+    "_obsidian/bases/Notes.base",
+    "social-post/linkedin-hybrid-human-ai-teams-workshop-exploration.md",
+    "social-post/linkedin-ai-exposes-what-was-never-there.md",
+    "test-123.md",
+    "Brandbook.md",
+    "undefined.md",
+    "something.md",
+    "image/agency-trumps-humanness-cover-image.png",
+    "social-post/linkedin-agency-trumps-humanness.md",
+    "social-post/linkedin-agency-trumps-humanness.md~",
+    "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
+    "linkedin-agency-trumps-humanness.md",
+    "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md~",
+    "README.md",
+    "image/broken-social-contracts.png",
+    "workshop-design-hybrid-human-ai-teams.md",
+    "image/transactive-memory-systems-ai-teams-cover-image.png",
+    "online-workshop-designing-hybrid-human-ai-teams-90-min.md",
+    "image/transactive-memory-systems-ai-teams-image.png",
+    "social-post/linkedin-transactive-memory-systems-ai-teams.md",
+    "social-post/linkedin-transactive-memory-systems-ai-teams.md~",
+    "_obsidian/bases/Social Posts.base",
+    "social-post/linkedin-ai-partnership-announcement.md",
+    "social-post/linkedin-ai-teams-fail-without-transactive-memory.md",
+    "social-post/linkedin-ai-teams-why-most-fail.md",
+    "social-post/linkedin-distributed-knowledge-in-ai-collaboration.md",
+    "social-post/linkedin-ecosystem-architecture-vs-machine-models.md",
+    "social-post/linkedin-future-of-work-decentralization.md",
+    "social-post/linkedin-future-of-work-play-decentralization.md",
+    "social-post/linkedin-human-ai-collaboration-through-knowledge.md",
+    "social-post/linkedin-knowledge-trapped-in-organizations.md",
+    "social-post/linkedin-shenzhens-gongkai-model.md",
+    "social-post/linkedin-beyond-the-hammer.md",
+    "_obsidian/bases/Settings.base",
+    "_obsidian/bases/Posts.base",
+    "social-post/linkedin-adaptive-organizations.md",
+    "image/ai-teams-why-most-fail-image.png",
+    "image/ai-teams-fail-without-transactive-memory-image.png",
+    "post/Transactive Memory Systems",
+    "image/scaling-people-and-technology-image.png",
+    "image/scaling-people-and-technology-cover-image.png",
+    "image/knowledge-trapped-in-organizations-cover-image.png",
+    "Untitled.canvas"
+  ]
+}

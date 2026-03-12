@@ -2,7 +2,8 @@ filters:
   and:
     - file.inFolder("newsletter")
 views:
-  - name: All Newsletters
+  - type: table
+    name: All Newsletters
     order:
       - file.name
       - subject
@@ -12,11 +13,11 @@ views:
       - sentAt
       - buttondownId
       - sourceEntityType
-    type: table
-  - groupBy:
-      direction: ASC
-      property: status
+  - type: table
     name: By Status
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - subject
@@ -26,4 +27,3 @@ views:
       - sentAt
       - buttondownId
       - sourceEntityType
-    type: table
