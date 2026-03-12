@@ -1,5 +1,5 @@
 ---
-title: "86'd"
+title: 86'd
 platform: linkedin
 status: draft
 coverImageId: ai-exposes-what-was-never-there-cover-image
