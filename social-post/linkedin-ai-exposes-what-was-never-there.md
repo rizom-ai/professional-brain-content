@@ -3,7 +3,7 @@ title: AI Exposes What Was Never There
 platform: linkedin
 status: draft
 ---
-Mid-service. Thirty tickets on the rail. You reach for your mise en place... it's been moved. The cook next to you sends out a plate with the wrong sauce. The pass is backing up.
+Mid-service. Thirty tickets on the rail. You reach for your mise en place... it has been moved. The cook next to you sends out a plate with the wrong sauce. The pass is backing up.
 
 Nobody did anything wrong. Someone was trying to help.
 
