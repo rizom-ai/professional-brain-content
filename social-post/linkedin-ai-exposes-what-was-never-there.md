@@ -2,6 +2,7 @@
 title: AI Exposes What Was Never There
 platform: linkedin
 status: draft
+coverImageId: ai-exposes-what-was-never-there-cover-image
 ---
 Mid-service. Thirty tickets on the rail. You reach for your mise en place... it has been moved. The cook next to you sends out a plate with the wrong sauce. The pass is backing up.
 
