@@ -1,21 +1,15 @@
 ---
-title: AI Exposes What Was Never There
+title: "86'd"
 platform: linkedin
 status: draft
 coverImageId: ai-exposes-what-was-never-there-cover-image
 ---
-Mid-service. Thirty tickets on the rail. You reach for your mise en place... it has been moved. The cook next to you sends out a plate with the wrong sauce. The pass is backing up.
+Mise en place. Everything in its place. Every cook knows where their tools are, where the ingredients sit, how the station flows. Nobody explains it. After enough services together, the team just knows.
 
-Nobody did anything wrong. Someone was trying to help.
+Then a new sous chef shows up and reorganizes your station. Suddenly you are mid-service, thirty tickets deep, reaching for something that is not there anymore. The cook next to you sends out a plate with the wrong sauce because they were waiting on you and improvised. The pass backs up. Everybody is good at their job. Nobody knows where they stand.
 
-Years of intuition passing as a system. It runs, until someone new shows up.
+This is what is happening in teams right now. Not because AI is bad at its job. Because AI is the new sous chef: capable, fast, and utterly unaware of the invisible system it just disrupted. Except here is the uncomfortable part: there was no system. There was just years of intuition passing as one.
 
-AI is that someone.
+I have been thinking about this a lot lately. About transactive memory, about how teams actually coordinate, about why adding a capable new member can break everything even when nobody did anything wrong. I am considering building a workshop around it. Working title: **86'd**. Kitchen slang for when something is off the menu and nobody told the team.
 
-Not because it breaks anything. Because it exposes what was never there.
-
-I am building a workshop around this: **86'd**.
-
-Kitchen slang for when something's off the menu... and nobody told the team.
-
-Comment 86 if you are interested.
+Comment 86 if this resonates.
