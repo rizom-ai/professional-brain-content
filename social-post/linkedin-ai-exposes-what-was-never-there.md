@@ -1,5 +1,5 @@
 ---
-title: "86'd"
+title: AI Exposes What Was Never There
 platform: linkedin
 status: draft
 ---

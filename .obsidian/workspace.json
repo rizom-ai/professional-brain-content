@@ -11,13 +11,14 @@
             "id": "3dafd88845afec49",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "_obsidian/bases/Pipeline.base",
-                "viewName": "Pipeline"
+                "file": "social-post/linkedin-ai-exposes-what-was-never-there.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Pipeline"
+              "icon": "lucide-file",
+              "title": "linkedin-ai-exposes-what-was-never-there"
             }
           }
         ]
@@ -184,6 +185,8 @@
   },
   "active": "3dafd88845afec49",
   "lastOpenFiles": [
+    "_obsidian/bases/Pipeline.base",
+    "_obsidian/bases/Notes.base",
     "social-post/linkedin-hybrid-human-ai-teams-workshop-exploration.md",
     "social-post/linkedin-ai-exposes-what-was-never-there.md",
     "test-123.md",
@@ -199,13 +202,11 @@
     "README.md",
     "image/broken-social-contracts.png",
     "workshop-design-hybrid-human-ai-teams.md",
-    "_obsidian/bases/Notes.base",
     "image/transactive-memory-systems-ai-teams-cover-image.png",
     "online-workshop-designing-hybrid-human-ai-teams-90-min.md",
     "image/transactive-memory-systems-ai-teams-image.png",
     "social-post/linkedin-transactive-memory-systems-ai-teams.md",
     "social-post/linkedin-transactive-memory-systems-ai-teams.md~",
-    "_obsidian/bases/Pipeline.base",
     "_obsidian/bases/Social Posts.base",
     "social-post/linkedin-ai-partnership-announcement.md",
     "social-post/linkedin-ai-teams-fail-without-transactive-memory.md",
@@ -221,7 +222,6 @@
     "_obsidian/bases/Settings.base",
     "_obsidian/bases/Posts.base",
     "social-post/linkedin-adaptive-organizations.md",
-    "book-proposal-the-future-of-work-is-play.md",
     "image/ai-teams-why-most-fail-image.png",
     "image/ai-teams-fail-without-transactive-memory-image.png",
     "post/Transactive Memory Systems",
