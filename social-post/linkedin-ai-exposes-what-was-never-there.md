@@ -1,8 +1,9 @@
 ---
 title: AI Exposes What Was Never There
 platform: linkedin
-status: draft
+status: published
 coverImageId: ai-exposes-what-was-never-there-cover-image
+publishedAt: '2026-03-12T06:28:54.082Z'
 ---
 In professional kitchens, 86'd means something is off the menu. The kitchen ran out, or the chef pulled it. But nobody told the servers. So a server promises it to a table, walks back to the pass, and finds out it does not exist anymore.
 
