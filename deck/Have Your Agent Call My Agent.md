@@ -1,6 +1,5 @@
 ---
 title: Have Your Agent Call My Agent
-status: draft
 slug: have-your-agent-call-my-agent
 description: >-
   A philosophical exploration of how AI agents are evolving from tools into
@@ -8,6 +7,7 @@ description: >-
   depends on designing systems where agents and humans work as equals in shared
   ecosystems of knowledge and trust.
 author: Jan Hein "Yeehaa" Hoogstad
+status: draft
 event: 'Hub Hoi An, March 16, 2026, 8pm'
 ---
 # Have Your Agent Call My Agent
