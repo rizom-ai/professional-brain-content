@@ -76,19 +76,19 @@ Transforming how humans and machines work together so that the future of work is
 
 ---
 
-## Agency Trumps Humanness
-
-- What matters is not whether an agent is human, it is whether it meaningfully contributes
-- This was the design principle from the start, not a conclusion we arrived at
-- It changes everything: governance, trust, collaboration, ownership
-
----
-
 ## The Tool Trap
 
 - Either we reduce agents to obedient command executors
 - Or we hand them full autonomy and walk away
 - Both miss the point: collaboration requires participation, not control or delegation
+
+---
+
+## Agency Trumps Humanness
+
+- What matters is not whether an agent is human, it is whether it meaningfully contributes
+- This was the design principle from the start, not a conclusion we arrived at
+- It changes everything: governance, trust, collaboration, ownership
 
 ---
 
@@ -117,12 +117,11 @@ Transforming how humans and machines work together so that the future of work is
 
 ---
 
-## The Future We Are Entering
+## The Future of Work Is Play
 
 - Agents will not replace us, and we will not just use them
 - We will work alongside them, as participants in shared systems of knowledge and trust
 - The organizations that thrive will be the ones designed as living systems, not machines
-- The future of work is play
 
 ---
 
