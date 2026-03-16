@@ -44,6 +44,14 @@ Transforming how humans and machines work together so that the future of work is
 
 ---
 
+## Emergence: The Key Insight
+
+- The mainstream dream: build intelligence by design
+- The shadow truth: intelligence emerges from interaction
+- The same principle that drives ecosystems, organisms, and every living system
+
+---
+
 ## Bots with an Attitude (2019)
 
 - Planet B: distributed community, async collaboration
