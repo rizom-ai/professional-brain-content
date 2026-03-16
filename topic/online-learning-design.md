@@ -1,16 +1,14 @@
 ---
 title: Online Learning Design
 keywords:
-  - public interest
-  - digital commons
-  - internet governance
-  - PublicSpaces
-  - accountability infrastructure
-  - trust
-  - ethical platforms
-  - common good
-  - digital sovereignty
-  - system architecture
+  - transactive memory
+  - distributed knowledge
+  - specialization
+  - credibility
+  - coordination
+  - team intelligence
+  - expertise networks
+  - knowledge circulation
 ---
 Online education represents a distinct mode of learning that should not be treated as a compromise or substitute for in-person instruction, but rather as its own medium with unique affordances. Effective online learning design moves beyond recreating the classroom experience and instead leverages the specific advantages of digital platforms. Key principles include creating focused, shorter learning units (5-10 minutes), providing real-time automated feedback through tools like in-browser editors and unit tests, and integrating interactive assignments that feel engaging rather than burdensome. The author argues that platforms like Code School demonstrated how online learning could be superior to traditional methods by fully embracing the medium rather than fighting against it, suggesting that the future of education requires rethinking pedagogical approaches specifically for digital contexts.
 
@@ -32,3 +30,4 @@ Online education represents a distinct mode of learning that should not be treat
 - Value Driven Development (value-driven-development) [post] <Value Driven Development|231e9c93fdc319977cc108fa143838611aa207418e669d07885be0f95afb2320>
 - Rizom Brains (rizom-brains) [project] <rizom-brains|3ee1a3c787e13dcdf62f4eed98e8902c676131c8c678e312ebdf8184ef5da4ef>
 - Public Badges (public-badges) [project] <public-badges|390fea71e6d6ca374203c99cdf1c1d46b6baac4d836aab314d5f932f8278a131>
+- Have Your Agent Call My Agent (have-your-agent-call-my-agent) [deck] <Have Your Agent Call My Agent|18752ca36776d751f1f92f2e8c649ee347c4f040b3a5810625015aa5ee4c1aaf>
