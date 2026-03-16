@@ -1,8 +1,9 @@
 ---
 title: Work Should Feel Like Play
 platform: linkedin
-status: draft
+status: published
 coverImageId: future-of-work-is-play-image
+publishedAt: '2026-03-16T08:49:50.528Z'
 ---
 We have been telling people to find work that matters.
 
