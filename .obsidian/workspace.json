@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "social-post/linkedin-ai-exposes-what-was-never-there.md",
+                "file": "deck/Have Your Agent Call My Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "linkedin-ai-exposes-what-was-never-there"
+              "title": "Have Your Agent Call My Agent"
             }
           }
         ]
@@ -185,12 +185,16 @@
   },
   "active": "3dafd88845afec49",
   "lastOpenFiles": [
+    "brain-character/brain-character.md",
+    "deck/Have Your Agent Call My Agent.md",
+    "anchor-profile/anchor-profile.md",
+    "project/bots-with-an-attitude-ethical-ai-collaboration.md",
+    "social-post/linkedin-ai-exposes-what-was-never-there.md",
     "social-post/linkedin-ai-exposes-what-was-never-there.md~",
     "image/ai-exposes-what-was-never-there-cover-image.png",
     "_obsidian/bases/Pipeline.base",
     "_obsidian/bases/Notes.base",
     "social-post/linkedin-hybrid-human-ai-teams-workshop-exploration.md",
-    "social-post/linkedin-ai-exposes-what-was-never-there.md",
     "test-123.md",
     "Brandbook.md",
     "undefined.md",
@@ -219,11 +223,8 @@
     "social-post/linkedin-future-of-work-play-decentralization.md",
     "social-post/linkedin-human-ai-collaboration-through-knowledge.md",
     "social-post/linkedin-knowledge-trapped-in-organizations.md",
-    "social-post/linkedin-shenzhens-gongkai-model.md",
-    "social-post/linkedin-beyond-the-hammer.md",
     "_obsidian/bases/Settings.base",
     "_obsidian/bases/Posts.base",
-    "social-post/linkedin-adaptive-organizations.md",
     "image/ai-teams-why-most-fail-image.png",
     "image/ai-teams-fail-without-transactive-memory-image.png",
     "post/Transactive Memory Systems",

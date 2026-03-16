@@ -11,8 +11,6 @@ author: Jan Hein "Yeehaa" Hoogstad
 event: 'Hub Hoi An, March 16, 2026, 8pm'
 ---
 # Have Your Agent Call My Agent
-Jan Hein "Yeehaa" Hoogstad
-Hub Hoi An, March 16, 2026, 8pm
 
 ---
 
