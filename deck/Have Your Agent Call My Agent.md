@@ -30,12 +30,17 @@ Transforming how humans and machines work together so that the future of work is
 ## The Persistent Dream
 
 - ELIZA (1966): The illusion of understanding
-- BDI / Software Agents (1990s): The academic dream of rational agents
 - Siri (2011): Agents go mainstream, disappoint
-- AutoGPT (2023): The autonomous dream reborn, burns bright and fizzles
+- AutoGPT (2023): The autonomous dream reborn, fizzles
 - OpenClaw (2026): Agents that actually live in your world
 
-But something has shifted.
+---
+
+## The Shadow History
+
+- Conway's Game of Life: 3 simple rules, universal computation
+- Generative coding: intelligence through emergence, not control
+- This lineage never disappeared, it is inside every neural net
 
 ---
 
@@ -58,14 +63,14 @@ But something has shifted.
 ## Rizom (2024–now)
 
 - A decentralized network where independent professionals and AI agents work side by side
-- A living ecosystem where talent flows to where it's needed most, and work serves human flourishing
-- The question: what if agents aren't tools but genuine participants in how we organize work?
+- A living ecosystem where talent flows to where it is needed most, and work serves human flourishing
+- The question: what if agents are not tools but genuine participants in how we organize work?
 
 ---
 
 ## Agency Trumps Humanness
 
-- What matters isn't whether an agent is human, it's whether it meaningfully contributes
+- What matters is not whether an agent is human, it is whether it meaningfully contributes
 - This was the design principle from the start, not a conclusion we arrived at
 - It changes everything: governance, trust, collaboration, ownership
 
@@ -81,7 +86,7 @@ But something has shifted.
 
 ## Have Your Agent Call My Agent
 
-- This is not a punchline, it's an architecture
+- This is not a punchline, it is an architecture
 - The "call" is the protocol that makes distributed collaboration possible
 - Your agent knows what you know, my agent knows what I know, the call connects them
 
@@ -89,7 +94,7 @@ But something has shifted.
 
 ## Transactive Memory Systems
 
-- Effective teams don't share all knowledge, they share awareness of who knows what
+- Effective teams do not share all knowledge, they share awareness of who knows what
 - Three dimensions: specialization, credibility, coordination
 - Agents as carriers of transactive memory: they hold your expertise, establish trust, and coordinate on your behalf
 
@@ -104,10 +109,10 @@ But something has shifted.
 
 ---
 
-## The Future We're Entering
+## The Future We Are Entering
 
-- Agents won't replace us, and we won't just use them
-- We'll work alongside them, as participants in shared systems of knowledge and trust
+- Agents will not replace us, and we will not just use them
+- We will work alongside them, as participants in shared systems of knowledge and trust
 - The organizations that thrive will be the ones designed as living systems, not machines
 - The future of work is play
 
