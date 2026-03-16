@@ -77,10 +77,16 @@ But something has shifted.
 ## Have Your Agent Call My Agent
 
 - This is not a punchline, it's an architecture
-- Transactive Memory Systems: effective teams don't share all knowledge, they share awareness of *who knows what*
+- The "call" is the protocol that makes distributed collaboration possible
+- Your agent knows what you know, my agent knows what I know, the call connects them
+
+---
+
+## Transactive Memory Systems
+
+- Effective teams don't share all knowledge, they share awareness of *who knows what*
 - Three dimensions: specialization, credibility, coordination
 - Agents as carriers of transactive memory: they hold your expertise, establish trust, and coordinate on your behalf
-- The "call" is the protocol that makes distributed collaboration possible
 
 ---
 
