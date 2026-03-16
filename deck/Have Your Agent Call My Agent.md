@@ -32,12 +32,17 @@ Transforming how humans and machines work together so that the future of work is
 ## The Persistent Dream
 
 - ELIZA (1966): The illusion of understanding
-- BDI / Software Agents (1990s): The academic dream of rational agents
 - Siri (2011): Agents go mainstream, disappoint
-- AutoGPT (2023): The autonomous dream reborn, burns bright and fizzles
+- AutoGPT (2023): The autonomous dream reborn, fizzles
 - OpenClaw (2026): Agents that actually live in your world
 
-But something has shifted.
+---
+
+## The Shadow History
+
+- Conway's Game of Life: 3 simple rules, universal computation
+- Generative coding: intelligence through emergence, not control
+- This lineage never disappeared, it's inside every neural net
 
 ---
 
