@@ -111,8 +111,8 @@ Transforming how humans and machines work together so that the future of work is
 ## Rizom: Agents as Participants
 
 - Brains at every level: professional, team, and collective knowledge
-- AI agents (Rover, Recall, Ranger) hold specialization, build credibility, enable coordination
-- Open standards, no vendor lock-in, you own your knowledge
+- Agents hold specialization, build credibility, enable coordination
+- Open standards, you own your knowledge
 - Not a platform that extracts, a living system that circulates
 
 ---
