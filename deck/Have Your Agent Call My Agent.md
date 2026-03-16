@@ -18,7 +18,14 @@ Hub Hoi An, March 16, 2026, 8pm
 
 ## Who Am I
 
-Professor turned entrepreneur. Philosopher who codes. Transforming how humans and machines work together so that the future of work is play.
+- Professor turned entrepreneur
+- Philosopher who codes
+
+---
+
+## What Drives Me
+
+Transforming how humans and machines work together so that the future of work is play.
 
 ---
 
