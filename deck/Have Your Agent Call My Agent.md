@@ -84,7 +84,7 @@ But something has shifted.
 
 ## Transactive Memory Systems
 
-- Effective teams don't share all knowledge, they share awareness of *who knows what*
+- Effective teams don't share all knowledge, they share awareness of who knows what
 - Three dimensions: specialization, credibility, coordination
 - Agents as carriers of transactive memory: they hold your expertise, establish trust, and coordinate on your behalf
 
