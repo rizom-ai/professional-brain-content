@@ -15,7 +15,7 @@ event: 'Hub Hoi An, March 16, 2026, 8pm'
 ---
 
 ## Who Am I
-
+- Jan Hein 'Yeehaa' Hoogstad
 - Professor turned entrepreneur
 - Philosopher who codes
 
