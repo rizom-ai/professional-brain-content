@@ -117,7 +117,7 @@ But something has shifted.
 
 ## Thank You / Connect
 
-yeehaa.io
-rizom.ai
-linkedin.com/in/yeehaa
-github.com/rizom-ai
+- [yeehaa.io](https://yeehaa.io)
+- [rizom.ai](https://rizom.ai)
+- [linkedin.com/in/yeehaa](https://linkedin.com/in/yeehaa)
+- [github.com/rizom-ai](https://github.com/rizom-ai)
