@@ -22,6 +22,6 @@ Not play as in frivolous. Play as in creative, voluntary, meaningful. The kind o
 
 We're building that future now.
 
-https://yeehaa.io/essays/the-future-of-work-is-play
+https://rizom.ai
 
 #FutureOfWork #EcosystemArchitecture #OrganizationalDesign #Rizom #DecentralizedWork
