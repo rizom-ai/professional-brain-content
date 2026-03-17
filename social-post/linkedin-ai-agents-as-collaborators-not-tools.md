@@ -1,8 +1,9 @@
 ---
 title: 'AI Agents as Collaborators, Not Tools'
 platform: linkedin
-status: draft
+status: published
 coverImageId: ai-agents-as-collaborators-not-tools-cover-image
+publishedAt: '2026-03-17T07:08:36.243Z'
 ---
 "Have your agent call my agent" sounds like a punchline. It is actually an architecture.
 
