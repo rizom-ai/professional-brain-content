@@ -9,6 +9,7 @@ description: >-
 author: Jan Hein "Yeehaa" Hoogstad
 status: published
 event: 'Hub Hoi An, March 16, 2026, 8pm'
+coverImageId: have-your-agent-call-my-agent-cover-image
 ---
 # Have Your Agent Call My Agent
 
