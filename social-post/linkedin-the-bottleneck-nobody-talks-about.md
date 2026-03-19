@@ -2,6 +2,7 @@
 title: The Bottleneck Nobody Talks About
 platform: linkedin
 status: draft
+coverImageId: the-bottleneck-nobody-talks-about-image
 ---
 Every team has one.
 
