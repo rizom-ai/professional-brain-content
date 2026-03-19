@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deck/Have Your Agent Call My Agent.md",
+                "file": "anchor-profile/anchor-profile.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Have Your Agent Call My Agent"
+              "title": "anchor-profile"
             }
           }
         ]
@@ -185,13 +185,16 @@
   },
   "active": "3dafd88845afec49",
   "lastOpenFiles": [
+    "image/the-bottleneck-nobody-talks-about-cover-image.png",
+    "social-post/linkedin-the-bottleneck-nobody-talks-about.md",
+    "image/the-bottleneck-nobody-talks-about-image.png",
+    "deck/Have Your Agent Call My Agent.md",
     "image/ai-agents-as-collaborators-not-tools-cover-image.png",
     "social-post/linkedin-ai-agents-as-collaborators-not-tools.md",
     "social-post/linkedin-ai-exposes-what-was-never-there.md",
     "image/have-your-agent-call-my-agent-cover-image.png",
     "social-post/linkedin-ai-partnership-announcement.md",
     "social-post/linkedin-ai-teams-why-most-fail.md",
-    "deck/Have Your Agent Call My Agent.md",
     "social-post/linkedin-have-your-agent-call-my-agent.md",
     "social-post/linkedin-agents-as-participants-not-tools.md",
     "social-post/linkedin-work-should-feel-like-play.md",
@@ -224,13 +227,10 @@
     "social-post/linkedin-transactive-memory-systems-ai-teams.md~",
     "_obsidian/bases/Social Posts.base",
     "social-post/linkedin-ai-teams-fail-without-transactive-memory.md",
-    "social-post/linkedin-distributed-knowledge-in-ai-collaboration.md",
     "_obsidian/bases/Settings.base",
     "_obsidian/bases/Posts.base",
     "image/ai-teams-why-most-fail-image.png",
-    "image/ai-teams-fail-without-transactive-memory-image.png",
     "post/Transactive Memory Systems",
-    "image/scaling-people-and-technology-image.png",
     "Untitled.canvas"
   ]
 }

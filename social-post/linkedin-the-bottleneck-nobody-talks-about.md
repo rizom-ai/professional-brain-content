@@ -6,26 +6,20 @@ coverImageId: the-bottleneck-nobody-talks-about-cover-image
 ---
 Every team has one.
 
-The person everyone goes to. The one who knows why that decision was made two years ago, where the real dependencies are, how the system actually works.
+The person everyone goes to. The one who knows how the system actually works, why that decision was made two years ago, where the real dependencies are. They are indispensable. And that is exactly the problem.
 
-They are indispensable. And that is exactly the problem.
+When your most valuable people become bottlenecks, everything slows down. They get pulled into every decision. New hires wait for their time instead of getting up to speed. And if they leave, they take half the organization's context with them.
 
-When your most valuable people become bottlenecks, everything slows down. New hires wait for their time instead of getting up to speed. If they leave, they take half your organization's context with them.
+Most teams try to fix this with documentation. Write it down, put it in Confluence, hope someone reads it. But documentation is not knowledge sharing. It is knowledge storage. And storage without flow is just a graveyard.
 
-Most teams try to fix this with documentation. Write it down, put it in Confluence, hope someone reads it.
+The real fix is structural. You need to make visible who knows what, build trust across the team so people actually use each other's expertise, and design coordination so knowledge moves without depending on one person.
 
-But documentation is not knowledge sharing. It's knowledge storage. And storage without flow is just a graveyard.
+This is what Transactive Memory Systems research tells us. High-performing teams do not share all knowledge. They share awareness of where knowledge lives and build the trust to act on it.
 
-The real fix is structural.
+I am offering a free scan for founders dealing with key person dependency. I will map where your knowledge is getting trapped and what it would take to unlock it.
 
-You need to make visible who knows what, build trust across the team so people actually use each other's expertise, and design coordination so knowledge moves without depending on one person.
+DM me to schedule a call. No pitch, just honest feedback.
 
-This is what Transactive Memory Systems research shows us: high-performing teams don't share all knowledge. They share *awareness* of where knowledge lives and build the trust to act on it.
+https://yeehaa.io
 
-I'm working through these patterns in depth here:
-
-https://yeehaa.io/essays/transactive-memory-systems-why-most-ai-teams-fail-and-how-to-fix-it
-
-Who's the person everyone goes to in your organization? What would change if they could actually step back?
-
-#EcosystemArchitecture #KnowledgeSharing #OrganizationDesign #TeamDynamics #Leadership
+#EcosystemArchitecture #KnowledgeSharing #OrganizationDesign #Founders #TechLeadership
