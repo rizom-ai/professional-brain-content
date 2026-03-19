@@ -1,8 +1,9 @@
 ---
 title: The Bottleneck Nobody Talks About
 platform: linkedin
-status: draft
+status: published
 coverImageId: the-bottleneck-nobody-talks-about-cover-image
+publishedAt: '2026-03-19T07:47:27.954Z'
 ---
 Every team has one.
 
