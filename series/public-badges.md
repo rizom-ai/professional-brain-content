@@ -6,4 +6,4 @@ coverImageId: public-badges-cover
 # Public Badges
 
 ## Description
-Public Badges are a practical framework for making organizational values visible and trustworthy in digital spaces. Through this series, you'll discover how to align stakeholder expectations around shared values, build genuine trust without relying on surveillance or security theater, and create transparent systems that let communities understand who they're dealing with and why they can rely on them.
+Public Badges reimagines trust in digital spaces by making organizational values visible and explicit. Rather than relying on security measures that often backfire, this series explores how transparent communication of values—grounded in behavior-driven development—enables genuine trust between organizations and their users.

@@ -1,14 +1,15 @@
 ---
 title: Human-Bot Collaboration
 keywords:
-  - distributed teams
-  - message synchronization
-  - team coordination
-  - asynchronous communication
-  - information overload
-  - context management
-  - timezone challenges
-  - remote work
+  - agent autonomy
+  - human-AI collaboration
+  - participation design
+  - meaningful contribution
+  - distributed work
+  - ethical AI
+  - shared ecosystems
+  - collaborative architecture
+  - organizational design
 ---
 The piece explores a novel approach to distributed team collaboration by integrating artificial agents (bots) alongside human team members. Rather than treating humanness as a prerequisite for collaboration, the thesis prioritizes agency and effective contribution to collective goals. This challenges traditional assumptions about what makes a valid team member, proposing that if an agent—whether human or artificial—effectively advances shared objectives, their ontological status becomes secondary. The approach raises critical questions about how we evaluate contribution value, define productivity, and structure governance in hybrid human-bot networks.
 
@@ -26,3 +27,4 @@ The piece explores a novel approach to distributed team collaboration by integra
 - Lefthoek (lefthoek) [project] <lefthoek|e3bb6b04a36affdb633d52e04d74582d41534e252fb4043c0e4271450cff6198>
 - Data Drive (data-drive) [post] <Data Drive|46e28be6ec320c636a1c80f929002c1f6c2ae703c9cf4d9fd9328482b363a857>
 - Offcourse Studio (offcourse-studio) [project] <offcourse-studio|1080488e07482eb2ba1bb52db9e322e785381beea51de1893eefbbad647b4e94>
+- Have Your Agent Call My Agent (have-your-agent-call-my-agent) [deck] <Have Your Agent Call My Agent|a3b25866a8695eb5f16b928f889bded7317d6a7c3485421e162a5394c42a9601>

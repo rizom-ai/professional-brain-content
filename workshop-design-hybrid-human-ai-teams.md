@@ -8,13 +8,11 @@
 **Style:** Presentation and discussion-driven, practitioner-oriented with research grounding
 **Goal:** Help leaders establish concrete workflows and protocols for human-AI collaboration
 
----
 
 ## Narrative Arc
 
 The workshop follows a single throughline: **the problem isn't the AI — it's the team design.** Most AI implementations fail not because the technology is bad, but because teams don't know who knows what anymore. We use Transactive Memory Systems (TMS) and Shared Mental Models as the theoretical lens, then translate into actionable protocols.
 
----
 
 ## Session Breakdown
 
@@ -32,7 +30,6 @@ The workshop follows a single throughline: **the problem isn't the AI — it's t
 
 **Sources:** TMS blog post, Offcourse/Lefthoek experience with distributed teams
 
----
 
 ### Session 2: Shared Mental Models Meet AI Agents (45 min)
 **Key message:** TMS tells you *who knows what*. Shared Mental Models tell you *how we work together*. Both break when AI enters the picture.
@@ -50,11 +47,9 @@ The workshop follows a single throughline: **the problem isn't the AI — it's t
 
 **Sources:** Agency Trumps Humanness essay, Bots with an Attitude project, TMS blog post
 
----
 
 ### ☕ Break (15 min)
 
----
 
 ### Session 3: The Architecture of Trust (45 min)
 **Key message:** Trust isn't magical. It's built on predictability. Design for it.
@@ -79,7 +74,6 @@ The workshop follows a single throughline: **the problem isn't the AI — it's t
 
 **Sources:** Designing Hybrid AI-Human Teams essay, Bots with an Attitude governance model, Lefthoek project
 
----
 
 ### Session 4: From Theory to Protocol (45 min)
 **Key message:** Fix the memory system first. The AI will follow.
@@ -104,7 +98,6 @@ The workshop follows a single throughline: **the problem isn't the AI — it's t
 
 **Sources:** All of the above, synthesized into actionable framework
 
----
 
 ### Closing: A Living Example (15 min)
 **Key message:** This isn't theoretical — it's being built right now.
@@ -121,7 +114,6 @@ The workshop follows a single throughline: **the problem isn't the AI — it's t
 
 **Sources:** Rizom product vision, "The Problem Is Real" document
 
----
 
 ## Key Takeaways for Participants
 
@@ -131,7 +123,6 @@ The workshop follows a single throughline: **the problem isn't the AI — it's t
 4. **Shared Mental Models + TMS** — you need both the directory and the playbook
 5. **Fix the memory system first** — the AI will follow
 
----
 
 ## Source Material from Knowledge Base
 
@@ -144,7 +135,6 @@ The workshop follows a single throughline: **the problem isn't the AI — it's t
 - Deck: "Bots With An Attitude"
 - Rizom product vision / "The Problem Is Real"
 
----
 
 ## Notes for Deck Creation
 

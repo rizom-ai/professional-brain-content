@@ -6,4 +6,4 @@ coverImageId: new-institutions-cover
 # New Institutions
 
 ## Description
-Institutions are failing because we've mistaken legal structures for functioning social contracts. This series explores how decentralized tools, aligned values, and living systems thinking can rebuild the civil infrastructure we need—not by restoring the old order, but by designing organizations that actually work like the communities they serve.
+As traditional institutions fail to keep pace with technological and social change, this series explores how decentralized tools, aligned values, and functioning social contracts can rebuild the civil societies we need. Drawing on philosophy, technology, and ecosystem design, these essays ask: what does it mean to create institutions that actually work—not through hierarchy and control, but through trust, transparency, and shared purpose? Discover frameworks for designing organizations and systems that can adapt, survive, and thrive in an increasingly complex world.
