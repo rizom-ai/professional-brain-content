@@ -1,12 +1,12 @@
 ---
 title: Forgotten Futures
-status: published
 slug: forgotten-futures
 description: >-
   A critical exploration of AI's evolutionary path, examining how winters shaped
   the field and proposing intelligence as practice rather than service.
   Introduces Rizom as living infrastructure for collective intelligence.
 author: Yeehaa
+status: published
 publishedAt: '2025-09-01T00:00:00.000Z'
 ---
 # Forgotten Futures

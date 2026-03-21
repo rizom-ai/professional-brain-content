@@ -1,12 +1,12 @@
 ---
 title: 'Rizom: Distributed Teams That Actually Work'
-status: draft
 slug: rizom-distributed-teams-that-actually-work
 description: >-
   How Rizom mobilizes specialized knowledge networks to solve complex problems
   faster than traditional organizations—by treating expertise like a living
   ecosystem instead of a rigid hierarchy.
 author: Rizom
+status: draft
 ---
 # Distributed Expertise
 
