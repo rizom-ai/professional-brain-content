@@ -1,14 +1,13 @@
 ---
 title: Ecosystem Architecture
 keywords:
-  - knowledge management
-  - information organization
-  - knowledge infrastructure
-  - virtual coworker
-  - team communication
-  - knowledge base
-  - data integration
-  - tacit knowledge
+  - distributed teams
+  - asynchronous communication
+  - community knowledge
+  - shared context
+  - knowledge fragmentation
+  - collective memory
+  - information gaps
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -31,7 +30,7 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - The Good Foot (the-good-foot) [post] <The Good Foot|cfbdf4b4ef8841a1cf62351719df9d4a0ec9df23ba4766aee8d0abc8f6f6ee04>
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post] <The Practice Of Ecosystem Architecture|d827e2468e0431f216422b292decd91447569ea3b5b7c0260ffd32885663b745>
 - Forgotten Futures (forgotten-futures) [deck] <Forgotten Futures|14df7a9b9805e65076edfe5623b6716510a10b15ee964600b753e4085378de1d>
-- Bots With An Attitude (bots-with-an-attitude) [deck] <Bots With An Attitude|aea3247ecae7c12c66c7d98a0ea9dd6faab6628826def18513792f97c6ea0929>
+- Bots With An Attitude (bots-with-an-attitude) [deck] <Bots With An Attitude|f7bb1108c0621546fe01eb6771e70d05fd6dcdaaaa2f3b1faf649d245a8b907f>
 - Becoming Narrow Minded (becoming-narrow-minded) [deck] <Becoming Narrow Minded|65df13966fef12276ced3b2484d2e1b2572ef797ceac34df98ca38c985330f6b>
 - Lefthoek - AI-Powered Virtual Team Members (www-lefthoek-com-8537b0) [link] <www-lefthoek-com-8537b0|db39c560332f97a16884f7d2fa57eb45749b80d1fdbcba97eaea89d0a994a019>
 - Offcourse - Open Source Crowdlearning Platform (offcourse-io-efdda5) [link] <offcourse-io-efdda5|91a1227fa36402a0ab08f21def7cd417bfa32ee82e34967f672841004a29ee34>
