@@ -1,16 +1,14 @@
 ---
 title: Ecosystem Architecture
 keywords:
-  - pluralism
-  - values framework
-  - contextual ethics
-  - community standards
-  - value diversity
-  - stakeholder engagement
-  - flexible certification
-  - ethical pluralism
-  - community-driven
-  - value measurement
+  - knowledge management
+  - information organization
+  - knowledge infrastructure
+  - virtual coworker
+  - team communication
+  - knowledge base
+  - data integration
+  - tacit knowledge
 ---
 Ecosystem architecture is presented as a practice for designing multiple inhabitable futures rather than accepting predetermined dystopias. It emphasizes creating diverse, value-aligned spaces that can coexist peacefully, borrowing from decentralization, regenerative design, and afrofuturist thinking. The practice centers on first establishing alignment—understanding what people need and shaping tangible alternatives—before connecting previously isolated communities. Rather than imposing a single vision of the future, ecosystem architecture creates conditions for communities to choose between multiple possibilities based on shared values. This approach requires conscious design, development, and cultivation of organizational and social structures that function like living systems rather than mechanistic hierarchies.
 
@@ -34,7 +32,7 @@ Ecosystem architecture is presented as a practice for designing multiple inhabit
 - The Practice Of Ecosystem Architecture (the-practice-of-ecosystem-architecture) [post] <The Practice Of Ecosystem Architecture|d827e2468e0431f216422b292decd91447569ea3b5b7c0260ffd32885663b745>
 - Forgotten Futures (forgotten-futures) [deck] <Forgotten Futures|14df7a9b9805e65076edfe5623b6716510a10b15ee964600b753e4085378de1d>
 - Bots With An Attitude (bots-with-an-attitude) [deck] <Bots With An Attitude|aea3247ecae7c12c66c7d98a0ea9dd6faab6628826def18513792f97c6ea0929>
-- Becoming Narrow Minded (becoming-narrow-minded) [deck] <Becoming Narrow Minded|8adb2443d2a15452546676996465a509fa5cc4cf139875e987339a9357e64daf>
+- Becoming Narrow Minded (becoming-narrow-minded) [deck] <Becoming Narrow Minded|65df13966fef12276ced3b2484d2e1b2572ef797ceac34df98ca38c985330f6b>
 - Lefthoek - AI-Powered Virtual Team Members (www-lefthoek-com-8537b0) [link] <www-lefthoek-com-8537b0|db39c560332f97a16884f7d2fa57eb45749b80d1fdbcba97eaea89d0a994a019>
 - Offcourse - Open Source Crowdlearning Platform (offcourse-io-efdda5) [link] <offcourse-io-efdda5|91a1227fa36402a0ab08f21def7cd417bfa32ee82e34967f672841004a29ee34>
 - Offcourse Studio - Creative Technology & Ethical AI Design (offcourse-studio-com-12e620) [link] <offcourse-studio-com-12e620|969a6f2d572c5ee5484dc1362d0dc514a819d1917e141feda7e9173993efc9f7>
