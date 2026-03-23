@@ -1,8 +1,9 @@
 ---
 title: Four Rules. Infinite Complexity.
 platform: linkedin
-status: draft
+status: published
 coverImageId: ecosystem-architecture-practice-framework-cover-image
+publishedAt: '2026-03-23T06:57:30.045Z'
 sourceEntityId: The Practice Of Ecosystem Architecture
 sourceEntityType: post
 ---
