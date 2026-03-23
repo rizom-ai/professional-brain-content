@@ -2,6 +2,7 @@
 title: Institutions Don't Protect Democracy
 platform: linkedin
 status: draft
+coverImageId: institutions-dont-protect-democracy-cover-image
 sourceEntityId: Urging New Institutions
 sourceEntityType: post
 ---
