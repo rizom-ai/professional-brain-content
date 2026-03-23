@@ -28,6 +28,6 @@ It is less startup, more farming. You plant seeds, nurture them, and reap what y
 
 The hard part is not adding more control. It is letting go of it.
 
-https://yeehaa.io/essays/the-practice-of-ecosystem-architecture
+https://yeehaa.io/essays/learning-from-nature
 
 #EcosystemArchitecture #OrganizationalDesign #CellularAutomata #EmergentSystems #Complexity
