@@ -2,6 +2,7 @@
 title: Ecosystem Architecture Practice Framework
 platform: linkedin
 status: draft
+coverImageId: ecosystem-architecture-practice-framework-cover-image
 sourceEntityId: The Practice Of Ecosystem Architecture
 sourceEntityType: post
 ---
