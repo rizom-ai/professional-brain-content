@@ -22,7 +22,7 @@ What matters is not the quantity of rules. It is their quality. In Conway's game
 
 This is what ecosystem architecture is about. Not designing organizations from the top down. Not writing strategy decks and expecting people to execute. But crafting the few rules that actually matter — rules that reflect shared values — and then letting complexity emerge from the bottom up.
 
-De Certeau called this a "sieve-order." Structure that is everywhere punctured by drift and emergence. Practitioners who walk the line between conforming to the rules and breaking them innovate more than those who obediently color within the lines.
+De Certeau called this a "sieve-order"; structure everywhere punched and torn open by drifts and leaks of meaning. His insight applies directly to organizations: practitioners who walk the line between conforming to the rules and breaking them innovate more than those who obediently color within the lines.
 
 It is less startup, more farming. You plant seeds, nurture them, and reap what you sow.
 
