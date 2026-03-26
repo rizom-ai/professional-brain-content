@@ -1,8 +1,9 @@
 ---
 title: The Constitution Was Never Constitutional
 platform: linkedin
-status: draft
+status: published
 coverImageId: institutions-dont-protect-democracy-cover-image
+publishedAt: '2026-03-26T06:26:59.997Z'
 sourceEntityId: Urging New Institutions
 sourceEntityType: post
 ---
