@@ -1,4 +1,5 @@
 ---
+kind: professional
 name: Yeehaa
 description: >-
   Yeehaa (Jan Hein Hoogstad) is a writer, developer, and ecosystem architect

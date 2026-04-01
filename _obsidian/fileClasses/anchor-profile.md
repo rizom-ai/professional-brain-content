@@ -3,6 +3,16 @@ fields:
   - id: name
     name: name
     type: Input
+  - id: kind
+    name: kind
+    options:
+      '0': professional
+      '1': team
+      '2': collective
+    type: Select
+  - id: organization
+    name: organization
+    type: Input
   - id: description
     name: description
     type: Input
