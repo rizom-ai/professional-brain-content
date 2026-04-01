@@ -6,18 +6,18 @@ coverImageId: cover-linkedin-knowledge-systems-shape-organizations
 ---
 We spend most of our energy solving the wrong problem.
 
-Organizations obsess over process, structure, hierarchy. But the real bottleneck isn't how work is organized—it's how knowledge flows through it.
+Organizations obsess over process, structure, hierarchy. But the real bottleneck is not how work is organized — it is how knowledge moves through it.
 
-I've watched brilliant teams collapse because nobody could find what they already knew. And I've seen small groups punch above their weight because knowledge moved like water, not like a memo chain.
+I have watched brilliant teams collapse because nobody could find what they already knew. And I have seen small groups punch far above their weight because knowledge moved like water, not like a memo chain.
 
-The tools we use to capture, connect, and share knowledge aren't neutral. They shape what we can think together. They determine whether an organization learns or just accumulates.
+Here is what most people miss: the tools we use to capture, connect, and share knowledge are not neutral. They shape what we can think together. Use the wrong ones and every problem starts looking like a nail.
 
-This is why I started building Rizom. Not because I'm excited about another platform, but because I kept seeing the same pattern: organizations designed like machines, trying to handle problems that need living systems.
+I wrote about this years ago — how our default tools reduce complex work to simple repetition, and how deliberate tool choice is what separates craftsmanship from dumb labor. That argument has only gotten stronger.
 
-The future of work isn't about working harder or faster. It's about creating infrastructure where knowledge can actually move, where people can build on what came before, where learning compounds.
+https://yeehaa.io/essays/when-all-we-have-is-a-hammer
 
-What does knowledge management actually look like in your organization? Is it serving you, or are you serving it?
+Knowledge infrastructure is not a support function. It is the function. Get it right, and the organization becomes a living system that adapts and learns. Get it wrong, and you are just stacking processes on top of a broken foundation.
 
-https://yeehaa.io
+What does knowledge flow actually look like in your organization? Is it serving you, or are you serving it?
 
-#KnowledgeManagement #OrganizationDesign #EcosystemArchitecture #FutureOfWork #Learning
+#KnowledgeSystems #EcosystemArchitecture #OrganizationalDesign #FutureOfWork
