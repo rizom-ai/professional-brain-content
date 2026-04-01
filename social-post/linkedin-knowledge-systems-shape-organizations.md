@@ -1,9 +1,8 @@
 ---
 title: Knowledge Systems Shape Organizations
 platform: linkedin
-status: published
+status: draft
 coverImageId: cover-linkedin-knowledge-systems-shape-organizations
-publishedAt: '2026-04-01T07:09:52.542Z'
 ---
 We spend most of our energy solving the wrong problem.
 
