@@ -1,8 +1,9 @@
 ---
 title: Knowledge Trapped in Organizations
 platform: linkedin
-status: draft
+status: published
 coverImageId: knowledge-trapped-in-organizations-cover-image
+publishedAt: '2026-04-02T06:15:07.959Z'
 ---
 Your best engineer leaves.
 
