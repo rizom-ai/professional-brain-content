@@ -1,16 +1,16 @@
 ---
 name: Value Driven Product Development
 description: >-
-  Guide product teams to align development practices with core values for
-  meaningful, user-centered innovation.
+  Guide teams in applying value-driven and behavior-driven development practices
+  for meaningful impact.
 tags:
-  - value-driven
-  - product development
-  - innovation
-  - behaviour driven
+  - value-driven development
+  - product strategy
+  - BDD
+  - impact
 examples:
-  - How do we apply value-driven development in our startup?
-  - What are the steps for aligning our product roadmap with team values?
-  - Evaluate our product vision using value-driven principles.
+  - How do I align product development with core values?
+  - Introduce value-driven development to my engineering team.
+  - What are the benefits of behavior-driven development?
 ---
 

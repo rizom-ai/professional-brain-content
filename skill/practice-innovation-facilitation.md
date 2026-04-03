@@ -1,16 +1,16 @@
 ---
 name: Practice Innovation Facilitation
 description: >-
-  Facilitate the adoption of innovative practices that blend decentralization,
-  regenerative design, and continuous learning.
+  Foster innovation in practice by blending regenerative, decentralized, and
+  experimental approaches.
 tags:
   - practice innovation
+  - experimentation
   - regenerative design
-  - learning
   - decentralization
 examples:
-  - How can we cultivate a culture of practice innovation?
-  - Suggest regenerative practices for our design team.
-  - Facilitate a workshop on innovative work practices.
+  - How can my team become more innovative in practice?
+  - What is practice innovation and why does it matter?
+  - Suggest ways to integrate experimental approaches into our workflow.
 ---
 
