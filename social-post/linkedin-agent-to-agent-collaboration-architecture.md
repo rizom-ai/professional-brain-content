@@ -14,16 +14,16 @@ A single agent on your laptop is a party trick. The moment two agents — yours 
 - How do they establish trust without routing every decision back through us?
 - How does the work come back in a form we can both verify?
 
-These are not AI questions. They are protocol questions. The same kind of questions HTTP, TCP, and email had to answer before the internet could do anything useful.
+These are not AI questions. They are protocol questions. The same kind HTTP, TCP, and email had to answer before the internet could do anything useful.
 
-Right now most "agent ecosystems" skip this layer entirely. They put everything inside one vendor's walled garden and call the internal function calls "collaboration." That is not collaboration. That is a monolith with a mascot.
+This is exactly the gap A2A (Agent2Agent) is starting to fill. Agent Cards for discovery and capability advertisement. Structured tasks instead of freeform chat. Scoped auth. A shared vocabulary two agents from different vendors can actually speak. Pair it with MCP on the context side and you finally have the beginnings of a real interop layer — the boring plumbing an open agent web needs.
 
-Real agent-to-agent communication needs something more like the open web: discovery, capability advertisement, scoped permissions, verifiable identity, graceful failure. Boring infrastructure. The kind of boring that changes everything once it exists.
+Most "agent ecosystems" still skip this entirely. They put everything inside one vendor's walled garden and call the internal function calls "collaboration." That is not collaboration. That is a monolith with a mascot.
 
-This is what we are working on at Rizom. Not a smarter agent. A protocol layer where your agent and mine can actually meet as peers — each carrying their human's expertise, credibility, and boundaries — and get work done without either of us handing over the keys.
+At Rizom we are building on top of this layer, not around it. A2A and MCP give us the dial tone. Our job is what happens on the call: agents that carry their human's expertise, credibility, and boundaries, and meet other agents as peers — without anyone handing over the keys.
 
-"Have your agent call my agent" only works if there is a line to call on.
+"Have your agent call my agent" only works if there is a line to call on. A2A is that line starting to light up.
 
-What does your current agent setup assume about the other side of that call?
+What is your current agent setup assuming about the other side of that call?
 
-#AIAgents #Protocols #OpenStandards #Rizom #FutureOfWork
+#A2A #MCP #AIAgents #OpenStandards #Rizom
