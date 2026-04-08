@@ -66,4 +66,6 @@ status: draft
 
 ## The question is whether collaboration can find us
 
-That is how Rizom becomes more than a network.
+---
+
+## What would make collaboration less accidental in Rizom?
