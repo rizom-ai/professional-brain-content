@@ -1,8 +1,9 @@
 ---
 title: Agent-to-Agent Collaboration Architecture
 platform: linkedin
-status: draft
+status: published
 coverImageId: have-your-agent-call-my-agent-cover-image
+publishedAt: '2026-04-08T05:56:43.560Z'
 ---
 Everyone is building agents. Almost nobody is building the protocol between them.
 
