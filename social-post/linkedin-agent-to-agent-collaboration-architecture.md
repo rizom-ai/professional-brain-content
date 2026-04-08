@@ -25,6 +25,9 @@ At Rizom we are building on top of this layer, not around it. A2A and MCP give u
 
 "Have your agent call my agent" only works if there is a line to call on. A2A is that line starting to light up.
 
+I unpack the full argument — from ELIZA to Rizom — in this deck:
+https://yeehaa.io/presentations/have-your-agent-call-my-agent
+
 What is your current agent setup assuming about the other side of that call?
 
 #A2A #MCP #AIAgents #OpenStandards #Rizom
