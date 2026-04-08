@@ -8,26 +8,21 @@ Everyone is building agents. Almost nobody is building the protocol between them
 
 That is the actual bottleneck.
 
-A single agent on your laptop is a party trick. The moment two agents — yours and mine — need to get something done together, a whole stack of unglamorous questions shows up:
+The moment your agent and mine need to get something done together, the interesting questions are not about intelligence. They are about plumbing:
 
-- How does my agent discover yours exists?
-- How does it know what yours is competent at, and what it is not allowed to touch?
-- How do they establish trust without routing every decision back through us?
-- How does the work come back in a form we can both verify?
+- How does my agent discover yours?
+- How does it know what yours can do, and what it must not touch?
+- How do they establish trust without routing every step back through us?
 
-These are not AI questions. They are protocol questions. The same kind HTTP, TCP, and email had to answer before the internet could do anything useful.
+These are protocol questions. The same kind HTTP and email had to answer before the internet could do anything useful.
 
-This is exactly the gap A2A (Agent2Agent) is starting to fill. Agent Cards for discovery and capability advertisement. Structured tasks instead of freeform chat. Scoped auth. A shared vocabulary two agents from different vendors can actually speak. Pair it with MCP on the context side and you finally have the beginnings of a real interop layer — the boring plumbing an open agent web needs.
+A2A (Agent2Agent) is where that layer is finally taking shape. Agent Cards for discovery. Structured tasks instead of freeform chat. Scoped auth. A shared vocabulary two agents from different vendors can actually speak. With MCP handling context, we have the beginnings of an open agent web.
 
-Most "agent ecosystems" still skip this entirely. They put everything inside one vendor's walled garden and call the internal function calls "collaboration." That is not collaboration. That is a monolith with a mascot.
+At Rizom we are building on top of this layer, not around it. A2A gives us the dial tone. Our job is what happens on the call: agents that carry their human's expertise and boundaries, and meet other agents as peers.
 
-At Rizom we are building on top of this layer, not around it. A2A and MCP give us the dial tone. Our job is what happens on the call: agents that carry their human's expertise, credibility, and boundaries, and meet other agents as peers — without anyone handing over the keys.
+"Have your agent call my agent" only works if there is a line to call on.
 
-"Have your agent call my agent" only works if there is a line to call on. A2A is that line starting to light up.
-
-I unpack the full argument — from ELIZA to Rizom — in this deck:
+Full argument, from ELIZA to Rizom:
 https://yeehaa.io/presentations/have-your-agent-call-my-agent
 
-What is your current agent setup assuming about the other side of that call?
-
-#A2A #MCP #AIAgents #OpenStandards #Rizom
+#A2A #MCP #AIAgents #Rizom
