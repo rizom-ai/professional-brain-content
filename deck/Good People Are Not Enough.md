@@ -22,7 +22,9 @@ status: draft
 - more emergence
 - more possibility
 
-**but also**
+---
+
+## More possibility, but also
 
 - more ambiguity
 - more invisibility
