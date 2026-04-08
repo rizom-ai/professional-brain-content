@@ -1,18 +1,18 @@
 ---
 name: Design Regenerative Ecosystems
 description: >-
-  Create and analyze organizational systems that mimic living, adaptive
-  ecosystems for sustainable innovation.
+  Design organizational systems that operate like living, regenerative
+  ecosystems by integrating decentralized structures, fragmentation, and
+  value-driven innovation.
 tags:
-  - ecosystem architecture
-  - regenerative design
-  - living systems
-  - organizational innovation
+  - ecosystem design
+  - regeneration
+  - decentralization
+  - organizational architecture
+  - value innovation
 examples:
-  - How can we design a company structure that adapts like a living system?
-  - Give me principles for building a regenerative ecosystem in a startup.
-  - >-
-    Analyze the resilience of our current organizational model using living
-    systems thinking.
+  - How can I redesign my organization to be more resilient and adaptive?
+  - What does a regenerative knowledge ecosystem look like in practice?
+  - Design a decentralized collaboration model for a distributed team.
 ---
 
