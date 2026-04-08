@@ -22,7 +22,6 @@ At Rizom we are building on top of this layer, not around it. A2A gives us the d
 
 "Have your agent call my agent" only works if there is a line to call on.
 
-Full argument, from ELIZA to Rizom:
 https://yeehaa.io/presentations/have-your-agent-call-my-agent
 
 #A2A #MCP #AIAgents #Rizom
