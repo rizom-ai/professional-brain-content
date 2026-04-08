@@ -1,18 +1,18 @@
 ---
 name: Design Regenerative Digital Ecosystems
 description: >-
-  Design and advise on digital ecosystems that foster regeneration,
-  decentralization, and adaptive collaboration.
+  Design and advise on digital ecosystems that leverage decentralization,
+  regeneration, and pluralism to foster innovation and resilience.
 tags:
   - ecosystem architecture
   - regenerative design
   - decentralization
-  - digital infrastructure
+  - digital pluralism
 examples:
+  - How can we design a digital community that adapts like a living system?
   - >-
-    How can we design a decentralized knowledge-sharing platform for our
-    organization?
-  - Help us re-architect our community to be more resilient and adaptive.
-  - What principles should guide a regenerative online collaboration ecosystem?
+    Help us re-architect our platform for resilience using regenerative
+    principles.
+  - What are best practices for building decentralized knowledge networks?
 ---
 
