@@ -7,6 +7,7 @@ description: >-
   capacities and needs legible—because good people alone are not enough.
 author: Jan Hein "Yeehaa" Hoogstad
 status: published
+publishedAt: '2026-04-08T08:42:00.000Z'
 coverImageId: good-people-are-not-enough-cover
 ---
 # Good People Are Not Enough
