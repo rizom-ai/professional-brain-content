@@ -1,19 +1,23 @@
 ---
 name: Decentralized Knowledge Systems
 description: >-
-  Architect knowledge infrastructures that support sharing, retrieval, and
-  coordination across distributed groups.
+  Design knowledge infrastructures that support distributed contribution,
+  retrieval, and coordination across fragmented networks.
 tags:
   - knowledge systems
+  - decentralization
   - knowledge infrastructure
-  - decentralized collaboration
+  - distributed collaboration
   - information architecture
-  - learning systems
 examples:
-  - Design a decentralized knowledge base for a distributed organization.
   - >-
-    How should we structure knowledge so teams can collaborate across time
-    zones?
-  - Create a knowledge infrastructure plan for a growing ecosystem.
+    Architect a decentralized knowledge system for an open network of
+    contributors.
+  - >-
+    How can we organize knowledge across multiple teams without a central
+    gatekeeper?
+  - >-
+    Propose a knowledge infrastructure for a community operating like a mesh
+    network.
 ---
 
