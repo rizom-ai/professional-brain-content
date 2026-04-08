@@ -3,21 +3,27 @@ title: Agent-to-Agent Collaboration Architecture
 platform: linkedin
 status: draft
 ---
-“Have your agent call my agent.”
+Everyone is building agents. Almost nobody is building the protocol between them.
 
-For years, it was a punchline — the ultimate brush-off. But in the world of distributed systems, it's not a joke. It's an architecture.
+That is the actual bottleneck.
 
-When we talk about agent-to-agent communication, we're not just automating tasks. We're building the protocols that make real collaboration possible. My agent knows what I know. Yours knows what you know. The "call" is the handshake where our specializations meet.
+A single agent on your laptop is a party trick. The moment two agents — yours and mine — need to get something done together, a whole stack of unglamorous questions shows up:
 
-This is how effective teams work. Not by cramming everyone with the same information, but by cultivating transactive memory systems — networks where we know *who* knows *what*, not *everything* ourselves. Agents become more than tools; they are carriers of our expertise, credibility, and capacity to coordinate.
+- How does my agent discover yours exists?
+- How does it know what yours is competent at, and what it is not allowed to touch?
+- How do they establish trust without routing every decision back through us?
+- How does the work come back in a form we can both verify?
 
-The real trap isn’t whether agents are obedient executors or autonomous actors. It’s thinking collaboration is just tool use. Participation — agency — is the core.
+These are not AI questions. They are protocol questions. The same kind of questions HTTP, TCP, and email had to answer before the internet could do anything useful.
 
-That’s why, in Rizom, agents aren’t just extensions of our will. They’re genuine participants in the ecosystem. What matters isn’t whether they’re human, but whether they contribute meaningfully.
+Right now most "agent ecosystems" skip this layer entirely. They put everything inside one vendor's walled garden and call the internal function calls "collaboration." That is not collaboration. That is a monolith with a mascot.
 
-If you’re interested in how this philosophy shapes actual architecture, here’s where I lay out the thinking:
-https://yeehaa.io/essays/transactive-memory-systems-why-most-ai-teams-fail-and-how-to-fix-it
+Real agent-to-agent communication needs something more like the open web: discovery, capability advertisement, scoped permissions, verifiable identity, graceful failure. Boring infrastructure. The kind of boring that changes everything once it exists.
 
-How do you see agency shaping the future of collaboration? What would it take for you to trust an agent as a teammate?
+This is what we are working on at Rizom. Not a smarter agent. A protocol layer where your agent and mine can actually meet as peers — each carrying their human's expertise, credibility, and boundaries — and get work done without either of us handing over the keys.
 
-#AI #Collaboration #OrganizationalDesign #KnowledgeSystems #FutureOfWork
+"Have your agent call my agent" only works if there is a line to call on.
+
+What does your current agent setup assume about the other side of that call?
+
+#AIAgents #Protocols #OpenStandards #Rizom #FutureOfWork
