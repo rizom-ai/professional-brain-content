@@ -66,4 +66,4 @@ status: draft
 
 ## The question is whether collaboration can find us
 
-Brains matter if they help make that possible.
+That is how Rizom becomes more than a network.
