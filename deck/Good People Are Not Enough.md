@@ -6,7 +6,7 @@ description: >-
   talented individuals to a truly collaborative collective, by making our
   capacities and needs legible—because good people alone are not enough.
 author: Jan Hein "Yeehaa" Hoogstad
-status: draft
+status: published
 coverImageId: good-people-are-not-enough-cover
 ---
 # Good People Are Not Enough
