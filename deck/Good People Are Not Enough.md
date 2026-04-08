@@ -60,6 +60,10 @@ status: draft
 
 ---
 
-## The question is not whether Rizom has good people. The question is whether collaboration can find us
+## The question is not whether Rizom has good people
 
-What would Brains need to make visible for that to become real?
+---
+
+## The question is whether collaboration can find us
+
+Brains matter if they help make that possible.
