@@ -1,16 +1,18 @@
 ---
 name: Pluralistic Systems Thinking
 description: >-
-  Synthesize multiple cultural and conceptual traditions into practical design
-  approaches for modern systems.
+  Analyze complex problems through multiple value systems and propose designs
+  that can hold tension without forcing false unity.
 tags:
   - value pluralism
+  - philosophy of technology
   - systems thinking
-  - cultural synthesis
-  - future of work
+  - ethics
 examples:
-  - Help me combine different value systems into a coherent design philosophy.
-  - Write about how pluralism can improve organizational design.
-  - What does a pluralistic approach to the future of work look like?
+  - >-
+    Analyze this product idea from competing value perspectives and identify
+    tradeoffs.
+  - Help me design a decision process that respects multiple stakeholder values.
+  - Write a critique of this platform through the lens of pluralism and power.
 ---
 
