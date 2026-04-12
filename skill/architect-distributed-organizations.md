@@ -1,17 +1,16 @@
 ---
 name: Architect distributed organizations
 description: >-
-  Create operating models for decentralized organizations that balance agency,
+  Design operating models for decentralized organizations that balance autonomy,
   coordination, and resilience.
 tags:
   - decentralized organizations
-  - operating models
-  - coordination
-  - community design
   - governance
+  - coordination
+  - resilience
 examples:
-  - Propose an operating model for a decentralized team.
-  - How can we structure a community that scales without heavy hierarchy?
-  - Design governance patterns for a networked organization.
+  - Help me design a governance model for a DAO-like team.
+  - What operating principles support a resilient distributed organization?
+  - Create an org design for a network of independent contributors.
 ---
 
