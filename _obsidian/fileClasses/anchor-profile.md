@@ -39,7 +39,7 @@ fields:
     type: Input
   - id: expertise
     name: expertise
-    type: Multi
+    type: Input
   - id: currentFocus
     name: currentFocus
     type: Input
