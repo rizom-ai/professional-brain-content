@@ -4,24 +4,30 @@ platform: linkedin
 status: draft
 coverImageId: ai-teams-why-most-fail-image
 ---
-Most AI implementations fail not because the technology isn't good enough.
+Most AI teams do not fail because the model is weak.
 
-They fail because we try to fit something genuinely new into systems built for something else.
+They fail because nobody redesigned the team.
 
-We treat AI as a tool to optimize existing workflows. But AI isn't just another hammer. It has different strengths, blind spots, and ways of contributing.
+We keep treating AI like a faster intern, a better search box, or a bolt-on productivity layer. Then we act surprised when the result is friction.
 
-The real question isn't "How do we automate this?" It's "How do we design a team where human judgment and AI capability actually complement each other?"
+The real challenge is not deployment. It is team design.
 
-That means rethinking agency, accountability, and knowledge flow. It means being clear about what humans bring that AI can't—context, values, intuition—and what AI brings that humans struggle with at scale.
+Who decides what?
+Who knows what?
+Where does human judgment still matter most?
+What should the AI handle, and what should never be outsourced?
 
-I've been exploring this through the lens of transactive memory systems: how teams remember, decide, and act together. Most AI teams fail because they skip the hard work of designing that system intentionally.
+If those questions stay fuzzy, the team stays fuzzy.
 
-The teams that work are explicit about who decides what, how information flows, and where human oversight matters most.
+That is why I keep coming back to transactive memory systems. Teams do not work because everyone knows everything. They work because people know who knows what, who to trust, and where a handoff can happen.
 
-This isn't about limiting AI. It's about amplifying human capacity by building teams that actually leverage what both can do.
+Add AI without redesigning that system, and you do not get leverage. You get confusion.
 
+The teams that make AI work are not the ones with the biggest models. They are the ones that are clearest about roles, judgment, and knowledge flow.
+
+I wrote more about that here:
 https://yeehaa.io/essays/transactive-memory-systems-why-most-ai-teams-fail-and-how-to-fix-it
 
-What's your experience been? Are you seeing AI implementations that actually work, or mostly friction?
+What breaks first in your experience: trust, ownership, or clarity?
 
-#AI #TeamDesign #HumanCenteredTech #Collaboration #OrganizationalDesign
+#AI #TeamDesign #OrganizationalDesign #HumanAI #KnowledgeSystems
