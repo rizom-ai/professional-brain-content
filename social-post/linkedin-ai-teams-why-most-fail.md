@@ -2,7 +2,7 @@
 title: 'AI Teams: Why Most Fail'
 platform: linkedin
 status: draft
-coverImageId: ai-teams-why-most-fail-image
+coverImageId: ai-teams-why-most-fail-cover-v2
 ---
 Most AI teams do not fail because the model is weak.
 
