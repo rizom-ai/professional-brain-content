@@ -6,25 +6,27 @@ coverImageId: shenzhens-gongkai-model-image
 sourceEntityId: Shenzen Goes Ham
 sourceEntityType: post
 ---
-Most of what we call decentralization is actually just a rebranding of power dynamics that already existed centuries ago.
+We keep talking about decentralization as if it were a new frontier.
 
-The real innovation isn't blockchain. It's happening in Shenzhen.
+In Shenzhen, forms of decentralized production have been working in practice for years.
 
-The shanzhai—China's informal hardware ecosystem—have cracked something the West is still struggling with: how to build at scale without centralized control. They do it through gongkai—literally "open sharing"—where manufacturers freely distribute blueprints, bills of materials, and designs.
+What makes gongkai interesting is not that it is new. It is that it exposes how narrow our own idea of innovation has become.
 
-This isn't open source. It's something better suited for hardware.
+Gongkai literally means "open sharing." In practice, it means that designs, bills of materials, component knowledge, and production know-how circulate across a wider network, so others can adapt and build on what already exists.
 
-While the West treats IP as broadcast (credit the inventor, extract royalties), China's network view treats it as favors. You stand on others' shoulders to see further. You trade ideas. You iterate faster.
+That is what gives the shanzhai ecosystem its speed. Innovation does not stay trapped inside a single firm. It moves through the network.
 
-The result? Civil resilience. Economic diversity. Products that adapt to actual market needs in weeks, not quarters.
+This is not open source hardware in the Western ideological sense. It is a practical culture of circulation, adaptation, and favors.
 
-But there's a shadow side we can't ignore.
+And it produces something many Western systems still struggle with: speed without total centralization. Products adapt quickly. Knowledge moves. Small actors can build on what is already there.
 
-Speed breeds waste. The accelerated iteration cycle that drives innovation also drives mountains of e-waste. Rapid prototyping, cheaper materials, coal-powered factories. The environmental cost is brutal.
+But this is not a romantic story.
 
-The question isn't whether gongkai works—it clearly does. The question is whether we can build it regeneratively.
+The same system that produces agility also produces waste: rapid cycles, cheap materials, short product lives, and heavy environmental costs.
 
-Can we keep the agility and decentralization while actually accounting for what gets left behind?
+So the real question is not whether gongkai is the future. It is whether we can learn from its coordination model without inheriting its extractive side effects.
+
+What if the most interesting thing about Shenzhen is not novelty, but the reminder that other ways of organizing innovation have been here all along?
 
 https://yeehaa.io/essays/shenzhen-goes-ham
 
