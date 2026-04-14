@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "topic/cellular-automata-as-design-model.md",
+                "file": "agent/mylittlephoney.com.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cellular-automata-as-design-model"
+              "title": "mylittlephoney.com"
             }
           }
         ],
@@ -200,6 +200,9 @@
   },
   "active": "f71e2d1806541656",
   "lastOpenFiles": [
+    "anchor-profile/anchor-profile.md",
+    "README.md",
+    "full-outline-online-workshop-designing-hybrid-human-ai-teams-90-min.md",
     "speaking-event-prep-ai-wont-free-you.md~",
     "speaking-event-prep-ai-wont-free-you.md",
     "social-post/linkedin-knowledge-systems-shape-thinking.md",
@@ -228,9 +231,7 @@
     "site-info/site-info.md",
     "topic/radical-automation.md",
     "social-post/linkedin-institutions-dont-protect-democracy.md",
-    "social-post/linkedin-ecosystem-architecture-practice-framework.md",
     "image/the-bottleneck-nobody-talks-about-cover-image.png",
-    "social-post/linkedin-the-bottleneck-nobody-talks-about.md",
     "image/the-bottleneck-nobody-talks-about-image.png",
     "image/ai-agents-as-collaborators-not-tools-cover-image.png",
     "image/have-your-agent-call-my-agent-cover-image.png",
@@ -245,7 +246,6 @@
     "image/transactive-memory-systems-ai-teams-cover-image.png",
     "image/transactive-memory-systems-ai-teams-image.png",
     "social-post/linkedin-transactive-memory-systems-ai-teams.md~",
-    "_obsidian/bases/Social Posts.base",
     "Untitled.canvas"
   ]
 }
