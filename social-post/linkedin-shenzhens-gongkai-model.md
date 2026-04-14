@@ -12,9 +12,13 @@ In Shenzhen, forms of decentralized production have been working in practice for
 
 What makes gongkai interesting is not that it is new. It is that it exposes how narrow our own idea of innovation has become.
 
-In the shanzhai ecosystem, manufacturers share blueprints, bills of materials, and designs openly enough that iteration happens across a network rather than inside a single firm. Not open source hardware in the Western ideological sense. More like a practical culture of circulation, adaptation, and favors.
+Gongkai literally means "open sharing." In practice, it means that designs, bills of materials, component knowledge, and production know-how circulate across a wider network, so others can adapt and build on what already exists.
 
-That produces something many Western systems still struggle with: speed without total centralization. Products adapt quickly. Knowledge moves. Small actors can build on what is already there.
+That is what gives the shanzhai ecosystem its speed. Innovation does not stay trapped inside a single firm. It moves through the network.
+
+This is not open source hardware in the Western ideological sense. It is a practical culture of circulation, adaptation, and favors.
+
+And it produces something many Western systems still struggle with: speed without total centralization. Products adapt quickly. Knowledge moves. Small actors can build on what is already there.
 
 But this is not a romantic story.
 
