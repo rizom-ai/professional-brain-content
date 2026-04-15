@@ -2,11 +2,14 @@
 title: Gongkai
 keywords:
   - gongkai
+  - Shenzhen
   - open hardware
   - intellectual property
   - blueprints
-  - bills of materials
-  - knowledge sharing
+  - bill of materials
   - hardware hacking
+  - knowledge sharing
+  - rapid prototyping
+  - component sourcing
 ---
-Gongkai is described as the open sharing practice at the heart of the Shenzhen hardware ecosystem. The post frames it as a networked approach to intellectual property in which blueprints, bills of materials, and design knowledge circulate freely among participants. This practice enables rapid prototyping, adaptation, and collective improvement in ways that the article claims are better suited to hardware than conventional Western open source norms. Gongkai also reduces dependence on reverse engineering by making component knowledge and sourcing more accessible. In the article, it functions as both a production method and a philosophy of collaborative innovation.
+Gongkai is a Shenzhen hardware practice of open sharing around design and production knowledge. Manufacturers circulate blueprints, bills of materials, sourcing information, and component details so others can reuse, adapt, and improve existing designs quickly. As a networked approach to intellectual property, gongkai relies less on strict ownership and more on shared advantage, favors, and practical reuse. It is especially suited to hardware because it supports rapid prototyping, lowers dependence on reverse engineering, and helps builders work from current component ecosystems rather than outdated documentation. In this sense, gongkai is both a collaborative production method and a philosophy of open hardware innovation.
