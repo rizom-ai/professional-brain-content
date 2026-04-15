@@ -2,7 +2,7 @@
 title: Shenzhen's Gongkai Model
 platform: linkedin
 status: draft
-coverImageId: shenzhens-gongkai-model-image
+coverImageId: shenzhens-gongkai-model-image-v2
 sourceEntityId: Shenzen Goes Ham
 sourceEntityType: post
 ---
