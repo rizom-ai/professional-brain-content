@@ -1,18 +1,20 @@
 ---
 name: Architect Living Organizations
 description: >-
-  Create organizational models and practices that treat communities like
-  adaptive, living systems rather than rigid machines.
+  Create organizational models that treat teams and communities as adaptive
+  living systems rather than rigid machines.
 tags:
   - ecosystem architecture
   - organization design
-  - distributed teams
-  - systems thinking
+  - networked collaboration
+  - systems ecology
 examples:
   - >-
-    Help me design an organization that can adapt without relying on heavy
-    hierarchy.
-  - Create a model for a community that behaves more like a living system.
-  - How can we structure a networked organization for resilience and growth?
+    Design an organizational model for a community-led platform that can evolve
+    over time.
+  - >-
+    How would you structure an organization to behave more like a living
+    ecosystem?
+  - Help me rethink hierarchy and coordination for a distributed collective.
 ---
 
