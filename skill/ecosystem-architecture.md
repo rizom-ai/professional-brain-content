@@ -1,18 +1,17 @@
 ---
 name: Ecosystem Architecture
 description: >-
-  Design organizations and communities as living systems with feedback loops,
-  shared purpose, and adaptive structure.
+  Design organizations, networks, and collaborative systems that behave more
+  like living systems than rigid machines.
 tags:
-  - ecosystem architecture
-  - organizational design
-  - community building
+  - ecosystem design
+  - organizations
+  - network strategy
   - systems thinking
+  - collaboration
 examples:
-  - >-
-    Help me design an organization that behaves more like a living system than a
-    hierarchy.
-  - Map the feedback loops in a community-based product ecosystem.
-  - How can I structure a network of collaborators to stay adaptive as it grows?
+  - Design an ecosystem architecture for a distributed learning community.
+  - Help me map the relationships and feedback loops in our organization.
+  - Write a strategy for building a more living-system-like company structure.
 ---
 
