@@ -1,17 +1,17 @@
 ---
 name: Ethical Tech Strategy
 description: >-
-  Analyze technology choices through the lenses of ethics, culture, and power to
-  shape more responsible systems.
+  Analyze technology choices through ethics, culture, and power to shape more
+  responsible systems and products.
 tags:
   - ethical AI
   - philosophy of technology
-  - technology ethics
-  - culture
-  - power
+  - value pluralism
+  - responsible innovation
+  - power analysis
 examples:
-  - Evaluate an AI product strategy from an ethical perspective.
-  - 'Write a positioning memo on technology, power, and meaning.'
-  - Help me identify the risks of using AI in community governance.
+  - Evaluate this AI product concept through an ethical and cultural lens.
+  - What are the hidden power dynamics in this platform design?
+  - Help me write a technology strategy that reflects value pluralism.
 ---
 
