@@ -16,9 +16,6 @@ fields:
   - id: description
     name: description
     type: Input
-  - id: keywords
-    name: keywords
-    type: Multi
   - id: domain
     name: domain
     type: Input

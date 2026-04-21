@@ -25,17 +25,11 @@ fields:
   - id: status
     name: status
     options:
-      '0': active
-      '1': archived
+      '0': discovered
+      '1': approved
     type: Select
   - id: discoveredAt
     name: discoveredAt
     type: Input
-  - id: discoveredVia
-    name: discoveredVia
-    options:
-      '0': atproto
-      '1': manual
-    type: Select
 filesPaths: agent
 ---
