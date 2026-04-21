@@ -1,28 +1,40 @@
 ---
 strengths:
-  - title: Knowledge infrastructure
+  - title: Clear essays
     detail: >-
-      Use this as a core strength for capturing, connecting, and reusing what
-      you and your network know.
-  - title: Ecosystem design
+      Use this as your clearest public-facing skill when you need to explain
+      complex ideas well.
+  - title: Knowledge systems
     detail: >-
-      Lean on this when shaping organizations, communities, or product
-      ecosystems that need to adapt and sustain themselves.
+      Keep building this as a core capability because it fits the rest of your
+      work and helps people reuse what they know.
 weaknesses:
-  - title: Decentralized production design
+  - title: Video production gap
     detail: >-
-      Treat this as a thinner area and avoid promising distributed-production
-      work unless you can bring in more direct support.
-  - title: Ethical technology strategy
+      Do not assume your network can cover video; add a specific collaborator if
+      your work needs it.
+  - title: Facilitation gap
     detail: >-
-      Keep using this skill, but do not assume your network will yet help you
-      pressure-test difficult ethical edge cases.
-opportunities: []
+      Treat this as a thin area and bring in a facilitator if you need group
+      sessions or participatory design.
+opportunities:
+  - title: Decentralized production
+    detail: >-
+      Use this as a practical test bed for collaborations, examples, or writing
+      that turns the idea into concrete models.
+  - title: Cultural analysis
+    detail: >-
+      Push this further by comparing more cases and letting your network
+      challenge or sharpen the interpretation.
 threats:
-  - title: Cultural systems analysis
+  - title: Text-only risk
     detail: >-
-      Do not let this stay an isolated perspective; bring in outside critique
-      before major framing decisions.
-derivedAt: '2026-04-21T06:35:48.677Z'
+      Do not let important knowledge work depend on text alone if you need to
+      teach or package it visually.
+  - title: Implementation risk
+    detail: >-
+      If the work needs alignment across people, add facilitation before relying
+      on your network to carry implementation.
+derivedAt: '2026-04-21T12:18:50.817Z'
 ---
 
