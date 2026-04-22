@@ -1,40 +1,36 @@
 ---
 strengths:
-  - title: Clear essays
+  - title: Trust mechanisms
     detail: >-
-      Use this as your clearest public-facing skill when you need to explain
-      complex ideas well.
+      You can already design coordination and trust structures for distributed
+      groups, so use this as a core skill and let your network extend it.
+  - title: Ecosystem design
+    detail: >-
+      You are good at shaping how groups, tools, and conditions fit together, so
+      keep using that systems view when the environment changes.
+weaknesses:
   - title: Knowledge systems
     detail: >-
-      Keep building this as a core capability because it fits the rest of your
-      work and helps people reuse what they know.
-weaknesses:
-  - title: Video production gap
+      You do not yet have a clearly dependable way to capture and reuse
+      knowledge across workflows, so build a stronger system before scaling.
+  - title: Production models
     detail: >-
-      Do not assume your network can cover video; add a specific collaborator if
-      your work needs it.
-  - title: Facilitation gap
-    detail: >-
-      Treat this as a thin area and bring in a facilitator if you need group
-      sessions or participatory design.
+      Your skills are stronger in governance than in decentralized production or
+      repair, so treat this as an area to borrow support on.
 opportunities:
-  - title: Decentralized production
+  - title: Ethical tech foresight
     detail: >-
-      Use this as a practical test bed for collaborations, examples, or writing
-      that turns the idea into concrete models.
-  - title: Cultural analysis
+      Your surrounding strengths in futures-thinking and value-pluralism make
+      this a good next area to test with collaborators.
+  - title: Sharp cultural writing
     detail: >-
-      Push this further by comparing more cases and letting your network
-      challenge or sharpen the interpretation.
+      Use this to make your ideas more publishable and concrete, but treat it as
+      something to develop through practice or collaboration.
 threats:
-  - title: Text-only risk
+  - title: Cultural critique
     detail: >-
-      Do not let important knowledge work depend on text alone if you need to
-      teach or package it visually.
-  - title: Implementation risk
-    detail: >-
-      If the work needs alignment across people, add facilitation before relying
-      on your network to carry implementation.
-derivedAt: '2026-04-21T12:18:50.817Z'
+      The available writing and critique signals are tentative, so do not rely
+      on your network for a steady critical lens yet.
+derivedAt: '2026-04-22T06:07:36.665Z'
 ---
 
