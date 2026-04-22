@@ -2,6 +2,7 @@
 title: Scaling vs Growing
 platform: linkedin
 status: draft
+coverImageId: scaling-vs-growing-cover-image
 ---
 Most organizations know how to scale.
 
