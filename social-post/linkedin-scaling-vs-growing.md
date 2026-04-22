@@ -20,16 +20,17 @@ A lot of organizations hit the same wall:
 more people, more tools, more process — and somehow less clarity.
 
 Knowledge gets trapped.
-Decisions travel too far from reality.
+Decisions drift away from reality.
 Trust gets replaced by coordination overhead.
 
-The organization is bigger.
-But it is not more alive.
+The system gets bigger.
+But it does not get wiser.
 
 This is why I keep coming back to ecosystem architecture.
 
-Not as a metaphor, but as a design challenge:
-How do you build systems where knowledge can move, judgment can stay local, and coherence can emerge without centralizing everything?
+Not as a metaphor, but as a design challenge.
+
+How do you build an organization where knowledge can move, judgment can stay close to the work, and coherence can emerge without centralizing everything?
 
 That is a very different question from:
 How do we make this more efficient?
