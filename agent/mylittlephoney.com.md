@@ -3,7 +3,7 @@ name: Phoney
 kind: professional
 brainName: Phoney
 url: 'https://mylittlephoney.com/a2a'
-status: discovered
+status: approved
 discoveredAt: '2026-04-22T06:07:27.357Z'
 ---
 # Agent
