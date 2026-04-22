@@ -17,7 +17,7 @@ When a living system grows, it becomes more capable by learning, adapting, and d
 That difference matters.
 
 A lot of organizations hit the same wall:
-more people, more tools, more process — and somehow less clarity.
+more people, more tools, more process, and somehow less clarity.
 
 Knowledge gets trapped.
 Decisions drift away from reality.
@@ -38,6 +38,6 @@ How do we make this more efficient?
 I wrote more about this here:
 https://yeehaa.io/essays/the-practice-of-ecosystem-architecture
 
-What is the clearest sign, in your experience, that an organization is actually growing well — not just scaling fast?
+What is the clearest sign, in your experience, that an organization is actually growing well, not just scaling fast?
 
 #EcosystemArchitecture #OrganizationalDesign #KnowledgeSystems #Leadership #FutureOfWork
