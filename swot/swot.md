@@ -1,38 +1,40 @@
 ---
 strengths:
-  - title: Ecosystem design
-    detail: >-
-      You can align people, tools, and incentives around living-system
-      principles, and your network adds useful ecosystem and community-building
-      support.
-  - title: Entity comparison
-    detail: >-
-      You are strong at comparing records and surfacing relationships, which
-      makes this a reliable analysis skill for you to use directly.
-weaknesses:
   - title: Knowledge systems
     detail: >-
-      You have clear record-organization and comparison strength, but you should
-      not assume full ownership of knowledge-system design without support from
-      your network.
+      Use this as a core strength: you can organize what your network knows so
+      it is easier to capture, connect, and reuse.
+  - title: Ethical critique
+    detail: >-
+      Lean on this when you need to connect technology, culture, and power in
+      clear, pointed analysis.
+weaknesses:
+  - title: Workshop facilitation
+    detail: >-
+      You do not have clear evidence here for leading live group sessions, so do
+      not assume your network will cover that gap.
+  - title: Profile summaries
+    detail: >-
+      You are stronger at organizing and comparing than at compressing records
+      into quick summaries, so ask for help when speed matters.
 opportunities:
-  - title: Cultural writing
+  - title: Cultural analysis
     detail: >-
-      Use your network’s writing and editing skill to turn your critique and
-      futures thinking into something public and polished.
-  - title: Cultural critique
+      Use your network’s skeptical cultural lens to pressure-test
+      interpretations before you publish.
+  - title: Publishing support
     detail: >-
-      Your network can help sharpen how you read culture, which should make your
-      ethical and regenerative ideas more direct and persuasive.
+      Bring in your network when you want a draft turned into a cleaner, more
+      public-facing piece.
 threats:
-  - title: Distributed collaboration
+  - title: Distributed coordination
     detail: >-
-      Do not move from analysis into design too quickly; you still need stronger
-      support for trust, autonomy, and coordination.
-  - title: Regenerative strategy
+      This could stall if you expect your current network to design trust,
+      autonomy, and coordination end to end.
+  - title: Regenerative product work
     detail: >-
-      Keep your regenerative language tied to practical strategy work, because
-      the network looks stronger on critique than on full strategic design.
-derivedAt: '2026-04-24T15:17:04.461Z'
+      This looks undercovered, so expect product-shaping around reuse and
+      resilience to need extra support.
+derivedAt: '2026-04-24T15:20:56.960Z'
 ---
 
