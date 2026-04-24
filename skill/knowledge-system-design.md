@@ -1,20 +1,19 @@
 ---
 name: Knowledge System Design
 description: >-
-  Create knowledge infrastructures that help people capture, connect, and reuse
-  information across projects and organizations.
+  Create knowledge infrastructures that help organizations capture, connect, and
+  apply what they know.
 tags:
-  - knowledge systems
-  - information architecture
-  - sensemaking
-  - organizational design
+  - knowledge-systems
+  - ecosystem-architecture
+  - community-building
 examples:
   - >-
-    Design a knowledge system for a distributed team that needs to reuse
-    expertise across projects.
-  - Help me turn scattered notes into a connected knowledge infrastructure.
+    Design a knowledge system for a distributed team that needs to share
+    learning across projects.
+  - Help me map a capture-connect-apply workflow for an internal knowledge base.
   - >-
-    What structure should I use to capture and retrieve organizational learning
-    over time?
+    What structure would make our team’s knowledge reusable instead of trapped
+    in documents?
 ---
 
