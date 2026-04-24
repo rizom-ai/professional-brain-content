@@ -12,142 +12,138 @@ Organizations as Living Systems
 
 ---
 
-## AI did not just change our tools
+## AI did not just change our tools.
 
-It changed the climate of work.
+It changed the environment we work in.
 
-When intelligence gets cheaper, faster, and easier to access, the bottleneck moves.
-Not to execution.
-To coordination.
-
----
-
-## Most organizations were built for a colder world
-
-A world of scarce expertise.
-Slower feedback.
-Longer cycles.
-More predictability.
-
-So we built machines.
-Roles. Handoffs. Controls. Forecasts.
+The bottleneck is moving away from execution
+and toward coordination.
 
 ---
 
-## AI exposes organizational design debt
+## What changed
+
+- intelligence got cheaper
+- execution got faster
+- knowledge became more abundant
+- ambiguity increased
+- coordination became the constraint
+
+---
+
+## Most organizations were built like machines.
+
+That made sense in a slower world.
+
+It makes much less sense now.
+
+---
+
+## Machine logic looks like this
+
+- define the parts
+- assign the roles
+- control the handoffs
+- reduce variation
+- predict the outcome
+
+---
+
+## AI exposes organizational design debt.
 
 Not because the models are magical.
 Because they hit every hidden weakness at once.
 
-Knowledge trapped in people.
-Ownership blurred by habit.
-Coordination held together by invisible labor.
+---
+
+## The debt looks like this
+
+- knowledge trapped in people
+- ownership blurred by habit
+- coordination held together by invisible labor
+- processes that work only because experienced humans compensate
 
 ---
 
-## The real shock is not automation
+## One invisible expert is not a system.
 
-Yes, some roles will shrink.
-Some will split.
-Some will disappear.
-
-But the deeper shift is this:
-repetition loses value,
-while judgment, context, taste, and synthesis gain it.
+It is a temporary workaround
+that looks stable from the outside.
 
 ---
 
-## One invisible expert is not a system
+## When that workaround breaks
 
-There is always someone who knows how things really work.
-Where the process bends.
-Which exception matters.
-Who to call when reality breaks the diagram.
-
-It looks stable until that person leaves, burns out, or AI enters the workflow.
-Then the organization discovers it stored memory in a person, not in the system.
+- the real process turns out to be undocumented
+- exceptions become blockers
+- decisions slow down
+- people stop agreeing on what the work actually is
+- the organization discovers it stored memory in a person, not in the system
 
 ---
 
-## An organization is not an org chart
+## An organization is not an org chart.
 
 It is a living knowledge system.
 
-A pattern of memory.
-A pattern of trust.
-A pattern of decisions made under uncertainty.
-
-If knowledge does not move, the organization does not think.
+If knowledge does not move,
+the organization does not think.
 
 ---
 
-## Machines optimize for control
+## A living knowledge system includes
 
-Reduce variation.
-Standardize behavior.
-Predict the output.
-
-That logic can produce efficiency.
-It cannot produce aliveness.
-
----
-
-## Living systems optimize for resilience
-
-They learn.
-They redistribute intelligence.
-They adapt through relationships.
-
-Life is not neat.
-Life is responsive.
-That is why it survives.
+- who knows what
+- how knowledge moves
+- how trust forms
+- how decisions get made under uncertainty
+- how humans and AI coordinate
 
 ---
 
-## Ecosystem architecture means designing for emergence
+## Machines optimize for control. Living systems optimize for resilience.
 
-Not less structure.
-Different structure.
+That is the real design choice.
 
-Fewer brittle controls.
-More adaptive rules.
-More visible expertise.
-More ways for intelligence to circulate.
+Not chaos versus order.
+But brittleness versus aliveness.
 
 ---
 
-## Employees need a different posture
+## The shift is structural
 
-Not just role holders.
-Contributors to shared intelligence.
-
-Make your knowledge legible.
-Work across boundaries.
-Become easier to collaborate with — for humans and for machines.
+- machines centralize intelligence; living systems distribute it
+- machines resist variation; living systems learn from it
+- machines become brittle under pressure; living systems adapt through relationships
+- machines optimize for efficiency; living systems optimize for survival and renewal
 
 ---
 
-## Leaders need a different job
+## In the age of AI, posture matters.
 
-Less mechanic.
-More gardener.
+Some roles will shrink.
+Some will split.
+Some will disappear.
 
-Create the conditions for good work.
-Make expertise visible.
-Reduce coordination friction.
-Build trust across teams, tools, and workflows.
+What grows in value is judgment, context, synthesis, and the ability to collaborate.
 
 ---
 
-## The future is not better machines
+## What that means now
+
+- employees need to make their knowledge legible and work across boundaries
+- leaders need to make expertise visible and reduce coordination friction
+- both need to build trust between humans, teams, tools, and AI
+- the point is not more activity, but more living capacity
+
+---
+
+## The future is not better machines.
 
 It is better ecosystems.
 
 Better AI inside a brittle organization creates faster brittleness.
 Better AI inside a living system creates new capacity.
-
-The organizations that thrive will not be the most optimized.
-They will be the most alive.
 
 ---
 
