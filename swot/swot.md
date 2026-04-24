@@ -1,49 +1,44 @@
 ---
 strengths:
-  - title: Knowledge infrastructure
+  - title: Agent records
     detail: >-
-      You can confidently own practical systems for capturing, connecting, and
-      sharing knowledge, while your network can help with organization and
-      comparison.
-  - title: Technology culture writing
-    detail: >-
-      You have a dependable lane for essays that connect technology, philosophy,
-      and social change, and your network can help sharpen and polish the work.
-weaknesses:
-  - title: Regenerative product thinking
-    detail: >-
-      You do not yet have clear owner evidence here, so avoid taking this on
-      alone and bring in support if the work needs product shaping around
-      resilience or reuse.
-  - title: Knowledge system design
-    detail: >-
-      You show stronger evidence for organizing knowledge than designing full
-      systems, so keep your scope narrower unless you have someone who can cover
-      the broader design layer.
-opportunities:
-  - title: Sharp cultural writing
-    detail: >-
-      Use your network as an editing and publishing partner to turn your
-      technology essays and commentary into stronger public-facing work.
-  - title: Cultural critique
-    detail: >-
-      Bring this in when you need a skeptical lens to deepen framing, sharpen
-      examples, and stress-test your arguments.
+      Use this as a core strength when you need structured capture, clear
+      records, and easy lookup.
   - title: Entity comparison
     detail: >-
-      Use this skill to compare systems, roles, or collaboration patterns when
-      you need clearer distinctions and better knowledge structure.
+      Lean on this for comparison-heavy work where you need to surface
+      similarities, differences, and relationships.
+weaknesses:
+  - title: Summarization gap
+    detail: >-
+      Do not assume quick synthesis is covered; add a summarizing complement
+      before you rely on fast condensation.
+  - title: Trust design
+    detail: >-
+      Treat this as thinner than the broader collaboration label suggests and
+      test it with small, concrete tasks first.
+opportunities:
+  - title: Cultural writing
+    detail: >-
+      Use your network here when you want to turn critique into something
+      polished and shareable.
+  - title: Cultural critique
+    detail: >-
+      Bring your ideas here when you need a sharper read on the real stakes in
+      technology or culture.
+  - title: Positioning
+    detail: >-
+      Use this network skill to make your ideas easier to understand and harder
+      to ignore.
 threats:
-  - title: Decentralized collaboration design gap
+  - title: Application gap
     detail: >-
-      Do not assume your current network can carry distributed coordination
-      work; you may stall unless you add someone with real collaboration-design
-      experience.
-  - title: Regenerative systems strategy gap
+      Watch for work that stops at organizing records instead of moving into
+      reuse and follow-through.
+  - title: Summarization under load
     detail: >-
-      Treat regenerative strategy as fragile for now, because the current
-      support is mostly adjacent critique and analysis rather than direct
-      systems-strategy help.
-derivedAt: '2026-04-24T15:25:17.796Z'
+      Expect slowdown when you need to compress a lot of information into a
+      quick, usable form.
+derivedAt: '2026-04-24T15:28:58.017Z'
 ---
 
