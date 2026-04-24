@@ -6,6 +6,7 @@ description: >-
   organizational design, and that the future belongs to companies built as
   living knowledge ecosystems rather than control systems.
 status: draft
+coverImageId: organizations-as-ecosystems-cover-image
 ---
 # Ecosystem Architecture
 Organizations as Living Systems
