@@ -1,44 +1,48 @@
 ---
 strengths:
-  - title: Agent records
-    detail: >-
-      Use this as a core strength when you need structured capture, clear
-      records, and easy lookup.
   - title: Entity comparison
     detail: >-
-      Lean on this for comparison-heavy work where you need to surface
-      similarities, differences, and relationships.
+      Use this when you need to compare options, spot patterns, or distinguish
+      similar agents before deciding.
+  - title: Agent record organization
+    detail: >-
+      Keep using this to turn what your network knows into clear entries that
+      are easy to find and reuse.
 weaknesses:
-  - title: Summarization gap
+  - title: Video production gap
     detail: >-
-      Do not assume quick synthesis is covered; add a summarizing complement
-      before you rely on fast condensation.
-  - title: Trust design
+      Do not assume you or your network can handle video-heavy work well; bring
+      in outside help if video becomes central.
+  - title: Visualization gap
     detail: >-
-      Treat this as thinner than the broader collaboration label suggests and
-      test it with small, concrete tasks first.
+      Treat charts, diagrams, and visual synthesis as a weak spot and test that
+      need early instead of relying on it.
 opportunities:
-  - title: Cultural writing
+  - title: Sharp cultural writing
     detail: >-
-      Use your network here when you want to turn critique into something
-      polished and shareable.
-  - title: Cultural critique
+      Use this network strength to sharpen your technology and futures writing
+      before you share it.
+  - title: Critical cultural reading
     detail: >-
-      Bring your ideas here when you need a sharper read on the real stakes in
-      technology or culture.
-  - title: Positioning
+      Use this lens to pressure-test your ideas for social, cultural, or
+      political stakes.
+  - title: Story critique
     detail: >-
-      Use this network skill to make your ideas easier to understand and harder
-      to ignore.
+      Use this to check whether your narratives are too generous or miss
+      uncomfortable truths.
 threats:
-  - title: Application gap
+  - title: Regenerative product blind spot
     detail: >-
-      Watch for work that stops at organizing records instead of moving into
-      reuse and follow-through.
-  - title: Summarization under load
+      If your work shifts toward concrete products or tools, be careful not to
+      overreach without the needed design support.
+  - title: Collaboration design risk
     detail: >-
-      Expect slowdown when you need to compress a lot of information into a
-      quick, usable form.
-derivedAt: '2026-04-24T15:28:58.017Z'
+      You can analyze distributed groups, but you should not promise
+      coordination design without stronger support.
+  - title: Knowledge system risk
+    detail: >-
+      Watch for gaps when moving from organizing information to shaping a full
+      knowledge system.
+derivedAt: '2026-04-24T15:30:57.328Z'
 ---
 
