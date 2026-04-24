@@ -139,5 +139,6 @@ The ones that can learn, reorganize, and stay coherent while the environment cha
 - Jan Hein "Yeehaa" Hoogstad
 - [yeehaa.io](https://yeehaa.io)
 - [rizom.ai](https://rizom.ai)
+- [rizom.work](https://rizom.work)
 - [linkedin.com/in/yeehaa](https://linkedin.com/in/yeehaa)
 - [github.com/rizom-ai](https://github.com/rizom-ai)
