@@ -1,52 +1,33 @@
 ---
 strengths:
-  - title: Ethical AI critique
+  - title: Critical futures writing
     detail: >-
-      You have a strong base for judging AI and technology critically; use your
-      network to sharpen the argument, not replace it.
-  - title: Knowledge infrastructure
-    detail: >-
-      You can organize and structure knowledge well, and your network reinforces
-      that strength with record-keeping and classification support.
+      You can turn technology and culture into sharp, concept-driven commentary;
+      use your network to help polish it into publishable form.
   - title: Entity comparison
     detail: >-
-      You can reliably compare people, profiles, or records, so lean on this
-      when you need clear distinctions or relationships.
+      You have a dependable comparison skill for spotting similarities,
+      differences, and relationships, which is useful when you need to judge
+      agents, profiles, or systems side by side.
 weaknesses:
-  - title: Facilitation
+  - title: Video production gap
     detail: >-
-      This looks thin, so avoid assuming you can lead group sessions smoothly
-      without extra preparation or support.
-  - title: Publication writing
-    detail: >-
-      You have critique and analysis, but polished publishable writing is not
-      yet a clear owner strength, so build a deliberate editing step.
+      Video is not a near-term strength here, so do not treat it as something
+      you can handle alone.
 opportunities:
-  - title: Publish sharp writing
+  - title: Agent record organization
     detail: >-
-      Your network can help turn a strong point of view into polished essays or
-      decks, which is a useful model for your own work.
-  - title: Sharp cultural reading
+      Use your network’s organization skills to keep agent information clear,
+      consistent, and easy to find.
+  - title: Profile summarization
     detail: >-
-      Use this adjacent strength to make your ethical-tech critiques more vivid,
-      skeptical, and directly tied to real stakes.
-  - title: Quick profile summaries
-    detail: >-
-      Use this for fast, structured summaries when you need to move quickly from
-      records to usable comparisons.
+      Pair your analysis with concise summaries so you can understand complex
+      profile and agent notes faster.
 threats:
-  - title: Output stalls at draft stage
+  - title: Editing bottleneck
     detail: >-
-      Strong analysis may not automatically become finished writing, so add a
-      clear path from critique to publication.
-  - title: Group work may outpace you
-    detail: >-
-      If the work shifts into live coordination, bring in stronger facilitation
-      support instead of stretching this capability too far.
-  - title: Quick synthesis is limited
-    detail: >-
-      Use lightweight summaries carefully, but do not depend on them for
-      important judgments or high-stakes synthesis.
-derivedAt: '2026-04-24T16:57:41.343Z'
+      Your network can improve drafts, but you should not assume the first
+      version is ready to ship without a real editing pass.
+derivedAt: '2026-04-24T16:58:42.971Z'
 ---
 
