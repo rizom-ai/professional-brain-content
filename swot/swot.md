@@ -1,40 +1,46 @@
 ---
 strengths:
-  - title: Regenerative systems strategy
+  - title: Ethical futures lens
     detail: >-
-      Use this as a core capability for resilience and long-term design; your
-      network can help sharpen the surrounding critique and commentary.
-  - title: Circular tech commentary
+      Use this as a core owner skill when you need to weigh emerging
+      technologies or social systems through ethics, philosophy, and pluralism.
+  - title: Critical tech commentary
     detail: >-
-      Lean on this for clear analysis and framing, and pair it with your network
-      when you need publication-ready language.
+      Lean on this for sharp critique of technology, culture, and material
+      systems when you want to surface hidden costs and alternative futures.
 weaknesses:
-  - title: Knowledge systems
+  - title: Knowledge systems gap
     detail: >-
-      This is a thin area for you, so do not assume you can build or maintain
-      knowledge infrastructure alone.
-  - title: Decentralized collaboration
+      You do not yet show a direct skill for turning insights into reusable
+      structures, so pair with someone who can help capture and operationalize
+      knowledge.
+  - title: Product-level regeneration gap
     detail: >-
-      You have limited visible depth here, so bring in help when work depends on
-      trust, autonomy, and coordination across people.
+      Your regenerative strength is more strategic than product-focused, so keep
+      product or manufacturing work scoped unless a collaborator can own that
+      layer.
 opportunities:
-  - title: Sharp cultural writing
+  - title: Publish your critique
     detail: >-
-      Use your network to draft, refine, and package your ideas into stronger
-      public writing and decks.
-  - title: Skeptical cultural reading
+      Use your network’s writing strength to turn your analysis into polished
+      essays, posts, or decks.
+  - title: Sharper critique partner
     detail: >-
-      Use this as a way to pressure-test your interpretations and sharpen what
-      you publish.
+      Bring in this network skill when you want a more skeptical read on
+      cultural or political stakes.
+  - title: Moral stress test
+    detail: >-
+      Use this to deepen reflective work and pressure-test your assumptions
+      about confession, innocence, and morality.
 threats:
-  - title: Knowledge system gap
+  - title: Operationalize knowledge
     detail: >-
-      If your work moves into capturing and connecting organizational knowledge,
-      line up support before it becomes a bottleneck.
-  - title: Coordination gap
+      If no one on the network can build the system, your insights may stay
+      interesting but not reusable.
+  - title: Coordination risk
     detail: >-
-      Be cautious about distributed coordination work unless you can add
-      stronger collaboration design support.
-derivedAt: '2026-04-22T10:25:15.718Z'
+      Do not assume the network can design trust and autonomy well; make sure
+      someone can actively shape how people coordinate.
+derivedAt: '2026-04-24T14:37:01.933Z'
 ---
 
