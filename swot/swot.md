@@ -1,46 +1,40 @@
 ---
 strengths:
-  - title: Ethical futures lens
+  - title: Futures commentary
     detail: >-
-      Use this as a core owner skill when you need to weigh emerging
-      technologies or social systems through ethics, philosophy, and pluralism.
-  - title: Critical tech commentary
+      Use this as your main voice when you need to explain where technology,
+      culture, and power are heading.
+  - title: Cultural critique
     detail: >-
-      Lean on this for sharp critique of technology, culture, and material
-      systems when you want to surface hidden costs and alternative futures.
+      Lean on your network to sharpen your reading and edit the argument, while
+      keeping the core point of view in your own hands.
 weaknesses:
-  - title: Knowledge systems gap
+  - title: Knowledge infrastructure
     detail: >-
-      You do not yet show a direct skill for turning insights into reusable
-      structures, so pair with someone who can help capture and operationalize
-      knowledge.
-  - title: Product-level regeneration gap
+      Treat this as a gap: do not assume you can yet build durable knowledge
+      systems without help.
+  - title: Distributed collaboration design
     detail: >-
-      Your regenerative strength is more strategic than product-focused, so keep
-      product or manufacturing work scoped unless a collaborator can own that
-      layer.
+      You do not yet have strong support here, so avoid relying on your current
+      setup to solve coordination design.
 opportunities:
-  - title: Publish your critique
+  - title: Publishable writing
     detail: >-
-      Use your network’s writing strength to turn your analysis into polished
-      essays, posts, or decks.
-  - title: Sharper critique partner
+      Use your network’s stronger writing craft to turn your ideas into cleaner
+      posts, essays, and decks.
+  - title: Entity comparison
     detail: >-
-      Bring in this network skill when you want a more skeptical read on
-      cultural or political stakes.
-  - title: Moral stress test
-    detail: >-
-      Use this to deepen reflective work and pressure-test your assumptions
-      about confession, innocence, and morality.
+      Pair comparison work with your commentary to make distinctions and
+      relationships easier to see.
 threats:
-  - title: Operationalize knowledge
+  - title: Regenerative product thinking
     detail: >-
-      If no one on the network can build the system, your insights may stay
-      interesting but not reusable.
-  - title: Coordination risk
+      Do not plan around this as if it is already covered; you will need a new
+      angle or outside help before committing.
+  - title: Knowledge capture workflow
     detail: >-
-      Do not assume the network can design trust and autonomy well; make sure
-      someone can actively shape how people coordinate.
-derivedAt: '2026-04-24T14:37:01.933Z'
+      Without stronger capture and retrieval habits, your knowledge work is
+      likely to stall as it grows.
+derivedAt: '2026-04-24T14:55:00.726Z'
 ---
 
