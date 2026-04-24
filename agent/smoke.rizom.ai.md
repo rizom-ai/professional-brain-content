@@ -3,7 +3,7 @@ name: Brain
 kind: professional
 brainName: Brain
 url: 'https://smoke.rizom.ai/a2a'
-status: active
+status: approved
 discoveredAt: '2026-04-13T06:16:52.625Z'
 discoveredVia: manual
 ---
