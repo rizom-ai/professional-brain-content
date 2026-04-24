@@ -13,14 +13,14 @@ coverImageId: ecosystem-architecture-organizations-as-living-systems-cover-v2
 
 ## AI is a stress test for the organization
 
-Not just a new tool.
-A new environment.
+It is not just changing the work.
+It is exposing the organization.
 
 When intelligence gets cheap, hidden frictions get expensive.
 
 ---
 
-## What changed
+## AI changed the shape of work
 
 - execution got cheaper
 - knowledge got easier to access
@@ -41,7 +41,7 @@ Bad at adaptation.
 
 ---
 
-## Machine logic looks like this
+## A machine is built like this
 
 - define the parts
 - assign the roles
@@ -51,16 +51,15 @@ Bad at adaptation.
 
 ---
 
-## AI exposes design debt
+## What looked stable was often improvised
 
-Not technical debt.
-Organizational debt.
-
-The debt you only notice when speed enters the system.
+AI did not break the organization.
+It revealed how much was being held together
+by habit, memory, and human patchwork.
 
 ---
 
-## The debt looks like this
+## It usually shows up like this
 
 - knowledge trapped in people
 - ownership blurred by habit
@@ -69,9 +68,9 @@ The debt you only notice when speed enters the system.
 
 ---
 
-## One invisible expert is not a system
+## One person is not a system
 
-It is a single point of failure with good PR.
+It is fragility disguised as expertise.
 
 ---
 
@@ -95,7 +94,7 @@ it does not adapt.
 
 ---
 
-## What living systems do differently
+## How living systems work
 
 - they distribute intelligence
 - they learn from variation
@@ -105,18 +104,18 @@ it does not adapt.
 
 ---
 
-## In the age of AI, value shifts
+## What becomes more valuable now
 
 Some roles will shrink.
 Some will split.
 Some will disappear.
 
 Repetition loses value.
-Judgment, context, synthesis, and collaboration gain it.
+Judgment, context, creativity, synthesis, and collaboration gain it.
 
 ---
 
-## What that means now
+## What this demands
 
 - employees need to make their knowledge legible
 - leaders need to reduce coordination friction
