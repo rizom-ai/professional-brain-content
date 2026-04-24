@@ -1,4 +1,18 @@
 ---
 title: Ecosystem Architecture
 ---
-Ecosystem architecture is the practice of designing organizations, communities, and digital systems as living, adaptive systems rather than rigid machines. It emphasizes decentralization, distributed intelligence, shared memory, and relational coordination over control, hierarchy, and narrow optimization for predictability. The approach treats organizational design as something organic and evolving: ecosystems must be intentionally cultivated to learn, reorganize, and respond to change over time. It is especially relevant for distributed, knowledge-heavy organizations and for contexts where AI exposes hidden coordination work, knowledge bottlenecks, and the limits of industrial-era models. As a framework, it connects knowledge infrastructure, collaborative structure, and resilient community design into a single usable model for building systems that can stay coherent under changing conditions and grow with them rather than resist them.","keywords":["organizational design","distributed intelligence","knowledge infrastructure","adaptive systems","decentralization","coordination","shared memory","community design","resilience","AI"]}
+Ecosystem architecture is the practice of designing organizations, communities, and digital systems as living, adaptive systems rather than rigid machines. It emphasizes decentralized coordination, distributed intelligence, shared memory, and relational structure over control, hierarchy, and narrow optimization for predictability. The approach treats organizational design as something organic and evolving: ecosystems must be intentionally cultivated to learn, reorganize, and respond to changing conditions over time. It is especially relevant for distributed, knowledge-heavy organizations and for contexts where AI exposes hidden coordination work, knowledge bottlenecks, and the limits of industrial-era models. As a framework, it connects knowledge infrastructure, collaborative structure, and resilient community design into a single usable model for building systems that can stay coherent under change and grow with it rather than resist it.
+
+It frames the organization not as a fixed hierarchy of roles, but as a system that must continuously adapt while preserving coherence, making it a practical lens for modern organizational design and transformation under shifting conditions in work and technology.
+
+keywords:
+- organizational design
+- adaptive systems
+- distributed intelligence
+- decentralized coordination
+- knowledge infrastructure
+- shared memory
+- community design
+- resilience
+- relational structure
+- AI
