@@ -1,40 +1,38 @@
 ---
 strengths:
-  - title: Futures commentary
+  - title: Ecosystem design
     detail: >-
-      Use this as your main voice when you need to explain where technology,
-      culture, and power are heading.
-  - title: Cultural critique
-    detail: >-
-      Lean on your network to sharpen your reading and edit the argument, while
-      keeping the core point of view in your own hands.
-weaknesses:
-  - title: Knowledge infrastructure
-    detail: >-
-      Treat this as a gap: do not assume you can yet build durable knowledge
-      systems without help.
-  - title: Distributed collaboration design
-    detail: >-
-      You do not yet have strong support here, so avoid relying on your current
-      setup to solve coordination design.
-opportunities:
-  - title: Publishable writing
-    detail: >-
-      Use your network’s stronger writing craft to turn your ideas into cleaner
-      posts, essays, and decks.
+      You can align people, tools, and incentives around living-system
+      principles, and your network adds useful ecosystem and community-building
+      support.
   - title: Entity comparison
     detail: >-
-      Pair comparison work with your commentary to make distinctions and
-      relationships easier to see.
+      You are strong at comparing records and surfacing relationships, which
+      makes this a reliable analysis skill for you to use directly.
+weaknesses:
+  - title: Knowledge systems
+    detail: >-
+      You have clear record-organization and comparison strength, but you should
+      not assume full ownership of knowledge-system design without support from
+      your network.
+opportunities:
+  - title: Cultural writing
+    detail: >-
+      Use your network’s writing and editing skill to turn your critique and
+      futures thinking into something public and polished.
+  - title: Cultural critique
+    detail: >-
+      Your network can help sharpen how you read culture, which should make your
+      ethical and regenerative ideas more direct and persuasive.
 threats:
-  - title: Regenerative product thinking
+  - title: Distributed collaboration
     detail: >-
-      Do not plan around this as if it is already covered; you will need a new
-      angle or outside help before committing.
-  - title: Knowledge capture workflow
+      Do not move from analysis into design too quickly; you still need stronger
+      support for trust, autonomy, and coordination.
+  - title: Regenerative strategy
     detail: >-
-      Without stronger capture and retrieval habits, your knowledge work is
-      likely to stall as it grows.
-derivedAt: '2026-04-24T14:55:00.726Z'
+      Keep your regenerative language tied to practical strategy work, because
+      the network looks stronger on critique than on full strategic design.
+derivedAt: '2026-04-24T15:17:04.461Z'
 ---
 
