@@ -23,9 +23,6 @@ fields:
   - id: requested
     name: requested
     type: Number
-  - id: tags
-    name: tags
-    type: Multi
   - id: declinedReason
     name: declinedReason
     type: Input

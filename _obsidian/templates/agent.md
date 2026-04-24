@@ -5,9 +5,8 @@ organization: ""
 brainName: ""
 url: ""
 did: ""
-status: active
+status: discovered
 discoveredAt: ""
-discoveredVia: atproto
 ---
 
 <!-- Write your content here -->
