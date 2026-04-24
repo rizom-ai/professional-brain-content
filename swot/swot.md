@@ -1,40 +1,49 @@
 ---
 strengths:
-  - title: Knowledge systems
+  - title: Knowledge infrastructure
     detail: >-
-      Use this as a core strength: you can organize what your network knows so
-      it is easier to capture, connect, and reuse.
-  - title: Ethical critique
+      You can confidently own practical systems for capturing, connecting, and
+      sharing knowledge, while your network can help with organization and
+      comparison.
+  - title: Technology culture writing
     detail: >-
-      Lean on this when you need to connect technology, culture, and power in
-      clear, pointed analysis.
+      You have a dependable lane for essays that connect technology, philosophy,
+      and social change, and your network can help sharpen and polish the work.
 weaknesses:
-  - title: Workshop facilitation
+  - title: Regenerative product thinking
     detail: >-
-      You do not have clear evidence here for leading live group sessions, so do
-      not assume your network will cover that gap.
-  - title: Profile summaries
+      You do not yet have clear owner evidence here, so avoid taking this on
+      alone and bring in support if the work needs product shaping around
+      resilience or reuse.
+  - title: Knowledge system design
     detail: >-
-      You are stronger at organizing and comparing than at compressing records
-      into quick summaries, so ask for help when speed matters.
+      You show stronger evidence for organizing knowledge than designing full
+      systems, so keep your scope narrower unless you have someone who can cover
+      the broader design layer.
 opportunities:
-  - title: Cultural analysis
+  - title: Sharp cultural writing
     detail: >-
-      Use your network’s skeptical cultural lens to pressure-test
-      interpretations before you publish.
-  - title: Publishing support
+      Use your network as an editing and publishing partner to turn your
+      technology essays and commentary into stronger public-facing work.
+  - title: Cultural critique
     detail: >-
-      Bring in your network when you want a draft turned into a cleaner, more
-      public-facing piece.
+      Bring this in when you need a skeptical lens to deepen framing, sharpen
+      examples, and stress-test your arguments.
+  - title: Entity comparison
+    detail: >-
+      Use this skill to compare systems, roles, or collaboration patterns when
+      you need clearer distinctions and better knowledge structure.
 threats:
-  - title: Distributed coordination
+  - title: Decentralized collaboration design gap
     detail: >-
-      This could stall if you expect your current network to design trust,
-      autonomy, and coordination end to end.
-  - title: Regenerative product work
+      Do not assume your current network can carry distributed coordination
+      work; you may stall unless you add someone with real collaboration-design
+      experience.
+  - title: Regenerative systems strategy gap
     detail: >-
-      This looks undercovered, so expect product-shaping around reuse and
-      resilience to need extra support.
-derivedAt: '2026-04-24T15:20:56.960Z'
+      Treat regenerative strategy as fragile for now, because the current
+      support is mostly adjacent critique and analysis rather than direct
+      systems-strategy help.
+derivedAt: '2026-04-24T15:25:17.796Z'
 ---
 
