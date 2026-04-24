@@ -68,9 +68,10 @@ by habit, memory, and human patchwork.
 
 ---
 
-## One person is not a system
+## Heroics are not infrastructure
 
-It is fragility disguised as expertise.
+What looks like expertise
+can hide structural fragility.
 
 ---
 
