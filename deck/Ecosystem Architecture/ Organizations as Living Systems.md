@@ -14,49 +14,58 @@ Organizations as Living Systems
 
 ## AI did not just change our tools
 
-It changed the environment we work in.
+It changed the climate of work.
 
-When intelligence gets cheaper and faster, the bottleneck shifts from execution to coordination.
+When intelligence gets cheaper, faster, and easier to access, the bottleneck moves.
+Not to execution.
+To coordination.
 
 ---
 
-## Most organizations were built for a different world
+## Most organizations were built for a colder world
 
-- stable markets
-- scarce expertise
-- slower feedback
+A world of scarce expertise.
+Slower feedback.
+Longer cycles.
+More predictability.
 
-So we built machines: roles, handoffs, controls, predictability.
+So we built machines.
+Roles. Handoffs. Controls. Forecasts.
 
 ---
 
 ## AI exposes organizational design debt
 
-Not because the models are magical, but because they hit every hidden weakness at once.
+Not because the models are magical.
+Because they hit every hidden weakness at once.
 
-- trapped knowledge
-- unclear ownership
-- slow coordination
+Knowledge trapped in people.
+Ownership blurred by habit.
+Coordination held together by invisible labor.
 
 ---
 
-## The real shock is not just automation
+## The real shock is not automation
 
-Some roles will shrink.
+Yes, some roles will shrink.
 Some will split.
 Some will disappear.
 
-The deeper shift is that repetition loses value while judgment, context, and synthesis gain it.
+But the deeper shift is this:
+repetition loses value,
+while judgment, context, taste, and synthesis gain it.
 
 ---
 
 ## One invisible expert is not a system
 
 There is always someone who knows how things really work.
-Everyone else works from fragments.
+Where the process bends.
+Which exception matters.
+Who to call when reality breaks the diagram.
 
 It looks stable until that person leaves, burns out, or AI enters the workflow.
-Then the organization discovers it had memory in a person, not in the system.
+Then the organization discovers it stored memory in a person, not in the system.
 
 ---
 
@@ -64,10 +73,11 @@ Then the organization discovers it had memory in a person, not in the system.
 
 It is a living knowledge system.
 
-Who knows what.
-How knowledge moves.
-How trust forms.
-How decisions get made under uncertainty.
+A pattern of memory.
+A pattern of trust.
+A pattern of decisions made under uncertainty.
+
+If knowledge does not move, the organization does not think.
 
 ---
 
@@ -77,7 +87,8 @@ Reduce variation.
 Standardize behavior.
 Predict the output.
 
-That works until the environment changes faster than the machine can adapt.
+That logic can produce efficiency.
+It cannot produce aliveness.
 
 ---
 
@@ -87,19 +98,21 @@ They learn.
 They redistribute intelligence.
 They adapt through relationships.
 
-Life is not efficient in the narrow sense. It is robust.
+Life is not neat.
+Life is responsive.
+That is why it survives.
 
 ---
 
-## Ecosystem architecture is a redesign of structure
+## Ecosystem architecture means designing for emergence
 
 Not less structure.
 Different structure.
 
-- fewer brittle controls
-- more adaptive rules
-- more visible expertise
-- more room for emergence
+Fewer brittle controls.
+More adaptive rules.
+More visible expertise.
+More ways for intelligence to circulate.
 
 ---
 
@@ -110,27 +123,31 @@ Contributors to shared intelligence.
 
 Make your knowledge legible.
 Work across boundaries.
-Become easier to collaborate with, for humans and for machines.
+Become easier to collaborate with — for humans and for machines.
 
 ---
 
 ## Leaders need a different job
 
-Less mechanic. More gardener.
+Less mechanic.
+More gardener.
 
-Create the conditions for good work:
-make expertise visible,
-reduce coordination friction,
-build trust across teams, tools, and workflows.
+Create the conditions for good work.
+Make expertise visible.
+Reduce coordination friction.
+Build trust across teams, tools, and workflows.
 
 ---
 
-## The real edge is not better AI
+## The future is not better machines
 
-It is better knowledge flow.
+It is better ecosystems.
+
+Better AI inside a brittle organization creates faster brittleness.
+Better AI inside a living system creates new capacity.
 
 The organizations that thrive will not be the most optimized.
-They will be the ones that can learn, reorganize, and stay alive while the environment changes.
+They will be the most alive.
 
 ---
 
