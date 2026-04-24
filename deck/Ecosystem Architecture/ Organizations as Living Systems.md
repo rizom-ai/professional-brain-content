@@ -4,7 +4,7 @@ slug: ecosystem-architecture-organizations-as-living-systems
 description: >-
   A provocative but hopeful talk on why AI is forcing organizations to stop
   behaving like machines and start evolving as living systems.
-status: draft
+status: published
 coverImageId: ecosystem-architecture-organizations-as-living-systems-cover-v2
 ---
 # Organizations as Living Systems
