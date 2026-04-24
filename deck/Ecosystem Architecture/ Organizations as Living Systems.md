@@ -1,5 +1,5 @@
 ---
-title: 'Ecosystem Architecture: Organizations as Living Systems'
+title: Organizations as Living Systems
 slug: ecosystem-architecture-organizations-as-living-systems
 description: >-
   A provocative but hopeful talk on why AI is forcing organizations to stop
@@ -7,8 +7,7 @@ description: >-
 status: draft
 coverImageId: ecosystem-architecture-organizations-as-living-systems-cover-v2
 ---
-# Ecosystem Architecture
-Organizations as Living Systems
+# Organizations as Living Systems
 
 ---
 
