@@ -5,7 +5,7 @@ description: >-
   A provocative but hopeful talk on why AI is forcing organizations to stop
   behaving like machines and start evolving as living systems.
 status: draft
-coverImageId: organizations-as-ecosystems-cover-image
+coverImageId: ecosystem-architecture-organizations-as-living-systems-cover-v2
 ---
 # Ecosystem Architecture: Organizations as Living Systems
 
