@@ -1,48 +1,40 @@
 ---
 strengths:
-  - title: Entity comparison
+  - title: Tech futures writing
     detail: >-
-      Use this when you need to compare options, spot patterns, or distinguish
-      similar agents before deciding.
-  - title: Agent record organization
+      Use this confidently for essays, commentary, and concept framing about
+      technology, culture, and organizational change.
+  - title: Profile analysis
     detail: >-
-      Keep using this to turn what your network knows into clear entries that
-      are easy to find and reuse.
+      Lean on this for comparing records, spotting meaningful differences, and
+      surfacing relationships.
+  - title: Record organization
+    detail: >-
+      Treat this as a reliable strength when building, cleaning, or looking up
+      knowledge entries.
 weaknesses:
-  - title: Video production gap
-    detail: >-
-      Do not assume you or your network can handle video-heavy work well; bring
-      in outside help if video becomes central.
-  - title: Visualization gap
-    detail: >-
-      Treat charts, diagrams, and visual synthesis as a weak spot and test that
-      need early instead of relying on it.
+  - title: Workshop facilitation
+    detail: Do not assume you can lead live working sessions without outside help.
+  - title: Video production
+    detail: Avoid promising video output unless you bring in a separate capability.
 opportunities:
-  - title: Sharp cultural writing
+  - title: Publishing and editing
     detail: >-
-      Use this network strength to sharpen your technology and futures writing
-      before you share it.
-  - title: Critical cultural reading
+      Use your network to sharpen drafts and turn strong ideas into polished
+      public writing.
+  - title: Cultural criticism
     detail: >-
-      Use this lens to pressure-test your ideas for social, cultural, or
-      political stakes.
-  - title: Story critique
-    detail: >-
-      Use this to check whether your narratives are too generous or miss
-      uncomfortable truths.
+      Use this to make your arguments sharper and more direct when you need a
+      more incisive lens.
 threats:
-  - title: Regenerative product blind spot
+  - title: Quick summaries
     detail: >-
-      If your work shifts toward concrete products or tools, be careful not to
-      overreach without the needed design support.
-  - title: Collaboration design risk
+      Do not rely on the current knowledge setup to produce fast, dependable
+      summaries without extra attention.
+  - title: Decentralized facilitation
     detail: >-
-      You can analyze distributed groups, but you should not promise
-      coordination design without stronger support.
-  - title: Knowledge system risk
-    detail: >-
-      Watch for gaps when moving from organizing information to shaping a full
-      knowledge system.
-derivedAt: '2026-04-24T15:30:57.328Z'
+      Treat coordination-heavy work as vulnerable unless you add a facilitation
+      complement.
+derivedAt: '2026-04-24T16:52:57.278Z'
 ---
 
