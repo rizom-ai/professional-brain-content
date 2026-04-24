@@ -11,7 +11,7 @@ coverImageId: ecosystem-architecture-organizations-as-living-systems-cover-v2
 
 ---
 
-## AI is a stress test for the organization.
+## AI is a stress test for the organization
 
 Not just a new tool.
 A new environment.
@@ -30,7 +30,7 @@ When intelligence gets cheap, hidden frictions get expensive.
 
 ---
 
-## Most companies still operate like machines.
+## Most companies still operate like machines
 
 Built for control.
 Built for predictability.
@@ -51,7 +51,7 @@ Bad at adaptation.
 
 ---
 
-## AI exposes design debt.
+## AI exposes design debt
 
 Not technical debt.
 Organizational debt.
@@ -69,7 +69,7 @@ The debt you only notice when speed enters the system.
 
 ---
 
-## One invisible expert is not a system.
+## One invisible expert is not a system
 
 It is a single point of failure with good PR.
 
@@ -85,7 +85,7 @@ It is a single point of failure with good PR.
 
 ---
 
-## An organization is a living knowledge system.
+## An organization is a living knowledge system
 
 If knowledge does not move,
 the organization does not think.
@@ -105,7 +105,7 @@ it does not adapt.
 
 ---
 
-## In the age of AI, value shifts.
+## In the age of AI, value shifts
 
 Some roles will shrink.
 Some will split.
@@ -125,7 +125,7 @@ Judgment, context, synthesis, and collaboration gain it.
 
 ---
 
-## The companies that thrive will be the most alive.
+## The companies that thrive will be the most alive
 
 Not the most optimized.
 Not the most automated.
