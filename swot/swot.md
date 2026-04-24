@@ -1,40 +1,42 @@
 ---
 strengths:
-  - title: Tech futures writing
+  - title: Analysis
+    detail: 'Use this confidently when comparing systems, entities, and tradeoffs.'
+  - title: Knowledge structure
     detail: >-
-      Use this confidently for essays, commentary, and concept framing about
-      technology, culture, and organizational change.
-  - title: Profile analysis
+      Lean on this to organize information so you and your network can reuse it
+      easily.
+  - title: Critique writing
     detail: >-
-      Lean on this for comparing records, spotting meaningful differences, and
-      surfacing relationships.
-  - title: Record organization
-    detail: >-
-      Treat this as a reliable strength when building, cleaning, or looking up
-      knowledge entries.
+      Use your network’s sharp writing to pressure-test and publish your
+      thinking.
 weaknesses:
   - title: Workshop facilitation
-    detail: Do not assume you can lead live working sessions without outside help.
+    detail: >-
+      Do not assume you can lead participatory sessions well without bringing in
+      outside help.
   - title: Video production
-    detail: Avoid promising video output unless you bring in a separate capability.
-opportunities:
-  - title: Publishing and editing
     detail: >-
-      Use your network to sharpen drafts and turn strong ideas into polished
-      public writing.
-  - title: Cultural criticism
-    detail: >-
-      Use this to make your arguments sharper and more direct when you need a
-      more incisive lens.
-threats:
-  - title: Quick summaries
-    detail: >-
-      Do not rely on the current knowledge setup to produce fast, dependable
-      summaries without extra attention.
-  - title: Decentralized facilitation
-    detail: >-
-      Treat coordination-heavy work as vulnerable unless you add a facilitation
+      Treat video as a weak area unless you add a separate production
       complement.
-derivedAt: '2026-04-24T16:52:57.278Z'
+opportunities:
+  - title: Cultural lens
+    detail: >-
+      Use this network strength to test how your critique holds up beyond
+      technology contexts.
+  - title: Positioning
+    detail: >-
+      Use this to make your ideas easier for other people to understand and
+      remember.
+threats:
+  - title: One-voice risk
+    detail: >-
+      Do not rely on a single writing style if the work needs broader reach or a
+      different delivery mode.
+  - title: Production gap
+    detail: >-
+      Expect delays if the next step depends on visuals, slides, or media
+      packaging.
+derivedAt: '2026-04-24T16:56:38.436Z'
 ---
 
