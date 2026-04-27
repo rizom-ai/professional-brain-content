@@ -2,6 +2,7 @@
 title: Organizations as Living Systems
 platform: linkedin
 status: draft
+coverImageId: ecosystem-architecture-organizations-as-living-systems-cover-v2
 ---
 AI is not just changing work.
 It is exposing the parts of organizations that were already fragile.
