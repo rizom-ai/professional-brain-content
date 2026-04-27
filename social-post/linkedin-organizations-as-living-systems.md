@@ -4,31 +4,31 @@ platform: linkedin
 status: draft
 ---
 AI is not just changing work.
-It is exposing the parts of your organization that were already fragile.
+It is exposing the parts of organizations that were already fragile.
 
 When intelligence gets cheaper, hidden friction gets expensive.
-And a lot of companies are discovering that what looked “stable” was often just improvised enough to keep going.
 
-That’s the argument behind my new presentation, Organizations as Living Systems.
+A lot of what looked stable was never really designed.
+It was improvised.
+Held together by habit, memory, and experienced people compensating in real time.
 
-I’m less interested in machines that optimize tasks,
-and more interested in organizations that can learn, adapt, and coordinate under pressure.
+That is the argument behind my new presentation: Organizations as Living Systems.
+
+I am less interested in AI as a productivity layer than in what it reveals about organizational design.
 
 Because heroics are not infrastructure.
-And repetition is losing value faster than most management models are ready for.
+And one person carrying the system in their head is not resilience.
 
-What matters more now?
-Judgment.
-Context.
-Creativity.
-Synthesis.
-Collaboration.
+Some roles will shrink, split, or disappear. That is real.
 
-In other words: the things living systems do well.
+But what grows in value is judgment, context, creativity, synthesis, and the ability to collaborate across humans and AI.
 
-If that framing is useful, I’ve published the deck here:
+The organizations that thrive will not be the most optimized.
+They will be the most alive.
+
+Deck here:
 https://yeehaa.io/presentations/ecosystem-architecture-organizations-as-living-systems
 
-I’d be curious: where do you see the biggest mismatch between how organizations are built and how they actually need to work now?
+Where do you see the biggest mismatch between how organizations are built and how they now need to work?
 
 #FutureOfWork #OrganizationalDesign #AI #KnowledgeSystems #Leadership
