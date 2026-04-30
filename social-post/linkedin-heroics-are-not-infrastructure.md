@@ -2,30 +2,21 @@
 title: Heroics Are Not Infrastructure
 platform: linkedin
 status: draft
+coverImageId: heroics-are-not-infrastructure-cover-image
 ---
-If your organization runs because one person remembers how everything works,
-that is not resilience.
-It’s fragility with a charismatic face.
+If your organization runs because one person remembers how everything works, that is not resilience. It is fragility with a charismatic face.
 
-I see this pattern everywhere:
-a “system” that is really just one experienced person patching gaps, translating context, and holding institutional memory in their head.
+A lot of teams call this expertise. Sometimes it is. But often it is something else: one experienced person patching gaps, translating context, and carrying the real system in their head.
 
-As long as that person is available, it looks efficient.
-But the moment they’re unavailable, the whole thing starts to reveal itself.
+As long as they are around, everything looks efficient. Then they leave, burn out, or AI enters the workflow and can no longer rely on tacit knowledge and invisible human patchwork. That is when the truth becomes visible.
 
-AI makes this even more obvious.
-It can generate, summarize, and assist — but it cannot lean on tacit knowledge,
-informal workarounds,
-or the invisible human scaffolding that keeps brittle systems alive.
+Heroics are not infrastructure.
 
-That’s why heroics are not infrastructure.
-Infrastructure is what remains when the hero leaves.
-It is shared understanding, explicit process, and memory that lives outside any one individual.
+Infrastructure is what remains when the hero is gone: shared understanding, explicit process, and memory that lives outside any one individual.
 
 I wrote more about this in the context of organizations as living systems here:
 https://yeehaa.io/presentations/ecosystem-architecture-organizations-as-living-systems
 
-If your team lost its most experienced person tomorrow,
-what would actually keep working?
+If your most experienced person disappeared tomorrow, what would actually keep working?
 
-#EcosystemArchitecture #OrganizationalDesign #KnowledgeManagement #AI #SystemsThinking
+#OrganizationalDesign #KnowledgeSystems #AI #Leadership #FutureOfWork
