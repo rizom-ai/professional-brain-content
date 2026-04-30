@@ -1,8 +1,9 @@
 ---
 title: Heroics Are Not Infrastructure
 platform: linkedin
-status: draft
+status: published
 coverImageId: heroics-are-not-infrastructure-cover-image
+publishedAt: '2026-04-30T09:31:01.550Z'
 ---
 If your organization runs because one person remembers how everything works, that is not resilience. It is fragility with a charismatic face.
 
