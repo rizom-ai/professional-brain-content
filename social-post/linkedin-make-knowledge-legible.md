@@ -1,8 +1,9 @@
 ---
 title: Make Knowledge Legible
 platform: linkedin
-status: draft
+status: published
 coverImageId: make-knowledge-legible-cover-image
+publishedAt: '2026-05-06T06:13:38.805Z'
 ---
 If your value depends on being the only person who knows something, AI makes you fragile.
 
