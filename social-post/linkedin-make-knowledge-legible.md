@@ -3,35 +3,25 @@ title: Make Knowledge Legible
 platform: linkedin
 status: draft
 ---
-The old rule was: be the person who knows the most.
+If your value depends on being the only person who knows something, AI makes you fragile.
 
-That rule is breaking.
+Not because AI knows more than you.
 
-In an age of AI, hidden expertise is no longer a moat.
-It’s a bottleneck.
+Because hidden knowledge is harder to defend when everything around you is getting faster, cheaper, and easier to access.
 
-The people who become more valuable are not the ones who keep knowledge trapped in their heads.
-They are the ones who make it easier to find, trust, and use.
+The people becoming more valuable now are not the ones who know the most in private. They are the ones who make knowledge easier to find, trust, and use.
 
-That means a shift in what we value:
-from recall to judgment,
-from hoarding to context,
-from individual brilliance to collaboration that others can actually build on.
+That means a shift:
+from recall to judgment,  
+from hoarding to context,  
+from individual expertise to collaboration others can actually build on.
 
-I keep coming back to this in my work on organizations as living systems.
-Systems don’t scale because one person knows everything.
-They scale because knowledge becomes legible across the whole organism.
+If one person has to explain everything, the system does not scale.  
+If knowledge becomes legible, it does.
 
-And that’s why heroics are not infrastructure.
-If your organization depends on a few people being indispensable, you don’t have resilience.
-You have fragility with better branding.
+This is part of what I am building toward with Rizom:  
+https://rizom.work
 
-I wrote more about this line of thinking here:
-https://yeehaa.io/presentations/ecosystem-architecture-organizations-as-living-systems
+How are you making your knowledge more legible in your work?
 
-The real advantage now is not secrecy.
-It’s clarity.
-
-How are you making knowledge more legible in your work?
-
-#KnowledgeManagement #AI #OrganizationalDesign #EcosystemArchitecture
+#KnowledgeManagement #AI #OrganizationalDesign #FutureOfWork #Rizom
