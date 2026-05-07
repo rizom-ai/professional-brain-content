@@ -21,5 +21,8 @@ fields:
   - id: cta
     name: cta
     type: Input
+  - id: sections
+    name: sections
+    type: Input
 filesPaths: site-info
 ---
