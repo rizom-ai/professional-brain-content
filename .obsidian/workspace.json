@@ -200,6 +200,11 @@
   },
   "active": "f71e2d1806541656",
   "lastOpenFiles": [
+    "_obsidian/bases/Ecosystem Sections.base",
+    "_obsidian/templates/ecosystem-section.md",
+    "_obsidian/fileClasses/ecosystem-section.md",
+    "ecosystem-section/rizom-ecosystem.md",
+    "ecosystem-section",
     "topic/value-systems.md",
     "topic/value-driven-development.md",
     "topic/online-learning.md",
@@ -222,10 +227,6 @@
     "skill/write-systems-critique-and-futures-essays.md",
     "skill/write-on-technology-and-culture.md",
     "skill/write-about-technology-and-culture.md",
-    "skill/trust-and-governance-systems.md",
-    "skill/trust-and-governance-design.md",
-    "skill/trust-and-coordination-systems.md",
-    "skill/trust-and-agency-systems.md",
     "image/make-knowledge-legible-cover-image.png",
     "image/heroics-are-not-infrastructure-cover-image.png",
     "swot",
@@ -245,7 +246,6 @@
     "image/the-bottleneck-nobody-talks-about-image.png",
     "image/ai-agents-as-collaborators-not-tools-cover-image.png",
     "social-post/linkedin-ai-exposes-what-was-never-there.md~",
-    "_obsidian/bases/Notes.base",
     "Untitled.canvas"
   ]
 }
