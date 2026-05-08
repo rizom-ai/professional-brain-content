@@ -1,8 +1,9 @@
 ---
 title: Collaboration Is Still Mostly an Accident
 platform: linkedin
-status: draft
+status: published
 coverImageId: collaboration-is-still-mostly-an-accident-cover-image-v2
+publishedAt: '2026-05-08T06:21:41.047Z'
 ---
 In most organizations, collaboration is still mostly an accident.
 
