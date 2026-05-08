@@ -6,27 +6,13 @@ coverImageId: collaboration-is-still-mostly-an-accident-cover-image-v2
 ---
 In most organizations, collaboration is still mostly an accident.
 
-Not because people are incompetent.
-Because the organization is too opaque for good collaboration to happen reliably.
+Not because people are incompetent, but because the organization is too opaque for good collaboration to happen reliably.
 
-You can have good people, shared goals, even mutual respect — and still end up with a system where nobody can really see enough of each other to build well together.
+You can have good people, shared goals, and mutual respect — and still end up with a system where too much remains invisible: what someone brings, what they need, what they are working on, and where collaboration might actually exist. When those things stay hidden, value gets left on the table.
 
-What someone brings stays hidden.
-What they need stays hidden.
-What they are working on stays hidden.
-Where collaboration might exist stays hidden.
+Then we call the problem communication, culture, or execution. But often the deeper problem is simpler: collaboration still depends too much on luck.
 
-So value gets left on the table.
-
-Then we call the problem communication.
-Or culture.
-Or execution.
-
-Often it is none of those.
-
-Often the real problem is that collaboration still depends too much on luck.
-
-A collective does not become collaborative just because good people are present.
+A collective does not become collaborative just because good people are present. The bottleneck is often not talent. It is legibility.
 
 The question is not whether your organization has good people.
 The question is whether collaboration can find them.
