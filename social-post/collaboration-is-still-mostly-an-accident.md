@@ -2,7 +2,7 @@
 title: Collaboration Is Still Mostly an Accident
 platform: linkedin
 status: draft
-coverImageId: good-people-are-not-enough-cover
+coverImageId: collaboration-is-still-mostly-an-accident-cover-image-v2
 ---
 In most organizations, collaboration is still mostly an accident.
 
