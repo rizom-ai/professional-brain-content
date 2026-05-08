@@ -2,22 +2,26 @@
 name: Yeehaa
 kind: professional
 organization: ''
-description: Yeehaa (Jan Hein Hoogstad) is a writer, developer, and ecosystem architect exploring the intersection of technology, culture, and organizational design.
+description: >-
+  Yeehaa (Jan Hein Hoogstad) is a writer, developer, and ecosystem architect
+  exploring the intersection of technology, culture, and organizational design.
 avatar: ''
-website: https://yeehaa.io
+website: 'https://yeehaa.io'
 email: yeehaa@rizom.ai
 socialLinks:
   - platform: github
-    url: https://github.com/yeehaa123
+    url: 'https://github.com/yeehaa123'
     label: View my code on GitHub
   - platform: linkedin
-    url: https://www.linkedin.com/in/yeehaa
+    url: 'https://www.linkedin.com/in/yeehaa'
     label: Connect on LinkedIn
   - platform: website
-    url: https://rizom.ai
+    url: 'https://rizom.ai'
     label: Visit Rizom's website
 tagline: Building *what comes next*
-intro: New kinds of organizations need new kinds of tools. I explore the why and build the how.
+intro: >-
+  New kinds of organizations need new kinds of tools. I explore the why and
+  build the how.
 story: ''
 expertise:
   - Ecosystem Architecture
@@ -26,10 +30,14 @@ expertise:
   - Education Technology
   - Philosophy of Technology
   - Community Building
-currentFocus: 'Rizom: knowledge infrastructure for organizations that work like living systems. Looking for collaborators who want to build with me.'
-availability: Open to speaking engagements, consulting on ecosystem design and knowledge architecture, and collaborations on projects exploring the future of distributed organizations.
+currentFocus: >-
+  Rizom: knowledge infrastructure for organizations that work like living
+  systems. Looking for collaborators who want to build with me.
+availability: >-
+  Open to speaking engagements, consulting on ecosystem design and knowledge
+  architecture, and collaborations on projects exploring the future of
+  distributed organizations.
 ---
-
 I came to technology through philosophy. Though I had been coding since childhood, it took continental thought to understand what I actually wanted to build. After years with Heidegger, Bataille, Benjamin, Kittler, I realized the most interesting questions about knowledge, community, and meaning were no longer being asked in academia. They were being answered, for better or worse, by the people building our digital infrastructure.
 
 So I started building. First Offcourse, an open source learning platform that tried to reimagine education outside institutional walls. Then bootcamps and education technology, learning firsthand how hard it is to create spaces where people can actually grow. Each project taught me something about what makes communities thrive or collapse.
