@@ -12,7 +12,7 @@ You can have good people, shared goals, and mutual respect — and still end up 
 
 Then we call the problem communication, culture, or execution. But often the deeper problem is simpler: collaboration still depends too much on luck.
 
-A collective does not become collaborative just because good people are present. The bottleneck is often not talent. It is legibility.
+A collective does not become collaborative just because good people are present.
 
 The question is not whether your organization has good people.
 The question is whether collaboration can find them.
