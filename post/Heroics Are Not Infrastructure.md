@@ -21,11 +21,11 @@ We tend to admire such people, and often for good reason. They are usually exper
 
 In his sociology of authority, Max Weber distinguishes between traditional, legal-rational, and charismatic rule. Modern institutions, at least in theory, are supposed to rest on the second of these. Their legitimacy should not depend on the charm, force, or brilliance of particular individuals, but on shared rules, durable procedures, and impersonal forms of coordination. In other words, the institution should work because it is an institution.
 
-But that is not what happens when institutions start to decay. Then charisma sneaks back in through the backdoor. Not always in its spectacular form of the visionary leader or the demagogue, but in a much quieter and more familiar shape: the indispensable colleague, the veteran manager, the founder who still has to approve everything, the teacher who carries the entire school in her head, the civil servant who alone knows how to make the system move.
+But that is not what happens when institutions start to decay. Then charisma sneaks back in through the side entrance. Not always in the spectacular form of the visionary leader or the demagogue, but in a much quieter and more familiar shape: the indispensable colleague, the veteran manager, the founder who still has to approve everything, the teacher who carries the entire school in her head, the civil servant who alone knows how to make the system move.
 
 At that point, heroics become the last refuge of failing form.
 
-What we call dedication, leadership, or ownership is often something much less flattering. It is the institution outsourcing its unresolved contradictions to individual bodies and minds. Instead of carrying its own memory, it stores it in people. Instead of creating reliable coordination, it relies on those who know how to improvise. Instead of distributing judgment, it rewards those willing to permanently compensate for the absence of structure.
+What we call dedication, leadership, or ownership is often something much less flattering. It is the institution outsourcing its unresolved contradictions to individual bodies and minds. Instead of carrying its own memory, it stores it in people. Instead of creating reliable coordination, it relies on those who know how to improvise. Instead of distributing judgment, it rewards those willing to compensate for the absence of structure.
 
 This is why heroics are so easy to confuse with strength. As long as the right people remain in place, everything can look remarkably stable. Meetings continue. Newcomers are onboarded. Crises get absorbed before they become public. The institution seems alive and functional. But what actually keeps it alive is not the quality of the form itself. It is the quiet labor of those who continuously patch the distance between formal structure and lived reality.
 
@@ -37,11 +37,11 @@ When that layer begins to fail, the institution does not simply stop. First it b
 
 Legitimacy migrates from the structure to the person. Memory migrates from the archive to the veteran. Coordination migrates from the process to the fixer. The institution survives, but in increasingly prosthetic form. It needs more and more exceptional people to simulate the coherence it can no longer produce on its own.
 
-This phenomenon is so widespread that many of us have come to treat it as normal. We even celebrate it. Every organization seems to have its folklore about the one person who always saves the day. There is a strange comfort in these stories. They allow us to believe that what we are witnessing is resilience, when in reality we are often watching collapse delayed by performance.
+This phenomenon is so widespread that many of us have come to treat it as normal. We even celebrate it. Every organization has its folklore about the one person who always saves the day. There is a strange comfort in these stories. They allow us to believe that what we are witnessing is resilience, when in reality we are often watching collapse delayed by performance.
 
 And performance is precisely the right word here. Heroics do not eliminate structural weakness. They conceal it.
 
-As long as someone is willing to stay late, remember everything, smooth every conflict, and translate every ambiguity, the institution can postpone confronting its own inadequacy. The patch becomes the pattern. The pattern becomes the culture. And before long, indispensability itself is treated as a virtue.
+As long as someone is willing to stay late, remember everything, smooth every conflict, and translate every ambiguity, the institution can postpone confronting its own inadequacy. The patch becomes the pattern. The pattern becomes the culture. Before long, indispensability itself is treated as a virtue.
 
 But there is nothing virtuous about forcing people to function as living infrastructure.
 
