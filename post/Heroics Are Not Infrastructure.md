@@ -11,9 +11,9 @@ author: Yeehaa
 seriesName: New Institutions
 seriesIndex: 2
 ---
-Institutions rarely collapse all at once. Like bridges, myths, and empires, they usually decay more gradually. First the cracks appear, then the leaks, then the workarounds. The structure still stands, but only because increasing amounts of labor are spent keeping it upright. In the end, what looks like stability is often just maintenance under another name.
+There is a strange moment in the life of every institution when the form is still there, but its force is gone. The building stands, the procedures circulate, the titles remain in place, yet the thing itself has started to hollow out. Like a bridge that still carries traffic long after its foundations have begun to erode, the institution appears intact right until the moment it doesn't.
 
-Human institutions are no different. When they can no longer carry their own promises, memory, and coordination, they do not immediately disappear. They begin to lean on people.
+Human institutions rarely disappear the instant they stop functioning. More often, they become dependent on increasingly artificial means of survival. What they can no longer carry in structure, they start carrying in people. Memory moves from the archive to the veteran. Coordination moves from the process to the fixer. Legitimacy moves from the office to the person who somehow still knows how to make the whole thing work.
 
 This is the figure that appears in almost every failing institution: the person who keeps everything running. They know which process matters and which one is ceremonial. They remember why an exception was made three years ago and why it never went away. They translate between teams that no longer understand each other. They answer the questions no one thought to document. They absorb confusion before it becomes visible.
 
