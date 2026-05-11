@@ -3,118 +3,58 @@ title: Heroics Are Not Infrastructure
 slug: heroics-are-not-infrastructure
 status: draft
 excerpt: >-
-  Institutions often look resilient only because a few exceptional people are
-  quietly doing the work the system forgot to do. Heroics can keep things alive
-  for a while, but they are not infrastructure—and new institutions must be
-  built to survive without them.
+  Institutions often appear resilient only because a few exceptional people
+  quietly compensate for everything the system fails to hold. What we praise as
+  dedication or expertise is often a sign of structural weakness. New
+  institutions cannot be built on heroics.
 author: Yeehaa
 seriesName: New Institutions
 seriesIndex: 2
 ---
-> “The hero is the one who creates or resists the effect of the sacred.” — Roland Barthes
+There is a figure that appears in almost every failing institution: the person who keeps everything running.
 
-There is always one person who keeps everything running.
+They know which process matters and which one is ceremonial. They remember why an exception was made three years ago and why it never went away. They translate between teams that no longer understand each other. They answer questions no one thought to document. They carry the context that allows the rest of the organization to function.
 
-They know which Slack channel actually matters, which spreadsheet is haunted, which vendor can be ignored, which meeting is theater, which exception is permanent, and which process only exists because someone once got nervous in a steering committee.
+We usually admire this person, and often for good reason. They are experienced, generous, and highly capable. But what we too rarely ask is why their role became necessary in the first place.
 
-They answer the questions nobody documented.
-They patch the gaps nobody admitted were there.
-They remember the history everyone else has already optimized away.
+If an institution can only function because a few exceptional people are constantly patching gaps, carrying undocumented knowledge, and compensating in real time for weak coordination, then what we are looking at is not resilience. It is fragility with a respectable face.
 
-And then, when the institution appears to function, we call that resilience.
+We have become remarkably good at mistaking this fragility for strength. We call it leadership, dedication, ownership, expertise. Sometimes we even call it culture. But often these flattering words conceal a much less flattering reality: the institution does not know how to hold itself together, so it delegates that task to the nervous systems of a few dependable people.
 
-Sometimes we call it leadership.
-Sometimes we call it expertise.
-Sometimes we call it “having a great culture,” which is a very polite way of saying a few exhausted humans are compensating for structural weakness.
+This confusion matters, because heroics do not solve structural problems. They merely postpone our confrontation with them.
 
-This is one of the oldest tricks in organizational life: confuse heroic improvisation with robust design.
+In the previous essay of this series, I argued that institutions do not protect democracy. Functioning social contracts do. Formal structures only work when they rest on shared values, mutual commitments, and practices that people are actually willing to uphold. The same principle applies on a smaller scale inside organizations, schools, communities, and networks. A chart is not a relationship. A policy is not a practice. A workflow is not shared understanding.
 
-The institution survives not because it is well-formed, but because somebody is doing invisible labor at the boundary between order and collapse. They are translating context in real time. They are carrying memory in their head. They are making the machine seem less machine-like and more forgiving than it actually is.
+When the underlying relationships are weak, when trust is low, when knowledge is trapped, when responsibilities are ambiguous, institutions do not simply grind to a halt. First they begin to rely on people who can absorb the disorder. Someone remembers what others forgot. Someone notices what the process failed to catch. Someone keeps translating between formal structure and lived reality.
 
-That person becomes the patch.
-The patch becomes the pattern.
-The pattern becomes the story.
+That is why so many institutions appear healthier than they are. Their weaknesses are being masked by human improvisation.
 
-And now the story is that the organization works.
+As long as the right people stay in place, everything can look surprisingly functional. The meetings continue. The handoffs somehow work. Newcomers are onboarded. Crises get absorbed before they become visible. It is only when one of these people leaves, burns out, or is no longer available that the truth becomes impossible to ignore. What appeared to be stable turns out to have been heavily subsidized by invisible labor.
 
-It doesn’t. Not really.
-It is being held together by charisma, endurance, and a nervous system that should have been budgeted for as infrastructure.
+This pattern is widespread. I have seen it in education, in technology, in community projects, in organizations that pride themselves on being horizontal, and in those that openly embrace hierarchy. The forms differ, but the underlying logic is the same. Instead of building durable ways to share memory, clarify dependencies, and distribute judgment, institutions allow complexity to accumulate in a few people until those people become indispensable.
 
-I keep coming back to this because the weakness is easy to miss when you are inside it. In a healthy system, support is distributed. Knowledge is shared. Dependencies are visible. A newcomer can orient themselves without needing a private séance with the office oracle.
+And then indispensability itself becomes a virtue.
 
-In a brittle system, everything depends on exceptions.
-The exception becomes normal.
-The normal becomes mythology.
+There is something deeply seductive about this arrangement. Institutions get to appear more coherent than they really are, while the heroic individual receives recognition for being the one who can still make things work. But this recognition comes at a cost. The institution learns nothing. The conditions that produced the overload remain intact. The person carrying the burden becomes the workaround.
 
-We love to celebrate the people who can operate under those conditions. Fair enough. They are often brilliant. They are often generous. They are often the reason an organization does not embarrass itself publicly.
-But heroics are a symptom, not a solution.
+At that point, we are no longer dealing with expertise in the ordinary sense. We are dealing with infrastructure that should have existed outside the individual, but never did.
 
-If your institution requires a small pantheon of indispensable people to function, what you have built is not resilience. It is a fragile social performance with decent branding.
+The current moment is exposing this weakness with unusual clarity. AI is not merely automating tasks. It is revealing how much organizational life has depended on tacit knowledge, hidden translation work, and informal human patchwork. Distributed work is doing something similar. Once people no longer share the same room, a great deal of invisible coordination suddenly stops working. What used to be absorbed through proximity now has to be made explicit.
 
-This is where the broader argument of the New Institutions series gets more serious. Institutions do not work because formal structure magically endows them with authority. They work when relationships, values, and practices underneath the structure are strong enough to carry real life.
+This is why so many organizations feel more brittle now than they did a few years ago. The brittleness was already there. It was simply harder to see. Hallway conversations, institutional veterans, and habitual improvisation covered for failures of design that can no longer remain concealed so easily.
 
-A chart is not a contract.
-A policy is not a practice.
-A workflow is not shared understanding.
+That is also why I keep insisting that collaboration is still mostly an accident. In many places, it does not emerge from a structure that was intentionally designed to make people legible to one another. It depends on chance encounters, inherited habits, and a few people who know how to navigate the fog. Once those conditions disappear, collaboration does not deepen. It collapses into confusion.
 
-We keep making this mistake because formalism is comforting. It lets us pretend that if the org chart is clean enough, reality will obey. But reality is annoyingly social. It is made of tacit knowledge, trust, memory, and a thousand tiny negotiations no template will ever capture.
+At that point, the institution reaches for another hero.
 
-When those things are absent, the gaps do not remain empty. People fill them.
+But new institutions cannot be built this way. If we are serious about creating organizations that are more adaptive, more distributed, and more alive than the industrial systems we inherited, we have to stop treating heroic compensation as proof that the system works. It proves almost the opposite. It shows that there are still too many things the institution cannot yet hold collectively.
 
-This is why so many institutions look healthier than they are. The work is being subsidized by the socially gifted, the obsessive, the patient, the chronically online, the ones who remember what happened in 2021, the ones who can read between the lines of a half-written Notion page and a vague DM that says “thoughts?”
+This does not mean that expertise is bad, or that experienced people should matter less. Quite the opposite. Healthy institutions should create more room for judgment, craft, and responsibility. But they should not force people to spend that energy on remembering what ought to have been shared, explaining what ought to have been clear, or repairing what ought to have been designed differently.
 
-I have seen this in education. I have seen it in community projects. I have seen it in product teams. I have seen it in open source and in organizations that proudly claim to be “flat,” which usually means the hierarchy has merely become informal enough to deny.
+A functioning institution should not require martyrdom to appear coherent.
 
-The same person ends up carrying the map, the compass, and the entire weather system.
+The task, then, is not to find better heroes. It is to build structures that need fewer of them. Structures where memory does not disappear when someone leaves. Where responsibilities do not depend on private interpretation. Where knowledge can move. Where collaboration does not rely on luck. Where the institution becomes more capable, not because one person is carrying the whole thing, but because more of what matters is actually held in common.
 
-And because they make it look easy, everyone around them gets to believe the institution has magic.
+That common layer is what I will turn to next.
 
-It doesn’t. It has a mule.
-
-The current moment is making this much harder to hide. AI exposes undocumented knowledge by making absence visible. Distributed work exposes coordination debt by removing the hallway where people used to absorb context by osmosis. When the room disappears, the invisible scaffolding becomes obvious.
-
-What was once “how we do things here” becomes a series of brittle improvisations:
-- private conventions no one can explain,
-- institutional memory locked in one person’s inbox,
-- process that only works if two veterans are awake,
-- collaboration that depends on coincidence more than design.
-
-As I wrote recently, collaboration is still mostly an accident.
-That is not an insult. It is a diagnosis.
-
-Accidental collaboration works until it doesn’t. Then everyone reaches for a hero.
-
-The hero shows up, stays late, smooths the mess, and makes the system look healthier than it is. That is the trap. Heroics postpone the confrontation with structure. They let weak institutions borrow time from the people most likely to burn out.
-
-And burnout, let’s be honest, is often just unpaid systems engineering.
-
-If we are serious about new institutions, we have to stop treating exceptional people as proof of concept.
-We have to stop designing around martyrdom.
-We have to stop rewarding the person who remembers everything and start asking why the organization forgot to remember at all.
-
-This is where my interest in organizations as living systems comes in. Living systems do not depend on one heroic neuron doing all the thinking. They distribute function. They metabolize knowledge. They adapt because the relationships between parts are active, not merely declared.
-
-A healthy organism does not congratulate the kidney for covering for the liver.
-It coordinates.
-It learns.
-It maintains.
-
-New institutions should do the same.
-
-Not by becoming more bureaucratic, please God no.
-Not by creating a ceremonial layer of process that nobody respects.
-But by making the real work visible enough that it can be shared, questioned, improved, and held by more than one person at a time.
-
-That is the quiet challenge underneath all of this.
-Not how to find better heroes.
-How to need fewer of them.
-
-Because if the institution cannot function when the exceptional person leaves, rests, disappears, or simply gets tired, then it was never an institution in any meaningful sense. It was a dependency network with a mission statement.
-
-The next question, then, is not just who knows everything.
-It is how that knowledge becomes common enough to live outside the skull of the chosen few.
-
-But that is a story for the next essay.
-For now, I will keep the principle simple:
-
-new institutions must not depend on heroes to function.
+For now, the principle is simple: heroics are not infrastructure. New institutions must not depend on heroes to function.
