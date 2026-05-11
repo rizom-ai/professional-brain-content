@@ -29,9 +29,7 @@ What we call dedication, leadership, or ownership is often something much less f
 
 This is why heroics are so easy to confuse with strength. As long as the right people remain in place, everything can look stable. Meetings continue. Crises get absorbed. Newcomers are somehow onboarded. The institution seems alive and functional. But what actually keeps it alive is not the quality of the form itself. It is the quiet labor of those who continuously patch the distance between formal structure and lived reality.
 
-In the previous essay of this series, I argued that institutions do not protect democracy. Functioning social contracts do. Constitutions, laws, and public bodies work only when they are underwritten by shared values, mutual commitments, and practices that people are actually willing to uphold. Once that underlying contract weakens, the form starts to hollow out.
-
-The same is true on a smaller scale. A chart is not a relationship. A policy is not a practice. A workflow is not shared understanding. Institutions of all kinds — states, schools, companies, associations, media organizations — only function when their formal structure is continuously supported by a deeper layer of trust, memory, and coordination.
+A chart is not a relationship. A policy is not a practice. A workflow is not shared understanding. Institutions of all kinds — states, schools, companies, associations, media organizations — only function when their formal structure is continuously supported by a deeper layer of trust, memory, and coordination.
 
 When that layer begins to fail, the institution does not simply stop. First it becomes personal. Legitimacy migrates from the structure to the person. Memory migrates from the archive to the veteran. Coordination migrates from the process to the fixer. The institution survives, but in increasingly prosthetic form. It needs more and more exceptional people to simulate the coherence it can no longer produce on its own.
 
