@@ -2,7 +2,8 @@ filters:
   and:
     - file.inFolder("agent")
 views:
-  - name: All Agents
+  - type: table
+    name: All Agents
     order:
       - file.name
       - name
@@ -14,11 +15,11 @@ views:
       - status
       - discoveredAt
       - discoveredVia
-    type: table
-  - groupBy:
-      direction: ASC
-      property: status
+  - type: table
     name: By Status
+    groupBy:
+      property: status
+      direction: ASC
     order:
       - file.name
       - name
@@ -30,4 +31,3 @@ views:
       - status
       - discoveredAt
       - discoveredVia
-    type: table

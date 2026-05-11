@@ -1,13 +1,10 @@
 ---
 title: Good People Are Not Enough
 slug: good-people-are-not-enough
-description: >-
-  A philosophical and practical reframing of Rizom: moving from a group of
-  talented individuals to a truly collaborative collective, by making our
-  capacities and needs legible—because good people alone are not enough.
-author: Jan Hein "Yeehaa" Hoogstad
+description: "A philosophical and practical reframing of Rizom: moving from a group of talented individuals to a truly collaborative collective, by making our capacities and needs legible—because good people alone are not enough."
+author: Yeehaa
 status: published
-publishedAt: '2026-04-08T08:42:00.000Z'
+publishedAt: 2026-04-08T08:42:00.000Z
 coverImageId: good-people-are-not-enough-cover
 ---
 # Good People Are Not Enough
