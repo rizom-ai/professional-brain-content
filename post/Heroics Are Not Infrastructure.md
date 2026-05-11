@@ -3,58 +3,64 @@ title: Heroics Are Not Infrastructure
 slug: heroics-are-not-infrastructure
 status: draft
 excerpt: >-
-  Institutions often appear resilient only because a few exceptional people
-  quietly compensate for everything the system fails to hold. What we praise as
-  dedication or expertise is often a sign of structural weakness. New
-  institutions cannot be built on heroics.
+  When institutions can no longer carry their own memory, judgment, and
+  coordination, they begin to lean on exceptional people. What appears as
+  leadership or dedication is often a sign that form itself has started to
+  decay. Heroics are not infrastructure.
 author: Yeehaa
 seriesName: New Institutions
 seriesIndex: 2
 ---
-There is a figure that appears in almost every failing institution: the person who keeps everything running.
+Institutions rarely collapse all at once. Like bridges, myths, and empires, they usually decay more gradually. First the cracks appear, then the leaks, then the workarounds. The structure still stands, but only because more and more effort is spent keeping it upright. In the end, what looks like stability is often just maintenance under another name.
 
-They know which process matters and which one is ceremonial. They remember why an exception was made three years ago and why it never went away. They translate between teams that no longer understand each other. They answer questions no one thought to document. They carry the context that allows the rest of the organization to function.
+Human institutions are no different. When they can no longer carry their own promises, memory, and coordination, they do not immediately disappear. They begin to lean on people.
 
-We usually admire this person, and often for good reason. They are experienced, generous, and highly capable. But what we too rarely ask is why their role became necessary in the first place.
+This is the figure that appears in almost every failing institution: the person who keeps everything running. They know which process matters and which one is ceremonial. They remember why an exception was made three years ago and why it never went away. They translate between teams that no longer understand each other. They answer questions no one thought to document. They absorb confusion before it becomes visible.
 
-If an institution can only function because a few exceptional people are constantly patching gaps, carrying undocumented knowledge, and compensating in real time for weak coordination, then what we are looking at is not resilience. It is fragility with a respectable face.
+We tend to admire such people, and often for good reason. They are usually experienced, generous, and highly capable. But there is also something deeply misleading about their presence. The more indispensable a person becomes, the more likely it is that the institution around them has ceased to function institutionally.
 
-We have become remarkably good at mistaking this fragility for strength. We call it leadership, dedication, ownership, expertise. Sometimes we even call it culture. But often these flattering words conceal a much less flattering reality: the institution does not know how to hold itself together, so it delegates that task to the nervous systems of a few dependable people.
+In his sociology of authority, Max Weber distinguishes between traditional, legal-rational, and charismatic rule. Modern institutions, at least in theory, are supposed to rest on the second of these. Their legitimacy should not depend on the charm, force, or brilliance of particular individuals, but on shared rules, durable procedures, and impersonal forms of coordination. In other words, the institution should work because it is an institution.
 
-This confusion matters, because heroics do not solve structural problems. They merely postpone our confrontation with them.
+But that is not what happens when institutions start to decay. Then charisma sneaks back in through the backdoor. Not always in its spectacular form of the visionary leader or the demagogue, but in a much quieter and more familiar shape: the indispensable colleague, the veteran manager, the founder who still has to approve everything, the teacher who carries the entire school in her head, the civil servant who alone knows how to make the system move.
 
-In the previous essay of this series, I argued that institutions do not protect democracy. Functioning social contracts do. Formal structures only work when they rest on shared values, mutual commitments, and practices that people are actually willing to uphold. The same principle applies on a smaller scale inside organizations, schools, communities, and networks. A chart is not a relationship. A policy is not a practice. A workflow is not shared understanding.
+At that point, heroics become the last refuge of failing form.
 
-When the underlying relationships are weak, when trust is low, when knowledge is trapped, when responsibilities are ambiguous, institutions do not simply grind to a halt. First they begin to rely on people who can absorb the disorder. Someone remembers what others forgot. Someone notices what the process failed to catch. Someone keeps translating between formal structure and lived reality.
+What we call dedication, leadership, or ownership is often something much less flattering. It is the institution outsourcing its unresolved contradictions to individual bodies and minds. Instead of carrying its own memory, it stores it in people. Instead of creating reliable coordination, it relies on those who know how to improvise. Instead of distributing judgment, it rewards those willing to permanently compensate for the absence of structure.
 
-That is why so many institutions appear healthier than they are. Their weaknesses are being masked by human improvisation.
+This is why heroics are so easy to confuse with strength. As long as the right people remain in place, everything can look remarkably stable. Meetings continue. Newcomers are onboarded. Crises get absorbed before they become public. The institution seems alive and functional. But what actually keeps it alive is not the quality of the form itself. It is the quiet labor of those who continuously patch the distance between formal structure and lived reality.
 
-As long as the right people stay in place, everything can look surprisingly functional. The meetings continue. The handoffs somehow work. Newcomers are onboarded. Crises get absorbed before they become visible. It is only when one of these people leaves, burns out, or is no longer available that the truth becomes impossible to ignore. What appeared to be stable turns out to have been heavily subsidized by invisible labor.
+In the previous essay of this series, I argued that institutions do not protect democracy. Functioning social contracts do. Constitutions, laws, and public bodies work only when they are underwritten by shared values, mutual commitments, and practices that people are actually willing to uphold. Once that underlying contract weakens, the form starts to hollow out.
 
-This pattern is widespread. I have seen it in education, in technology, in community projects, in organizations that pride themselves on being horizontal, and in those that openly embrace hierarchy. The forms differ, but the underlying logic is the same. Instead of building durable ways to share memory, clarify dependencies, and distribute judgment, institutions allow complexity to accumulate in a few people until those people become indispensable.
+The same is true on a smaller scale. A chart is not a relationship. A policy is not a practice. A workflow is not shared understanding. Institutions of all kinds — states, schools, companies, associations, media organizations — only function when their formal structure is continuously supported by a deeper layer of trust, memory, and coordination.
 
-And then indispensability itself becomes a virtue.
+When that layer begins to fail, the institution does not simply stop. First it becomes personal.
 
-There is something deeply seductive about this arrangement. Institutions get to appear more coherent than they really are, while the heroic individual receives recognition for being the one who can still make things work. But this recognition comes at a cost. The institution learns nothing. The conditions that produced the overload remain intact. The person carrying the burden becomes the workaround.
+Legitimacy migrates from the structure to the person. Memory migrates from the archive to the veteran. Coordination migrates from the process to the fixer. The institution survives, but in increasingly prosthetic form. It needs more and more exceptional people to simulate the coherence it can no longer produce on its own.
 
-At that point, we are no longer dealing with expertise in the ordinary sense. We are dealing with infrastructure that should have existed outside the individual, but never did.
+This phenomenon is so widespread that many of us have come to treat it as normal. We even celebrate it. Every organization seems to have its folklore about the one person who always saves the day. There is a strange comfort in these stories. They allow us to believe that what we are witnessing is resilience, when in reality we are often watching collapse delayed by performance.
 
-The current moment is exposing this weakness with unusual clarity. AI is not merely automating tasks. It is revealing how much organizational life has depended on tacit knowledge, hidden translation work, and informal human patchwork. Distributed work is doing something similar. Once people no longer share the same room, a great deal of invisible coordination suddenly stops working. What used to be absorbed through proximity now has to be made explicit.
+And performance is precisely the right word here. Heroics do not eliminate structural weakness. They conceal it.
 
-This is why so many organizations feel more brittle now than they did a few years ago. The brittleness was already there. It was simply harder to see. Hallway conversations, institutional veterans, and habitual improvisation covered for failures of design that can no longer remain concealed so easily.
+As long as someone is willing to stay late, remember everything, smooth every conflict, and translate every ambiguity, the institution can postpone confronting its own inadequacy. The patch becomes the pattern. The pattern becomes the culture. And before long, indispensability itself is treated as a virtue.
 
-That is also why I keep insisting that collaboration is still mostly an accident. In many places, it does not emerge from a structure that was intentionally designed to make people legible to one another. It depends on chance encounters, inherited habits, and a few people who know how to navigate the fog. Once those conditions disappear, collaboration does not deepen. It collapses into confusion.
+But there is nothing virtuous about forcing people to function as living infrastructure.
 
-At that point, the institution reaches for another hero.
+Expertise is not the problem. Institutions need judgment, craft, and experience. The problem begins when these qualities are no longer used to move the institution forward, but to keep it from falling apart. Then the most capable people stop acting as contributors and start acting as prostheses.
 
-But new institutions cannot be built this way. If we are serious about creating organizations that are more adaptive, more distributed, and more alive than the industrial systems we inherited, we have to stop treating heroic compensation as proof that the system works. It proves almost the opposite. It shows that there are still too many things the institution cannot yet hold collectively.
+This is also why the current moment feels so revealing. AI is not merely automating tasks. It is exposing how much organizational life has depended on tacit knowledge, hidden translation work, and informal human patchwork. Distributed work is doing something similar. Once people no longer share the same room, the invisible scaffolding suddenly becomes visible. What used to be absorbed through proximity now has to be made explicit.
 
-This does not mean that expertise is bad, or that experienced people should matter less. Quite the opposite. Healthy institutions should create more room for judgment, craft, and responsibility. But they should not force people to spend that energy on remembering what ought to have been shared, explaining what ought to have been clear, or repairing what ought to have been designed differently.
+Industrial institutions were remarkably good at hiding fragility inside co-presence. Hallway conversations, habitual handoffs, and long-tenured insiders made weak forms appear stronger than they were. In asynchronous and distributed settings, that illusion becomes much harder to maintain. The things that were once "just known" turn out not to be known at all. The things that seemed coordinated turn out to have depended on one or two people informally carrying the whole arrangement.
 
-A functioning institution should not require martyrdom to appear coherent.
+It is no coincidence that so many organizations now feel brittle. The brittleness is not new. It has simply become easier to see.
 
-The task, then, is not to find better heroes. It is to build structures that need fewer of them. Structures where memory does not disappear when someone leaves. Where responsibilities do not depend on private interpretation. Where knowledge can move. Where collaboration does not rely on luck. Where the institution becomes more capable, not because one person is carrying the whole thing, but because more of what matters is actually held in common.
+This should not be read as an argument against complexity, nor as a plea for sterile bureaucracy. The answer to weak form is not more dead form. New institutions will not emerge from multiplying checklists, approvals, and ceremonial process. They will emerge from designing structures that are actually capable of carrying what matters: memory, responsibility, trust, and judgment.
 
-That common layer is what I will turn to next.
+In a healthy institution, no one should have to be heroic in order for ordinary life to continue. The point is not to eliminate exceptional people, but to stop wasting their exceptionality on compensating for structural failure. Their energy should go toward imagination, experimentation, and care — not toward remembering what should have been shared, fixing what should have been designed differently, or translating what should already have been clear.
 
-For now, the principle is simple: heroics are not infrastructure. New institutions must not depend on heroes to function.
+If the modern institution once promised to replace personal dependency with durable form, then any serious attempt to build new institutions must recover that ambition in a new key. Not through rigidity, and not through false universality, but through forms of coordination that do not collapse the moment one person disappears.
+
+This raises the next obvious question: what would it take to build institutions that can actually carry themselves? How do we create structures where memory can move, where dependencies can be seen, and where collaboration does not rely on private interpretation and luck?
+
+That is where I will turn next.
+
+For now, the principle is simple: heroics are not infrastructure. The indispensable person is not proof that an institution works. More often than not, they are proof that it no longer does.
