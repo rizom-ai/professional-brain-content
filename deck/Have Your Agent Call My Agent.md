@@ -1,10 +1,14 @@
 ---
 title: Have Your Agent Call My Agent
 slug: have-your-agent-call-my-agent
-description: A philosophical exploration of how AI agents are evolving from tools into genuine participants in human work, and why the future of collaboration depends on designing systems where agents and humans work as equals in shared ecosystems of knowledge and trust.
+description: >-
+  A philosophical exploration of how AI agents are evolving from tools into
+  genuine participants in human work, and why the future of collaboration
+  depends on designing systems where agents and humans work as equals in shared
+  ecosystems of knowledge and trust.
 author: Yeehaa
 status: published
-event: Hub Hoi An, March 16, 2026, 8pm
+event: 'Hub Hoi An, March 16, 2026, 8pm'
 coverImageId: have-your-agent-call-my-agent-cover-image
 ---
 # Have Your Agent Call My Agent
