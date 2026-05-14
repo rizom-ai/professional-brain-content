@@ -8,6 +8,7 @@ description: >-
   ecosystems of knowledge and trust.
 author: Yeehaa
 status: published
+publishedAt: '2026-03-16T20:00:00.000Z'
 event: 'Hub Hoi An, March 16, 2026, 8pm'
 coverImageId: have-your-agent-call-my-agent-cover-image
 ---

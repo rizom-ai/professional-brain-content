@@ -6,6 +6,7 @@ description: >-
   behaving like machines and start evolving as living systems.
 author: Yeehaa
 status: published
+publishedAt: '2026-04-27T06:21:39.680Z'
 coverImageId: ecosystem-architecture-organizations-as-living-systems-cover-v2
 ---
 # Organizations as Living Systems
