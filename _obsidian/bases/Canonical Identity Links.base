@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.inFolder("canonical-identity-link")
+views:
+  - name: All Canonical Identity Links
+    order:
+      - file.name
+      - canonicalId
+      - displayName
+      - actors
+    type: table

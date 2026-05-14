@@ -1,8 +1,9 @@
 ---
 title: Collaboration Is Still Mostly an Accident
 platform: linkedin
-status: draft
+status: published
 coverImageId: collaboration-is-still-mostly-an-accident-cover-image-v2
+publishedAt: '2026-05-08T06:21:41.047Z'
 ---
 In most organizations, collaboration is still mostly an accident.
 
@@ -12,7 +13,7 @@ You can have good people, shared goals, and mutual respect — and still end up 
 
 Then we call the problem communication, culture, or execution. But often the deeper problem is simpler: collaboration still depends too much on luck.
 
-A collective does not become collaborative just because good people are present. The bottleneck is often not talent. It is legibility.
+A collective does not become collaborative just because good people are present.
 
 The question is not whether your organization has good people.
 The question is whether collaboration can find them.

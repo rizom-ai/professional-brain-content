@@ -6,7 +6,7 @@ description: >-
   genuine participants in human work, and why the future of collaboration
   depends on designing systems where agents and humans work as equals in shared
   ecosystems of knowledge and trust.
-author: Jan Hein "Yeehaa" Hoogstad
+author: Yeehaa
 status: published
 event: 'Hub Hoi An, March 16, 2026, 8pm'
 coverImageId: have-your-agent-call-my-agent-cover-image

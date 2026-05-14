@@ -5,7 +5,7 @@ description: >-
   A philosophical and practical reframing of Rizom: moving from a group of
   talented individuals to a truly collaborative collective, by making our
   capacities and needs legible—because good people alone are not enough.
-author: Jan Hein "Yeehaa" Hoogstad
+author: Yeehaa
 status: published
 publishedAt: '2026-04-08T08:42:00.000Z'
 coverImageId: good-people-are-not-enough-cover
