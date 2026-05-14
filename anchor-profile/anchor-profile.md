@@ -4,7 +4,7 @@ name: Yeehaa
 description: >-
   Yeehaa (Jan Hein Hoogstad) is a writer, developer, and ecosystem architect
   exploring the intersection of technology, culture, and organizational design.
-tagline: Building what comes next
+tagline: Building *what comes next*
 intro: >-
   New kinds of organizations need new kinds of tools. I explore the why and
   build the how.
