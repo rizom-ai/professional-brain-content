@@ -1,18 +1,20 @@
 ---
 name: Knowledge Infrastructure Design
 description: >-
-  Build structures and workflows that help people capture, connect, and share
-  knowledge across a network.
+  Design learning and knowledge systems that help people create, connect, and
+  reuse information over time.
 tags:
   - classification
   - analysis
-  - community-building
   - ecosystem-architecture
+  - community-building
 examples:
-  - Design a knowledge system for a growing organization.
-  - How can we make expertise more discoverable across teams?
+  - Help me design a knowledge infrastructure for a growing organization.
   - >-
-    Create a framework for connecting learning, documentation, and community
-    practice.
+    How should we structure learning resources so they stay useful as the
+    community grows?
+  - >-
+    Evaluate this knowledge system and suggest improvements for discoverability
+    and reuse.
 ---
 

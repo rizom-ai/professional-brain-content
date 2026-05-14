@@ -1,16 +1,16 @@
 ---
 name: Regenerative Systems Thinking
 description: >-
-  Analyze complex social and technical problems through regenerative,
-  pluralistic, and non-machine metaphors.
+  Design resilient, regenerative approaches that learn from nature,
+  fragmentation, and reuse to improve complex systems.
 tags:
-  - analysis
   - futures-thinking
-  - critique
-  - community-building
+  - analysis
+  - ecosystem-architecture
+  - comparison
 examples:
-  - How would a regenerative design approach change this product strategy?
-  - Compare machine-like and living-system approaches to organization design.
-  - Help me frame this problem through value pluralism and ecological thinking.
+  - Apply regenerative design principles to this organizational challenge.
+  - How can we make this system more resilient to fragmentation and failure?
+  - Compare machine-like and ecosystem-like approaches to innovation.
 ---
 

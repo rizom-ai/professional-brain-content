@@ -1,16 +1,22 @@
 ---
 name: Ecosystem Design Strategy
 description: >-
-  Design organizations, platforms, and collaboration models that behave like
-  adaptive living systems.
+  Design organizations and platforms as living systems that adapt through
+  relationships, feedback, and emergent behavior.
 tags:
   - ecosystem-architecture
   - futures-thinking
-  - community-building
   - analysis
+  - community-building
 examples:
-  - Design a collaboration model for a decentralized research collective.
-  - Help me map an ecosystem architecture for a new community platform.
-  - What operating principles would make this organization more adaptive?
+  - >-
+    Help me design an organization that behaves more like a living system than a
+    hierarchy.
+  - >-
+    Create a strategy for an ecosystem of tools, people, and governance
+    structures.
+  - >-
+    Analyze this community model and suggest how to make it more adaptive and
+    resilient.
 ---
 

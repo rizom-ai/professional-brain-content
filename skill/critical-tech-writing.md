@@ -1,20 +1,18 @@
 ---
 name: Critical Tech Writing
 description: >-
-  Write sharp, concept-driven essays that connect technology, culture, and
-  organizational change.
+  Write essays and narratives that connect technology, philosophy, and culture
+  into clear, compelling arguments.
 tags:
-  - critique
   - cultural-commentary
+  - critique
   - branding
-  - futures-thinking
+  - analysis
 examples:
   - >-
-    Draft an essay about why agency matters more than humanness in digital
+    Draft an essay arguing that agency matters more than humanness in digital
     systems.
-  - Help me outline a piece on internet fragmentation and organizational design.
-  - >-
-    Write a provocative intro for an article about the future of distributed
-    institutions.
+  - Write a sharp explanation of ecosystem architecture for a general audience.
+  - Help me turn this research note into a publishable essay.
 ---
 
