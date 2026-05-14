@@ -1,33 +1,48 @@
 ---
 strengths:
-  - title: Critical futures writing
+  - title: Sharp public writing
     detail: >-
-      You can turn technology and culture into sharp, concept-driven commentary;
-      use your network to help polish it into publishable form.
-  - title: Entity comparison
+      Use your ability to connect technology, philosophy, and culture to frame
+      ideas clearly, and pair it with your network’s sharp cultural writing when
+      you want polish or a stronger point of view.
+  - title: Structured comparison
     detail: >-
-      You have a dependable comparison skill for spotting similarities,
-      differences, and relationships, which is useful when you need to judge
-      agents, profiles, or systems side by side.
+      Lean on this when you need to compare people, agents, or ideas and surface
+      useful differences and relationships for decision-making.
 weaknesses:
-  - title: Video production gap
+  - title: Live group guidance
     detail: >-
-      Video is not a near-term strength here, so do not treat it as something
-      you can handle alone.
+      Do not assume you can lead workshops or group discussions smoothly yet;
+      keep sessions tightly designed or pair with someone who can hold the room.
+  - title: Video execution gap
+    detail: >-
+      Treat video as an exposed weakness and avoid making it a core delivery
+      requirement unless you first test a simple workflow.
 opportunities:
-  - title: Agent record organization
+  - title: Record structure
     detail: >-
-      Use your network’s organization skills to keep agent information clear,
-      consistent, and easy to find.
-  - title: Profile summarization
+      Use this network skill to shape how you organize agents and related notes
+      so they stay easy to find and reuse.
+  - title: Knowledge system design
     detail: >-
-      Pair your analysis with concise summaries so you can understand complex
-      profile and agent notes faster.
+      Build a more deliberate capture-and-retrieval system around your own
+      organization and summarization strengths, then test whether it improves
+      reuse over time.
+  - title: Collaboration model experiment
+    detail: >-
+      Treat this as a next-step experiment: use your ecosystem and governance
+      interests to design a small distributed workflow, then learn what
+      coordination rules actually help.
 threats:
-  - title: Editing bottleneck
+  - title: Coordination bottleneck
     detail: >-
-      Your network can improve drafts, but you should not assume the first
-      version is ready to ship without a real editing pass.
-derivedAt: '2026-04-24T16:58:42.971Z'
+      If your work shifts toward interviews, workshops, or group coordination,
+      the missing facilitation complement could slow you down, so plan for
+      support early.
+  - title: Presentation dependency risk
+    detail: >-
+      Avoid building a showcase plan that depends on video before you have a
+      proven way to produce it.
+derivedAt: '2026-05-14T17:24:20.153Z'
 ---
 
