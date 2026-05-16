@@ -39,7 +39,7 @@ A chart is not a relationship. A policy is not a practice. A workflow is not sha
 
 Institutions of all kinds — states, schools, companies, associations, media organizations — only function when their formal structure is continuously supported by this deeper layer of trust, memory, and coordination, and vice versa: when that living layer is given enough formal shape to endure.
 
-When that layer begins to fail, the institution does not simply stop. First it becomes personal. Legitimacy migrates from the structure to the person. Memory migrates from the archive to the veteran. Coordination migrates from the process to the fixer. The institution survives, but in increasingly prosthetic form. It needs more and more exceptional people to simulate the coherence it can no longer produce on its own.
+When that layer begins to fail, the institution does not simply stop. First it becomes personal. Legitimacy migrates from the structure to the person. Memory migrates from the archive to the veteran. Coordination migrates from the process to the fixer. The institution survives, but increasingly by borrowing from people the capacities it should have been able to carry itself. It needs more and more exceptional people to simulate the coherence it can no longer produce on its own.
 
 > Power corresponds to the human ability not just to act but to act in concert.
 >
