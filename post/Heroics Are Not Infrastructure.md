@@ -49,6 +49,8 @@ This phenomenon is now easier to see because the conditions that once concealed 
 
 That illusion is harder to maintain in distributed, asynchronous, and more explicitly mediated environments. What used to be absorbed through proximity now has to be made explicit. The things that were once "just known" turn out not to be known by the institution at all. The things that seemed coordinated turn out to have depended on one or two people informally carrying the whole arrangement.
 
-There is nothing virtuous about forcing people to function as living infrastructure. Expertise is not the problem. Institutions need judgment, craft, and experience. The problem begins when these qualities are no longer used to move the institution forward, but to keep it from falling apart. Then the most capable people stop acting as contributors and start acting as prostheses.
+This is why heroics should not be confused with living infrastructure. A living institution is not a handful of exceptional people absorbing the cost of broken form. It is the shared capacity through which judgment, memory, and coordination can circulate without being trapped in particular bodies.
+
+Expertise is not the problem. Institutions need judgment, craft, and experience. The problem begins when these qualities are no longer used to move the institution forward, but to compensate for its inability to carry itself. At that point, heroics become less a form of infrastructure than a quiet form of sacrifice. The most capable people stop acting as contributors and start acting as prostheses.
 
 New institutions will be judged by neither the courage nor the brilliance of their heroes. They will be valued by how little they require them. An institution worthy of the name does not store its memory in the heads of the exhausted, nor its legitimacy in the aura of the indispensable. It carries itself. Heroics are not infrastructure.
