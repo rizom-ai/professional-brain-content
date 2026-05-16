@@ -27,7 +27,7 @@ In *Economy and Society*, Max Weber famously distinguishes between traditional, 
 >
 > — Max Weber
 
-But that promise unravels when institutions start to fall apart. Charisma rules. Not always in the spectacular form of the visionary leader or the demagogue. Often it appears in a quieter and more familiar shape: the indispensable colleague, the veteran manager, the founder who still has to approve everything, the teacher who carries the entire school in her head, the civil servant who alone knows how to make the system move.
+But that promise unravels when institutions start to fall apart. Charisma becomes load-bearing. Not always in the spectacular form of the visionary leader or the demagogue. Often it appears in a quieter and more familiar shape: the indispensable colleague, the veteran manager, the founder who still has to approve everything, the teacher who carries the entire school in her head, the civil servant who alone knows how to make the system move.
 
 At that point, heroics become the last refuge of failing form.
 
@@ -51,4 +51,4 @@ That illusion is harder to maintain in distributed, asynchronous, and more expli
 
 There is nothing virtuous about forcing people to function as living infrastructure. Expertise is not the problem. Institutions need judgment, craft, and experience. The problem begins when these qualities are no longer used to move the institution forward, but to keep it from falling apart. Then the most capable people stop acting as contributors and start acting as prostheses.
 
-New institutions will not be judged by the brilliance of their heroes, but by how little they require them. An institution worthy of the name does not store its memory in the heads of the exhausted, nor its legitimacy in the aura of the indispensable. It carries itself. Heroics are not infrastructure.
+New institutions will be judged by neither the courage nor the brilliance of their heroes. They will be valued by how little they require them. An institution worthy of the name does not store its memory in the heads of the exhausted, nor its legitimacy in the aura of the indispensable. It carries itself. Heroics are not infrastructure.
