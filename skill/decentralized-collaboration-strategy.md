@@ -1,16 +1,18 @@
 ---
 name: Decentralized Collaboration Strategy
 description: >-
-  Shape distributed collaboration models that improve autonomy, coordination,
-  and trust across fragmented teams.
+  Create collaboration models for distributed groups that reduce friction while
+  preserving autonomy and shared purpose.
 tags:
   - community-building
-  - analysis
   - agents
+  - analysis
   - ecosystem-architecture
 examples:
-  - How should a decentralized team coordinate without central control?
-  - Design a collaboration model for a network of independent contributors.
-  - Identify failure points in a distributed organization and how to fix them.
+  - >-
+    Develop a collaboration strategy for a decentralized network of
+    contributors.
+  - How can a distributed community coordinate without heavy hierarchy?
+  - Design norms and workflows for peer-to-peer collaboration.
 ---
 

@@ -1,16 +1,16 @@
 ---
 name: Ecosystem Architecture Design
 description: >-
-  Design organizations, tools, and collaboration patterns as living systems
-  rather than machines.
+  Design organizational systems that behave like living ecosystems, balancing
+  resilience, adaptability, and coordination.
 tags:
   - ecosystem-architecture
   - futures-thinking
-  - community-building
   - analysis
+  - community-building
 examples:
-  - Design an ecosystem architecture for a distributed learning community.
-  - Help me rethink this organization as a living system instead of a hierarchy.
-  - Create a framework for building resilient knowledge networks.
+  - Design a framework for an organization that operates like a living system.
+  - Help me model an ecosystem architecture for a distributed team.
+  - What principles should guide a regenerative organization design?
 ---
 
