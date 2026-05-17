@@ -1,44 +1,40 @@
 ---
 strengths:
-  - title: Cultural commentary
+  - title: Sharp tech writing
     detail: >-
-      Use this for essays, framing, and point-of-view pieces; your network adds
-      close support for critique and polished writing, so you can lean on that
-      overlap when you need a sharper public voice.
-  - title: Entity comparison
+      Use your writing to turn technical and cultural ideas into a clear
+      argument and a finished piece.
+  - title: Regenerative systems lens
     detail: >-
-      Use this when you need structured analysis of records, entities, or
-      relationships; it gives you a reliable comparative lens for
-      systems-oriented work.
+      Use this when messy breakdowns need to be reframed as living systems so
+      you can propose resilient alternatives.
 weaknesses:
-  - title: Video production
+  - title: Video gap
     detail: >-
-      Do not assume video is part of your current toolkit; if a project depends
-      on it, pair with someone who can produce it or keep the scope text-first.
-  - title: Visualization
+      Do not assume you can turn ideas into video on your own; pair this with
+      someone who can produce it.
+  - title: Weak visual framing
     detail: >-
-      Avoid relying on charts, diagrams, or visual explainers as a default
-      strength; test a small visual format first or bring in help before
-      committing to visual-heavy work.
+      Treat diagrams and visual explanation as a gap unless you deliberately
+      build them with a tool or collaborator.
 opportunities:
-  - title: Agent record organization
+  - title: Organize agent records
     detail: >-
-      Borrow this structure for your own knowledge system so your notes, content
-      library, or agent records become easier to retrieve and reuse.
-  - title: Profile summarization
+      Use this to make your knowledge base cleaner and easier to reuse,
+      especially for agent-related work.
+  - title: Governance design
     detail: >-
-      Use this to turn raw notes into concise summaries faster, especially when
-      you want shareable output or cleaner curation workflows.
+      Test this on a real coordination problem so you can shape clearer roles,
+      accountability, and trust rules.
 threats:
-  - title: Governance design gap
+  - title: Coordination risk
     detail: >-
-      Do not push rule-setting or trust design too far on your own; pair your
-      analysis with a stronger governance partner before making coordination
-      decisions.
-  - title: Visual explanation risk
+      Do not rely on the current setup alone for distributed work; you may need
+      explicit operating agreements and alignment methods.
+  - title: Video dependency
     detail: >-
-      If a project needs diagrams or system visuals, treat that as a stall risk
-      and line up support early rather than depending on an unseen skill.
-derivedAt: '2026-05-17T06:08:12.829Z'
+      If a project needs video, plan for a missing complement early instead of
+      expecting the current skill set to cover it.
+derivedAt: '2026-05-17T07:11:10.820Z'
 ---
 
