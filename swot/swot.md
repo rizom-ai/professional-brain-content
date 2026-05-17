@@ -1,41 +1,40 @@
 ---
 strengths:
-  - title: Perspective writing
+  - title: Distributed systems lens
     detail: >-
-      Use this for sharp essays and manifesto-style pieces, and lean on your
-      network to keep the critique grounded and publishable.
-  - title: Learning design
+      Use this to compare centralized and distributed options and explain how
+      technical and cultural systems change over time.
+  - title: Values-based critique
     detail: >-
-      Use this to design learning environments and tools, then pair it with your
-      network’s analysis to test whether the experience really supports growth
-      and collaboration.
+      Lean on this when you need to challenge institutions, tools, or
+      technologies with a clear agency-and-ethics frame.
 weaknesses:
-  - title: Video production
+  - title: Learning system design gap
     detail: >-
-      Do not assume you can cover video well here; plan to bring in a separate
-      video skill if a project depends on it.
-  - title: Visualization
+      You have the concept, but do not assume your current network can help you
+      build a full learning environment or curriculum end to end.
+  - title: Knowledge architecture gap
     detail: >-
-      Treat visual explanation as a gap and avoid promising diagrams or visual
-      framing unless you have explicit help.
+      Use this skill carefully, but expect only limited help from the current
+      network when you need a complete knowledge system.
 opportunities:
-  - title: Knowledge systems
+  - title: Agent record organization
     detail: >-
-      Use your network’s organizing and comparison skills to improve how you
-      capture, connect, and retrieve knowledge across projects.
-  - title: Distributed coordination
+      Use this adjacent skill to structure your own notes and reference
+      collections into clear entries you can look up quickly.
+  - title: Sharp cultural writing
     detail: >-
-      Test collaboration models with your network on autonomy, coordination, and
-      likely failure points before you rely on them.
+      Pair this with your critique work to turn analysis into polished posts,
+      essays, or decks for public use.
 threats:
-  - title: Single-point risk
+  - title: Coordination risk
     detail: >-
-      This can become a lone point of failure, so document the approach and make
-      sure someone else can support it when needed.
-  - title: Visual gap
+      Do not rely on the current network to handle peer coordination or workflow
+      norms without extra facilitation support.
+  - title: Governance execution risk
     detail: >-
-      If a project needs clear visuals, plan for help early rather than trying
-      to improvise the visuals at the end.
-derivedAt: '2026-05-17T06:00:25.946Z'
+      Treat this as a concept-heavy area until you add a more practical partner
+      for implementing rules and constraints.
+derivedAt: '2026-05-17T06:05:41.693Z'
 ---
 
