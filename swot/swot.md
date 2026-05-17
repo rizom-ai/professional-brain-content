@@ -1,48 +1,41 @@
 ---
 strengths:
-  - title: Sharp public writing
+  - title: Perspective writing
     detail: >-
-      Use your ability to connect technology, philosophy, and culture to frame
-      ideas clearly, and pair it with your network’s sharp cultural writing when
-      you want polish or a stronger point of view.
-  - title: Structured comparison
+      Use this for sharp essays and manifesto-style pieces, and lean on your
+      network to keep the critique grounded and publishable.
+  - title: Learning design
     detail: >-
-      Lean on this when you need to compare people, agents, or ideas and surface
-      useful differences and relationships for decision-making.
+      Use this to design learning environments and tools, then pair it with your
+      network’s analysis to test whether the experience really supports growth
+      and collaboration.
 weaknesses:
-  - title: Live group guidance
+  - title: Video production
     detail: >-
-      Do not assume you can lead workshops or group discussions smoothly yet;
-      keep sessions tightly designed or pair with someone who can hold the room.
-  - title: Video execution gap
+      Do not assume you can cover video well here; plan to bring in a separate
+      video skill if a project depends on it.
+  - title: Visualization
     detail: >-
-      Treat video as an exposed weakness and avoid making it a core delivery
-      requirement unless you first test a simple workflow.
+      Treat visual explanation as a gap and avoid promising diagrams or visual
+      framing unless you have explicit help.
 opportunities:
-  - title: Record structure
+  - title: Knowledge systems
     detail: >-
-      Use this network skill to shape how you organize agents and related notes
-      so they stay easy to find and reuse.
-  - title: Knowledge system design
+      Use your network’s organizing and comparison skills to improve how you
+      capture, connect, and retrieve knowledge across projects.
+  - title: Distributed coordination
     detail: >-
-      Build a more deliberate capture-and-retrieval system around your own
-      organization and summarization strengths, then test whether it improves
-      reuse over time.
-  - title: Collaboration model experiment
-    detail: >-
-      Treat this as a next-step experiment: use your ecosystem and governance
-      interests to design a small distributed workflow, then learn what
-      coordination rules actually help.
+      Test collaboration models with your network on autonomy, coordination, and
+      likely failure points before you rely on them.
 threats:
-  - title: Coordination bottleneck
+  - title: Single-point risk
     detail: >-
-      If your work shifts toward interviews, workshops, or group coordination,
-      the missing facilitation complement could slow you down, so plan for
-      support early.
-  - title: Presentation dependency risk
+      This can become a lone point of failure, so document the approach and make
+      sure someone else can support it when needed.
+  - title: Visual gap
     detail: >-
-      Avoid building a showcase plan that depends on video before you have a
-      proven way to produce it.
-derivedAt: '2026-05-14T17:24:20.153Z'
+      If a project needs clear visuals, plan for help early rather than trying
+      to improvise the visuals at the end.
+derivedAt: '2026-05-17T06:00:25.946Z'
 ---
 
