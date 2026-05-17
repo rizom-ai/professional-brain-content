@@ -8,6 +8,7 @@ excerpt: >-
   leadership or dedication is often a sign that form itself has started to
   decay. Heroics are not infrastructure.
 author: Yeehaa
+coverImageId: heroics-are-not-infrastructure-cover-image-v2
 seriesName: New Institutions
 seriesIndex: 2
 ---
