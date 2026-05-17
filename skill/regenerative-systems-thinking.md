@@ -1,16 +1,20 @@
 ---
 name: Regenerative Systems Thinking
 description: >-
-  Apply natural, resilient, and regenerative patterns to design robust social
-  and technical systems.
+  Analyze breakdown, fragmentation, and waste through ecological patterns to
+  propose resilient alternatives.
 tags:
-  - futures-thinking
   - analysis
-  - ecosystem-architecture
+  - futures-thinking
   - comparison
+  - culture
 examples:
-  - Use natural systems as inspiration for designing organizational resilience.
-  - Compare machine-like and living-system approaches to coordination.
-  - Develop a regenerative design approach for a fragmented ecosystem.
+  - >-
+    Analyze how institutional decay resembles ecological collapse and what a
+    regenerative response looks like.
+  - Help me frame electronic waste as a systems-design problem.
+  - >-
+    Create a resilience strategy inspired by natural ecosystems for a fragmented
+    network.
 ---
 
