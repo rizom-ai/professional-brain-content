@@ -1,0 +1,20 @@
+2026-05-17T07:08:53.038Z - post/Heroics Are Not Infrastructure.md: [
+  {
+    "validation": "url",
+    "code": "invalid_string",
+    "message": "Invalid url",
+    "path": [
+      "ogImage"
+    ]
+  },
+  {
+    "validation": "url",
+    "code": "invalid_string",
+    "message": "Invalid url",
+    "path": [
+      "canonicalUrl"
+    ]
+  }
+]
+→ post/Heroics Are Not Infrastructure.md.invalid
+
