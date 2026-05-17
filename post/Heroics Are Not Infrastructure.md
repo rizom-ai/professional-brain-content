@@ -1,7 +1,8 @@
 ---
 title: Heroics Are Not Infrastructure
 slug: heroics-are-not-infrastructure
-status: draft
+status: published
+publishedAt: '2026-05-17T06:58:57.000Z'
 excerpt: >-
   When institutions can no longer carry their own authority, memory, and
   coordination, they begin to lean on exceptional people. What appears as
