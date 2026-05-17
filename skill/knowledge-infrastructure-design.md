@@ -2,14 +2,17 @@
 name: Knowledge Infrastructure Design
 description: >-
   Build structures for capturing, connecting, and sharing knowledge across
-  people, projects, and institutions.
+  people and organizations.
 tags:
-  - ecosystem-architecture
   - analysis
+  - ecosystem-architecture
   - community-building
+  - classification
 examples:
-  - Help me design a knowledge system for a growing organization.
-  - What should a knowledge infrastructure for an open network include?
-  - Map a scalable structure for storing and sharing institutional memory.
+  - >-
+    Design a knowledge infrastructure for an organization that works like a
+    living system.
+  - How can we turn fragmented notes into a shared knowledge base?
+  - Create a framework for organizing learning across a distributed team.
 ---
 
