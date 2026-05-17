@@ -1,40 +1,41 @@
 ---
 strengths:
-  - title: Distributed systems lens
+  - title: Digital culture analysis
     detail: >-
-      Use this to compare centralized and distributed options and explain how
-      technical and cultural systems change over time.
-  - title: Values-based critique
+      Use this as your main lens for interpreting technology, fragmentation, and
+      infrastructure, especially when you need to explain cultural or strategic
+      stakes clearly.
+  - title: Knowledge infrastructure design
     detail: >-
-      Lean on this when you need to challenge institutions, tools, or
-      technologies with a clear agency-and-ethics frame.
+      Lean on this when you are shaping notes, records, and shared knowledge
+      structures across people or systems.
 weaknesses:
-  - title: Learning system design gap
+  - title: Facilitation
     detail: >-
-      You have the concept, but do not assume your current network can help you
-      build a full learning environment or curriculum end to end.
-  - title: Knowledge architecture gap
+      Do not assume you can reliably run workshops or group synthesis yourself;
+      pair with someone who can hold live coordination.
+  - title: Video production
     detail: >-
-      Use this skill carefully, but expect only limited help from the current
-      network when you need a complete knowledge system.
+      Treat video as a weak area unless you deliberately partner with someone
+      who can cover it.
 opportunities:
-  - title: Agent record organization
-    detail: >-
-      Use this adjacent skill to structure your own notes and reference
-      collections into clear entries you can look up quickly.
   - title: Sharp cultural writing
     detail: >-
-      Pair this with your critique work to turn analysis into polished posts,
-      essays, or decks for public use.
+      Use your analysis and critique to turn ideas into publishable posts,
+      essays, or decks, and test a stronger public voice.
+  - title: Agent record organization
+    detail: >-
+      Use this as a template for cleaner knowledge entries and retrieval habits
+      in your own brain and workflow.
 threats:
-  - title: Coordination risk
+  - title: Facilitation risk
     detail: >-
-      Do not rely on the current network to handle peer coordination or workflow
-      norms without extra facilitation support.
-  - title: Governance execution risk
+      Do not let group process depend on you alone when the work needs live
+      coordination; bring in facilitation support early.
+  - title: Video production risk
     detail: >-
-      Treat this as a concept-heavy area until you add a more practical partner
-      for implementing rules and constraints.
-derivedAt: '2026-05-17T06:05:41.693Z'
+      Avoid making video a required output unless you add a partner or build the
+      skill first.
+derivedAt: '2026-05-17T06:07:12.024Z'
 ---
 
