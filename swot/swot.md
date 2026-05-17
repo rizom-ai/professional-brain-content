@@ -1,41 +1,44 @@
 ---
 strengths:
-  - title: Digital culture analysis
+  - title: Cultural commentary
     detail: >-
-      Use this as your main lens for interpreting technology, fragmentation, and
-      infrastructure, especially when you need to explain cultural or strategic
-      stakes clearly.
-  - title: Knowledge infrastructure design
+      Use this for essays, framing, and point-of-view pieces; your network adds
+      close support for critique and polished writing, so you can lean on that
+      overlap when you need a sharper public voice.
+  - title: Entity comparison
     detail: >-
-      Lean on this when you are shaping notes, records, and shared knowledge
-      structures across people or systems.
+      Use this when you need structured analysis of records, entities, or
+      relationships; it gives you a reliable comparative lens for
+      systems-oriented work.
 weaknesses:
-  - title: Facilitation
-    detail: >-
-      Do not assume you can reliably run workshops or group synthesis yourself;
-      pair with someone who can hold live coordination.
   - title: Video production
     detail: >-
-      Treat video as a weak area unless you deliberately partner with someone
-      who can cover it.
-opportunities:
-  - title: Sharp cultural writing
+      Do not assume video is part of your current toolkit; if a project depends
+      on it, pair with someone who can produce it or keep the scope text-first.
+  - title: Visualization
     detail: >-
-      Use your analysis and critique to turn ideas into publishable posts,
-      essays, or decks, and test a stronger public voice.
+      Avoid relying on charts, diagrams, or visual explainers as a default
+      strength; test a small visual format first or bring in help before
+      committing to visual-heavy work.
+opportunities:
   - title: Agent record organization
     detail: >-
-      Use this as a template for cleaner knowledge entries and retrieval habits
-      in your own brain and workflow.
+      Borrow this structure for your own knowledge system so your notes, content
+      library, or agent records become easier to retrieve and reuse.
+  - title: Profile summarization
+    detail: >-
+      Use this to turn raw notes into concise summaries faster, especially when
+      you want shareable output or cleaner curation workflows.
 threats:
-  - title: Facilitation risk
+  - title: Governance design gap
     detail: >-
-      Do not let group process depend on you alone when the work needs live
-      coordination; bring in facilitation support early.
-  - title: Video production risk
+      Do not push rule-setting or trust design too far on your own; pair your
+      analysis with a stronger governance partner before making coordination
+      decisions.
+  - title: Visual explanation risk
     detail: >-
-      Avoid making video a required output unless you add a partner or build the
-      skill first.
-derivedAt: '2026-05-17T06:07:12.024Z'
+      If a project needs diagrams or system visuals, treat that as a stall risk
+      and line up support early rather than depending on an unseen skill.
+derivedAt: '2026-05-17T06:08:12.829Z'
 ---
 
