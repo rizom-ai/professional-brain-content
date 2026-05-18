@@ -3,28 +3,19 @@ title: Everyday Systems Build Heroes
 platform: linkedin
 status: draft
 ---
-The most dangerous thing in a failing institution is that it can still look functional.
+The most dangerous thing about a failing institution is that it can still look functional.
 
-Usually because a few exceptional people are quietly absorbing the cost of broken systems.
+Meetings happen. Crises get absorbed. Newcomers are somehow onboarded. The system appears to work.
 
-That isn’t resilience.
-It’s unpaid maintenance.
+But often, what keeps it alive is not the strength of the institution itself. It is the quiet labor of a few people continuously patching the distance between formal structure and lived reality.
 
-I wrote about this in a new essay, part of the New Institutions series:
+That is not infrastructure. It is sacrifice.
 
-Heroics are not infrastructure.
+I published a new essay in the New Institutions series: *Heroics Are Not Infrastructure*.
 
-When memory, coordination, and legitimacy live inside exhausted individuals, the institution is already borrowing from the future.
+The argument is simple: when memory, coordination, and legitimacy live inside exhausted individuals, the institution has stopped carrying itself.
 
-Healthy organizations do something much harder:
-they distribute knowledge,
-they make roles legible,
-and they carry continuity in shared structures rather than private sacrifice.
+Healthy institutions do not eliminate judgment, craft, or experience. They make sure those capacities can circulate without being trapped in particular bodies.
 
-That distinction matters.
-Because if we mistake heroics for health, we end up celebrating the very conditions that keep institutions brittle.
-
-Read the essay here:
+Read it here:
 https://yeehaa.io/essays/heroics-are-not-infrastructure
-
-What’s the most common form of “heroics” you’ve seen mistaken for real infrastructure?
