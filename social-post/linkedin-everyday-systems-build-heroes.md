@@ -2,6 +2,7 @@
 title: Everyday Systems Build Heroes
 platform: linkedin
 status: draft
+coverImageId: heroics-are-not-infrastructure-cover-image-v2
 ---
 The most dangerous thing about a failing institution is that it can still look functional.
 
