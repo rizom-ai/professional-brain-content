@@ -1,40 +1,37 @@
 ---
 strengths:
-  - title: Sharp tech writing
+  - title: Critical Technology Writing
     detail: >-
-      Use your writing to turn technical and cultural ideas into a clear
-      argument and a finished piece.
-  - title: Regenerative systems lens
+      Use this for essays, posts, and argument framing when you want to turn a
+      strong point of view into polished public writing.
+  - title: Regenerative Systems Thinking
     detail: >-
-      Use this when messy breakdowns need to be reframed as living systems so
-      you can propose resilient alternatives.
+      Lean on this to explain breakdown, fragmentation, and waste, and pair it
+      with comparison work when you need a resilience-oriented redesign.
 weaknesses:
-  - title: Video gap
+  - title: Planning and Readiness
     detail: >-
-      Do not assume you can turn ideas into video on your own; pair this with
-      someone who can produce it.
-  - title: Weak visual framing
-    detail: >-
-      Treat diagrams and visual explanation as a gap unless you deliberately
-      build them with a tool or collaborator.
+      Do not treat release planning or readiness summaries as a native strength;
+      rely on a collaborator or a separate routine for those commitments.
 opportunities:
-  - title: Organize agent records
+  - title: Knowledge Infrastructure Design
     detail: >-
-      Use this to make your knowledge base cleaner and easier to reuse,
-      especially for agent-related work.
-  - title: Governance design
+      Use your knowledge-oriented skills and your network’s organization ability
+      to test a clearer knowledge-base workflow for capture, retrieval, and
+      reuse.
+  - title: Governance and Trust Systems
     detail: >-
-      Test this on a real coordination problem so you can shape clearer roles,
-      accountability, and trust rules.
+      Use this to sharpen accountability and agency models, and pair it with
+      network support on records and structure when you design trust mechanisms.
 threats:
-  - title: Coordination risk
+  - title: Planning and Tracking Readiness
     detail: >-
-      Do not rely on the current setup alone for distributed work; you may need
-      explicit operating agreements and alignment methods.
-  - title: Video dependency
+      If roadmap clarity or release-readiness tracking stays outside your core
+      skill set, it can become a bottleneck unless you assign it early.
+  - title: Agent Record Organization
     detail: >-
-      If a project needs video, plan for a missing complement early instead of
-      expecting the current skill set to cover it.
-derivedAt: '2026-05-17T07:11:10.820Z'
+      Keep agent information actively organized, because the work depends on
+      clean records and it is easy for that system to drift without attention.
+derivedAt: '2026-05-18T09:06:58.316Z'
 ---
 
