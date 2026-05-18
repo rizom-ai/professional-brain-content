@@ -1,37 +1,45 @@
 ---
 strengths:
-  - title: Critical Technology Writing
+  - title: Critical writing
     detail: >-
-      Use this for essays, posts, and argument framing when you want to turn a
-      strong point of view into polished public writing.
-  - title: Regenerative Systems Thinking
+      Use your essay and cultural-analysis strength for polished arguments,
+      outlines, and publishable posts, and pair it with your network’s sharper
+      editing when you want the point of view tightened.
+  - title: Knowledge structure
     detail: >-
-      Lean on this to explain breakdown, fragmentation, and waste, and pair it
-      with comparison work when you need a resilience-oriented redesign.
+      Use this to organize, capture, and circulate knowledge, and lean on your
+      network for cleaner record structure and retrieval when the system starts
+      to get messy.
 weaknesses:
-  - title: Planning and Readiness
+  - title: Facilitation
     detail: >-
-      Do not treat release planning or readiness summaries as a native strength;
-      rely on a collaborator or a separate routine for those commitments.
+      Do not assume you can run workshops or group sessions smoothly yet; if
+      collaboration matters, pair yourself with someone who can hold the room
+      and structure the discussion.
+  - title: Video production
+    detail: >-
+      Treat video work as a gap and avoid promising production-heavy output
+      unless you add a dedicated video-capable partner.
 opportunities:
-  - title: Knowledge Infrastructure Design
+  - title: Search and retrieve
     detail: >-
-      Use your knowledge-oriented skills and your network’s organization ability
-      to test a clearer knowledge-base workflow for capture, retrieval, and
-      reuse.
-  - title: Governance and Trust Systems
+      Use search and get to speed up your own knowledge work by testing faster
+      retrieval, verification, and follow-up on specific items.
+  - title: Readiness planning
     detail: >-
-      Use this to sharpen accountability and agency models, and pair it with
-      network support on records and structure when you design trust mechanisms.
+      Use this to turn rough priorities into a release or content plan, and test
+      it whenever you need to check what is ready versus still unclear.
 threats:
-  - title: Planning and Tracking Readiness
+  - title: Visualization
     detail: >-
-      If roadmap clarity or release-readiness tracking stays outside your core
-      skill set, it can become a bottleneck unless you assign it early.
-  - title: Agent Record Organization
+      If a project depends on diagrams or visual explanation, do not rely on
+      your current setup alone; bring in a visual complement before the idea has
+      to stand on its own.
+  - title: Extensible systems design
     detail: >-
-      Keep agent information actively organized, because the work depends on
-      clean records and it is easy for that system to drift without attention.
-derivedAt: '2026-05-18T09:06:58.316Z'
+      Be cautious with architecture-heavy work that needs deep extensibility,
+      because your current support looks stronger on analysis than on full
+      runtime or plugin-boundary design.
+derivedAt: '2026-05-18T09:07:41.340Z'
 ---
 
