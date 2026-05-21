@@ -2,6 +2,7 @@
 title: Online Is Not a Compromise
 platform: linkedin
 status: draft
+coverImageId: online-is-not-a-compromise-cover-image
 sourceEntityId: Learning Apart Together
 sourceEntityType: post
 ---
