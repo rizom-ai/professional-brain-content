@@ -17,6 +17,7 @@ I think that lesson still matters. Whenever a technology becomes mainstream, the
 That shift matters for education, remote work, collaboration, and AI. The future rarely arrives as a better copy of the past. It arrives when we stop forcing new tools to pretend they are old rooms.
 
 I wrote about this through the lens of online learning here:
+
 https://yeehaa.io/essays/learning-apart-together
 
 Where do you still see people treating a new medium as a second-best substitute?
