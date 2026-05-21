@@ -19,6 +19,9 @@ fields:
   - id: coverImageId
     name: coverImageId
     type: Input
+  - id: documents
+    name: documents
+    type: Multi
   - id: publishedAt
     name: publishedAt
     type: Input

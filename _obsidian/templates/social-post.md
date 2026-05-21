@@ -3,6 +3,7 @@ title: "{{title}}"
 platform: linkedin
 status: draft
 coverImageId: ""
+documents: []
 publishedAt: ""
 platformPostId: ""
 sourceEntityId: ""
