@@ -6,7 +6,7 @@ coverImageId: online-is-not-a-compromise-cover-image
 sourceEntityId: Learning Apart Together
 sourceEntityType: post
 ---
-New media often fail because we treat them as damaged versions of old ones. Online learning becomes “the lecture, but through a webcam.” Remote work becomes “the office, but with more meetings.” AI becomes “the assistant, but faster.”
+New media often fail because we treat them as damaged versions of old ones. Online learning gets reduced to a lecture through a webcam. Remote work gets reduced to the office with more meetings. AI gets reduced to an assistant that happens to be faster.
 
 That usually misses the point. A new medium is not interesting because it can imitate the old one more efficiently. It is interesting because it changes what can be designed in the first place.
 
