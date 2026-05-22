@@ -7,27 +7,29 @@ documents:
 sourceEntityId: Good People Are Not Enough
 sourceEntityType: deck
 ---
-Good people are not enough.
+Good people do not automatically make a good collective.
 
-Not for collaboration.
-Not for resilience.
-Not for collective intelligence.
+I’ve seen teams assume collaboration will happen because everyone is smart, generous, and capable.
 
-A group can be full of talented, generous, capable people and still fail to collaborate well — because collaboration needs legibility.
+But collaboration usually does not fail because people lack goodwill.
 
-People need to see:
-- what others bring
-- what they need
-- what they are working on
-- where overlap might exist
+It fails because the system makes too much invisible:
 
-Without that, work depends too much on luck: the right conversation, the right introduction, the right memory at the right time.
+- who knows what
+- who needs what
+- who is working on what
+- where useful overlap might exist
 
-That is the argument in this short deck.
+When those things are hard to see, collaboration depends on luck.
 
-The question is not whether your organization has good people.
-The question is whether collaboration can find them.
+That is the idea behind this short deck: **Good People Are Not Enough**.
 
-What would make collaboration less accidental where you work?
+For Rizom, this is becoming a practical design question: how do we make capacities, needs, and possible collaborations more legible, so the collective can become more knowable to itself?
 
-#Collaboration #OrganizationalDesign #KnowledgeWork #FutureOfWork #Leadership
+Because the question is not whether good people are present.
+
+It is whether collaboration can find them.
+
+Where does collaboration still depend too much on chance in your team or network?
+
+#Collaboration #OrganizationalDesign #KnowledgeWork #FutureOfWork #CollectiveIntelligence
