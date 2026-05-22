@@ -9,7 +9,9 @@ sourceEntityType: deck
 ---
 Good people do not automatically make a good collective.
 
-I’ve seen teams assume collaboration will happen because everyone is smart, generous, and capable.
+I originally made this as an internal town hall presentation for Rizom, but the problem feels much broader.
+
+Many teams assume collaboration will happen because everyone is smart, generous, and capable.
 
 But collaboration usually does not fail because people lack goodwill.
 
@@ -25,6 +27,8 @@ When those things are hard to see, collaboration depends on luck.
 That is the idea behind this short deck: **Good People Are Not Enough**.
 
 For Rizom, this is becoming a practical design question: how do we make capacities, needs, and possible collaborations more legible, so the collective can become more knowable to itself?
+
+But I think the question applies to any team, network, or organization trying to move from talented individuals to actual collective capacity.
 
 Because the question is not whether good people are present.
 
