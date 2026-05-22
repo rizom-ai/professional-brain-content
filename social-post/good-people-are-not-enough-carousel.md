@@ -1,10 +1,10 @@
 ---
 title: Good People Are Not Enough Carousel
 platform: linkedin
-status: draft
+status: published
 documents:
   - id: good-people-are-not-enough-carousel
-publishedAt: '2026-05-22T13:07:44.501Z'
+publishedAt: '2026-05-22T13:10:14.278Z'
 sourceEntityId: Good People Are Not Enough
 sourceEntityType: deck
 ---
