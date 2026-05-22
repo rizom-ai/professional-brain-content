@@ -1,7 +1,7 @@
 ---
 title: Good People Are Not Enough Carousel
 platform: linkedin
-status: published
+status: draft
 documents:
   - id: good-people-are-not-enough-carousel
 publishedAt: '2026-05-22T05:50:37.047Z'
