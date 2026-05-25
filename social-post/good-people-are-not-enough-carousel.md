@@ -8,11 +8,7 @@ publishedAt: '2026-05-22T13:32:23.746Z'
 sourceEntityId: Good People Are Not Enough
 sourceEntityType: deck
 ---
-A team can be full of good people and still struggle to collaborate.
-
-Not because people do not care.
-
-But because too much is invisible:
+A team can be full of good people and still struggle to collaborate. Not because people do not care, but because too much is invisible:
 
 who knows what,
 who needs what,
@@ -23,6 +19,4 @@ The work started close to home, but the pattern is familiar in many teams.
 
 When those things are hard to see, collaboration depends on luck.
 
-The question is not whether good people are present.
-
-It is whether collaboration can find them.
+The question is not whether good people are present. It is whether collaboration can find them.
