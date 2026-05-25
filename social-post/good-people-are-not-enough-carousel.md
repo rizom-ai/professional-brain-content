@@ -23,8 +23,6 @@ The work started close to home, but the pattern is familiar in many teams.
 
 When those things are hard to see, collaboration depends on luck.
 
-That is the idea behind **Good People Are Not Enough**: making capacities, needs, and possible collaborations more legible.
-
 The question is not whether good people are present.
 
 It is whether collaboration can find them.
