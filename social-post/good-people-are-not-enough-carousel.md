@@ -19,6 +19,8 @@ who needs what,
 who is working on what,
 where overlap might exist.
 
+The work started close to home, but the pattern is familiar in many teams.
+
 When those things are hard to see, collaboration depends on luck.
 
 That is the idea behind **Good People Are Not Enough**: making capacities, needs, and possible collaborations more legible.
