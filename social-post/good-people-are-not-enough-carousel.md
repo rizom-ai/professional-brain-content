@@ -10,7 +10,10 @@ sourceEntityType: deck
 ---
 A team can be full of good people and still struggle to collaborate.
 
-Collaboration usually fails because too much is invisible:
+Not because people do not care.
+
+But because too much is invisible:
+
 who knows what,
 who needs what,
 who is working on what,
