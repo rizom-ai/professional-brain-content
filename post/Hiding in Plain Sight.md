@@ -46,45 +46,29 @@ Jacques Derrida’s phrase “archive fever” is useful here, because it captur
 >
 > — Jacques Derrida
 
-This matters because institutional memory is never just an operational concern. It decides who gets to participate in judgment. If the archive is unreadable, those who already know the story gain power. If the dashboard defines what counts, the unmeasured becomes politically weak. If the documentation records procedures but not reasons, newcomers can obey the system without understanding it. If context lives in private notes, old chats, or oral tradition, participation depends on access to the right informal channels.
+This matters because institutional memory is never just an operational concern. It decides who gets to participate in judgment. If the archive is unreadable, those who already know the story gain power. If the dashboard defines what counts, the unmeasured becomes politically weak. If the documentation records procedures but not reasons, newcomers can obey the system without understanding it.
 
 In such an institution, knowledge is not absent. It is enclosed.
 
-The enclosure is rarely intentional. Most people are not trying to hoard context. They are busy. They write things down quickly. They create a document for a meeting, not for the future. They make a dashboard for reporting, not for understanding. They keep private notes because the shared system is too slow, too rigid, or too performative. They answer the same question for the fifth time because answering it is faster than repairing the structure that keeps producing the question.
+The enclosure is rarely intentional. Most people are not trying to hoard context. They are busy. They write things down quickly. They create a document for a meeting, not for the future. They make a dashboard for reporting, not for understanding. They keep private notes because the shared system is too slow, too rigid, or too performative.
 
 Little by little, the institution fills with traces that no longer compose a world.
 
-Artificial intelligence enters this scene with almost perfect timing. It promises to search the mess, summarize the archive, connect fragments, and finally make the institution’s hidden knowledge usable. There is something genuinely powerful in that promise. Institutions have accumulated more text, data, and procedural residue than any person can reasonably navigate. A machine that can move through that residue is not trivial.
+Artificial intelligence enters this scene with almost perfect timing. It promises to search the mess, summarize the archive, connect fragments, and finally make the institution’s hidden knowledge usable.
 
-But AI also makes the confusion between storage and memory more dangerous.
+That promise is not empty. A machine that can move through institutional residue is not trivial. But AI also makes the confusion between storage and memory more dangerous. It can search the archive, summarize the archive, and speak in the voice of the archive. If the archive has confused accumulation with memory, AI will only make that confusion faster and more fluent.
 
-If an institution has preserved context well, AI can help retrieve and recombine it. If an institution has merely accumulated traces, AI can produce a fluent imitation of memory. It can summarize documents that were never trustworthy. It can connect fragments that should have been situated first. It can make the swamp searchable without making it less swampy.
+An institution does not become wiser because its confusion becomes searchable.
 
-In that case, the institution does not become wiser. It becomes more articulate about its confusion.
-
-This is why the question is not whether AI can find things. Increasingly, it can. The question is whether the things it finds still carry enough context to matter. Why was this decision made? Who contested it? What alternative was rejected? Which assumption no longer holds? Was this document an agreement, a proposal, a performance, or a temporary patch that hardened into procedure?
+The question is not whether AI can find things. Increasingly, it can. The question is whether the things it finds still carry enough context to matter. Was this document an agreement, a proposal, a performance, or a temporary patch that hardened into procedure? Why was this decision made? Who contested it? Which assumption no longer holds?
 
 Retrieval without context is not memory. It is archaeology with better tooling.
 
-This is where care enters the picture.
+This is where many institutional reforms go wrong. They assume the answer to bad memory is more preservation. More documentation, more dashboards, more templates, more capture. But preservation can become its own form of forgetting. The institution keeps the trace and loses the practice. It saves the file and loses the reason. It remembers everything except what mattered.
 
-Care is often treated as a personal virtue: something generous people bring to fragile situations. But institutions also need forms of care. Not care as sentiment, but care as maintenance. The patient work of keeping meanings usable. The discipline of attaching reasons to decisions. The willingness to prune obsolete records rather than worship accumulation. The habit of making practices understandable without pretending they can be frozen.
+New institutions will need a different discipline. Not total visibility, which usually ends in paranoia. Not less memory, which only returns power to insiders. What they need are living forms of memory: forms close enough to practice to stay useful, but durable enough to travel across time.
 
-I have seen the absence of this most clearly in education and community projects. These environments are full of learning, but not always full of memory. Teachers, organizers, mentors, designers, and students constantly discover what works. They adapt, repair, improvise, and refine. Yet too often that intelligence stays attached to the cohort, the project, the workshop, the person, the season. The next cycle begins with fragments. Not from zero exactly, but close enough to make everyone tired.
-
-That is not because people failed to care. It is because the care did not acquire a form that could travel.
-
-New institutions will need to become much better at this. Not by documenting everything. That way lies paranoia. Total visibility is not institutional memory; it is usually institutional anxiety. A living institution needs discretion, ambiguity, informal judgment, and room for things that are not yet ready to be named.
-
-The goal is not to make everything visible. The goal is to make the right things navigable.
-
-People should be able to find the reasons that still govern them. They should be able to understand which decisions are alive and which are fossils. They should be able to see where responsibility sits, where history matters, and where inherited assumptions deserve to be challenged. They should not need clairvoyance, seniority, or private access to participate intelligently.
-
-That is the democratic stake of memory. When institutional knowledge is hidden in plain sight, participation becomes unequal by default. Some people act with context while others guess. Some can invoke history while others unknowingly repeat it. Some can move through the institution as if it were a familiar city, while others are handed a map that everyone knows is obsolete.
-
-Institutions do not lose themselves only by collapsing. They also lose themselves by preserving too much in forms that no longer help them think.
-
-The answer is not less memory, and it is not more storage. It is better forms: forms that remain close enough to practice to stay alive, but durable enough to travel across time. Forms that can be revised, questioned, linked, pruned, inhabited, and repaired. Forms that remember without pretending to become the territory itself.
+Forms that can be revised, questioned, linked, pruned, inhabited, and repaired. Forms that make reasons available without pretending to replace judgment. Forms that remember without mistaking themselves for the territory.
 
 Because the problem is rarely that institutions know nothing.
 
