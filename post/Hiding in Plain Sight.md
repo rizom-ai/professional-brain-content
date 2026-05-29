@@ -12,11 +12,11 @@ coverImageId: hiding-in-plain-sight-cover-image
 seriesName: New Institutions
 seriesIndex: 3
 ---
-Modern institutions rarely suffer from a lack of information. More often, they suffer from a surplus of traces that no longer add up to memory.
+Modern institutions hardly ever suffer from a lack of information. More often, they suffer from a surplus of dispersed traces that no longer add up to memory.
 
-Everywhere you look, the record is there. The shared drive is full. The archive exists. The minutes were taken. The dashboard updates itself. The chat history goes back for years. There are folders inside folders, project boards inside project boards, and enough documentation to prove that something must have happened. In that sense, our institutions have become extremely good at leaving evidence behind.
+Everywhere you look, the record is there. The shared drive is full. The archive exists. The minutes were taken. The dashboard updates itself. The chat history goes back for years. There are folders inside folders, project boards inside project boards, and enough documentation to prove that something must have happened. In that sense, our institutions have become extremely good at leaving evidence behind, literally a track record.
 
-Yet evidence is not the same as memory.
+Yet a trail of evidence is not the same as memory.
 
 A record can show that a decision was made without preserving why it mattered. A document can survive long after the practice it describes has disappeared. A dashboard can make an institution feel informed while quietly narrowing what it is able to notice. An archive can contain everything and still fail to help anyone understand what should be done next.
 
@@ -40,7 +40,7 @@ This is where institutional knowledge becomes political. When the record is unus
 
 The institution may appear transparent because everything is stored somewhere. In practice, it remains opaque because only a few people can turn storage back into meaning.
 
-Jacques Derrida’s phrase “archive fever” is useful here, because it captures the desire to secure the past by gathering its traces. The archive promises control over what might otherwise disappear. But Derrida also reminds us that an archive is never neutral. It does not merely preserve memory; it shapes what memory can become.
+Jacques Derrida’s concept of  *archive fever* is useful here, because it captures the desire to secure the past by gathering its traces. The archive promises control over what might otherwise disappear. But Derrida also reminds us that an archive is never neutral. It does not merely preserve memory; it shapes what memory can become.
 
 > There is no political power without control of the archive, if not of memory.
 >
