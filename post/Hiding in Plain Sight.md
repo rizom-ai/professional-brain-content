@@ -28,14 +28,6 @@ But memory is not storage. Memory is the capacity to make the past available to 
 
 Storage keeps traces. Memory preserves orientation. Storage answers the question: where did we put it? Memory answers a harder one: what does this mean for us now?
 
-In *On the Use and Abuse of History for Life*, Nietzsche already warned against history that detaches itself from life and becomes an end in itself. The problem was not memory as such, but memory that no longer strengthens action.
-
-> Only insofar as history serves life do we want to serve history.
->
-> — Friedrich Nietzsche
-
-That is a useful test for institutional memory. Does the record still serve life, or has it become a monument to its own preservation? Does the archive help the institution act, or does it merely prove that something once happened?
-
 > The map is not the territory.
 >
 > — Alfred Korzybski
@@ -62,7 +54,15 @@ Then AI arrives, promising to search the mess. That promise is not empty: a mach
 
 Retrieval without context is not memory. It is archaeology with better tooling. This is where many institutional reforms go wrong. They assume the answer to bad memory is more preservation: more documentation, more dashboards, more templates, more capture. But preservation can become its own form of forgetting. The institution keeps the trace and loses the practice. It saves the file and loses the reason. It remembers everything except what mattered.
 
-New institutions need a different discipline. Not total visibility, which usually ends in paranoia. Not less memory, which only returns power to insiders. They need forms of memory close enough to practice to stay alive, but durable enough to travel across time; forms that can be revised, questioned, linked, pruned, inhabited, and repaired; forms that remember without mistaking themselves for the territory.
+This is where Nietzsche becomes useful. In *On the Use and Abuse of History for Life*, he warned against history that no longer serves life. Too much history, for Nietzsche, does not make us wiser. It makes us heavy. It becomes a kind of obesity: an accumulation that prevents movement rather than enabling it.
+
+> Only insofar as history serves life do we want to serve history.
+>
+> — Friedrich Nietzsche
+
+The same is true for institutions. Memory should strengthen action, not bury it under the weight of its own traces. Sometimes the institution does not need to remember more. It needs to forget better. Not forgetting as negligence, amnesia, or erasure, but as a conscious act of pruning: letting dead records die, retiring obsolete assumptions, and refusing to preserve every trace as if accumulation itself were a virtue.
+
+New institutions need a different discipline. Not total visibility, which usually ends in paranoia. Not less memory, which only returns power to insiders. They need forms of memory close enough to practice to stay alive, but durable enough to travel across time; forms that can be revised, questioned, linked, pruned, inhabited, and repaired; forms that know when to preserve and when to let go.
 
 Because the problem is rarely that institutions know nothing. The problem is that their knowledge is often hiding inside the very systems meant to preserve it.
 
