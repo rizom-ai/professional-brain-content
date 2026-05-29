@@ -46,29 +46,43 @@ Jacques Derrida’s phrase “archive fever” is useful here, because it captur
 >
 > — Jacques Derrida
 
-This matters because institutional memory is never just an operational concern. It decides who gets to participate in judgment. If the archive is unreadable, those who already know the story gain power. If the dashboard defines what counts, the unmeasured becomes politically weak. If the documentation records procedures but not reasons, newcomers can obey the system without understanding it.
+That is the point. The archive is not a container after the fact. It is part of the fact. It decides what can be retrieved, what can be trusted, what can be forgotten without anyone noticing. A bad archive does not only make work inefficient. It quietly reorganizes power.
 
-In such an institution, knowledge is not absent. It is enclosed.
+If the dashboard defines what counts, the unmeasured becomes weak. If the documentation records procedures but not reasons, newcomers can obey without understanding. If context lives in private notes and old chats, participation depends on access to the right informal channels.
 
-The enclosure is rarely intentional. Most people are not trying to hoard context. They are busy. They write things down quickly. They create a document for a meeting, not for the future. They make a dashboard for reporting, not for understanding. They keep private notes because the shared system is too slow, too rigid, or too performative.
+Knowledge is not absent in such an institution.
+
+It is enclosed.
+
+This enclosure is rarely deliberate. Most people are not trying to hoard context. They are busy. They write the document for the meeting, not for the future. They build the dashboard for reporting, not for understanding. They keep private notes because the shared system is too slow, too rigid, or too performative.
 
 Little by little, the institution fills with traces that no longer compose a world.
 
-Artificial intelligence enters this scene with almost perfect timing. It promises to search the mess, summarize the archive, connect fragments, and finally make the institution’s hidden knowledge usable.
+Then AI arrives, promising to search the mess.
 
-That promise is not empty. A machine that can move through institutional residue is not trivial. But AI also makes the confusion between storage and memory more dangerous. It can search the archive, summarize the archive, and speak in the voice of the archive. If the archive has confused accumulation with memory, AI will only make that confusion faster and more fluent.
+That promise is not empty. A machine that can move through institutional residue is not trivial. But if the archive has confused accumulation with memory, AI will not fix that confusion. It will accelerate it.
 
-An institution does not become wiser because its confusion becomes searchable.
+It can search the archive.  
+It can summarize the archive.  
+It can speak in the voice of the archive.
+
+But an institution does not become wiser because its confusion becomes searchable.
 
 The question is not whether AI can find things. Increasingly, it can. The question is whether the things it finds still carry enough context to matter. Was this document an agreement, a proposal, a performance, or a temporary patch that hardened into procedure? Why was this decision made? Who contested it? Which assumption no longer holds?
 
 Retrieval without context is not memory. It is archaeology with better tooling.
 
-This is where many institutional reforms go wrong. They assume the answer to bad memory is more preservation. More documentation, more dashboards, more templates, more capture. But preservation can become its own form of forgetting. The institution keeps the trace and loses the practice. It saves the file and loses the reason. It remembers everything except what mattered.
+This is where many institutional reforms go wrong. They assume the answer to bad memory is more preservation. More documentation, more dashboards, more templates, more capture.
 
-New institutions will need a different discipline. Not total visibility, which usually ends in paranoia. Not less memory, which only returns power to insiders. What they need are living forms of memory: forms close enough to practice to stay useful, but durable enough to travel across time.
+But preservation can become its own form of forgetting.
 
-Forms that can be revised, questioned, linked, pruned, inhabited, and repaired. Forms that make reasons available without pretending to replace judgment. Forms that remember without mistaking themselves for the territory.
+The institution keeps the trace and loses the practice. It saves the file and loses the reason. It remembers everything except what mattered.
+
+New institutions need a different discipline. Not total visibility, which usually ends in paranoia. Not less memory, which only returns power to insiders. They need forms of memory close enough to practice to stay alive, but durable enough to travel across time.
+
+Forms that can be revised, questioned, linked, pruned, inhabited, and repaired.
+
+Forms that remember without mistaking themselves for the territory.
 
 Because the problem is rarely that institutions know nothing.
 
