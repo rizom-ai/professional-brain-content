@@ -71,7 +71,13 @@ The point is not total transparency. The point is navigability.
 
 People should be able to find what matters. They should be able to understand how decisions were made, where responsibility sits, what histories shaped the present, and which assumptions are still alive. They should not need clairvoyance, seniority, or social luck to participate intelligently.
 
-Korzybski’s old warning that the map is not the territory is useful here, as long as it is not turned into an excuse to abandon maps altogether. Of course the record is not reality. Of course the archive is partial. Of course no diagram can contain a living institution. But without maps, territories belong to those who already know the paths.
+This is where Korzybski’s old warning becomes useful:
+
+> The map is not the territory.
+>
+> — Alfred Korzybski
+
+The point is not to pretend that a record can replace reality. Of course the archive is partial. Of course no diagram can contain a living institution. But the warning should not become an excuse to abandon maps altogether. Without maps, territories belong to those who already know the paths.
 
 That is the democratic stake of legibility. When institutional knowledge is hidden, participation becomes unequal by default. Some people act with context while others guess. Some can invoke history while others repeat it unknowingly. Some can coordinate across the whole while others remain trapped in the portion of the system they were handed.
 
