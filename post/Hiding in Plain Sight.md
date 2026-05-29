@@ -8,6 +8,7 @@ excerpt: >-
   dashboards, and AI systems can make this worse when they confuse storage with
   understanding.
 author: Yeehaa
+coverImageId: hiding-in-plain-sight-cover-image
 seriesName: New Institutions
 seriesIndex: 3
 ---
