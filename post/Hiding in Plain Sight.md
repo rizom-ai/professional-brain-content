@@ -46,46 +46,16 @@ Jacques Derrida’s phrase “archive fever” is useful here, because it captur
 >
 > — Jacques Derrida
 
-That is the point. The archive is not a container after the fact. It is part of the fact. It decides what can be retrieved, what can be trusted, what can be forgotten without anyone noticing. A bad archive does not only make work inefficient. It quietly reorganizes power.
+That is the point. The archive is not a container that passively receives the past once the real work is over. It is part of the real work. It decides what can be retrieved, what can be trusted, what can be forgotten without anyone noticing. A bad archive does not only make work inefficient; it quietly reorganizes power. If the dashboard defines what counts, the unmeasured becomes weak. If the documentation records procedures but not reasons, newcomers can obey without understanding. If context lives in private notes and old chats, participation depends on access to the right informal channels.
 
-If the dashboard defines what counts, the unmeasured becomes weak. If the documentation records procedures but not reasons, newcomers can obey without understanding. If context lives in private notes and old chats, participation depends on access to the right informal channels.
+In such an institution, knowledge is not absent. It is enclosed. Usually not by malice, but by the ordinary fatigue of institutional life. People write the document for the meeting, not for the future. They build the dashboard for reporting, not for understanding. They keep private notes because the shared system is too slow, too rigid, or too performative. Little by little, the institution fills with traces that no longer compose a world.
 
-Knowledge is not absent in such an institution.
+Then AI arrives, promising to search the mess. That promise is not empty: a machine that can move through institutional residue is not trivial. But if the archive has confused accumulation with memory, AI will not fix that confusion. It will accelerate it. It can search the archive, summarize the archive, and speak in the voice of the archive, but an institution does not become wiser because its confusion becomes searchable. The question is not whether AI can find things. Increasingly, it can. The question is whether the things it finds still carry enough context to matter: whether a document was an agreement, a proposal, a performance, or a temporary patch that hardened into procedure.
 
-It is enclosed.
+Retrieval without context is not memory. It is archaeology with better tooling. This is where many institutional reforms go wrong. They assume the answer to bad memory is more preservation: more documentation, more dashboards, more templates, more capture. But preservation can become its own form of forgetting. The institution keeps the trace and loses the practice. It saves the file and loses the reason. It remembers everything except what mattered.
 
-This enclosure is rarely deliberate. Most people are not trying to hoard context. They are busy. They write the document for the meeting, not for the future. They build the dashboard for reporting, not for understanding. They keep private notes because the shared system is too slow, too rigid, or too performative.
+New institutions need a different discipline. Not total visibility, which usually ends in paranoia. Not less memory, which only returns power to insiders. They need forms of memory close enough to practice to stay alive, but durable enough to travel across time; forms that can be revised, questioned, linked, pruned, inhabited, and repaired; forms that remember without mistaking themselves for the territory.
 
-Little by little, the institution fills with traces that no longer compose a world.
-
-Then AI arrives, promising to search the mess.
-
-That promise is not empty. A machine that can move through institutional residue is not trivial. But if the archive has confused accumulation with memory, AI will not fix that confusion. It will accelerate it.
-
-It can search the archive.  
-It can summarize the archive.  
-It can speak in the voice of the archive.
-
-But an institution does not become wiser because its confusion becomes searchable.
-
-The question is not whether AI can find things. Increasingly, it can. The question is whether the things it finds still carry enough context to matter. Was this document an agreement, a proposal, a performance, or a temporary patch that hardened into procedure? Why was this decision made? Who contested it? Which assumption no longer holds?
-
-Retrieval without context is not memory. It is archaeology with better tooling.
-
-This is where many institutional reforms go wrong. They assume the answer to bad memory is more preservation. More documentation, more dashboards, more templates, more capture.
-
-But preservation can become its own form of forgetting.
-
-The institution keeps the trace and loses the practice. It saves the file and loses the reason. It remembers everything except what mattered.
-
-New institutions need a different discipline. Not total visibility, which usually ends in paranoia. Not less memory, which only returns power to insiders. They need forms of memory close enough to practice to stay alive, but durable enough to travel across time.
-
-Forms that can be revised, questioned, linked, pruned, inhabited, and repaired.
-
-Forms that remember without mistaking themselves for the territory.
-
-Because the problem is rarely that institutions know nothing.
-
-The problem is that their knowledge is often hiding inside the very systems meant to preserve it.
+Because the problem is rarely that institutions know nothing. The problem is that their knowledge is often hiding inside the very systems meant to preserve it.
 
 Hiding in plain sight is still hiding.
