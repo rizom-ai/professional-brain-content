@@ -3,138 +3,87 @@ title: Hiding in Plain Sight
 slug: hiding-in-plain-sight
 status: draft
 excerpt: >-
-  Institutions often do not fail because knowledge is absent. They fail because
-  what they know cannot be seen, trusted, or used. The intelligence is already
-  there, but without legible surfaces it behaves like ignorance.
+  Institutions do not only decay when they lose legitimacy. They also decay when
+  they can no longer recognize what they already know. Memory, judgment, and
+  responsibility remain present, but hidden inside people, fragments, and
+  informal routines.
 author: Yeehaa
 seriesName: New Institutions
 seriesIndex: 3
 ---
-> The map is not the territory.
->
-> — Alfred Korzybski
+Institutions do not only collapse when they lose legitimacy. Sometimes they collapse because they can no longer recognize what they already know.
 
-Institutions rarely know as little as they appear to know.
+That failure is harder to see. A broken social contract is dramatic. A hollowed-out office is visible. A heroic person carrying too much weight can at least be named. But an institution that has lost access to its own intelligence often continues to look functional. People still meet. Documents still circulate. Decisions still get made. The archive is full, the Slack is busy, the shared drive is overflowing. Nothing appears to be missing.
 
-This is one of the stranger experiences of organizational life. From the outside, an institution may seem confused, slow, repetitive, or strangely incapable of learning from its own history. The same questions return. The same mistakes reappear. The same decisions are reconstructed from fragments, as if no one had ever made them before.
+And yet the same questions keep returning.
 
-Yet when you look more closely, the intelligence is often there.
+Why did we decide this again? Who owns this? Was this tried before? Where did that agreement go? Why does every new person have to rediscover the same terrain? Why does the institution behave as if it has no memory, while everyone inside it is drowning in traces of memory?
 
-Someone remembers why the rule exists. Someone knows which agreement was made and then quietly forgotten. Someone can explain why the tool was adopted, why the process failed, why the partnership stalled, why the same problem keeps returning under slightly different names.
+This is the strange condition I want to get at. The knowledge is not absent. It is present in the wrong form. It lives in a person, in a half-remembered meeting, in a document nobody trusts, in an exception that became routine, in a decision that survived but lost its reasons. It is there, but not available to the institution as such.
 
-The knowledge has not disappeared.
+So it behaves like ignorance.
 
-It is hiding in plain sight.
+This is a different problem from the one I described in *Heroics Are Not Infrastructure*. There, the concern was what happens when institutions start outsourcing their own memory, coordination, and authority to exceptional people. The veteran, the fixer, the founder, the colleague who somehow knows how everything works. This essay is about the condition that makes such people necessary in the first place: the absence of forms through which an institution can know itself without constantly routing that knowledge through particular bodies.
 
-That is the peculiar failure I am interested in here. Not the absence of intelligence, but its invisibility. Not the empty institution, but the institution that contains more knowledge than it can actually use.
+That distinction matters because it prevents a tempting mistake. The problem is not that people know too much. Institutions need experience. They need judgment, craft, memory, and situated knowledge. No serious institution can function through procedure alone. The fantasy that everything important can be made explicit is just bureaucracy dreaming of total control.
 
-A great deal of institutional decay begins in this gap. What people know and what the institution can know are not the same thing. A person can remember. A team can develop habits. A community can accumulate judgment. But unless that memory acquires a form that others can find, question, trust, and act on, it remains local. It belongs to the person, the room, the chat thread, the moment.
+But the opposite fantasy is just as dangerous: the belief that because knowledge is contextual, it can remain informal forever. Tacit knowledge is not a problem in itself. It becomes a problem when it is the only way the institution remembers. Then proximity becomes epistemology. If you know the right person, you know the thing. If you were present when the practice began, you inherit authority over it. If you arrived later, you move through hints, rituals, and social access.
 
-From the perspective of the institution, it may as well not exist.
+The institution may be full of modern tools, but its way of knowing becomes strangely feudal.
 
-This is why hidden knowledge behaves so much like ignorance. It produces the same symptoms: repetition, hesitation, duplicated work, fragile handovers, informal gatekeeping, and a constant dependence on the people who happen to know where things are buried.
+This is why calls for “better communication” so often miss the point. Many institutions communicate constantly. They produce endless updates, meetings, summaries, channels, decks, and announcements. They are not silent. They are noisy. But noise is not memory, and movement is not orientation. More communication can even deepen the problem when every new signal becomes another place where context might disappear.
 
-Everyone has seen this happen. A new person joins and is told to read the documentation, though the documentation no longer reflects the work. A decision is revisited because no one can find the reason it was made. A responsibility exists, but only as a tacit expectation. A process appears clear until the one person who understands its exceptions is on holiday. A team says it needs better communication, when what it really lacks is a shared surface on which its own knowledge can appear.
+What is missing is not communication in general, but a reliable way for knowledge to become institutionally available. Decisions need to keep their reasons. Responsibilities need to be locatable. Histories need to remain attached to the practices they shaped. Disagreements need somewhere to land other than the mood of the last meeting. People need to be able to participate without first becoming expert archaeologists of the organization.
 
-Communication is often the wrong remedy.
+This is where legibility enters, though I use the word carefully. Legibility is often mistaken for bureaucracy: more forms, cleaner dashboards, stricter templates, better taxonomies. But bureaucracy can produce a very convincing performance of legibility while leaving the institution just as unreadable as before. Anyone who has inherited a beautiful folder structure full of obsolete documents knows this. Anyone who has filled in a template that everyone ignores knows this. Anyone who has watched a dashboard measure everything except the thing that matters knows this.
 
-Institutions do not become legible by talking more. They can become extremely communicative and remain profoundly unknowable. More messages do not necessarily create more memory. More meetings do not necessarily create more shared judgment. More updates can even make the problem worse, adding movement without orientation.
+Legibility is not the accumulation of records. It is the capacity to orient.
 
-Communication sends signals through the system. Legibility changes what the system can perceive.
+Can a newcomer understand where the real decisions live? Can a team see how its work touches other work? Can an institution remember why a rule exists, and whether that reason still holds? Can it distinguish between a principle, a habit, and a workaround? Can responsibility be found without asking five people and hoping that the fifth person is not on holiday?
 
-That distinction matters. A legible institution does not merely circulate information. It gives knowledge a place to land. It makes decisions retrievable, responsibilities visible, assumptions contestable, and history available to those who were not present when it happened.
+These sound like practical questions, but they are political ones. Hidden knowledge is never neutral. If only a few people can see the relevant context, only a few people can exercise judgment. If only a few people understand the history, only a few people can argue with it. If only a few people know where responsibility actually sits, power collects around the ability to navigate the fog.
 
-Without that, the institution becomes strangely medieval. Knowledge travels through proximity. If you know the right person, you know the thing. If you were present at the origin, you inherit authority over the practice. If you joined later, you navigate through hints, rituals, and social access. The institution may have modern tools, but its epistemology remains feudal.
+An institution can call itself distributed while remaining dependent on private maps.
 
-This is not simply inefficient. It is political.
+This is one of the reasons distributed work has been so revealing. Offices concealed a great deal of institutional weakness through proximity. People overheard enough to stay roughly oriented. They learned who to ask. They absorbed context through repetition. They discovered which documents mattered and which were ceremonial. They knew which meeting was theatre and which conversation would decide the work.
 
-Hidden knowledge is never neutral. If only a few people can see the relevant context, only a few people can exercise judgment. If only a few people understand the history, only a few people can make informed decisions. If only a few people know where the real work happens, coordination becomes a private art.
+Once that ambient layer disappears, institutions often discover that the shared understanding was never shared in the first place. It was nearby. It was carried by presence, habit, seniority, and informal repair. Distance does not create this fragility so much as expose it. What was previously absorbed by proximity now has to acquire form.
 
-The institution may describe itself as distributed, but power remains concentrated in whoever can navigate the fog.
+Artificial intelligence exposes the same weakness from another angle.
 
-In the previous essay, I wrote that heroics are not infrastructure. When institutions can no longer carry their own memory, authority, and coordination, they begin to lean on exceptional people. The veteran, the fixer, the founder, the teacher, the colleague who somehow knows how everything works.
+The current promise is that AI will help organizations retrieve what they know, summarize what they have written, connect scattered fragments, and coordinate more intelligently. There is truth in that promise. But it also reveals a dependency that cannot be skipped. AI can only work with what the institution has made available to be worked with. If memory is scattered across private drives, stale documents, chat fragments, personal notes, abandoned tools, and oral tradition, AI will not magically produce coherence. It may produce a fluent imitation of coherence. It may summarize the swamp.
 
-This essay is about the condition that makes those heroes necessary.
+That is useful, perhaps, but it is not the same as institutional memory.
 
-Institutions rely on heroes when their own intelligence has no durable form. The hero is not only the person who knows more. The hero is the person through whom the institution is forced to know itself. They become the archive, the interface, the search engine, the exception handler, the informal constitution.
+In this sense, AI is less a solution to institutional illegibility than a stress test for it. It asks a brutally simple question: what can this institution actually see? Not what does it possess, not what has it stored, not what have people once said somewhere, but what can it retrieve, trust, situate, and act on without turning every answer into a new excavation?
 
-We should be careful here. The problem is not expertise. Institutions need experience, judgment, memory, and craft. The problem begins when these qualities cannot circulate without becoming trapped in particular bodies. At that point expertise stops strengthening the institution and starts compensating for its absence of form.
+This is why knowledge infrastructure matters, though the term can sound colder than the work actually is. It is not simply a software layer. It is not a better database, a cleaner wiki, or a more obedient archive. Knowledge infrastructure is the set of technical, social, and political arrangements through which an institution remembers across time. It includes tools, but also naming practices, decision logs, review rhythms, ownership norms, shared vocabularies, archival habits, and the collective discipline to decide what deserves to be remembered.
 
-A healthy institution does not eliminate tacit knowledge. That would be both impossible and undesirable. Much of what matters in any living system remains contextual, practiced, and embodied. The goal is not to turn every gesture into a procedure or every judgment into a checklist.
+Above all, it is a way of giving care a durable form.
 
-The goal is to create enough surface for the institution to recognize itself.
+I have seen the absence of this most clearly in education and community projects. These settings are often full of good intentions and capable people. They contain enormous practical intelligence. Teachers, organizers, mentors, designers, and students constantly learn what works and what does not. But too often that learning remains attached to the cohort, the project, the person, the moment. The next cycle begins closer to zero than anyone wants to admit. The work continues, but the institution does not necessarily become wiser.
 
-A surface is not just a document. Documents can hide knowledge as easily as they reveal it. Anyone who has inherited a folder full of outdated files knows this. A surface is where knowledge becomes usable. It is where context, responsibility, memory, and decision-making become available to people who were not already inside the room.
+That is not because people failed to care. It is because care was not held in a form that could travel.
 
-Good surfaces do not replace judgment. They make judgment shareable.
+New institutions will need to take this seriously. Not because documentation is exciting, or because every practice should be captured, standardized, and optimized. Quite the opposite. Institutions that try to make everything visible usually end up confusing visibility with control. They become paranoid machines of reporting. A living institution needs ambiguity, discretion, informal judgment, and room for things that are still becoming clear.
 
-This is why legibility should not be confused with bureaucracy. Bureaucracy often produces the appearance of legibility: forms, templates, dashboards, protocols, taxonomies. But an institution can be heavily documented and still impossible to understand. It can measure everything except what matters. It can create records that no one trusts and procedures that everyone performs while quietly working around them.
+The point is not total transparency. The point is navigability.
 
-Legibility is not the accumulation of paperwork. It is the capacity to orient.
+People should be able to find what matters. They should be able to understand how decisions were made, where responsibility sits, what histories shaped the present, and which assumptions are still alive. They should not need clairvoyance, seniority, or social luck to participate intelligently.
 
-Can a newcomer understand where decisions live? Can a team see how its work connects to other work? Can a disagreement find the history it needs? Can a responsibility be located without asking five people? Can the institution remember why it changed direction? Can it tell the difference between a rule, a habit, and a workaround?
+Korzybski’s old warning that the map is not the territory is useful here, as long as it is not turned into an excuse to abandon maps altogether. Of course the record is not reality. Of course the archive is partial. Of course no diagram can contain a living institution. But without maps, territories belong to those who already know the paths.
 
-These are not administrative questions. They are questions of institutional intelligence.
+That is the democratic stake of legibility. When institutional knowledge is hidden, participation becomes unequal by default. Some people act with context while others guess. Some can invoke history while others repeat it unknowingly. Some can coordinate across the whole while others remain trapped in the portion of the system they were handed.
 
-An institution that cannot see itself cannot govern itself well. It cannot learn cleanly, because learning requires comparison across time. It cannot distribute responsibility, because responsibility requires shared context. It cannot collaborate reliably, because collaboration depends on more than goodwill. It depends on the ability to find and trust the relevant pieces of a shared world.
+Institutions do not lose themselves only through crisis. They also lose themselves one tacit assumption at a time.
 
-Distributed work has made this more visible.
+The answer is not to replace living judgment with static procedure. The answer is to build forms that can remain alive: forms that can be revised, questioned, linked, inhabited, and repaired. Forms that preserve enough memory to prevent constant reinvention, but not so much rigidity that the institution mistakes its records for reality. Forms that allow knowledge to move beyond the heads of the exhausted without pretending that knowledge can ever be fully separated from practice.
 
-Co-present institutions could hide a great deal inside proximity. People overheard enough to stay oriented. They absorbed context through repetition. They learned who to ask, which meeting mattered, which document could be ignored, which rule was ceremonial, which person held the real memory.
-
-Distance weakens those informal repairs. Once people are no longer in the same room by default, the hidden structure comes into view. What used to be ambient must become explicit. What used to be carried by presence must acquire form. The institution discovers, often painfully, that many things were never actually shared. They were merely nearby.
-
-AI exposes the same problem from another direction.
-
-Many organizations hope that AI will help them retrieve, summarize, connect, and coordinate what they already know. In principle, that hope is reasonable. But it also reveals the dependency that has always been there: AI can only work with what the institution has made available to be worked with.
-
-If the institution's memory is scattered across private drives, stale documents, chat fragments, personal notes, abandoned tools, and oral tradition, AI will not magically produce coherence. It may produce a fluent imitation of coherence. It may summarize the swamp. It may connect fragments that should never have been separated in the first place. It may make institutional confusion more articulate.
-
-But it cannot substitute for the prior work of making knowledge trustworthy, situated, and retrievable.
-
-In that sense, AI is less a solution to institutional illegibility than a stress test for it. It shows whether an organization has memory in a form that can be used, or only traces that require human archaeology. It reveals whether context has been preserved, or merely assumed. It asks, with brutal innocence: what can this institution actually see?
-
-This is why knowledge infrastructure matters.
-
-Not as a software category. Not as another layer of organizational hygiene. Not as the fantasy that a better database will finally redeem a broken culture. Knowledge infrastructure is the institutional capacity to remember, orient, and act across time.
-
-It includes tools, of course, but it is not reducible to tools. It includes naming conventions, documentation practices, decision logs, archives, taxonomies, retrieval systems, ownership norms, review rhythms, and the social agreements that determine what deserves to be remembered. It is technical, cultural, and political at the same time.
-
-Most importantly, it decides what kind of institution can exist.
-
-An institution without durable memory lives in the present tense. It can react, improvise, and perform competence for a while, especially if enough capable people are willing to compensate. But it struggles to accumulate. Every transition becomes a small amnesia. Every new project begins by rediscovering old terrain. Every departure removes more than a person; it removes a portion of the institution's capacity to know itself.
-
-I have seen this most clearly in education and community projects. Good intentions are everywhere. So are smart people, careful people, and people with deep practical judgment. But cumulative learning is surprisingly rare. Each cohort starts closer to zero than anyone wants to admit. Each initiative inherits fragments instead of memory. The work continues, but the institution does not always become wiser.
-
-That is not because people failed to care.
-
-It is because care was not given form.
-
-This may be the most underrated task of new institutions: to make care durable without making it dead. To make memory available without freezing practice. To make coordination visible without turning everything into control. To make responsibility clear without pretending that complexity can be eliminated.
-
-The institution does not need to become transparent in some naive totalizing sense. Total transparency is often just another fantasy of control. Institutions need privacy, ambiguity, discretion, and room for informal judgment. Not everything should be visible to everyone at all times.
-
-But an institution does need to become navigable.
-
-The people inside it should be able to find what matters. They should be able to understand how decisions were made, where responsibility sits, what histories shaped the present, and which assumptions are still alive. They should not need clairvoyance, seniority, or social luck to participate intelligently.
-
-This is where legibility becomes a democratic condition.
-
-When knowledge is hidden, participation is unequal by default. Some people can act with context. Others can only guess. Some can invoke history. Others must rediscover it. Some can coordinate across the institution. Others remain confined to the part of the map they were handed.
-
-The map is not the territory, but without maps we leave the territory to those who already know the paths.
-
-New institutions will not be built by documentation alone. They will not be saved by dashboards, AI copilots, knowledge graphs, or cleaner archives. But they will need forms through which their own intelligence can become available to themselves.
-
-Not perfect forms. Living forms.
-
-Forms that can be revised, questioned, linked, inhabited, and repaired. Forms that preserve enough memory to prevent constant reinvention, but not so much rigidity that the institution mistakes its records for reality. Forms that make it possible for judgment to move beyond the heads of the exhausted.
-
-Because the problem is not that institutions know nothing.
+Because the problem is rarely that institutions know nothing.
 
 The problem is that they often cannot see what they know.
 
-And once you notice that, you begin to see it everywhere: the answer already present, but inaccessible; the decision already made, but detached from its reasons; the responsibility already real, but unnamed; the intelligence already alive, but unavailable to the collective that produced it.
+And once you notice that, you begin to see it everywhere: the decision already made but detached from its reasons, the responsibility already real but unnamed, the answer already present but inaccessible, the intelligence already alive but unavailable to the collective that produced it.
 
 Hiding in plain sight is still hiding.
 
