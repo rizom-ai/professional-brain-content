@@ -26,7 +26,7 @@ That is why the familiar complaint that organizations need to “capture knowled
 
 But memory is not storage. Memory is the capacity to make the past available to the present in a meaningful way.
 
-The difference is decisive. Storage keeps traces. Memory preserves orientation. Storage answers the question: where did we put it? Memory answers a harder one: what does this mean for us now?
+Storage keeps traces. Memory preserves orientation. Storage answers the question: where did we put it? Memory answers a harder one: what does this mean for us now?
 
 > The map is not the territory.
 >
@@ -39,24 +39,6 @@ A policy is not a practice. A folder is not a memory. A diagram is not an organi
 This is where institutional knowledge becomes political. When the record is unusable, power moves toward those who can interpret the ruins. The person who remembers the old decision becomes more important than the place where decisions supposedly live. The person who knows which document can be ignored becomes more important than the document. The person who understands the informal exception becomes more important than the formal rule.
 
 The institution may appear transparent because everything is stored somewhere. In practice, it remains opaque because only a few people can turn storage back into meaning.
-
-Michel de Certeau understood that formal order never fully contains lived practice. In *The Practice of Everyday Life*, he describes the imposed order of the city as something constantly perforated by the movements of those who inhabit it:
-
-> The surface of this order is everywhere punched and torn open by ellipsis, drifts, and leaks of meaning: it is a sieve-order.
->
-> — Michel de Certeau
-
-Institutions are sieve-orders too. The chart leaks. The process leaks. The archive leaks. The official structure is continuously reinterpreted by the people who actually have to make it work. That is not a defect to be eliminated. It is how practice stays alive.
-
-The trouble begins when the leaks are the only place where intelligence can live.
-
-If every meaningful exception remains informal, the formal system becomes ceremonial. If every important decision loses its reason, the archive becomes a graveyard. If every practice depends on someone knowing how to work around the stated process, the institution no longer has a memory. It has folklore.
-
-Folklore can be rich, but it does not distribute easily. You inherit it through proximity, repetition, and social access. You learn it by being around the right people long enough to understand what everyone supposedly knows. That can work in small, stable communities. It becomes brittle in institutions that are distributed, asynchronous, changing, or trying to invite new people in without forcing them through years of initiation.
-
-This is why so many institutions are both over-documented and under-understood.
-
-They have records, but not memory. They have communication, but not orientation. They have tools for retrieval, but not shared judgment about what deserves to be retrieved. Every new system promises to solve the problem by making information easier to store, search, or summarize. Yet the institution remains oddly unable to learn.
 
 Jacques Derrida’s phrase “archive fever” is useful here, because it captures the desire to secure the past by gathering its traces. The archive promises control over what might otherwise disappear. But Derrida also reminds us that an archive is never neutral. It does not merely preserve memory; it shapes what memory can become.
 
@@ -83,16 +65,6 @@ In that case, the institution does not become wiser. It becomes more articulate 
 This is why the question is not whether AI can find things. Increasingly, it can. The question is whether the things it finds still carry enough context to matter. Why was this decision made? Who contested it? What alternative was rejected? Which assumption no longer holds? Was this document an agreement, a proposal, a performance, or a temporary patch that hardened into procedure?
 
 Retrieval without context is not memory. It is archaeology with better tooling.
-
-Vannevar Bush already understood, in 1945, that the problem of knowledge was not only storage but association. In “As We May Think,” he imagined the memex as a device that would help people create trails through information, because human thought does not move like a filing cabinet. It moves by relation, relevance, and use.
-
-> The human mind... operates by association.
->
-> — Vannevar Bush
-
-That insight is still ahead of many institutional systems. Most knowledge infrastructures are built as if the main challenge is putting things in the right place. But institutions do not remember through placement alone. They remember through relations: between decision and consequence, role and responsibility, principle and exception, document and practice, past and present.
-
-A living memory system therefore cannot be only an archive. It has to preserve trails. It has to show why things are connected, who cared, what changed, which meanings survived, and which ones should be allowed to die.
 
 This is where care enters the picture.
 
