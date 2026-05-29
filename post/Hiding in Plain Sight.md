@@ -28,6 +28,14 @@ But memory is not storage. Memory is the capacity to make the past available to 
 
 Storage keeps traces. Memory preserves orientation. Storage answers the question: where did we put it? Memory answers a harder one: what does this mean for us now?
 
+In *On the Use and Abuse of History for Life*, Nietzsche already warned against history that detaches itself from life and becomes an end in itself. The problem was not memory as such, but memory that no longer strengthens action.
+
+> Only insofar as history serves life do we want to serve history.
+>
+> — Friedrich Nietzsche
+
+That is a useful test for institutional memory. Does the record still serve life, or has it become a monument to its own preservation? Does the archive help the institution act, or does it merely prove that something once happened?
+
 > The map is not the territory.
 >
 > — Alfred Korzybski
