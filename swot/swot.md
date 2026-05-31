@@ -2,44 +2,36 @@
 strengths:
   - title: Critical writing
     detail: >-
-      Use your essay and cultural-analysis strength for polished arguments,
-      outlines, and publishable posts, and pair it with your network’s sharper
-      editing when you want the point of view tightened.
-  - title: Knowledge structure
-    detail: >-
-      Use this to organize, capture, and circulate knowledge, and lean on your
-      network for cleaner record structure and retrieval when the system starts
-      to get messy.
+      Use your essay and positioning strength for clear arguments, and let your
+      writing-capable network help with editing and publication polish.
 weaknesses:
   - title: Facilitation
     detail: >-
-      Do not assume you can run workshops or group sessions smoothly yet; if
-      collaboration matters, pair yourself with someone who can hold the room
-      and structure the discussion.
+      Do not assume you can run workshops smoothly yet; pair with a facilitator
+      or test a small session before depending on it.
   - title: Video production
     detail: >-
-      Treat video work as a gap and avoid promising production-heavy output
-      unless you add a dedicated video-capable partner.
+      Treat video as a weak area and avoid making it part of core delivery
+      unless you bring in help.
 opportunities:
-  - title: Search and retrieve
+  - title: Knowledge infrastructure
     detail: >-
-      Use search and get to speed up your own knowledge work by testing faster
-      retrieval, verification, and follow-up on specific items.
+      Use your analysis and ecosystem thinking to turn ideas into a clearer
+      knowledge system, and test structure with the network’s organization
+      skills.
   - title: Readiness planning
     detail: >-
-      Use this to turn rough priorities into a release or content plan, and test
-      it whenever you need to check what is ready versus still unclear.
+      Use this network skill to turn project ideas into sequenced next steps,
+      priorities, and release-ready plans.
 threats:
-  - title: Visualization
+  - title: Video production gap
     detail: >-
-      If a project depends on diagrams or visual explanation, do not rely on
-      your current setup alone; bring in a visual complement before the idea has
-      to stand on its own.
-  - title: Extensible systems design
+      If a project needs video soon, it may stall unless you line up an outside
+      collaborator.
+  - title: Workshop risk
     detail: >-
-      Be cautious with architecture-heavy work that needs deep extensibility,
-      because your current support looks stronger on analysis than on full
-      runtime or plugin-boundary design.
-derivedAt: '2026-05-18T09:07:41.340Z'
+      Live or collaborative sessions may stay shaky unless you add a facilitator
+      or keep the format tightly scripted.
+derivedAt: '2026-05-31T07:51:33.807Z'
 ---
 
