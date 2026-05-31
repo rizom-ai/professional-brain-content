@@ -11,10 +11,11 @@ fields:
   - id: status
     name: status
     options:
-      '0': draft
-      '1': queued
-      '2': published
-      '3': failed
+      '0': generating
+      '1': draft
+      '2': queued
+      '3': published
+      '4': failed
     type: Select
   - id: coverImageId
     name: coverImageId

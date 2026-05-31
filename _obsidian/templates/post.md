@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 slug: ""
-status: draft
+status: generating
 publishedAt: ""
 excerpt: ""
 author: ""
