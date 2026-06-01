@@ -48,5 +48,8 @@ fields:
   - id: canonicalUrl
     name: canonicalUrl
     type: Input
+  - id: atprotoUri
+    name: atprotoUri
+    type: Input
 filesPaths: post
 ---
