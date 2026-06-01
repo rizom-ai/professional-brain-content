@@ -1,7 +1,7 @@
 ---
-name: Brain
+name: Smoke
 kind: professional
-brainName: Brain
+brainName: Smokey
 url: 'https://smoke.rizom.ai/a2a'
 status: approved
 discoveredAt: '2026-04-13T06:16:52.625Z'
@@ -9,7 +9,7 @@ discoveredAt: '2026-04-13T06:16:52.625Z'
 # Agent
 
 ## About
-Brain is Unknown's Knowledge assistant. Its purpose is: Help organize, understand, and retrieve information from your knowledge base.
+Smokey is Smoke's Knowledge assistant. Its purpose is: Help organize, understand, and retrieve information from your knowledge base.
 
 ## Skills
 

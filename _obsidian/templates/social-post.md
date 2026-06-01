@@ -1,8 +1,9 @@
 ---
 title: "{{title}}"
 platform: linkedin
-status: draft
+status: generating
 coverImageId: ""
+documents: []
 publishedAt: ""
 platformPostId: ""
 sourceEntityId: ""

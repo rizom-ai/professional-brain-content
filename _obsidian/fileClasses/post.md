@@ -9,9 +9,11 @@ fields:
   - id: status
     name: status
     options:
-      '0': draft
-      '1': queued
-      '2': published
+      '0': generating
+      '1': draft
+      '2': queued
+      '3': published
+      '4': failed
     type: Select
   - id: publishedAt
     name: publishedAt
@@ -45,6 +47,9 @@ fields:
     type: Select
   - id: canonicalUrl
     name: canonicalUrl
+    type: Input
+  - id: atprotoUri
+    name: atprotoUri
     type: Input
 filesPaths: post
 ---

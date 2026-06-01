@@ -1,6 +1,6 @@
 ---
 subject: ""
-status: draft
+status: generating
 entityIds: []
 scheduledFor: ""
 sentAt: ""

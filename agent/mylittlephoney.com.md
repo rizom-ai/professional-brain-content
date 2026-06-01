@@ -1,5 +1,5 @@
 ---
-name: Phoney
+name: Sam Shao
 kind: professional
 brainName: Phoney
 url: 'https://mylittlephoney.com/a2a'

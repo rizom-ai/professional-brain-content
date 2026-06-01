@@ -3,7 +3,7 @@ title: "{{title}}"
 slug: ""
 description: ""
 author: ""
-status: draft
+status: generating
 publishedAt: ""
 event: ""
 coverImageId: ""
