@@ -1,20 +1,22 @@
 ---
 name: Knowledge Infrastructure Design
 description: >-
-  Design learning and knowledge systems that help people create, connect, and
-  reuse information over time.
+  Develop systems that capture, organize, and circulate institutional memory and
+  learning across people and projects.
 tags:
-  - classification
   - analysis
   - ecosystem-architecture
   - community-building
+  - classification
 examples:
-  - Help me design a knowledge infrastructure for a growing organization.
   - >-
-    How should we structure learning resources so they stay useful as the
-    community grows?
+    Design a knowledge infrastructure for an organization that struggles with
+    memory loss.
   - >-
-    Evaluate this knowledge system and suggest improvements for discoverability
-    and reuse.
+    Help me structure a repository for lessons learned, decisions, and reusable
+    patterns.
+  - >-
+    Create a model for turning tacit knowledge into shared organizational
+    memory.
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Public Badges
 slug: public-badges
+coverImageId: public-badges-series-cover-image-v2
 ---
 # Public Badges
 

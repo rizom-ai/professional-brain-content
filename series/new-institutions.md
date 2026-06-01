@@ -1,6 +1,7 @@
 ---
 title: New Institutions
 slug: new-institutions
+coverImageId: new-institutions-series-cover-image-v2
 ---
 # New Institutions
 
