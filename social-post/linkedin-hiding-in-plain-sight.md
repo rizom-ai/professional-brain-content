@@ -2,6 +2,7 @@
 title: LinkedIn — Hiding in Plain Sight
 platform: linkedin
 status: draft
+coverImageId: hiding-in-plain-sight-linkedin-image
 sourceEntityId: Hiding in Plain Sight
 sourceEntityType: post
 ---
