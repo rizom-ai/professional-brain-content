@@ -1,8 +1,9 @@
 ---
 title: LinkedIn — Hiding in Plain Sight
 platform: linkedin
-status: draft
+status: published
 coverImageId: hiding-in-plain-sight-linkedin-image-blue-v3
+publishedAt: '2026-06-03T09:38:21.748Z'
 sourceEntityId: Hiding in Plain Sight
 sourceEntityType: post
 ---
