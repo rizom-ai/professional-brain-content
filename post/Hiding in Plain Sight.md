@@ -3,9 +3,10 @@ title: Hiding in Plain Sight
 slug: hiding-in-plain-sight
 status: draft
 excerpt: >-
-  Modern institutions rarely suffer from a lack of information. They suffer from
-  a surplus of traces that no longer add up to memory. Archives, documents, and
-  dashboards can make this worse when they confuse storage with understanding.
+  Modern institutions hardly ever suffer from a lack of information. They suffer
+  from a surplus of traces that no longer add up to memory. Archives, documents,
+  and dashboards can make this worse when they confuse storage with
+  understanding.
 author: Yeehaa
 coverImageId: hiding-in-plain-sight-cover-image
 seriesName: New Institutions
@@ -17,7 +18,7 @@ Everywhere you look, there are records of everything. The shared drive is filled
 
 Yet a trail of evidence is not the same as memory.
 
-A record can show that a decision was made without preserving why it mattered. A file can survive long after the matter that it documents has disappeared. A dashboard can make an institution feel focused and informed while quietly narrowing what it is able to notice. An archive can contain everything and still fail to help anyone understand what should be done next.
+A record can show that a decision was made without preserving why it mattered. A file can survive long after the practice it documents has disappeared. A dashboard can make an institution feel focused and informed while quietly narrowing what it is able to notice. An archive can contain everything and still fail to help anyone understand what should be done next.
 
 This is the strange condition of many contemporary institutions: they are not empty. They are overfull. Their intelligence is scattered across formats, tools, procedures, and people, but the abundance itself becomes a new form of opacity. Nothing is truly lost, and yet almost nothing can be found in the way it needs to be found.
 
@@ -31,11 +32,11 @@ Storage keeps traces. Memory preserves orientation. Storage answers the question
 >
 > — Alfred Korzybski
 
-Korzybski’s statement is usually read as a warning, as a critique of representation. A map simplifies, abstracts, and inevitably leaves things out. While this is definitely important, we often forget the other side of this phenomenon. Institutions have learned the opposite bad lesson as well: they don't invest in map making enough. Because each and every map is incomplete, they either distrust maps altogether or produce so many of them that no one can tell which one still corresponds to the actual territoy.
+Korzybski’s statement is usually read as a warning, as a critique of representation. A map simplifies, abstracts, and inevitably leaves things out. While this is definitely important, we often forget the other side of this phenomenon. Institutions have learned the opposite bad lesson as well: they don't invest in map making enough. Because each and every map is incomplete, they either distrust maps altogether or produce so many of them that no one can tell which one still corresponds to the actual territory.
 
 A policy is not a practice. A folder is not a memory. A diagram is not an organization. But without policies, folders, diagrams, and other imperfect surfaces, the territory belongs to those who already know where to go and how to get there.
 
-This is where institutional knowledge becomes political. When the record is unusable, power belongs to those who can interpret the ruins. The person who remembers the old decision, or deciphers the unwritten ones, becomes more important than the place where decisions supposedly live. The person who knows which document can be ignored becomes more important than the document. The person who understands the informal exception becomes more important than the formal rule.
+This is where institutional knowledge becomes political. When the record is unusable, power belongs to those who can interpret the ruins. The person who remembers old decisions, or deciphers the unwritten ones, becomes more important than the place where decisions supposedly live. The person who knows which document can be ignored becomes more important than the document. The person who understands the informal exception becomes more important than the formal rule.
 
 The institution may appear transparent because everything is stored somewhere. In practice, it remains opaque because only a few people can turn storage back into meaning.
 
@@ -45,7 +46,7 @@ Jacques Derrida’s concept of *archive fever* is useful here, because it captur
 >
 > — Jacques Derrida
 
-That is the point. The archive is not a container that passively receives the past once the real work is over. It is a vessel that is part of the real work. It decides what can be retrieved, what can be trusted, what can be forgotten without anyone noticing. A bad archive does not only make work inefficient; it quietly reorganizes power. If the dashboard defines what really counts, the unmeasured becomes weak. If the documentation records procedures but not reasons, newcomers can obey without understanding. If context lives in private notes and old chats, participation depends on access to the right informal channels.
+That is the point. The archive is not a container that passively receives the past once the real work is over. It is part of the real work. It decides what can be retrieved, what can be trusted, what can be forgotten without anyone noticing. A bad archive does not only make work inefficient; it quietly reorganizes power. If the dashboard defines what really counts, the unmeasured becomes weak. If the documentation records procedures but not reasons, newcomers can obey without understanding. If context lives in private notes and old chats, participation depends on access to the right informal channels.
 
 In such an institution, knowledge is not absent. It is enclosed. Usually not by malice, but by the ordinary fatigue of institutional life. People write the document for the meeting, not for the future. They build the dashboard for reporting, not for understanding. They keep private notes because the shared system is too slow, too rigid, or too performative. Little by little, the institution fills with traces that no longer compose a world.
 
