@@ -32,7 +32,7 @@ Storage keeps traces. Memory preserves orientation. Storage answers the question
 >
 > — Alfred Korzybski
 
-Korzybski’s statement is usually read as a warning, as a critique of representation. A map simplifies, abstracts, and inevitably leaves things out. While this is definitely important, we often forget the other side of this phenomenon. Institutions have learned the opposite bad lesson as well: they don't invest in map making enough. Because each and every map is incomplete, they either distrust maps altogether or produce so many of them that no one can tell which one still corresponds to the actual territory.
+Korzybski’s statement is usually read as a warning, as a critique of representation. A map simplifies, abstracts, and inevitably leaves things out. That warning still matters, but institutions have also learned the opposite bad lesson: they often underinvest in map-making altogether. Because every map is incomplete, they either distrust maps entirely or produce so many of them that no one can tell which one still corresponds to the actual territory.
 
 A policy is not a practice. A folder is not a memory. A diagram is not an organization. But without policies, folders, diagrams, and other imperfect surfaces, the territory belongs to those who already know where to go and how to get there.
 
