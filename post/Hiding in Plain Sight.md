@@ -4,9 +4,8 @@ slug: hiding-in-plain-sight
 status: draft
 excerpt: >-
   Modern institutions rarely suffer from a lack of information. They suffer from
-  a surplus of traces that no longer add up to memory. Archives, documents,
-  dashboards, and AI systems can make this worse when they confuse storage with
-  understanding.
+  a surplus of traces that no longer add up to memory. Archives, documents, and
+  dashboards can make this worse when they confuse storage with understanding.
 author: Yeehaa
 coverImageId: hiding-in-plain-sight-cover-image
 seriesName: New Institutions
@@ -40,7 +39,7 @@ This is where institutional knowledge becomes political. When the record is unus
 
 The institution may appear transparent because everything is stored somewhere. In practice, it remains opaque because only a few people can turn storage back into meaning.
 
-Jacques Derrida’s concept of  *archive fever* is useful here, because it captures the desire to secure the past by gathering its traces. The archive promises control over what might otherwise disappear. But Derrida also reminds us that an archive is never neutral. It does not merely preserve memory; it shapes what memory can become.
+Jacques Derrida’s concept of *archive fever* is useful here, because it captures the desire to secure the past by gathering its traces. The archive promises control over what might otherwise disappear. But Derrida also reminds us that an archive is never neutral. It does not merely preserve memory; it shapes what memory can become.
 
 > There is no political power without control of the archive, if not of memory.
 >
@@ -65,3 +64,5 @@ New institutions need a different discipline. Not total visibility, which usuall
 Because the problem is rarely that institutions know nothing. The problem is that their knowledge is often hiding inside the very systems meant to preserve it.
 
 Hiding in plain sight is still hiding.
+
+New institutions will have to learn not only what to remember, but what to let die.
