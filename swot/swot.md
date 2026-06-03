@@ -1,52 +1,38 @@
 ---
 strengths:
-  - title: Techno-cultural writing
+  - title: Systems design
     detail: >-
-      Use this for public thinking and framing when you need to turn complex
-      technical or cultural ideas into a clear point of view.
-  - title: Entity comparison
+      Use this when you need to redesign workflows or structure tools around
+      resilient patterns, and pair it with the network’s architecture strengths
+      when the system needs to scale.
+  - title: Comparison analysis
     detail: >-
-      Use this to compare profiles, ideas, or systems carefully, and pair it
-      with your network’s analysis support when you need a second pass.
+      Lean on this for profile review, pattern finding, and relationship
+      mapping, especially when you need to decide what is similar, different, or
+      connected.
+weaknesses:
+  - title: Workflow guidance gap
+    detail: >-
+      You do not show a direct workflow-planning strength here, so rely on the
+      network to define repeatable steps when execution needs to be disciplined.
+  - title: Polish gap
+    detail: >-
+      Your profile is stronger in analysis than in publish-ready wording, so
+      have others tighten drafts before you rely on them externally.
+opportunities:
   - title: Knowledge structure
     detail: >-
-      Keep using this to shape your own knowledge base so it stays easy to
-      retrieve, maintain, and build on.
-weaknesses:
-  - title: Facilitation gap
+      Use the network’s organizing skills as a model to improve how you capture,
+      classify, and retrieve your own work.
+  - title: Readiness planning
     detail: >-
-      Do not assume you can run group coordination smoothly on your own; pair
-      early workshops or shared rituals with someone who can hold the process.
-  - title: Workflow gap
-    detail: >-
-      Treat build, review, and maintenance habits as something to borrow from
-      your network rather than rely on as a native strength.
-opportunities:
-  - title: Knowledge infrastructure
-    detail: >-
-      Use your network’s organizing and retrieval strengths to improve how your
-      knowledge base captures, structures, and circulates work.
-  - title: Distributed collaboration
-    detail: >-
-      Test your ecosystem and organizational ideas on a small distributed
-      project or shared working ritual before depending on them at scale.
-  - title: Governance strategy
-    detail: >-
-      Use this to design and test how trust and decision-making should work when
-      humans and AI collaborators share responsibility.
+      Test this to turn ideas into a clearer roadmap, especially when you are
+      moving from concept to delivery.
 threats:
-  - title: Video gap
+  - title: Outward-facing writing risk
     detail: >-
-      Do not plan on video-heavy output unless you add dedicated help, because
-      this capability is not clearly covered by your current setup.
-  - title: Visualization gap
-    detail: >-
-      Avoid committing to visual explanation work as if it is already covered,
-      since no dependable visualization strength is visible in the draft.
-  - title: Coordination bottleneck
-    detail: >-
-      Keep early distributed projects small and explicit, because coordination
-      across fragmentation may stall if no one is clearly carrying that load.
-derivedAt: '2026-06-03T08:28:47.005Z'
+      Do not assume your current setup can produce finished public writing
+      without extra help from stronger editors or publishers.
+derivedAt: '2026-06-03T08:32:06.493Z'
 ---
 
