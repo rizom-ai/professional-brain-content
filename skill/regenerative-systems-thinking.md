@@ -1,16 +1,16 @@
 ---
 name: Regenerative Systems Thinking
 description: >-
-  Design practices and principles that borrow from nature to build more
-  resilient, adaptive, and value-driven systems.
+  Translate patterns from nature and resilient ecosystems into practical design
+  principles for organizations and tools.
 tags:
   - futures-thinking
   - ecosystem-architecture
   - analysis
   - architecture
 examples:
-  - How can we apply regenerative design to a digital platform?
-  - Design a learning system inspired by living ecosystems.
-  - What does resilience look like in a value-driven organization?
+  - Apply regenerative design principles to this organization.
+  - What can ecosystem resilience teach us about product strategy?
+  - Use natural systems as a model for redesigning this workflow.
 ---
 
