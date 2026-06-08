@@ -1,11 +1,12 @@
 ---
 title: "{{title}}"
 slug: ""
-status: draft
+status: generating
 publishedAt: ""
 description: ""
 year:
 coverImageId: ""
+ogImageId: ""
 url: ""
 ---
 
