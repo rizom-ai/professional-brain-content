@@ -8,6 +8,7 @@ excerpt: >-
   become an oracle, judge, manager, or ghost director—and in doing so, smuggle
   authority into the institution without accountability.
 author: Yeehaa
+coverImageId: a-colleague-not-a-director-cover
 ---
 > “All that is solid melts into air.” — Karl Marx
 
