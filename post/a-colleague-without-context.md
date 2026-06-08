@@ -3,93 +3,114 @@ title: A Colleague Without Context
 slug: a-colleague-without-context
 status: draft
 excerpt: >-
-  AI does not enter institutions as a neutral tool. It enters through a role:
-  colleague, assistant, auditor, manager, judge, or director. The danger is not
-  only that the machine lacks context, but that institutions ask it to carry
-  authority without responsibility.
+  The problem with AI is not that it is artificial, or that it acts. The problem
+  begins when institutions give the machine agency while pretending it has no
+  position, no limits, no history, and no responsibility.
 author: Yeehaa
 coverImageId: a-colleague-without-context-cover
 seriesName: New Institutions
 seriesIndex: 4
 ---
-AI does not enter institutions as a neutral tool.
+Donna Haraway's great refusal was the view from nowhere.
 
-It enters through a role.
+Knowledge does not become more trustworthy by pretending to have no body, no position, no history, no stake. It becomes more responsible by admitting where it sees from. Every useful perspective is partial. Every intelligence is situated.
 
-Sometimes it is treated as an assistant. Sometimes as a colleague. Sometimes as a librarian, translator, coach, auditor, manager, judge, or silent layer of optimization. Sometimes, without anyone quite admitting it, it becomes a director.
+That matters for AI because institutions are tempted to treat the machine as precisely such a view from nowhere.
 
-That difference matters.
+Not a person. Not a department. Not a colleague with a history. Not a manager with a reputation. Not an expert whose assumptions can be questioned. Something cleaner than that. Something that appears to answer without belonging.
 
-The question is not only what AI can do. The question is what an institution is asking it to become.
+This is the fantasy: intelligence without situation.
 
-A model can summarize a document, draft a message, compare proposals, retrieve old decisions, suggest next steps, evaluate performance, rank applicants, recommend priorities, or refuse an action. Technically, these may look like adjacent capabilities. Institutionally, they are very different roles.
+It is also the danger.
 
-An assistant helps someone do work. A librarian helps people find and connect knowledge. A translator carries meaning across contexts. A colleague participates in a shared situation. An auditor inspects. A manager directs. A judge legitimizes. A director sets the frame within which everyone else acts.
+The problem with AI is not that it is artificial. The problem is not even that it acts. Institutions have always been full of nonhuman actors. Forms, files, doors, dashboards, checklists, budgets, calendars, credentials, software systems, and meeting rooms all shape what people can do. They route action. They slow it down. They authorize it. They exclude. They remember badly. They make some futures easier to imagine than others.
 
-The same machine can be placed in any of these positions.
+Bruno Latour was useful on this point because he refused to treat objects as passive scenery. A speed bump tells drivers to slow down. A door closer scripts a little piece of behavior. A form decides what kind of person or event can be recognized. A dashboard quietly teaches an organization what counts.
 
-That is where the danger begins.
+Institutions have always delegated agency into things.
 
-AI is often introduced as if it were a piece of software being installed into an otherwise stable organization. But institutions are not containers waiting for tools. They are living arrangements of memory, authority, responsibility, trust, and habit. When AI enters, it does not simply add capability. It takes up a position inside that arrangement.
+AI intensifies this old habit.
 
-And institutions tend to give machines the roles they are already struggling to hold themselves.
+It is not just another object in the workflow. It can read the workflow, summarize it, compare parts of it, produce language about it, recommend changes to it, and sometimes decide what should happen next. It can appear as an assistant, a librarian, a translator, a coach, an auditor, a manager, a judge, or a director.
 
-If an institution lacks memory, AI is asked to become memory. If it lacks judgment, AI is asked to become judgment. If it lacks coordination, AI is asked to become the coordinator. If it lacks courage, AI becomes the thing that says no. If it lacks accountability, AI becomes a place to hide responsibility.
+The same system can occupy very different institutional roles depending on where it is placed.
 
-This is why the role question matters more than the interface.
+That is why the question is not only: what can AI do?
 
-A chatbot in a corner of the intranet may look harmless. But if people begin treating its answers as policy, it has become more than an assistant. A ranking system may look like administrative support. But if no one is willing to challenge its ordering, it has become a judge. A workflow agent may look like efficiency. But if it assigns tasks, escalates priorities, and decides what counts as progress, it is already moving toward management.
+The question is: what are we asking it to become?
 
-The institution may still call it a tool.
+A machine asked to summarize notes is not playing the same role as a machine asked to rank candidates. A system that helps retrieve decisions is not the same as a system that decides which decisions matter. A tool that drafts options is not the same as a tool whose options become the agenda. A model that offers a second reading is not the same as a model people quietly stop arguing with.
 
-That does not mean it is functioning as one.
+Roles drift.
 
-Many unhealthy AI roles are attractive precisely because they let institutions avoid difficult work. The oracle is attractive because it produces answers without requiring a shared process of interpretation. The judge is attractive because it appears to settle disagreement without anyone having to take responsibility for judgment. The manager is attractive because it can discipline work without admitting that discipline is taking place. The ghost director is attractive because it makes decisions feel procedural rather than political.
+A helper becomes a filter. A filter becomes a recommendation. A recommendation becomes a default. A default becomes policy. No one announces that the machine has become a manager. The institution simply starts moving around it.
 
-This is not a machine problem alone.
+This is how a colleague without context becomes a director by accident.
 
-It is an institutional temptation.
+It begins modestly. The machine is asked to help because everyone is busy. It summarizes the archive because no one can find anything. It drafts the agenda because no one had time. It compares proposals because the committee is overloaded. It suggests priorities because the strategy is vague. It explains disagreement because the institution no longer knows how to hold disagreement itself.
 
-Organizations under pressure often want authority without friction, coordination without negotiation, memory without maintenance, and judgment without accountability. AI can seem to offer all of this at once. It can speak fluently, produce reasons, rank options, and summarize complexity into something that looks actionable.
+Each step is reasonable. Together, they move authority.
+
+And authority is exactly what institutions are often trying not to name.
+
+An institution that lacks memory will ask AI to become memory. An institution that lacks judgment will ask AI to become judgment. An institution that lacks coordination will ask AI to become the coordinator. An institution that lacks courage will ask AI to become the thing that says no. An institution that lacks accountability will ask AI to become a place where responsibility can disappear.
+
+This is not because the machine is evil. It is because the institution is suggestible.
+
+It wants agency without friction. Coordination without negotiation. Memory without maintenance. Judgment without exposure. Authority without someone having to stand behind it.
+
+AI seems to offer all of that because it speaks fluently. It produces reasons. It can make a decision feel less like a decision and more like an output. It can turn politics into procedure, disagreement into ranking, and judgment into recommendation.
 
 But fluency is not responsibility.
 
-A machine can produce an answer. It cannot be answerable in the institutional sense. It cannot carry the consequences of a decision. It cannot repair trust after a bad call. It cannot sit with the people affected by what it recommended. It cannot explain which histories were excluded unless the institution has already made those exclusions visible.
+A machine can produce an answer. It cannot be answerable in the institutional sense. It cannot carry the consequences of a decision. It cannot repair trust after a bad call. It cannot sit with the people affected by what it recommended. It cannot know which silences matter unless the institution has already found a way to make those silences part of the situation.
 
-This is why a healthier role for AI is closer to colleague than director.
+This is where Haraway matters again.
 
-Not colleague in the sentimental sense. Not a person, not a peer, not a moral subject pretending to join the team. A colleague in the limited institutional sense: something placed beside the work rather than above it; able to assist, retrieve, compare, question, translate, and reflect, but not to absorb responsibility from the people and structures that remain accountable.
+The issue is not whether the actor is human. Humans also pretend to speak from nowhere. Committees do it. Experts do it. Managers do it. Dashboards do it. Institutions love laundering situated judgment into neutral procedure.
 
-A colleague can help without becoming sovereign.
+AI just makes the laundering easier.
 
-But even that role is fragile, because a colleague without context can become dangerous very quickly.
+The healthier alternative is not to deny machine agency. That would be dishonest. Once institutions begin acting through AI, AI has agency in the only sense that matters institutionally: things happen differently because it is there.
 
-It may know the documents without knowing which ones are ceremonial. It may know the stated process without knowing the actual practice. It may know the organization chart without knowing where responsibility really lives. It may know the archive without knowing which decisions still matter. It may know the words people use without knowing what those words allow them to avoid.
+The question is where that agency is situated.
 
-In a healthy institution, this limitation is visible. The machine is understood as partial, situated, and dependent on the quality of the institution around it. Its outputs are treated as contributions to judgment, not substitutes for judgment. Its role is bounded. Its authority is named. Its failures are read as signals.
+What does it know? What does it not know? Who configured its access? Which documents does it treat as alive? Which histories does it inherit? Which vocabularies does it normalize? Which decisions can it influence? Who can contest its output? Who remains responsible after it speaks?
 
-In an unhealthy institution, the same limitation is hidden. The machine becomes a way to bypass the missing context rather than repair it. People ask it for decisions because the decision process is unclear. They ask it for memory because the archive is unusable. They ask it for priorities because the institution has not agreed on what matters. They ask it for neutrality because no one wants to confront disagreement.
+A colleague is not valuable because it is human. A colleague is valuable because it is situated.
+
+It knows the work from somewhere. It has limits. It can be corrected. It participates in a field of responsibility. It does not float above the institution as a neutral mind. It is close enough to the work to be useful and bounded enough not to become sovereign.
+
+That is the role AI should be forced to earn.
+
+Not oracle. Not judge. Not ghost manager. Not director.
+
+A situated colleague. A partial intelligence. A participant whose contribution has to remain attached to context, contestation, and responsibility.
+
+Without that, the machine will know the documents without knowing which ones are ceremonial. It will know the process without knowing the practice. It will know the organization chart without knowing where responsibility actually lives. It will know the archive without knowing which decisions still matter. It will know the words people use without knowing what those words allow them to avoid.
+
+That is not a small limitation.
+
+It is the whole problem.
+
+A colleague without context does not stay harmless for long. In a healthy institution, its limits are visible. Its outputs are treated as contributions to judgment, not substitutes for judgment. Its role is bounded. Its authority is named. Its failures are read as signals.
+
+In an unhealthy institution, the same limits are hidden. The machine becomes a way to bypass missing context rather than repair it. People ask it for decisions because the decision process is unclear. They ask it for memory because the archive is unusable. They ask it for priorities because the institution has not agreed on what matters. They ask it for neutrality because no one wants to confront disagreement.
 
 Then the problem is no longer that AI lacks context.
 
 The problem is that the institution lacked context first, and the machine has been invited to perform as if that were not true.
 
-This is the bridge new institutions have to cross carefully. AI can be genuinely useful. It can help make knowledge more accessible, surface patterns, preserve continuity, reduce friction, and support coordination across people who do not all share the same memory. It can help institutions become more legible to themselves.
+New institutions will need a better discipline than adoption.
 
-But only if the institution refuses to confuse assistance with authority.
+They will need to decide what roles machines are allowed to play, under what conditions, with what limits, and with whom or what remaining accountable for the effects. They will need to distinguish assistance from authority, contribution from decision, retrieval from memory, and fluency from judgment.
 
-The real design question is not: where can we add AI?
+They will need to stop pretending that intelligence becomes safer when it appears to come from nowhere.
 
-It is: what role should this system be allowed to play, under what conditions, with what limits, and with whom remaining responsible?
+Because once AI has been given a role, it will begin to reveal the institution around it.
 
-A colleague without context should not become a director by accident.
+If the role is situated, bounded, and accountable, the machine may help the institution remember, coordinate, and learn.
 
-If AI is going to participate in institutional life, institutions must decide where it sits, what it can see, what it can say, what it can do, and when its contribution must stop. They must decide which forms of judgment cannot be outsourced, which decisions require human accountability, and which parts of the institution need to become more legible before the machine can be useful at all.
-
-Because once AI has been given a role, it will begin to reveal the structure around it.
-
-If the role is healthy, it may help the institution remember, coordinate, and learn.
-
-If the role is unhealthy, it will do something else.
+If the role is contextless, unbounded, and quietly authoritative, it will do something else.
 
 It will find the cracks.
