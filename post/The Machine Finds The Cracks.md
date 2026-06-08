@@ -9,13 +9,13 @@ excerpt: >-
 author: Yeehaa
 coverImageId: the-machine-finds-the-cracks-cover-image
 seriesName: New Institutions
-seriesIndex: 4
+seriesIndex: 5
 ---
 AI will not test every institution in the same way.
 
-It will be most revealing in institutions whose work depends on memory, judgment, and coordination: schools, public agencies, research groups, foundations, civic organizations, consultancies, cultural institutions, and the many hybrid forms now emerging between them.
+It will be most revealing where the work depends on memory, judgment, and coordination: schools, public agencies, research groups, foundations, civic organizations, consultancies, cultural institutions, and the hybrid forms now emerging between them.
 
-These are not institutions where the work can be reduced to output alone. Their real work is deciding what matters, remembering why it matters, and coordinating action across people who do not all know the same things at the same time.
+These are not places where work can be reduced to output alone. Their real work is deciding what matters, remembering why it matters, and coordinating action across people who do not all know the same things at the same time.
 
 That is why AI is such an interesting stress test.
 
@@ -34,6 +34,10 @@ That is a much harder test.
 Many institutions will experience AI failure as a technical problem. The model hallucinated. The retrieval was poor. The answer was generic. The summary missed the point. The agent did not know what to do next. Some of this will indeed be technical. Tools matter. Interfaces matter. Models matter. Retrieval architectures matter.
 
 But not all failure belongs to the machine.
+
+Imagine a foundation training an internal assistant on years of grant proposals, strategy documents, board notes, and reports. At first the system looks promising. It can summarize old programs, find budgets, and compare applications. But when someone asks why one project was renewed while another quietly disappeared, the answer becomes vague. The reasons live in remembered conversations, private judgments, informal exceptions, and decisions that were never written down.
+
+The tool looks incomplete. But the deeper gap is institutional.
 
 Sometimes the model hallucinates because the archive is contradictory. Sometimes retrieval fails because the institution has preserved everything except context. Sometimes the answer is generic because the organization has no shared vocabulary for what a specific answer would look like. Sometimes the agent cannot act because no one has made responsibility legible. Sometimes the AI sounds vague because the institution itself has never decided what it means.
 
