@@ -13,46 +13,46 @@ coverImageId: the-present-was-never-inevitable-cover
 
 ---
 
-## Innovation is not looking <mark>ahead</mark>.
+## Innovation is not looking *ahead*.
 
 ---
 
-## Innovation is looking <mark>again</mark>.
+## Innovation is looking *again*.
 
 ---
 
-## Innovation is not <mark>disruption</mark>.
+## Innovation is not *disruption*.
 
 ---
 
-## Innovation is changing what gets to <mark>continue</mark>.
+## Innovation is changing what gets to *continue*.
 
 ---
 
-## Innovation is not a <mark>moonshot</mark>.
+## Innovation is not a *moonshot*.
 
 ---
 
-## Innovation is <mark>gravity</mark> understood differently.
+## Innovation is *gravity* understood differently.
 
 ---
 
-## Innovation is not a single <mark>breakthrough</mark>.
+## Innovation is not a single *breakthrough*.
 
 ---
 
-## Innovation is a field of <mark>relations</mark> shifting.
+## Innovation is a field of *relations* shifting.
 
 ---
 
-## Innovation is not adding <mark>technology</mark>.
+## Innovation is not adding *technology*.
 
 ---
 
-## Innovation is changing the terms of <mark>participation</mark>.
+## Innovation is changing the terms of *participation*.
 
 ---
 
-## The present was <mark>built</mark>.
+## The present was *built*.
 
-## So it can be <mark>rebuilt</mark>.
+## So it can be *rebuilt*.
