@@ -7,7 +7,7 @@ excerpt: >-
   in institutions whose work depends on memory, judgment, and coordination. In
   those settings, the machine does not create the cracks. It finds them.
 author: Yeehaa
-coverImageId: post-1780044151287-cover
+coverImageId: the-machine-finds-the-cracks-cover-image
 seriesName: New Institutions
 seriesIndex: 4
 ---
