@@ -22,6 +22,24 @@ fields:
   - id: did
     name: did
     type: Input
+  - id: repoDid
+    name: repoDid
+    type: Input
+  - id: brainDid
+    name: brainDid
+    type: Input
+  - id: anchorDid
+    name: anchorDid
+    type: Input
+  - id: cardUri
+    name: cardUri
+    type: Input
+  - id: cardCid
+    name: cardCid
+    type: Input
+  - id: a2aEndpoint
+    name: a2aEndpoint
+    type: Input
   - id: status
     name: status
     options:

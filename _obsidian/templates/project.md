@@ -6,6 +6,7 @@ publishedAt: ""
 description: ""
 year:
 coverImageId: ""
+ogImageId: ""
 url: ""
 ---
 

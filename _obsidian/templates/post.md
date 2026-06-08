@@ -6,6 +6,7 @@ publishedAt: ""
 excerpt: ""
 author: ""
 coverImageId: ""
+ogImageId: ""
 seriesName: ""
 seriesIndex:
 ogImage: ""
