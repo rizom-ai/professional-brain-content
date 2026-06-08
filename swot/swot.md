@@ -1,45 +1,38 @@
 ---
 strengths:
-  - title: Critical writing
+  - title: Systems design
     detail: >-
-      Use your essay and cultural-analysis strength for polished arguments,
-      outlines, and publishable posts, and pair it with your network’s sharper
-      editing when you want the point of view tightened.
+      Use this when you need to redesign workflows or structure tools around
+      resilient patterns, and pair it with the network’s architecture strengths
+      when the system needs to scale.
+  - title: Comparison analysis
+    detail: >-
+      Lean on this for profile review, pattern finding, and relationship
+      mapping, especially when you need to decide what is similar, different, or
+      connected.
+weaknesses:
+  - title: Workflow guidance gap
+    detail: >-
+      You do not show a direct workflow-planning strength here, so rely on the
+      network to define repeatable steps when execution needs to be disciplined.
+  - title: Polish gap
+    detail: >-
+      Your profile is stronger in analysis than in publish-ready wording, so
+      have others tighten drafts before you rely on them externally.
+opportunities:
   - title: Knowledge structure
     detail: >-
-      Use this to organize, capture, and circulate knowledge, and lean on your
-      network for cleaner record structure and retrieval when the system starts
-      to get messy.
-weaknesses:
-  - title: Facilitation
-    detail: >-
-      Do not assume you can run workshops or group sessions smoothly yet; if
-      collaboration matters, pair yourself with someone who can hold the room
-      and structure the discussion.
-  - title: Video production
-    detail: >-
-      Treat video work as a gap and avoid promising production-heavy output
-      unless you add a dedicated video-capable partner.
-opportunities:
-  - title: Search and retrieve
-    detail: >-
-      Use search and get to speed up your own knowledge work by testing faster
-      retrieval, verification, and follow-up on specific items.
+      Use the network’s organizing skills as a model to improve how you capture,
+      classify, and retrieve your own work.
   - title: Readiness planning
     detail: >-
-      Use this to turn rough priorities into a release or content plan, and test
-      it whenever you need to check what is ready versus still unclear.
+      Test this to turn ideas into a clearer roadmap, especially when you are
+      moving from concept to delivery.
 threats:
-  - title: Visualization
+  - title: Outward-facing writing risk
     detail: >-
-      If a project depends on diagrams or visual explanation, do not rely on
-      your current setup alone; bring in a visual complement before the idea has
-      to stand on its own.
-  - title: Extensible systems design
-    detail: >-
-      Be cautious with architecture-heavy work that needs deep extensibility,
-      because your current support looks stronger on analysis than on full
-      runtime or plugin-boundary design.
-derivedAt: '2026-05-18T09:07:41.340Z'
+      Do not assume your current setup can produce finished public writing
+      without extra help from stronger editors or publishers.
+derivedAt: '2026-06-03T08:32:06.493Z'
 ---
 

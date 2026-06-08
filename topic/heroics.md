@@ -1,4 +1,16 @@
 ---
 title: Heroics
 ---
-Heroics are presented here as a symptom of failing institutional form rather than a sign of organizational health. The text argues that when a system cannot carry its own memory, coordination, or legitimacy, it offloads those functions onto indispensable individuals. These people become fixers, veterans, and hidden operators who compensate for structural breakdown. What looks like dedication or leadership may actually be unpaid institutional repair. The central claim is that heroics should not be mistaken for infrastructure because they represent personal sacrifice filling a structural void.
+Heroics refers to the quiet, indispensable labor that keeps broken institutions functioning by patching gaps in memory, coordination, and authority. These are the fixers, translators, veterans, and hidden operators who remember undocumented exceptions, absorb confusion, and carry burdens the system should handle itself. What is often praised as dedication or leadership is, in this framing, evidence of structural weakness: the organization lacks the infrastructure to sustain its own operations. Heroic behavior becomes unpaid institutional repair, and a healthy organization should require less of it, not more. The core insight is that heroics are not infrastructure; they are the human cost of missing infrastructure, legitimacy, and organizational memory.
+
+keywords:
+- institutional failure
+- organizational memory
+- coordination
+- authority
+- hidden labor
+- system repair
+- indispensability
+- institutional infrastructure
+- leadership
+- sacrifice
