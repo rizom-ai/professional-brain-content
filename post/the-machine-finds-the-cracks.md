@@ -1,5 +1,5 @@
 ---
-title: The Machine Finds the Cracks
+title: The Machine Finds The Cracks
 slug: the-machine-finds-the-cracks
 status: draft
 excerpt: >-
