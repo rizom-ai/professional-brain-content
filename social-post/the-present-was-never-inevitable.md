@@ -1,11 +1,11 @@
 ---
 title: The Present Was Never Inevitable
 platform: linkedin
-status: draft
+status: published
 documents:
   - id: the-present-was-never-inevitable-carousel-1780986868932
-publishedAt: '2026-06-09T06:31:08.113Z'
-platformPostId: 'urn:li:ugcPost:7469999504784523264'
+publishedAt: '2026-06-09T06:36:24.065Z'
+platformPostId: 'urn:li:ugcPost:7470000830050381826'
 sourceEntityId: the-present-was-never-inevitable
 sourceEntityType: deck
 ---
