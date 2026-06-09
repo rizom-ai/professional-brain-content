@@ -3,8 +3,7 @@ title: The Present Was Never Inevitable
 platform: linkedin
 status: draft
 documents:
-  - id: >-
-      carousel-deck-the-present-was-never-inevitable-resolved-attachment-8a-89d17626c2
+  - id: the-present-was-never-inevitable-carousel-1780986868932
 publishedAt: '2026-06-09T06:31:08.113Z'
 platformPostId: 'urn:li:ugcPost:7469999504784523264'
 sourceEntityId: the-present-was-never-inevitable
