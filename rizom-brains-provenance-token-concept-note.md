@@ -3,9 +3,11 @@ Rizom Brains provenance + token concept note
 Core idea:
 Use content provenance as a trust layer for Rizom Brains, and combine it with a token or token-like incentive mechanism to encourage contribution, validation, and reuse across a knowledge ecosystem.
 
-Rizom Brains is a personal and professional knowledge system for capturing ideas, shaping them into useful artifacts, and publishing them in a clear, structured way. It sits between note-taking, research, publishing, and portfolio management. The goal is not just to store information, but to turn thinking into reusable knowledge assets that can be traced, improved, and shared.
+Rizom Brains is a knowledge infrastructure for individuals, teams, and networks that want to capture, structure, and publish knowledge in reusable forms. It is not limited to personal note-taking or essay writing. Instead, it supports the transformation of raw material — notes, research, links, conversations, drafts, and project artifacts — into outputs that can be shared, published, reused, or acted on.
 
-It is also a way of working: collecting fragments, connecting them across themes, and refining them into essays, projects, and systems. That makes provenance especially relevant. In a system like Rizom Brains, people should be able to see where an idea came from, how it evolved, and whether it was written by a person, assisted by AI, or derived from earlier material.
+The system is designed to work across contexts: personal reflection, professional publishing, collaborative research, organizational memory, and strategic communication. Its value lies in helping knowledge move from fragments to structured artifacts, while preserving context and traceability along the way.
+
+It is also a way of working: collecting fragments, connecting them across themes, and refining them into essays, project briefs, newsletters, decks, social posts, strategic memos, and systems. That makes provenance especially relevant. In a system like Rizom Brains, people should be able to see where an idea came from, how it evolved, and whether it was written by a person, assisted by AI, or derived from earlier material.
 
 Why provenance matters:
 - Establishes where content came from
