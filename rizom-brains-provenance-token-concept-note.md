@@ -3,6 +3,10 @@ Rizom Brains provenance + token concept note
 Core idea:
 Use content provenance as a trust layer for Rizom Brains, and combine it with a token or token-like incentive mechanism to encourage contribution, validation, and reuse across a knowledge ecosystem.
 
+Rizom Brains is a personal and professional knowledge system for capturing ideas, shaping them into useful artifacts, and publishing them in a clear, structured way. It sits between note-taking, research, publishing, and portfolio management. The goal is not just to store information, but to turn thinking into reusable knowledge assets that can be traced, improved, and shared.
+
+It is also a way of working: collecting fragments, connecting them across themes, and refining them into essays, projects, and systems. That makes provenance especially relevant. In a system like Rizom Brains, people should be able to see where an idea came from, how it evolved, and whether it was written by a person, assisted by AI, or derived from earlier material.
+
 Why provenance matters:
 - Establishes where content came from
 - Makes edits, derivations, and authorship traceable
