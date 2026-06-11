@@ -3,20 +3,21 @@ title: A Colleague Without Context
 slug: a-colleague-without-context
 status: draft
 excerpt: >-
-  AI is not being sold to institutions as assistance. It is being sold as
-  multiplication: more output, more leverage, more decisions, more tokens
-  through the system. But AI does not multiply intelligence in the abstract. It
-  multiplies the institution it is placed inside.
+  Every team now has to show that it is using AI to the max: more prompts, more
+  agents, more workflows, more automations, more documents, more tokens moving
+  through more processes. But the question is not how much of the institution
+  can be pushed through the machine. It is what the machine will multiply once
+  it gets there.
 author: Yeehaa
 coverImageId: a-colleague-without-context-cover
 seriesName: New Institutions
 seriesIndex: 4
 ---
-The dominant fantasy of AI in organizations is no longer assistance. It is multiplication.
+A strange new performance has entered organizational life: every team now has to show that it is using AI to the max.
 
-Every employee becomes more productive. Every process becomes faster. Every meeting becomes searchable. Every archive becomes queryable. Every decision gets more inputs, more summaries, more scenarios, more drafts, more tokens pushed through the machine. The promise is not simply that AI will help people work. The promise is that it will increase the throughput of the institution itself.
+More prompts, more agents, more workflows, more automations, more documents, more tokens moving through more processes. The question is no longer where AI might actually help. The question is how much of the institution can be pushed through the machine.
 
-This is why so much executive language around AI sounds like leverage. Fewer people, more output. Smaller teams, larger surface area. Faster cycles, more experiments, more content, more decisions. Intelligence becomes something to be scaled like compute. If the model is the new engine, then the task is to feed it: more context windows, more agents, more automations, more documents, more tokens moving through more workflows.
+This is why so much executive language around AI sounds like leverage. Fewer people, more output. Smaller teams, larger surface area. Faster cycles, more experiments, more content, more decisions. Intelligence becomes something to be scaled like compute. If the model is the new engine, then the task is to feed it.
 
 But institutions are not made only of capacity. They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits. When AI multiplies an institution, it does not only multiply intelligence. It multiplies the assumptions, evasions, bottlenecks, broken archives, unclear roles, and unresolved conflicts that are already there.
 
