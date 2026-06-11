@@ -3,21 +3,34 @@ title: A Colleague Without Context
 slug: a-colleague-without-context
 status: draft
 excerpt: >-
-  AI rarely enters an institution as authority. It enters as assistance, which
-  is precisely why the shift is easy to miss. A colleague without context can
-  quietly become a manager without responsibility.
+  AI is not being sold to institutions as assistance. It is being sold as
+  multiplication: more output, more leverage, more decisions, more tokens
+  through the system. But AI does not multiply intelligence in the abstract. It
+  multiplies the institution it is placed inside.
 author: Yeehaa
 coverImageId: a-colleague-without-context-cover
 seriesName: New Institutions
 seriesIndex: 4
 ---
-Most institutions do not introduce AI as authority. They introduce it as assistance, which is precisely why the shift is easy to miss. A team is overloaded, so the machine summarizes the meeting. The archive is impossible to navigate, so it retrieves the relevant documents. A committee has too much to read, so it compares the proposals. A strategy process has become vague, so it turns scattered fragments into options. None of these uses is inherently reckless. In many cases, they are sensible responses to real institutional fatigue.
+The dominant fantasy of AI in organizations is no longer assistance. It is multiplication.
 
-The problem begins when these sensible uses accumulate into an unnamed role. A summary becomes the version people remember. A comparison becomes the frame through which alternatives are understood. A recommendation becomes the place where discussion begins. A starting point becomes a default, and a default becomes difficult to contest because everyone is already busy, already behind, already grateful that something has organized the mess. No one has to announce that authority has moved. The institution simply starts to orient itself around the machine.
+Every employee becomes more productive. Every process becomes faster. Every meeting becomes searchable. Every archive becomes queryable. Every decision gets more inputs, more summaries, more scenarios, more drafts, more tokens pushed through the machine. The promise is not simply that AI will help people work. The promise is that it will increase the throughput of the institution itself.
 
-That is why the most important question is not whether AI is human-like, conscious, creative, or secretly on its way to becoming a manager. Those questions may matter in other contexts, but they are often a distraction from the more immediate institutional problem. A tool that summarizes notes is not playing the same role as a tool that decides which notes matter. A system that retrieves old decisions is not playing the same role as a system that ranks which precedents should count. A machine that drafts options is not playing the same role as a machine whose options quietly become the agenda. The difference is not only technical. It is institutional.
+This is why so much executive language around AI sounds like leverage. Fewer people, more output. Smaller teams, larger surface area. Faster cycles, more experiments, more content, more decisions, more everything. Intelligence becomes something to be scaled like compute. If the model is the new engine, then the task is to feed it: more context windows, more agents, more automations, more prompts, more documents, more tokens moving through more workflows.
 
-Donna Haraway's critique of the view from nowhere is useful here because it names the fantasy that makes this shift so attractive. Institutions often want knowledge without position, judgment without exposure, and authority without anyone having to stand behind it. Haraway argued that knowledge does not become more trustworthy by pretending to come from nowhere. It becomes more responsible by admitting where it sees from.
+But institutions are not made only of capacity. They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits. When AI multiplies an institution, it does not only multiply intelligence. It multiplies the assumptions, evasions, bottlenecks, broken archives, unclear roles, and unresolved conflicts that are already there.
+
+That is the part the multiplier story tends to hide.
+
+A system that helps a clear institution move faster may indeed create leverage. A system that accelerates an unclear institution often scales confusion. The archive becomes more searchable, but not necessarily more meaningful. The meeting becomes easier to summarize, but not necessarily easier to understand. The decision process becomes faster, but not necessarily more accountable. The organization produces more language about itself without becoming more capable of acting on what that language means.
+
+This is where the language of token-maxing becomes revealing. There is a real practical skill in learning how to use models well: how to provide context, how to structure prompts, how to chain tools, how to make the system less brittle. But the obsession with feeding the model can also conceal a deeper institutional weakness. If the context has to be assembled by heroic prompting every time, then the institution has not actually made itself knowable. It has merely found a temporary way to perform coherence for the machine.
+
+AI does not solve that problem by being more fluent. In fact, fluency can make it worse. A weak institutional context expressed badly is easy to distrust. A weak institutional context expressed beautifully can start to look like judgment. The machine can turn fragments into a strategy memo, tensions into a ranked list, disagreement into action items, and a mess of stale documents into something that sounds like organizational memory.
+
+That does not mean the work has become clearer. It may only mean the confusion has acquired a better surface.
+
+Donna Haraway's critique of the view from nowhere is useful here because it names the fantasy behind that surface. Knowledge does not become more trustworthy by pretending to have no position. It becomes more responsible by admitting where it sees from, what it can see, what it cannot see, and to whom it must remain answerable.
 
 > The moral is simple: only partial perspective promises objective vision.
 >
@@ -25,7 +38,9 @@ Donna Haraway's critique of the view from nowhere is useful here because it name
 
 AI enters institutions at exactly the point where this lesson is hardest to hold. The machine appears to answer without belonging. It is not a department with a history, not a manager with a reputation, not a colleague with loyalties, habits, blind spots, and a place in the organization. It speaks as if from the system itself, even though its answer always comes from somewhere: from selected documents, inherited categories, configured access, missing context, embedded metrics, old assumptions, and the institutional traces that happened to survive.
 
-This appearance of neutrality is powerful because institutions already rely on similar forms of laundering. Committees hide judgment inside procedure. Dashboards hide values inside metrics. Policies hide conflict inside formal language. Archives hide decisions by preserving their traces while losing the conditions that made them meaningful. AI does not invent this habit. It intensifies it by giving the institution a fluent surface through which situated judgment can appear as impersonal output.
+The danger is not simply that the machine is wrong. Institutions are wrong all the time. The danger is that the machine can make situated, partial, institutionally produced knowledge appear as if it came from nowhere. It can make judgment feel like output. It can make disagreement look like ranking. It can make politics appear as procedure. It can speak in a voice that seems to belong to nobody in particular.
+
+This is seductive because institutions already rely on similar forms of laundering. Committees hide judgment inside procedure. Dashboards hide values inside metrics. Policies hide conflict inside formal language. Archives hide decisions by preserving their traces while losing the conditions that made them meaningful. AI does not invent this habit. It intensifies it by giving the institution a fluent surface through which situated judgment can appear as impersonal intelligence.
 
 This is also why it is too simple to say that AI is just a tool. Institutions have never been made only of people and their intentions. Forms, files, budgets, calendars, credentials, dashboards, meeting rooms, and software systems all shape what people can do. They authorize, delay, exclude, remember, forget, and rank. Bruno Latour was useful because he refused to treat these nonhuman elements as passive scenery. Power lasts, in part, by being delegated into things.
 
@@ -33,18 +48,28 @@ This is also why it is too simple to say that AI is just a tool. Institutions ha
 >
 > — Bruno Latour
 
-AI belongs to this older story of delegated agency, but it changes the intensity of the delegation. A form may decide what can be recognized, and a dashboard may teach an organization what counts, but AI can read across traces, produce language, compare alternatives, explain patterns, recommend action, and appear to know why something matters. Depending on where it is placed, the same system can function as assistant, librarian, analyst, coach, auditor, mediator, manager, or judge. The institutional question is not only what the system can do, but what its outputs are allowed to become.
+AI belongs to this older story of delegated agency, but it changes the intensity of the delegation. A form may decide what can be recognized, and a dashboard may teach an organization what counts, but AI can read across traces, produce language, compare alternatives, explain patterns, recommend action, and appear to know why something matters. Depending on where it is placed, the same system can function as assistant, librarian, analyst, coach, auditor, mediator, manager, or judge.
 
-This is where the language of colleague becomes dangerous and useful at the same time. A colleague is not valuable simply because they are human. A colleague is valuable because they are situated. They know the work from somewhere. They have limits. Their contribution can be challenged. Their authority is informal in some places and formal in others. They belong to a field of responsibility in which other people can interpret, contest, correct, and contextualize what they say.
+That placement is the institutional decision. Too often, it is not treated as one. It is treated as implementation, optimization, enablement, rollout. The organization asks where AI can save time before it asks what role the system is being allowed to play. It asks how to increase usage before it asks what kind of authority usage will create. It asks how to maximize tokens, workflows, and agents before it asks whether the institution has enough memory, judgment, and accountability for that multiplication to be useful.
+
+A machine that summarizes notes is not playing the same role as a machine that decides which notes matter. A system that retrieves old decisions is not playing the same role as a system that ranks which precedents should count. A model that drafts options is not playing the same role as a model whose options quietly become the agenda. The difference is not only technical. It is institutional.
+
+This is where the language of colleague becomes both tempting and dangerous. A colleague is not valuable simply because they are human. A colleague is valuable because they are situated. They know the work from somewhere. They have limits. Their contribution can be challenged. Their authority is informal in some places and formal in others. They belong to a field of responsibility in which other people can interpret, contest, correct, and contextualize what they say.
 
 If AI is to become a colleague in any meaningful institutional sense, it has to be situated in the same way. Its access has to be named. Its limits have to be visible. Its authority has to be bounded. Its outputs have to remain contestable. Someone has to remain responsible for what happens after it speaks. Without that discipline, the machine will know the documents without knowing which ones are ceremonial. It will know the process without knowing the practice. It will know the organization chart without knowing where responsibility actually lives. It will know the archive without knowing which decisions still matter.
 
-These are not minor defects to be solved by better prompts. They are the conditions under which institutions make meaning. In a healthy institution, the limits of AI can become useful because they reveal where context is missing. A vague answer can point to an unclear decision. A failed retrieval can expose an archive that no longer carries memory. A bad recommendation can show that the organization has never agreed on what a good recommendation would require. In that setting, the machine's failures are not merely bugs. They are symptoms.
+These are not minor defects to be solved by better prompting. They are the conditions under which institutions make meaning. A larger context window can hold more traces, but it cannot decide which traces are alive. A better agent can move through more systems, but it cannot know which systems are performative unless the institution has made that distinction available. More tokens can produce more synthesis, but synthesis is not the same as judgment.
+
+In a healthy institution, the limits of AI can become useful because they reveal where context is missing. A vague answer can point to an unclear decision. A failed retrieval can expose an archive that no longer carries memory. A bad recommendation can show that the organization has never agreed on what a good recommendation would require. In that setting, the machine's failures are not merely bugs. They are symptoms.
 
 In an unhealthy institution, the same failures are more dangerous because they are absorbed into the very confusion that produced them. People ask the machine for decisions because the decision process is unclear. They ask it for memory because the archive is unusable. They ask it for priorities because the institution has not agreed on what matters. They ask it for neutrality because no one wants to confront disagreement. The machine becomes a way to bypass missing context rather than repair it.
 
-Then the problem is no longer that AI lacks context. The problem is that the institution lacked context first, and the machine has been invited to perform as if that were not true.
+Then the problem is no longer that AI lacks context. The problem is that the institution lacked context first, and the machine has been invited to multiply that absence.
 
-New institutions will need a better discipline than adoption. They will need to decide which roles machines are allowed to play, under what conditions, with what limits, and with whom remaining accountable for the effects. They will need to distinguish assistance from authority, retrieval from memory, contribution from decision, fluency from judgment. The point is not to make AI more human. The point is to stop pretending that intelligence becomes safer when it appears to come from nowhere.
+New institutions will need a better discipline than adoption. They will need to decide which roles machines are allowed to play, under what conditions, with what limits, and with whom remaining accountable for the effects. They will need to distinguish leverage from learning, throughput from judgment, retrieval from memory, fluency from responsibility.
 
-A colleague without context is not a colleague for long. It becomes a way for the institution to avoid seeing itself.
+AI will not simply multiply intelligence. It will multiply the institution.
+
+If the institution has memory, judgment, and accountability, that may be powerful.
+
+If it does not, the machine will scale the absence.
