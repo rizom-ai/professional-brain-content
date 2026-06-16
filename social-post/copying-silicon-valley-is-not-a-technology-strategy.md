@@ -1,8 +1,10 @@
 ---
 title: Copying Silicon Valley Is Not A Technology Strategy
 platform: linkedin
-status: draft
+status: published
 coverImageId: copying-silicon-valley-is-not-a-technology-strategy-cover
+publishedAt: '2026-06-16T08:47:40.595Z'
+platformPostId: 'urn:li:share:7472570579540217856'
 ---
 Copying Silicon Valley is not a technology strategy.
 
