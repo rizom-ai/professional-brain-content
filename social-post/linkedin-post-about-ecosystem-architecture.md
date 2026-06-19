@@ -2,6 +2,7 @@
 title: Ecosystem Architecture Post
 platform: linkedin
 status: draft
+coverImageId: cover-image-for-linkedin-post-about-ecosystem-architecture
 ---
 Most organizations are still designed like machines.
 
