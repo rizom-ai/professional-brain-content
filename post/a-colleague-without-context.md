@@ -11,7 +11,9 @@ coverImageId: a-colleague-without-context-cover
 seriesName: New Institutions
 seriesIndex: 4
 ---
-A strange new performance has entered organizational life: every team now has to show that it is using AI to the max. More prompts, more agents, more workflows, more automations, more documents moving through more processes. The question is no longer where AI might actually help, but how much of the institution can be pushed through the machine.
+A new creature has entered organizational life: the performative AI professional.
+
+It has all the right accessories: prompts, agents, workflows, automations, documents moving through processes, dashboards full of productivity claims. Its natural habitat is the executive update, where everyone now has to show not only that they are using AI, but that they are using AI to the max. The question is no longer where AI might actually help, but how much of the institution can be pushed through the machine.
 
 This is why so much executive language around AI sounds like leverage: fewer people, more output; smaller teams, larger surface area; faster cycles, more experiments, more content, more decisions. Intelligence becomes something to be scaled like compute. If the model is the new engine, then the task is to feed it.
 
