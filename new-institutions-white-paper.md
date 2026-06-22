@@ -6,13 +6,13 @@ This white paper argues that the crisis of contemporary institutions is not only
 
 AI and digital infrastructure will not automatically repair this condition. In many cases, they make it more visible. AI reveals whether an institution has made itself legible enough to be acted on. It can strengthen memory, coordination, and judgment where those capacities already have form. It can also multiply confusion, missing context, and unaccountable authority where they do not.
 
-New institutions therefore require more than better tools. They require infrastructure for institutional capacity: sovereign data, living memory, situated agents, regenerative community coordination, and interoperable systems that help institutions remember, learn, coordinate, and act responsibly. This is the work of ecosystem architecture: designing the conditions under which trust, memory, roles, relationships, feedback, and shared action can keep circulating. The goal is not another platform. The goal is civic, organizational, and ecological infrastructure for institutions that can carry themselves.
+New institutions therefore require more than better tools. They require infrastructure for institutional capacity: sovereign data, living memory, situated agents, regenerative community coordination, and interoperable systems that help institutions remember, learn, coordinate, and act responsibly. This is the work of ecosystem architecture: designing the conditions under which trust, memory, roles, relationships, and shared action can keep circulating. The goal is not another platform. The goal is civic, organizational, and ecological infrastructure for institutions that can carry themselves.
 
 ## 2. Problem / Context: Institutions Can No Longer Carry Themselves
 
 Institutions do not function because forms, rules, procedures, or constitutions exist. They function because enough people still participate in the agreements that make those forms meaningful. When those agreements weaken, the institution may remain visible while losing the capacity to carry its own authority, memory, and coordination. The building stands, the procedures circulate, the titles remain, but the actual work moves elsewhere.
 
-This is the condition the New Institutions essays have been circling from different angles. Social contracts break before institutions collapse. Heroics compensate for missing infrastructure. Storage is mistaken for memory. AI finds cracks that were already there. Together, these are not separate problems but symptoms of a deeper failure: institutions increasingly depend on people, tools, and informal workarounds to supply capacities the institution itself should be able to hold.
+Social contracts break before institutions collapse. Heroics compensate for missing infrastructure. Storage is mistaken for memory. AI finds cracks that were already there. Together, these are not separate problems but symptoms of a deeper failure: institutions increasingly depend on people, tools, and informal workarounds to supply capacities the institution itself should be able to hold.
 
 ### 2.1 Social Contracts Before Institutions
 
@@ -44,7 +44,7 @@ This also implies a different innovation model for Europe and other middle power
 
 New institutions need capacities, not just tools. Tools matter only insofar as they strengthen the capacities an institution needs to remain alive, legitimate, and capable of action.
 
-Ecosystem architecture is the practice of designing for those capacities across distributed actors. It does not treat an organization as a machine to be optimized from the center, but as a living arrangement of roles, relationships, flows, constraints, feedback loops, and shared responsibilities. From this perspective, technology matters when it helps the system sense itself, remember what matters, coordinate action, repair breakdowns, and renew the conditions of participation.
+Ecosystem architecture is the practice of designing for those capacities across distributed actors. It does not treat an organization as a machine to be optimized from the center, but as a living arrangement of roles, relationships, flows, constraints, feedback, and shared responsibilities. From this perspective, technology matters when it helps the system sense itself, remember what matters, coordinate action, repair breakdowns, and renew the conditions of participation.
 
 ### 4.1 Memory
 
@@ -68,15 +68,11 @@ The ability to use data and AI without surrendering control to external platform
 
 ### 4.6 Regeneration
 
-The ability to restore capacity rather than extract attention, labor, trust, and data. Regenerative technology should help institutions and communities renew the conditions that make action possible.
+The ability to restore capacity rather than extract attention, labor, trust, and data. Regenerative technology should help institutions and communities renew the conditions that make action possible, including the feedback and repair practices through which living systems adapt.
 
 ### 4.7 Situated Agency
 
 The ability to deploy agents as bounded, contextual collaborators rather than contextless automation. A useful agent does not speak from nowhere. It has a role, scope, context, limits, and a field of responsibility around it.
-
-### 4.8 Feedback and Renewal
-
-The ability to sense strain, surface failures, learn from them, and adapt without collapsing into crisis. Living institutions need feedback loops that make breakdown visible early enough for repair, and governance practices that turn maintenance into a shared responsibility rather than an afterthought.
 
 ## 5. Design Principles for New Institutional Technology
 
@@ -105,9 +101,6 @@ The design principles translate the framework into technology requirements. They
 
 8. **Accountability over fluency**  
    A fluent answer is not the same as responsible action.
-
-9. **Feedback over one-time deployment**  
-   Institutional technology should make learning, repair, and renewal easier over time.
 
 ## 6. Technology / Stack: Infrastructure for New Institutions
 
@@ -163,7 +156,7 @@ Agents support coordination, retrieval, and synthesis while remaining bounded, v
 
 New institutions require not only new tools, but new governance around tools. The central governance question is not whether humans or machines act, but how agency is situated, bounded, contested, and made answerable.
 
-Governance should also be treated as an ecosystem function. It is not only a control layer added after the technology is built. It is the set of practices through which participants maintain shared infrastructure, repair breakdowns, adjust roles, negotiate conflicts, and keep the system aligned with its purpose.
+Governance is not only a control layer added after the technology is built. It is the set of practices through which participants maintain shared infrastructure, repair breakdowns, adjust roles, negotiate conflicts, and keep the system aligned with its purpose.
 
 Key questions:
 
@@ -216,6 +209,6 @@ Develop shared ownership, accountability, maintenance, and renewal practices. En
 
 ## 10. Conclusion: Infrastructure for What Comes Next
 
-New institutions will not emerge from technology alone. But they will require technology aligned with the capacities we need: memory, trust, coordination, sovereignty, accountability, regeneration, and renewal.
+New institutions will not emerge from technology alone. But they will require technology aligned with the capacities we need: memory, trust, coordination, sovereignty, accountability, and regeneration.
 
 The task of ecosystem architecture is to design the conditions under which those capacities can keep circulating across people, agents, tools, communities, and institutions. The question is not how much of society we can push through AI. The question is what kinds of institutions AI and digital infrastructure will help us build.
