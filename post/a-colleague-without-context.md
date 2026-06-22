@@ -19,7 +19,7 @@ This is why so much executive language around AI sounds like leverage: fewer peo
 
 But institutions are not made only of capacity. They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits. When AI multiplies an institution, it does not only multiply intelligence. It multiplies the assumptions, evasions, bottlenecks, broken archives, unclear roles, and unresolved conflicts that are already there.
 
-This is where the language of colleague becomes important. Organizations often want AI to behave like a colleague while treating it like a multiplier. They want the system to know the work, understand the context, prepare decisions, retrieve memory, draft options, and help people move faster. But they also want it to remain frictionless: no position, no history, no responsibility, no place in the institution that has to be named.
+This is where "colleague" becomes more than a metaphor. Organizations increasingly expect AI to know the work, read the room, prepare decisions, and carry context, while still treating it as a multiplier to be scaled. They want the system to retrieve memory, draft options, and help people move faster. But they also want it to remain frictionless: no position, no history, no responsibility, no place in the institution that has to be named.
 
 That combination is dangerous. A system that helps a clear institution move faster may indeed create leverage. A system that accelerates an unclear institution often scales confusion. The archive becomes more searchable, but not necessarily more meaningful. The meeting becomes easier to summarize, but not necessarily easier to understand. The decision process becomes faster, but not necessarily more accountable.
 
