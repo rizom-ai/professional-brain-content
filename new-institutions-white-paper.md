@@ -6,7 +6,7 @@ A short summary of the problem, thesis, stack, and strategic opportunity. Existi
 
 The goal is not another platform. The goal is infrastructure for institutions that can remember, learn, coordinate, and act responsibly.
 
-## 2. Problem: Institutions Can No Longer Carry Themselves
+## 2. Problem / Context: Institutions Can No Longer Carry Themselves
 
 A synthesis of the New Institutions essays. Institutions do not function because forms, rules, procedures, or constitutions exist. They function because enough people still participate in the agreements that make those forms meaningful. When the social contract underneath an institution weakens, the institution may remain visible while losing the capacity to carry its own authority, memory, and coordination.
 
@@ -18,18 +18,38 @@ This section should connect:
 - storage mistaken for memory
 - AI exposing cracks that were already there
 
-## 3. The AI Inflection: A Stress Test for Institutional Form
+### 2.1 Social Contracts Before Institutions
 
-AI is not just another tool and not automatically a solution to institutional weakness. It is a stress test for institutional form. It reveals whether institutions have made their memory, roles, decisions, vocabularies, responsibilities, and limits legible enough to be acted on.
+Institutions do not protect democracy, legitimacy, or coordination by themselves. They depend on underlying agreements that make their forms meaningful.
+
+### 2.2 Heroics Are Not Infrastructure
+
+Failing institutions survive by borrowing capacity from exceptional people. What looks like dedication is often structural decay becoming personal.
+
+### 2.3 Storage Is Not Memory
+
+Modern institutions preserve traces without preserving orientation. They store more than ever, while often remembering less.
+
+### 2.4 AI Finds the Cracks
+
+AI does not create most institutional weakness. It reveals whether the institution has made itself legible enough to be acted on.
+
+## 3. Core Thesis: New Institutions Need Infrastructure for Institutional Capacity
+
+New institutions are not simply better organizations with better tools. They are institutions that can carry their own memory, make authority legible, coordinate without heroics, use AI without laundering responsibility, and regenerate the social contracts they depend on.
+
+AI makes this need more urgent because it is not just another tool and not automatically a solution to institutional weakness. It is a stress test for institutional form. It reveals whether institutions have made their memory, roles, decisions, vocabularies, responsibilities, and limits legible enough to be acted on.
 
 Without context, agents multiply institutional absence. A machine that enters an institution without situated roles, bounded authority, visible limits, and contestable outputs can become a way to launder responsibility rather than strengthen judgment.
 
-This section draws especially on:
+This thesis draws especially on:
 
 - *The Machine Finds The Cracks*
 - *A Colleague Without Context*
 
-## 4. Framework: The Capacities New Institutions Need
+Strategically, this also implies a different innovation model for Europe and other middle powers. The opportunity is not to copy Silicon Valley with fewer resources, but to build civic, organizational, and ecological infrastructure from different assumptions: sovereignty over dependency, interoperability over lock-in, regeneration over extraction, distributed intelligence over platform centralization, and accountable agents over opaque automation.
+
+## 4. Conceptual Framework: The Capacities New Institutions Need
 
 New institutions need capacities, not just tools. These capacities should form the conceptual framework of the white paper.
 
@@ -89,7 +109,7 @@ The design principles translate the framework into technology requirements.
 8. **Accountability over fluency**  
    A fluent answer is not the same as responsible action.
 
-## 6. Solution Architecture: A Stack for New Institutions
+## 6. Technology / Stack: Infrastructure for New Institutions
 
 This section introduces the technology stack only after the institutional requirements are clear. Each layer should answer a diagnosed failure and support one or more institutional capacities.
 
@@ -137,7 +157,7 @@ Universities, startups, civic organizations, funders, and public institutions sh
 
 Agents support coordination, retrieval, and synthesis while remaining bounded, visible, and accountable.
 
-## 8. Governance and Accountability: Who Remains Answerable?
+## 8. Governance / Risks: Who Remains Answerable?
 
 New institutions require not only new tools, but new governance around tools. This section should address the questions that decide whether technology strengthens institutional capacity or hides responsibility.
 
@@ -152,21 +172,15 @@ Key questions:
 - How is institutional memory maintained?
 - How do communities govern shared infrastructure?
 
-## 9. Strategic Opportunity: A European / Middle-Power Innovation Model
+Key risks:
 
-Europe and other middle powers should not copy Silicon Valley with fewer resources. The opportunity is to build civic, organizational, and ecological infrastructure from different assumptions.
+- sovereign infrastructure becoming another form of lock-in
+- agents being treated as neutral authorities rather than situated collaborators
+- memory systems becoming storage systems without interpretation
+- regenerative language becoming branding rather than governance
+- interoperability being promised at the interface while control remains centralized
 
-This section should frame sovereignty, trust, governance, and interoperability as strategic advantages rather than limitations.
-
-Core contrasts:
-
-- sovereignty over dependency
-- interoperability over lock-in
-- regeneration over extraction
-- distributed intelligence over platform centralization
-- accountable agents over opaque automation
-
-## 10. Implementation Roadmap: From Diagnosis to Living Infrastructure
+## 9. Implementation Roadmap: From Diagnosis to Living Infrastructure
 
 A practical path for adoption.
 
@@ -194,7 +208,7 @@ Extend from internal institutional memory to cross-organizational collaboration.
 
 Develop shared ownership, accountability, maintenance, and renewal practices.
 
-## 11. Conclusion: Infrastructure for What Comes Next
+## 10. Conclusion: Infrastructure for What Comes Next
 
 New institutions will not emerge from technology alone. But they will require technology aligned with the capacities we need: memory, trust, coordination, sovereignty, accountability, and regeneration.
 
