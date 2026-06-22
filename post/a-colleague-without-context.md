@@ -11,9 +11,9 @@ coverImageId: a-colleague-without-context-cover
 seriesName: New Institutions
 seriesIndex: 4
 ---
-A strange new performance has entered organizational life: every team now has to show that it is using AI to the max. More prompts, more agents, more workflows, more automations, more documents moving through more processes. The question is no longer where AI might actually help. The question is how much of the institution can be pushed through the machine.
+A strange new performance has entered organizational life: every team now has to show that it is using AI to the max. More prompts, more agents, more workflows, more automations, more documents moving through more processes. The question is no longer where AI might actually help, but how much of the institution can be pushed through the machine.
 
-This is why so much executive language around AI sounds like leverage. Fewer people, more output. Smaller teams, larger surface area. Faster cycles, more experiments, more content, more decisions. Intelligence becomes something to be scaled like compute. If the model is the new engine, then the task is to feed it.
+This is why so much executive language around AI sounds like leverage: fewer people, more output; smaller teams, larger surface area; faster cycles, more experiments, more content, more decisions. Intelligence becomes something to be scaled like compute. If the model is the new engine, then the task is to feed it.
 
 But institutions are not made only of capacity. They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits. When AI multiplies an institution, it does not only multiply intelligence. It multiplies the assumptions, evasions, bottlenecks, broken archives, unclear roles, and unresolved conflicts that are already there.
 
