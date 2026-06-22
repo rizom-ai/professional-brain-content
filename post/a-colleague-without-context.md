@@ -27,7 +27,7 @@ There is real practical skill in learning how to use models well: how to provide
 
 AI does not solve that problem by being more fluent. In fact, fluency can make it worse. A weak institutional context expressed badly is easy to distrust. A weak institutional context expressed beautifully can start to look like judgment. The machine can turn fragments into a strategy memo, tensions into a ranked list, disagreement into action items, and stale documents into something that sounds like organizational memory. That does not mean the work has become clearer. It may only mean the confusion has acquired a better surface.
 
-Donna Haraway's critique of the view from nowhere is useful here because it names the fantasy behind that surface. Knowledge does not become more trustworthy by pretending to have no position. It becomes more responsible by admitting where it sees from, what it can see, what it cannot see, and to whom it must remain answerable.
+In *Situated Knowledges*, Donna Haraway's critique of the view from nowhere is useful here because it names the fantasy behind that surface. Knowledge does not become more trustworthy by pretending to have no position. It becomes more responsible by admitting where it sees from, what it can see, what it cannot see, and to whom it must remain answerable.
 
 > Feminist objectivity is about limited location and situated knowledge, not about transcendence and splitting of subject and object.
 >
@@ -39,7 +39,7 @@ The danger is not simply that the machine is wrong. Institutions are wrong all t
 
 This is seductive because institutions already rely on similar forms of laundering. Committees hide judgment inside procedure. Dashboards hide values inside metrics. Policies hide conflict inside formal language. Archives hide decisions by preserving their traces while losing the conditions that made them meaningful. AI does not invent this habit. It intensifies it by giving the institution a fluent surface through which situated judgment can appear as impersonal intelligence.
 
-This is also why it is too simple to say that AI is just a tool. Institutions have never been made only of people and their intentions. Forms, files, budgets, calendars, credentials, dashboards, meeting rooms, and software systems all shape what people can do. Bruno Latour was useful because he refused to treat these nonhuman elements as passive scenery. Power lasts, in part, by being delegated into things.
+This is also why it is too simple to say that AI is just a tool. Institutions have never been made only of people and their intentions. Forms, files, budgets, calendars, credentials, dashboards, meeting rooms, and software systems all shape what people can do. In *Technology Is Society Made Durable*, Bruno Latour was useful because he refused to treat these nonhuman elements as passive scenery. Power lasts, in part, by being delegated into things.
 
 > Technology is society made durable.
 >
