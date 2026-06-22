@@ -11,27 +11,23 @@ coverImageId: a-colleague-without-context-cover
 seriesName: New Institutions
 seriesIndex: 4
 ---
-A strange new performance has entered organizational life: every team now has to show that it is using AI to the max.
-
-More prompts, more agents, more workflows, more automations, more documents moving through more processes. The question is no longer where AI might actually help. The question is how much of the institution can be pushed through the machine.
+A strange new performance has entered organizational life: every team now has to show that it is using AI to the max. More prompts, more agents, more workflows, more automations, more documents moving through more processes. The question is no longer where AI might actually help. The question is how much of the institution can be pushed through the machine.
 
 This is why so much executive language around AI sounds like leverage. Fewer people, more output. Smaller teams, larger surface area. Faster cycles, more experiments, more content, more decisions. Intelligence becomes something to be scaled like compute. If the model is the new engine, then the task is to feed it.
 
 But institutions are not made only of capacity. They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits. When AI multiplies an institution, it does not only multiply intelligence. It multiplies the assumptions, evasions, bottlenecks, broken archives, unclear roles, and unresolved conflicts that are already there.
 
-This is where the language of colleague becomes important. Organizations often want AI to behave like a colleague while treating it like a multiplier. They want the system to know the work, understand the context, prepare decisions, summarize disagreement, retrieve memory, draft options, and help people move faster. But they also want it to remain frictionless: no position, no history, no responsibility, no place in the institution that has to be named.
+This is where the language of colleague becomes important. Organizations often want AI to behave like a colleague while treating it like a multiplier. They want the system to know the work, understand the context, prepare decisions, retrieve memory, draft options, and help people move faster. But they also want it to remain frictionless: no position, no history, no responsibility, no place in the institution that has to be named.
 
-That combination is dangerous.
+That combination is dangerous. A system that helps a clear institution move faster may indeed create leverage. A system that accelerates an unclear institution often scales confusion. The archive becomes more searchable, but not necessarily more meaningful. The meeting becomes easier to summarize, but not necessarily easier to understand. The decision process becomes faster, but not necessarily more accountable.
 
-A system that helps a clear institution move faster may indeed create leverage. A system that accelerates an unclear institution often scales confusion. The archive becomes more searchable, but not necessarily more meaningful. The meeting becomes easier to summarize, but not necessarily easier to understand. The decision process becomes faster, but not necessarily more accountable.
-
-There is real practical skill in learning how to use models well: how to provide context, structure prompts, chain tools, and make the system less brittle. But the obsession with feeding the model can also conceal a deeper institutional weakness. If context has to be assembled by heroic prompting every time, then the institution has not actually made itself knowable. It has merely found a temporary way to perform coherence for the machine.
+There is real practical skill in learning how to use models well: how to provide context, structure prompts, chain tools, and make the system less brittle. But if context has to be assembled by heroic prompting every time, then the institution has not actually made itself knowable. It has merely found a temporary way to perform coherence for the machine.
 
 AI does not solve that problem by being more fluent. In fact, fluency can make it worse. A weak institutional context expressed badly is easy to distrust. A weak institutional context expressed beautifully can start to look like judgment. The machine can turn fragments into a strategy memo, tensions into a ranked list, disagreement into action items, and stale documents into something that sounds like organizational memory. That does not mean the work has become clearer. It may only mean the confusion has acquired a better surface.
 
 Donna Haraway's critique of the view from nowhere is useful here because it names the fantasy behind that surface. Knowledge does not become more trustworthy by pretending to have no position. It becomes more responsible by admitting where it sees from, what it can see, what it cannot see, and to whom it must remain answerable.
 
-> The moral is simple: only partial perspective promises objective vision.
+> Feminist objectivity is about limited location and situated knowledge, not about transcendence and splitting of subject and object.
 >
 > — Donna Haraway
 
@@ -56,8 +52,6 @@ A machine that summarizes notes is not playing the same role as a machine that d
 A colleague is not valuable simply because they are human. A colleague is valuable because they are situated. They know the work from somewhere. They have limits. Their contribution can be challenged. They belong to a field of responsibility in which other people can interpret, contest, correct, and contextualize what they say.
 
 If AI is to become a colleague in any meaningful institutional sense, it has to be situated in the same way. Its access has to be named. Its limits have to be visible. Its authority has to be bounded. Its outputs have to remain contestable. Without that discipline, the machine will know the documents without knowing which ones are ceremonial, the process without knowing the practice, the archive without knowing which decisions still matter.
-
-These are not minor defects to be solved by better prompting. They are the conditions under which institutions make meaning. More context can produce more synthesis, but synthesis is not the same as judgment. A larger context window can hold more traces, but it cannot decide which traces are alive. A better agent can move through more systems, but it cannot know which systems are performative unless the institution has made that distinction available.
 
 Then the problem is no longer that AI lacks context. The problem is that the institution lacked context first, and the machine has been invited to multiply that absence.
 
