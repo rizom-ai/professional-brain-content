@@ -27,7 +27,7 @@ There is real practical skill in learning how to use models well: how to provide
 
 AI does not solve that problem by being more fluent. In fact, fluency can make it worse. A weak institutional context expressed badly is easy to distrust. A weak institutional context expressed beautifully can start to look like judgment. The machine can turn fragments into a strategy memo, tensions into a ranked list, disagreement into action items, and stale documents into something that sounds like organizational memory. That does not mean the work has become clearer. It may only mean the confusion has acquired a better surface.
 
-In *Situated Knowledges*, Donna Haraway's critique of the view from nowhere is useful here because it names the fantasy behind that surface. Knowledge does not become more trustworthy by pretending to have no position. It becomes more responsible by admitting where it sees from, what it can see, what it cannot see, and to whom it must remain answerable.
+In *Situated Knowledges*, Donna Haraway gives us a way to name the fantasy behind that surface. Knowledge does not become more trustworthy by pretending to have no position. It becomes more responsible by admitting where it sees from, what it can see, what it cannot see, and to whom it must remain answerable.
 
 > Feminist objectivity is about limited location and situated knowledge, not about transcendence and splitting of subject and object.
 >
@@ -37,7 +37,7 @@ AI enters institutions at exactly the point where this lesson is hardest to hold
 
 The danger is not simply that the machine is wrong. Institutions are wrong all the time. The danger is that the machine can make situated, partial, institutionally produced knowledge appear as if it came from nowhere. It can make judgment feel like output, disagreement look like ranking, and politics appear as procedure. It can speak in a voice that seems to belong to nobody in particular.
 
-This is seductive because institutions already rely on similar forms of laundering. Committees hide judgment inside procedure. Dashboards hide values inside metrics. Policies hide conflict inside formal language. Archives hide decisions by preserving their traces while losing the conditions that made them meaningful. AI does not invent this habit. It intensifies it by giving the institution a fluent surface through which situated judgment can appear as impersonal intelligence.
+This works so well because institutions already rely on similar forms of laundering. Committees hide judgment inside procedure. Dashboards hide values inside metrics. Policies hide conflict inside formal language. Archives hide decisions by preserving their traces while losing the conditions that made them meaningful. AI does not invent this habit. It intensifies it by giving the institution a fluent surface through which situated judgment can appear as impersonal intelligence.
 
 This is also why it is too simple to say that AI is just a tool. Institutions have never been made only of people and their intentions. Forms, files, budgets, calendars, credentials, dashboards, meeting rooms, and software systems all shape what people can do. Bruno Latour makes a related move in *Technology Is Society Made Durable*: nonhuman elements are not passive scenery. Power lasts, in part, because it is delegated into things.
 
@@ -57,4 +57,4 @@ If AI is to become a colleague in any meaningful institutional sense, it has to 
 
 Then the problem is no longer that AI lacks context. The problem is that the institution lacked context first, and the machine has been invited to multiply that absence.
 
-New institutions will need a better discipline than adoption. They will need to distinguish leverage from learning, throughput from judgment, retrieval from memory, and fluency from responsibility. AI will not simply multiply intelligence; it will multiply the institution it enters. If that institution has memory, judgment, and accountability, the multiplication may be powerful. If it does not, the machine will scale the absence.
+New institutions will need a better discipline than adoption: they will need role design. They will need to distinguish leverage from learning, throughput from judgment, retrieval from memory, and fluency from responsibility. AI will not simply multiply intelligence; it will multiply the institution it enters. If that institution has memory, judgment, and accountability, the multiplication may be powerful. If it does not, the machine will scale the absence.
