@@ -2,40 +2,20 @@
 title: A Colleague Without Context
 platform: linkedin
 status: draft
+coverImageId: a-colleague-without-context-cover
+sourceEntityId: a-colleague-without-context
+sourceEntityType: post
 ---
-AI adoption is usually framed as a capacity problem.
+Most conversations about AI adoption start with capacity.
 
-Can it do more work?
-Can it automate more steps?
-Can it reduce the load on people already stretched too thin?
+How much faster can we move? How many workflows can we automate? How many documents can we process? How many agents can we deploy? How much more output can we get from the same organization?
 
-But institutions are not just engines of throughput.
-They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits.
+But institutions are not made only of capacity. They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits. If those things are unclear, AI does not magically clarify them. It often makes them easier to ignore.
 
-That is where the conversation gets more interesting.
+This is the risk behind the current fantasy of AI as colleague. A colleague is not valuable because it can produce more. A colleague is valuable because it is situated. It knows the work from somewhere. It has limits. It can be challenged. It belongs to a field of responsibility.
 
-Because when we introduce AI into an organization, it doesn’t just add intelligence.
-It also adds another actor whose role may be unclear.
-And if the role is unclear, the system does not become smarter by default.
-It often just becomes harder to see what is happening.
+If AI is going to play that role, we need a better discipline than adoption. We need role design. What is this system allowed to know? What is it allowed to influence? Who can contest it? Who remains responsible after it speaks?
 
-A colleague is valuable not because they are “human” in the abstract.
-They are valuable because they are situated.
-They know the work from somewhere.
-They can be challenged.
-They carry responsibilities.
-They belong to a field of accountability.
+That is what I explore in my new essay: *A Colleague Without Context*.
 
-If we want AI to play something like that role, we need more than adoption.
-We need role design.
-
-What is this system allowed to know?
-What can it influence?
-Who can contest it?
-Who remains responsible after it speaks?
-
-I wrote more about this in a new essay: https://yeehaa.io/essays/a-colleague-without-context
-
-How are you thinking about AI in your organization: as a tool, or as a colleague with clearly defined limits?
-
-#AI #OrganizationalDesign #KnowledgeWork #Leadership #EcosystemArchitecture
+https://yeehaa.io/essays/a-colleague-without-context
