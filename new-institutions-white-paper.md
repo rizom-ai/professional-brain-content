@@ -10,25 +10,45 @@ New institutions therefore require more than better tools. They require infrastr
 
 ## 2. Problem / Context: Institutions Can No Longer Carry Themselves
 
-Institutions do not function because forms, rules, procedures, or constitutions exist. They function because enough people still participate in the agreements that make those forms meaningful. When those agreements weaken, the institution may remain visible while losing the capacity to carry its own authority, memory, and coordination. The building stands, the procedures circulate, the titles remain, but the actual work moves elsewhere.
+The crisis of institutions is often described as a crisis of trust, competence, or legitimacy. Those descriptions are not wrong, but they usually start too late. Institutions do not fail only when people stop believing in them. They begin to fail when they can no longer carry the capacities that made belief reasonable in the first place: memory, judgment, coordination, accountability, and a shared sense of what the institution is for.
 
-Social contracts break before institutions collapse. Heroics compensate for missing infrastructure. Storage is mistaken for memory. AI finds cracks that were already there. Together, these are not separate problems but symptoms of a deeper failure: institutions increasingly depend on people, tools, and informal workarounds to supply capacities the institution itself should be able to hold.
+An institution can retain its visible form long after those capacities have begun to drain away. The building stands. The procedures circulate. The titles remain in place. Meetings still happen, reports still get written, dashboards still update, and strategies still name the future. From the outside, the institution may look intact. From the inside, however, more and more of the real work has moved elsewhere: into personal relationships, informal exceptions, private notes, long-tenured employees, unspoken norms, and the ability of a few people to remember how things are actually supposed to work.
+
+This is what it means for an institution to stop carrying itself. The form remains, but the force of the form weakens. Authority still exists on paper, but decisions depend on private interpretation. Memory still exists as storage, but not as orientation. Coordination still happens, but only because people continuously repair the gaps between official process and lived practice. The institution does not disappear. It becomes dependent on compensations it can no longer name.
 
 ### 2.1 Social Contracts Before Institutions
 
-Institutions do not protect democracy, legitimacy, or coordination by themselves. They depend on underlying agreements that make their forms meaningful. When those agreements decay, institutional form becomes increasingly theatrical: still present, still procedural, but less able to command trust or coordinate action.
+Institutions do not protect democracy, legitimacy, or coordination by themselves. They depend on underlying social contracts that make their forms meaningful. A constitution, a mandate, a policy, a procedure, or a role only works when enough people still recognize the obligations, limits, and shared purposes behind it. When those agreements hold, institutional form can coordinate action across distance and time. When they weaken, the same form becomes increasingly theatrical: still present, still procedural, but less able to command trust or organize collective action.
+
+This is why institutional decay cannot be understood only as administrative failure. It is also a failure of shared meaning. People stop treating institutions as legitimate not simply because a process is inefficient, but because the institution no longer appears to hold up its side of the agreement. It cannot explain itself. It cannot remember why decisions were made. It cannot make responsibility visible. It cannot connect formal commitments to lived consequences. The social contract underneath the institution frays, and the institution begins to operate as if the contract were still intact.
+
+New institutions therefore cannot be built by improving procedure alone. They require renewed forms of participation, responsibility, and shared orientation. The technical question of how institutions store, retrieve, and coordinate knowledge is inseparable from the political question of what agreements make that knowledge meaningful.
 
 ### 2.2 Heroics Are Not Infrastructure
 
-Failing institutions survive by borrowing capacity from exceptional people. The fixer, veteran, founder, overloaded coordinator, or indispensable colleague becomes the place where memory, judgment, and coordination actually live. What looks like dedication is often structural decay becoming personal.
+When institutions can no longer carry their own memory and coordination, they borrow those capacities from people. Every failing institution has some version of the fixer, the veteran, the founder, the overloaded coordinator, or the indispensable colleague who knows how things really work. They remember the exception that was never documented. They know which process is ceremonial and which one matters. They translate between teams that no longer understand each other. They absorb ambiguity before it becomes visible.
+
+This labor is often praised as dedication, leadership, or ownership. Sometimes it is all of those things. But it is also evidence that the institution has failed to distribute its own capacities. The more indispensable a person becomes, the more likely it is that the surrounding form has stopped functioning institutionally. Memory has migrated from the archive to the veteran. Coordination has migrated from the process to the fixer. Legitimacy has migrated from the role to the person who somehow still knows how to make the role matter.
+
+Heroics can keep an institution alive, but they do not make it healthy. They conceal the distance between formal structure and actual practice. As long as the right people remain in place, the institution can appear coherent. When they leave, burn out, or become overloaded, the hidden dependency becomes visible. A living institution should not require exceptional people to continuously patch its ordinary operations. Expertise matters, but it should circulate through the institution rather than become trapped in particular bodies.
 
 ### 2.3 Storage Is Not Memory
 
-Modern institutions preserve more traces than ever, but traces are not memory. A document can survive while the practice it described disappears. A dashboard can make activity visible while narrowing what the institution can notice. An archive can contain everything and still fail to orient action.
+Modern institutions have become extremely good at producing traces. They have shared drives, archives, minutes, dashboards, chat histories, project boards, CRM systems, compliance records, and enough documentation to prove that something must have happened. Yet more traces do not automatically produce more memory. Storage answers the question of where something has been placed. Memory answers the harder question of what that thing means now.
+
+A document can survive while the practice it described has disappeared. A dashboard can make activity visible while narrowing what the institution can notice. A policy can remain formally active long after everyone knows it no longer describes how work happens. An archive can contain everything and still fail to help anyone understand what should be done next. In such cases, the institution has not remembered. It has preserved evidence without preserving orientation.
+
+This distinction matters because institutions increasingly mistake retrieval for memory. If something can be found, summarized, tagged, or searched, it appears to have been remembered. But institutional memory is not the accumulation of records. It is the capacity to make the past available to present judgment. That requires context: which decisions are still alive, which documents are ceremonial, which concepts have changed meaning, which exceptions became practice, and which responsibilities remain attached to earlier choices.
 
 ### 2.4 AI Finds the Cracks
 
-AI does not create most institutional weakness. It reveals whether the institution has made itself legible enough to be acted on. If decisions lack reasons, archives lack context, roles lack authority, or vocabularies lack shared meaning, the machine will not magically repair the gap. It will expose it, compress it, or multiply it.
+AI enters this situation as both promise and stress test. It promises to search the archive, summarize the meeting, draft the strategy, compare the options, retrieve the precedent, and coordinate the next step. But in doing so, it also reveals whether the institution has made itself legible enough to be acted on. If decisions lack reasons, archives lack context, roles lack authority, or vocabularies lack shared meaning, the machine will not magically repair the gap. It will expose it, compress it, or multiply it.
+
+This is why many apparent AI failures are also institutional failures. The model sounds generic because the institution has no shared language for what specificity would require. Retrieval fails because the archive preserved documents without preserving their status. The agent cannot act because responsibility is not legible. The summary misses the point because the point lived in a conversation, exception, or conflict the institution never learned how to hold.
+
+AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once “just known” turns out not to be known by the institution at all.
+
+The problem, then, is not simply that institutions need AI strategies. It is that AI forces a prior question: has the institution made itself knowable enough for any strategy to work?
 
 ## 3. Core Thesis: New Institutions Need Infrastructure for Institutional Capacity
 
