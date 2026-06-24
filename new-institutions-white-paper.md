@@ -16,23 +16,23 @@ An institution can retain its visible form long after those capacities have begu
 
 This is what it means for an institution to stop carrying itself. The form remains, but the force of the form weakens. Authority still exists on paper, but decisions depend on private interpretation. Memory still exists as storage, but not as orientation. Coordination still happens, but only because people continuously repair the gaps between official process and lived practice. The institution does not disappear. It becomes dependent on compensations it can no longer name.
 
-### 2.1 Social Contracts Before Institutions
+### 2.1 The Gap Between Form and Function
 
 Institutions do not protect democracy, legitimacy, or coordination by themselves. They depend on underlying social contracts that make their forms meaningful. A constitution, a mandate, a policy, a procedure, or a role only works when enough people still recognize the obligations, limits, and shared purposes behind it. When those agreements hold, institutional form can coordinate action across distance and time. When they weaken, the same form becomes increasingly theatrical: still present, still procedural, but less able to command trust or organize collective action.
 
-This is why institutional decay cannot be understood only as administrative failure. It is also a failure of shared meaning. People stop treating institutions as legitimate not simply because a process is inefficient, but because the institution no longer appears to hold up its side of the agreement. It cannot explain itself. It cannot remember why decisions were made. It cannot make responsibility visible. It cannot connect formal commitments to lived consequences. The social contract underneath the institution frays, and the institution begins to operate as if the contract were still intact.
+This is why institutional decay cannot be understood only as administrative failure. It is also a failure of shared meaning. People stop treating institutions as legitimate not simply because a process is inefficient, but because the institution no longer appears to hold up its side of the agreement. It cannot explain itself. It cannot remember why decisions were made. It cannot make responsibility visible. It cannot connect formal commitments to lived consequences. The agreement underneath the institution frays, and the institution begins to operate as if that agreement were still intact.
 
 New institutions therefore cannot be built by improving procedure alone. They require renewed forms of participation, responsibility, and shared orientation. The technical question of how institutions store, retrieve, and coordinate knowledge is inseparable from the political question of what agreements make that knowledge meaningful.
 
-### 2.2 Heroics Are Not Infrastructure
+### 2.2 The Migration of Memory and Judgment
 
 When institutions can no longer carry their own memory and coordination, they borrow those capacities from people. Every failing institution has some version of the fixer, the veteran, the founder, the overloaded coordinator, or the indispensable colleague who knows how things really work. They remember the exception that was never documented. They know which process is ceremonial and which one matters. They translate between teams that no longer understand each other. They absorb ambiguity before it becomes visible.
 
 This labor is often praised as dedication, leadership, or ownership. Sometimes it is all of those things. But it is also evidence that the institution has failed to distribute its own capacities. The more indispensable a person becomes, the more likely it is that the surrounding form has stopped functioning institutionally. Memory has migrated from the archive to the veteran. Coordination has migrated from the process to the fixer. Legitimacy has migrated from the role to the person who somehow still knows how to make the role matter.
 
-Heroics can keep an institution alive, but they do not make it healthy. They conceal the distance between formal structure and actual practice. As long as the right people remain in place, the institution can appear coherent. When they leave, burn out, or become overloaded, the hidden dependency becomes visible. A living institution should not require exceptional people to continuously patch its ordinary operations. Expertise matters, but it should circulate through the institution rather than become trapped in particular bodies.
+These compensations can keep an institution alive, but they do not make it healthy. They conceal the distance between formal structure and actual practice. As long as the right people remain in place, the institution can appear coherent. When they leave, burn out, or become overloaded, the hidden dependency becomes visible. A living institution should not require exceptional people to continuously patch its ordinary operations. Expertise matters, but it should circulate through the institution rather than become trapped in particular bodies.
 
-### 2.3 Storage Is Not Memory
+### 2.3 The Failure of Institutional Memory
 
 Modern institutions have become extremely good at producing traces. They have shared drives, archives, minutes, dashboards, chat histories, project boards, CRM systems, compliance records, and enough documentation to prove that something must have happened. Yet more traces do not automatically produce more memory. Storage answers the question of where something has been placed. Memory answers the harder question of what that thing means now.
 
@@ -40,7 +40,7 @@ A document can survive while the practice it described has disappeared. A dashbo
 
 This distinction matters because institutions increasingly mistake retrieval for memory. If something can be found, summarized, tagged, or searched, it appears to have been remembered. But institutional memory is not the accumulation of records. It is the capacity to make the past available to present judgment. That requires context: which decisions are still alive, which documents are ceremonial, which concepts have changed meaning, which exceptions became practice, and which responsibilities remain attached to earlier choices.
 
-### 2.4 AI Finds the Cracks
+### 2.4 AI as an Institutional Stress Test
 
 AI enters this situation as both promise and stress test. It promises to search the archive, summarize the meeting, draft the strategy, compare the options, retrieve the precedent, and coordinate the next step. But in doing so, it also reveals whether the institution has made itself legible enough to be acted on. If decisions lack reasons, archives lack context, roles lack authority, or vocabularies lack shared meaning, the machine will not magically repair the gap. It will expose it, compress it, or multiply it.
 
