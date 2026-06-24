@@ -1,8 +1,10 @@
 ---
 title: A Colleague Without Context
 platform: linkedin
-status: draft
+status: published
 coverImageId: a-colleague-without-context-cover
+publishedAt: '2026-06-24T08:19:04.405Z'
+platformPostId: 'urn:li:share:7475462483739131904'
 sourceEntityId: a-colleague-without-context
 sourceEntityType: post
 ---
