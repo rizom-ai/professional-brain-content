@@ -39,7 +39,7 @@ The danger is not simply that the machine is wrong. Institutions are wrong all t
 
 This is seductive because institutions already rely on similar forms of laundering. Committees hide judgment inside procedure. Dashboards hide values inside metrics. Policies hide conflict inside formal language. Archives hide decisions by preserving their traces while losing the conditions that made them meaningful. AI does not invent this habit. It intensifies it by giving the institution a fluent surface through which situated judgment can appear as impersonal intelligence.
 
-This is also why it is too simple to say that AI is just a tool. Institutions have never been made only of people and their intentions. Forms, files, budgets, calendars, credentials, dashboards, meeting rooms, and software systems all shape what people can do. In *Technology Is Society Made Durable*, Bruno Latour was useful because he refused to treat these nonhuman elements as passive scenery. Power lasts, in part, by being delegated into things.
+This is also why it is too simple to say that AI is just a tool. Institutions have never been made only of people and their intentions. Forms, files, budgets, calendars, credentials, dashboards, meeting rooms, and software systems all shape what people can do. Bruno Latour makes a related move in *Technology Is Society Made Durable*: nonhuman elements are not passive scenery. Power lasts, in part, because it is delegated into things.
 
 > Technology is society made durable.
 >
