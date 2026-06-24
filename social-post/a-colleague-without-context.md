@@ -6,11 +6,11 @@ coverImageId: a-colleague-without-context-cover
 sourceEntityId: a-colleague-without-context
 sourceEntityType: post
 ---
-Most conversations about AI adoption start with capacity.
+Most conversations about AI adoption are really conversations about performance.
 
-How much faster can we move? How many workflows can we automate? How many documents can we process? How many agents can we deploy? How much more output can we get from the same organization?
+How much faster can we move? How many workflows can we automate? How many documents can we process? How much more output can we get from the same organization?
 
-But institutions are not made only of capacity. They are made of memory, judgment, responsibility, coordination, conflict, trust, and limits. If those things are unclear, AI does not magically clarify them. It often makes them easier to ignore.
+But institutions are not only performance systems. They are systems of memory, judgment, responsibility, coordination, conflict, trust, and limits. If those things are unclear, AI does not magically clarify them. It often makes them easier to ignore.
 
 This is the risk behind the current fantasy of AI as colleague. A colleague is not valuable because it can produce more. A colleague is valuable because it is situated. It knows the work from somewhere. It has limits. It can be challenged. It belongs to a field of responsibility.
 
