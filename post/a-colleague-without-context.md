@@ -8,6 +8,7 @@ excerpt: >-
   intelligence in the abstract. It multiplies the institution it enters.
 author: Yeehaa
 coverImageId: a-colleague-without-context-cover
+ogImageId: og-post-a-colleague-without-context
 seriesName: New Institutions
 seriesIndex: 4
 ---
