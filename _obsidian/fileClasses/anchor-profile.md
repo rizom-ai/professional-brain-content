@@ -37,6 +37,12 @@ fields:
   - id: story
     name: story
     type: Input
+  - id: role
+    name: role
+    type: Input
+  - id: audience
+    name: audience
+    type: Input
   - id: expertise
     name: expertise
     type: Multi
@@ -45,6 +51,9 @@ fields:
     type: Input
   - id: availability
     name: availability
+    type: Input
+  - id: desiredTone
+    name: desiredTone
     type: Input
 filesPaths: anchor-profile
 ---
