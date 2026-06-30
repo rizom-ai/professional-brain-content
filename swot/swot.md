@@ -1,38 +1,40 @@
 ---
 strengths:
-  - title: Systems design
+  - title: Regenerative systems
     detail: >-
-      Use this when you need to redesign workflows or structure tools around
-      resilient patterns, and pair it with the network’s architecture strengths
-      when the system needs to scale.
-  - title: Comparison analysis
+      Use this for organization and tool design when you need a resilient
+      principle to guide decisions and architecture.
+  - title: Entity comparison
     detail: >-
-      Lean on this for profile review, pattern finding, and relationship
-      mapping, especially when you need to decide what is similar, different, or
-      connected.
+      Use this to sort options, compare profiles, and surface relationships
+      before you commit to a structure or choice.
 weaknesses:
-  - title: Workflow guidance gap
+  - title: Knowledge infrastructure
     detail: >-
-      You do not show a direct workflow-planning strength here, so rely on the
-      network to define repeatable steps when execution needs to be disciplined.
-  - title: Polish gap
+      Treat this as a gap to cover deliberately; do not assume analysis and
+      classification alone will produce a full knowledge system.
+  - title: Learning system
     detail: >-
-      Your profile is stronger in analysis than in publish-ready wording, so
-      have others tighten drafts before you rely on them externally.
+      Do not try to lead educational or learning-environment design solo; pair
+      with examples or collaborators before committing.
 opportunities:
-  - title: Knowledge structure
+  - title: Cultural writing
     detail: >-
-      Use the network’s organizing skills as a model to improve how you capture,
-      classify, and retrieve your own work.
+      Use this network capability to turn critique into polished posts, essays,
+      or decks that make your ideas shareable.
+  - title: Profile organization
+    detail: >-
+      Borrow this pattern to tighten how you capture, structure, and reuse
+      people-and-role profiles.
+threats:
   - title: Readiness planning
     detail: >-
-      Test this to turn ideas into a clearer roadmap, especially when you are
-      moving from concept to delivery.
-threats:
-  - title: Outward-facing writing risk
+      Do not leave roadmap and release-readiness work implicit; add a clear
+      planning habit or a partner who covers it.
+  - title: Brain knowledge structure
     detail: >-
-      Do not assume your current setup can produce finished public writing
-      without extra help from stronger editors or publishers.
-derivedAt: '2026-06-03T08:32:06.493Z'
+      If you rely on the knowledge base, make sure its structure is explicitly
+      covered instead of assumed.
+derivedAt: '2026-06-30T14:26:42.288Z'
 ---
 
