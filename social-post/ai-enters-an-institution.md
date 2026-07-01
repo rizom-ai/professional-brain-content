@@ -11,7 +11,7 @@ And institutions are not neutral workflows waiting to be optimized. They are mem
 
 That is why AI projects often reveal more than they solve. The model may be capable. The pilot may look clean. The demo may produce exactly the kind of output everyone hoped for. But once the system enters real institutional life, the harder questions appear.
 
-What context is it allowed to use? Which exceptions does it recognize? What authority does its output carry? Who can challenge it? Who remains responsible when a plausible answer becomes part of the work?
+What context has the institution made available? Which exceptions were ever named? Where does authority actually sit? How does disagreement travel? Who remains responsible when a plausible answer becomes part of the work?
 
 These are not edge cases. They are the institution.
 
