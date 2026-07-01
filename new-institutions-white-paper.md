@@ -58,7 +58,7 @@ The problem, then, is not simply that institutions need AI strategies. It is tha
 
 New institutions are not simply better organizations with better tools. They are institutions that can carry their own memory, make authority legible, coordinate without heroics, use AI without laundering responsibility, and renew the agreements that make shared action possible.
 
-The core thesis of this white paper is that institutional renewal depends on capability, not performance. Performance asks how much an institution can produce, process, automate, or accelerate. Capability asks whether the institution can remember what matters, understand its own roles and responsibilities, coordinate across difference, make decisions that can be explained, and remain accountable for the consequences of its actions over time.
+Institutional renewal depends on capability, not performance. Performance asks how much an institution can produce, process, automate, or accelerate. Capability asks whether the institution can remember what matters, understand its own roles and responsibilities, coordinate across difference, make decisions that can be explained, and remain accountable for the consequences of its actions over time.
 
 ### 3.1 Capability, Not Performance
 
@@ -78,7 +78,7 @@ This is why ecosystem architecture matters. The work is not simply to select too
 
 ### 3.3 Sovereign, Regenerative, Distributed
 
-The title of this white paper names three commitments that follow from this thesis.
+Three commitments follow from this thesis.
 
 Sovereign means that institutions and communities must retain meaningful governance over the data, memory, and digital systems that define their ability to act. Sovereignty is not isolation or technological nationalism. It is the ability to participate in digital systems without surrendering institutional memory and decision-making to external platforms.
 
@@ -204,7 +204,7 @@ Accountability over fluency means that systems must make reasons, sources, permi
 
 ## 6. Technology / Stack: Infrastructure for New Institutions
 
-This infrastructure is not a product catalogue. It translates institutional requirements into technical and organizational form. Each layer answers a diagnosed weakness: dependency without sovereignty, storage without memory, AI without context, community without durable coordination, and interoperability without shared governance. The aim is not to build a single platform that absorbs everything, but a composable stack that helps institutions carry memory, sovereignty, coordination, and accountability across contexts.
+This infrastructure is not a catalogue of tools. It translates institutional requirements into technical and organizational form. Each layer answers a diagnosed weakness: dependency without sovereignty, storage without memory, AI without context, community without durable coordination, and interoperability without shared governance. The aim is not to build a single platform that absorbs everything, but composable infrastructure that helps institutions carry memory, sovereignty, coordination, and accountability across contexts.
 
 Infrastructure should make relationships visible. It should help institutions understand not only which systems are connected, but which roles, dependencies, flows, and responsibilities those systems carry. Without that relational layer, infrastructure easily becomes another collection of tools rather than an ecosystem capable of learning.
 
@@ -248,7 +248,7 @@ This is especially important for regenerative and civic infrastructure, where mu
 
 ## 7. Use Cases
 
-Infrastructure becomes meaningful when it helps real institutions carry work that currently depends on hidden labor, fragile memory, or platform dependency. The following use cases are not product verticals. They are situations in which institutional capability has become difficult to maintain, and where sovereign, regenerative, distributed infrastructure can change what is possible.
+Infrastructure becomes meaningful when it helps real institutions carry work that currently depends on hidden labor, fragile memory, or platform dependency. The following use cases are not market verticals. They are situations in which institutional capability has become difficult to maintain, and where sovereign, regenerative, distributed infrastructure can change what is possible.
 
 Each scenario combines multiple layers of infrastructure. A public institution rebuilding memory also needs accountable agents. A research ecosystem needs sovereignty, interoperability, and provenance. A regenerative community network needs coordination tools, but also mechanisms for trust, contribution, and shared value. The point is not to apply one layer at a time, but to show how capabilities reinforce one another in practice.
 
