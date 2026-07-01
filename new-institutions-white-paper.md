@@ -46,7 +46,7 @@ AI enters this situation as both promise and stress test. It promises to search 
 
 This is why many apparent AI failures are also institutional failures. The model sounds generic because the institution has no shared language for what specificity would require. Retrieval fails because the archive preserved documents without preserving their status. The agent cannot act because responsibility is not legible. The summary misses the point because the point lived in a conversation, exception, or conflict the institution never learned how to hold.
 
-AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once “just known” turns out not to be known by the institution at all.
+AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, and informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once “just known” turns out not to be known by the institution at all.
 
 The problem, then, is not simply that institutions need AI strategies. It is that AI forces a prior question: has the institution made itself knowable enough for any strategy to work?
 
@@ -198,29 +198,39 @@ Accountability over fluency means that systems must make reasons, sources, permi
 
 ## 6. Technology / Stack: Infrastructure for New Institutions
 
-The stack should be introduced only after the institutional requirements are clear. Each layer answers a diagnosed failure and supports one or more institutional capabilities. The aim is not to build a single platform that absorbs everything, but a composable stack that helps institutions carry memory, sovereignty, coordination, and accountability across contexts.
+The stack is not a product catalogue. It is a way of translating institutional requirements into infrastructure. Each layer answers a diagnosed weakness: dependency without sovereignty, storage without memory, AI without context, community without durable coordination, and interoperability without shared governance. The aim is not to build a single platform that absorbs everything, but a composable stack that helps institutions carry memory, sovereignty, coordination, and accountability across contexts.
 
-The stack should also make relationships visible. It should help institutions understand not only which systems are connected, but which roles, dependencies, flows, and responsibilities those systems carry. Without that relational layer, infrastructure easily becomes another collection of tools rather than an ecosystem capable of learning.
+The stack should make relationships visible. It should help institutions understand not only which systems are connected, but which roles, dependencies, flows, and responsibilities those systems carry. Without that relational layer, infrastructure easily becomes another collection of tools rather than an ecosystem capable of learning.
 
 ### 6.1 Sovereign Data Layer
 
-Answers dependency and platform capture. This layer allows organizations to connect data to AI while preserving control, compliance, and governance. It makes AI usable without requiring institutions to surrender the data and relationships that define them.
+The sovereign data layer answers the problem of dependency and platform capture. It allows institutions to connect data to AI, analytics, collaboration tools, and public-facing services while preserving governance over access, permissions, provenance, retention, and future use. Sovereignty here is practical: the institution must be able to know where its data lives, who can use it, under what conditions it can be combined, and how it can be moved or withdrawn.
+
+This layer should support secure storage, identity and access management, permissioned data sharing, audit trails, portability, and compliance with relevant legal and institutional obligations. More importantly, it should prevent institutional memory from becoming hostage to the systems that process it. The question is not only whether data can be used, but whether the institution remains able to govern the conditions of use.
 
 ### 6.2 Knowledge and Memory Layer
 
-Answers storage without memory. This layer makes institutional memory usable by connecting documents, decisions, relationships, people, and context. It helps distinguish living knowledge from dead traces, practice from ceremony, and orientation from accumulation.
+The knowledge and memory layer answers the problem of storage without memory. It connects documents, decisions, people, projects, histories, roles, and relationships so that institutional knowledge can become usable orientation rather than accumulated residue. It should help distinguish living commitments from obsolete traces, authoritative records from drafts, formal policy from informal practice, and decisions that still carry responsibility from those that have expired.
+
+This layer is where archives become navigable and institutional history becomes actionable. It should support semantic search, knowledge graphs, provenance, versioning, contextual annotation, and links between decisions and their reasons. Its purpose is not simply to help people find information faster. Its purpose is to help the institution remember what information means.
 
 ### 6.3 Agentic Collaboration Layer
 
-Answers AI without context. This layer supports agents as situated collaborators that retrieve, summarize, compare, draft, and coordinate while remaining bounded, visible, and accountable. Agents should extend institutional capability, not become ghost managers.
+The agentic collaboration layer answers the problem of AI without context. It supports agents that retrieve, summarize, compare, draft, route, monitor, and coordinate while remaining bounded, visible, and accountable. Agents should not float above the institution as general assistants. They should be attached to roles, workflows, knowledge domains, permission boundaries, and contestation paths.
+
+This layer should make agent participation explicit. What can the agent know? What can it do? Which sources can it use? Which outputs require review? Who can challenge it? Where does its authority end? Properly designed, agents extend institutional capability by helping people work with memory, context, and coordination. Poorly designed, they become ghost managers: influential enough to shape action, but insufficiently situated to be held accountable.
 
 ### 6.4 Community and Regeneration Layer
 
-Answers broken social contracts and weak trust. This layer supports connection, learning, mutual aid, collective action, and regenerative collaboration. It treats community not as an audience to be captured, but as the relational infrastructure through which institutions remain alive.
+The community and regeneration layer answers the problem of broken social contracts and weak trust. Institutions do not carry themselves through data and workflows alone. They depend on participation, learning, mutual recognition, feedback, repair, and shared purpose. This layer supports the relational infrastructure through which people coordinate action, renew trust, and keep the institution connected to the communities it serves.
+
+This may include community spaces, participatory governance tools, learning environments, project coordination, mutual aid infrastructure, and feedback loops that are designed for repair rather than mere engagement. The goal is not to capture attention or produce more activity. The goal is to strengthen the relationships and practices that make shared action possible over time.
 
 ### 6.5 Interoperability Layer
 
-Answers platform lock-in and brittle infrastructure. This layer provides the connective tissue for modular adoption, decentralized ecosystems, and cross-institutional collaboration. It allows institutions to cooperate without being absorbed into a single centralized platform.
+The interoperability layer answers the problem of lock-in and brittle infrastructure. Institutions need to compose tools, exchange knowledge, collaborate across boundaries, and change systems without losing their memory or agency. Interoperability is therefore not only a technical convenience. It is a condition for institutional sovereignty and ecosystem coordination.
+
+This layer should support open standards, APIs, portable identifiers, common vocabularies, shared protocols, and modular integration across tools and organizations. It should allow institutions to cooperate without being absorbed into a single centralized platform. At its best, interoperability becomes the connective tissue of distributed institutional life: not one system controlling the rest, but many systems able to coordinate without surrendering their distinct roles and responsibilities.
 
 ## 7. Use Cases
 
