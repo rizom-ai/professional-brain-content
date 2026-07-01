@@ -144,7 +144,7 @@ Without situated agency, AI becomes institutionally ambiguous. It may sound like
 
 ## 5. Design Principles for New Institutional Technology
 
-The capabilities in Section 4 become practical only when they shape design decisions. A system can claim to support memory, sovereignty, accountability, or regeneration while still reproducing the institutional weaknesses it was meant to repair. Design principles are the bridge between the conceptual framework and the technology stack: they define what infrastructure must refuse, preserve, and make possible.
+Capabilities only matter if they shape how systems are designed. A system can claim to support memory, sovereignty, accountability, or regeneration while still reproducing the institutional weaknesses it was meant to repair. Design principles are the bridge between conceptual framework and technology stack: they define what infrastructure must refuse, preserve, and make possible.
 
 These principles are not feature requirements in the narrow sense. They are constraints on how institutional technology should behave. They are meant to prevent new tools from turning weak memory into faster retrieval, unclear authority into automated decision-making, fragmented coordination into platform dependency, or social renewal into engagement metrics.
 
