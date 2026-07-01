@@ -280,25 +280,64 @@ A hybrid human-agent organization would define agents as situated participants. 
 
 ## 8. Governance / Risks: Who Remains Answerable?
 
-New institutions require not only new tools, but new governance around tools. The central governance question is not whether humans or machines act, but how agency is situated, bounded, contested, and made answerable.
+New institutions require governance that is as explicit as their technology. The central question is not whether humans or machines act, but how agency is situated, bounded, contested, and made answerable. As data, models, agents, communities, and token-like instruments become part of institutional work, governance can no longer be treated as a policy layer added after the infrastructure is built. It has to be part of the infrastructure itself.
 
-Governance is not only a control layer added after the technology is built. It is the set of practices through which participants maintain shared infrastructure, repair breakdowns, adjust roles, negotiate conflicts, and keep the system aligned with its purpose.
+Governance is the practice through which participants maintain shared systems, repair breakdowns, adjust roles, negotiate conflicts, and keep infrastructure aligned with its purpose. It determines who can act, who can challenge action, who can change the system, who benefits from shared value, and who remains responsible when tools become participants in institutional life.
 
-Key questions:
+### 8.1 Data Sovereignty and Institutional Memory
 
-- Who owns the data?
-- Who configures agent access?
-- Who can contest agent outputs?
-- What roles can agents play?
-- What decisions must remain human?
-- How are errors surfaced?
-- How is institutional memory maintained?
-- How do communities govern shared infrastructure?
+The first governance risk is that sovereign infrastructure becomes another form of dependency. A system can promise control while quietly moving institutional memory, permissions, workflows, or intelligence into arrangements that are difficult to leave. If an institution cannot move its data, audit access, understand model use, or preserve context outside a vendor environment, sovereignty remains mostly symbolic.
 
-Key risks:
+Governance must therefore define ownership, access, portability, retention, deletion, and reuse from the beginning. Institutions need to know not only where data is stored, but how it is interpreted, enriched, combined, and made available to agents or third parties. Sovereignty is not only about custody. It is about the continuing ability to govern the memory and decision conditions of the institution.
+
+### 8.2 Agent Authority and Contestability
+
+AI agents create a second governance risk: authority without accountability. An agent may summarize a policy, recommend a decision, route a request, prioritize an issue, or draft an institutional response. Even when a human formally approves the result, the agent may already have shaped the frame through which the decision becomes visible.
+
+Governance must make agent authority explicit. Every agent should have a role, scope, permission boundary, review requirement, escalation path, and contestation process. People affected by an agentic decision or recommendation should be able to ask where it came from, what sources it used, what uncertainty it carried, and who remains responsible. Without contestability, agentic systems can turn institutional ambiguity into automated authority.
+
+### 8.3 Provenance, Proof, and Trust
+
+Provenance introduces a third governance requirement. Institutions need to know where information, work, data, and decisions came from, how they changed, and what rights or responsibilities remain attached to them. This becomes especially important when AI systems synthesize outputs from many human, institutional, and machine sources.
+
+Verifiable provenance can strengthen trust, but it also creates governance questions of its own. What counts as sufficient proof? Who can certify a contribution? Who can correct provenance records when they are wrong? What happens when provenance exposes sensitive information, vulnerable participants, or contested ownership? Proof should not become a new form of unchallengeable authority. It must remain connected to appeal, correction, privacy, and context.
+
+### 8.4 Tokens, Rights, and Shared Value
+
+Token-like instruments create a fourth governance risk and opportunity. They can make contribution, membership, access, stewardship, governance rights, revenue participation, or claims on shared value more explicit. Combined with provenance, they can help distributed ecosystems recognize who contributed to knowledge, care, coordination, maintenance, or innovation.
+
+But tokens can also distort institutional purpose. If designed poorly, they can turn participation into speculation, governance into plutocracy, contribution into point-scoring, or community into a market. New institutions should therefore distinguish carefully between speculative assets and participation primitives. Some rights may be transferable; others may need to be non-transferable, time-bound, revocable, reputation-based, or tied to stewardship obligations. The governance question is not only how value is represented, but what kinds of behavior that representation invites.
+
+### 8.5 Regeneration-Washing and Extractive Participation
+
+Regenerative language can become a fifth risk. A platform can speak of community, care, stewardship, or participation while still extracting attention, data, trust, and unpaid labor. It can make people feel recognized while leaving ownership and upside unchanged. It can measure engagement while weakening the relationships that make shared action possible.
+
+Governance must therefore ask whether infrastructure actually restores capability. Are participants gaining agency, knowledge, ownership, or voice? Are maintenance and care recognized? Are communities able to shape the systems they depend on? Are benefits distributed in relation to contribution and risk? Regeneration should be judged by whether the system renews the conditions of participation, not by whether it uses regenerative language.
+
+### 8.6 Interoperability and Ecosystem Capture
+
+Interoperability introduces another risk: the appearance of openness without real freedom. A system may provide APIs, integrations, or export formats while still controlling identity, permissions, data models, governance processes, or network effects. In such cases, interoperability becomes an interface on top of capture.
+
+New institutional infrastructure should allow participants to cooperate without being absorbed. This requires open standards, portable identities, transparent governance, and the ability to leave without losing institutional memory. Ecosystem architecture should make dependencies visible so that coordination does not quietly become centralization.
+
+Key governance questions include:
+
+- Who owns and governs institutional data?
+- Who can access, move, delete, or reuse shared memory?
+- Who configures agent permissions and reviews agent behavior?
+- Who can contest agent outputs, provenance claims, or token allocations?
+- What roles can agents play, and which decisions must remain human?
+- What kinds of contribution can create rights, value claims, or governance participation?
+- Which token-like rights are transferable, non-transferable, revocable, or time-bound?
+- How are errors, harms, and contested records surfaced and repaired?
+- How do communities govern shared infrastructure over time?
+
+Key risks include:
 
 - sovereign infrastructure becoming another form of lock-in
 - agents being treated as neutral authorities rather than situated collaborators
+- provenance becoming surveillance or unchallengeable proof
+- token-like instruments becoming speculative assets rather than participation primitives
 - memory systems becoming storage systems without interpretation
 - regenerative language becoming branding rather than governance
 - interoperability being promised at the interface while control remains centralized
