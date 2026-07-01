@@ -2,39 +2,29 @@
 strengths:
   - title: Regenerative systems
     detail: >-
-      Use this for organization and tool design when you need a resilient
-      principle to guide decisions and architecture.
-  - title: Entity comparison
-    detail: >-
-      Use this to sort options, compare profiles, and surface relationships
-      before you commit to a structure or choice.
+      Use this when you want to redesign tools or organizations as living
+      systems; it is a dependable lens for turning ecosystem patterns into
+      practical principles.
 weaknesses:
-  - title: Knowledge infrastructure
+  - title: Learning design gap
     detail: >-
-      Treat this as a gap to cover deliberately; do not assume analysis and
-      classification alone will produce a full knowledge system.
-  - title: Learning system
-    detail: >-
-      Do not try to lead educational or learning-environment design solo; pair
-      with examples or collaborators before committing.
+      Treat learning experience design as a thinner area and avoid assuming your
+      current network will supply direct help beyond adjacent structure and
+      positioning skills.
 opportunities:
-  - title: Cultural writing
-    detail: >-
-      Use this network capability to turn critique into polished posts, essays,
-      or decks that make your ideas shareable.
   - title: Profile organization
     detail: >-
-      Borrow this pattern to tighten how you capture, structure, and reuse
-      people-and-role profiles.
+      Pair with this when you need messy people-and-role information turned into
+      clear profiles, summaries, or reusable knowledge structure.
+  - title: Cultural writing
+    detail: >-
+      Use this to turn critique into polished posts, essays, or decks when you
+      want your ideas to become publishable output.
 threats:
   - title: Readiness planning
     detail: >-
-      Do not leave roadmap and release-readiness work implicit; add a clear
-      planning habit or a partner who covers it.
-  - title: Brain knowledge structure
-    detail: >-
-      If you rely on the knowledge base, make sure its structure is explicitly
-      covered instead of assumed.
-derivedAt: '2026-06-30T14:26:42.288Z'
+      Do not rely on the current network for full roadmap ownership; use it only
+      to summarize priorities and release-readiness concerns.
+derivedAt: '2026-07-01T08:22:14.532Z'
 ---
 
