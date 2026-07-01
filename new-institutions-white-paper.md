@@ -8,9 +8,9 @@ AI and digital infrastructure will not automatically repair this condition. In m
 
 New institutions require infrastructure for capability rather than performance alone. That infrastructure must support sovereign data, living memory, situated agents, regenerative community coordination, interoperable ecosystems, and verifiable provenance. These are not isolated technology categories. They are interdependent conditions for institutions that can remember what matters, govern the systems they depend on, coordinate across distributed actors, and remain answerable as agency moves across people, tools, documents, models, and communities.
 
-The white paper also argues that provenance and token-like participation instruments can play an important role when framed carefully. Technical proof of provenance can make contribution, authorship, stewardship, and responsibility more visible. Token-like instruments can then represent membership, access, governance rights, revenue participation, or claims on shared value without becoming speculative assets. In regenerative and civic contexts, this creates a path toward recognizing forms of value that are often essential but economically invisible: care, coordination, maintenance, trust-building, and knowledge work.
+Provenance and token-like participation instruments also matter when framed carefully. Technical proof of provenance can make contribution, authorship, stewardship, and responsibility more visible. Token-like instruments can then represent membership, access, governance rights, revenue participation, or claims on shared value without becoming speculative assets. In regenerative and civic contexts, this creates a path toward recognizing forms of value that are often essential but economically invisible: care, coordination, maintenance, trust-building, and knowledge work.
 
-The work ahead is the work of ecosystem architecture: designing the conditions under which memory, trust, responsibility, participation, and shared value can keep circulating. The goal is not another platform. The goal is living infrastructure for institutions that can carry themselves.
+The work ahead is ecosystem architecture: designing the conditions under which memory, trust, responsibility, participation, and shared value can keep circulating. The goal is not another platform. The goal is living infrastructure for institutions that can carry themselves.
 
 ## 2. Problem / Context: Institutions Can No Longer Carry Themselves
 
@@ -290,31 +290,31 @@ Governance is the practice through which participants maintain shared systems, r
 
 ### 8.1 Data Sovereignty and Institutional Memory
 
-The first governance risk is that sovereign infrastructure becomes another form of dependency. A system can promise control while quietly moving institutional memory, permissions, workflows, or intelligence into arrangements that are difficult to leave. If an institution cannot move its data, audit access, understand model use, or preserve context outside a vendor environment, sovereignty remains mostly symbolic.
+A central governance risk is that sovereign infrastructure becomes another form of dependency. A system can promise control while quietly moving institutional memory, permissions, workflows, or intelligence into arrangements that are difficult to leave. If an institution cannot move its data, audit access, understand model use, or preserve context outside a vendor environment, sovereignty remains mostly symbolic.
 
 Governance must therefore define ownership, access, portability, retention, deletion, and reuse from the beginning. Institutions need to know not only where data is stored, but how it is interpreted, enriched, combined, and made available to agents or third parties. Sovereignty is not only about custody. It is about the continuing ability to govern the memory and decision conditions of the institution.
 
 ### 8.2 Agent Authority and Contestability
 
-AI agents create a second governance risk: authority without accountability. An agent may summarize a policy, recommend a decision, route a request, prioritize an issue, or draft an institutional response. Even when a human formally approves the result, the agent may already have shaped the frame through which the decision becomes visible.
+AI agents create a related governance risk: authority without accountability. An agent may summarize a policy, recommend a decision, route a request, prioritize an issue, or draft an institutional response. Even when a human formally approves the result, the agent may already have shaped the frame through which the decision becomes visible.
 
 Governance must make agent authority explicit. Every agent should have a role, scope, permission boundary, review requirement, escalation path, and contestation process. People affected by an agentic decision or recommendation should be able to ask where it came from, what sources it used, what uncertainty it carried, and who remains responsible. Without contestability, agentic systems can turn institutional ambiguity into automated authority.
 
 ### 8.3 Provenance, Proof, and Trust
 
-Provenance introduces a third governance requirement. Institutions need to know where information, work, data, and decisions came from, how they changed, and what rights or responsibilities remain attached to them. This becomes especially important when AI systems synthesize outputs from many human, institutional, and machine sources.
+Provenance introduces another governance requirement. Institutions need to know where information, work, data, and decisions came from, how they changed, and what rights or responsibilities remain attached to them. This becomes especially important when AI systems synthesize outputs from many human, institutional, and machine sources.
 
 Verifiable provenance can strengthen trust, but it also creates governance questions of its own. What counts as sufficient proof? Who can certify a contribution? Who can correct provenance records when they are wrong? What happens when provenance exposes sensitive information, vulnerable participants, or contested ownership? Proof should not become a new form of unchallengeable authority. It must remain connected to appeal, correction, privacy, and context.
 
 ### 8.4 Tokens, Rights, and Shared Value
 
-Token-like instruments create a fourth governance risk and opportunity. They can make contribution, membership, access, stewardship, governance rights, revenue participation, or claims on shared value more explicit. Combined with provenance, they can help distributed ecosystems recognize who contributed to knowledge, care, coordination, maintenance, or innovation.
+Token-like instruments create both a governance risk and an opportunity. They can make contribution, membership, access, stewardship, governance rights, revenue participation, or claims on shared value more explicit. Combined with provenance, they can help distributed ecosystems recognize who contributed to knowledge, care, coordination, maintenance, or innovation.
 
 But tokens can also distort institutional purpose. If designed poorly, they can turn participation into speculation, governance into plutocracy, contribution into point-scoring, or community into a market. New institutions should therefore distinguish carefully between speculative assets and participation rights. Some rights may be transferable; others may need to be non-transferable, time-bound, revocable, reputation-based, or tied to stewardship obligations. The governance question is not only how value is represented, but what kinds of behavior that representation invites.
 
 ### 8.5 Regeneration-Washing and Extractive Participation
 
-Regenerative language can become a fifth risk. A platform can speak of community, care, stewardship, or participation while still extracting attention, data, trust, and unpaid labor. It can make people feel recognized while leaving ownership and upside unchanged. It can measure engagement while weakening the relationships that make shared action possible.
+Regenerative language can also become a risk. A platform can speak of community, care, stewardship, or participation while still extracting attention, data, trust, and unpaid labor. It can make people feel recognized while leaving ownership and upside unchanged. It can measure engagement while weakening the relationships that make shared action possible.
 
 Governance must therefore ask whether infrastructure actually restores capability. Are participants gaining agency, knowledge, ownership, or voice? Are maintenance and care recognized? Are communities able to shape the systems they depend on? Are benefits distributed in relation to contribution and risk? Regeneration should be judged by whether the system renews the conditions of participation, not by whether it uses regenerative language.
 
