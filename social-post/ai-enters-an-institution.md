@@ -7,7 +7,7 @@ AI adoption is too small a frame.
 
 What enters an organization is not a tool in isolation. It is a new participant in an existing institution.
 
-And institutions are not neutral workflows waiting to be optimized. They are memory, roles, habits, exceptions, responsibilities, conflicts, trust, and all the quiet informal repairs people make every day to keep things working when the official process no longer describes reality.
+And institutions are not neutral workflows waiting to be optimized. They are memory, roles, habits, exceptions, responsibilities, conflicts, trust, and all the quiet informal repairs people make when the official process no longer describes reality.
 
 That is why AI projects often reveal more than they solve. The model may be capable. The pilot may look clean. The demo may produce exactly the kind of output everyone hoped for. But once the system enters real institutional life, the harder questions appear.
 
