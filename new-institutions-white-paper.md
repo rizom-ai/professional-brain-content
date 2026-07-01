@@ -46,7 +46,7 @@ AI enters this situation as both promise and stress test. It promises to search 
 
 This is why many apparent AI failures are also institutional failures. The model sounds generic because the institution has no shared language for what specificity would require. Retrieval fails because the archive preserved documents without preserving their status. The agent cannot act because responsibility is not legible. The summary misses the point because the point lived in a conversation, exception, or conflict the institution never learned how to hold.
 
-AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, and informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once “just known” turns out not to be known by the institution at all.
+AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once “just known” turns out not to be known by the institution at all.
 
 The problem, then, is not simply that institutions need AI strategies. It is that AI forces a prior question: has the institution made itself knowable enough for any strategy to work?
 
@@ -80,7 +80,7 @@ Sovereign means that institutions and communities must retain meaningful governa
 
 Regenerative means that technology should restore the conditions of shared action rather than extract from them. Institutions depend on trust, attention, learning, maintenance, participation, and repair. If technology consumes those conditions faster than it renews them, it may increase performance while weakening the institution itself.
 
-Distributed means that intelligence, responsibility, and coordination should not be concentrated in a single platform, department, model, or leader. Institutions increasingly operate across ecosystems of people, organizations, data sources, infrastructures, and agents. Their technology should support that distributed reality while making relationships and responsibilities more legible.
+Distributed means that intelligence, responsibility, and coordination should not be concentrated in a single platform, department, model, or leader. Institutions increasingly operate across ecosystems of people, organizations, data sources, infrastructures, and agents. Their technology should support that distributed reality while making relationships and responsibilities more legible. In distributed systems, the question is not only how coordination happens, but how contribution remains visible and how participation in value is governed.
 
 ### 3.4 AI as Situated Participation
 
@@ -120,7 +120,7 @@ Without coordination, work fragments into local optimizations. Teams build their
 
 ### 4.4 Accountability
 
-Accountability is the ability to know who or what acted, on what basis, with what authority, and who remains responsible. It matters especially when agency is distributed across people, documents, software systems, and AI agents. The more distributed the system becomes, the more carefully responsibility has to be situated.
+Accountability is the ability to know who or what acted, on what basis, with what authority, and who remains responsible. It matters especially when agency is distributed across people, documents, software systems, and AI agents. The more distributed the system becomes, the more carefully responsibility has to be situated. Accountability also depends on provenance: the ability to know where information, work, and decisions came from, how they changed, and what rights or responsibilities remain attached to them.
 
 Without accountability, fluency replaces answerability. A decision can be generated, routed, summarized, or implemented without anyone being able to explain how it acquired authority. This is especially dangerous when AI systems enter institutional workflows. Infrastructure for accountability should preserve provenance, make permissions visible, support contestation, and keep responsibility attached to roles rather than disappearing into tools.
 
@@ -133,6 +133,8 @@ Without sovereignty, institutions may become technically advanced while becoming
 ### 4.6 Regeneration
 
 Regeneration is the ability to restore capability rather than extract attention, labor, trust, and data. Institutions and communities depend on conditions that must be renewed: participation, maintenance, learning, care, feedback, conflict resolution, and repair. Technology that ignores those conditions may increase output while weakening the system that produces it.
+
+Regeneration also has an economic dimension. If institutions depend on care, knowledge, coordination, and maintenance, then those contributions must not only be recognized symbolically; they need pathways into governance, ownership, and shared value.
 
 Without regeneration, infrastructure becomes extractive even when its language is collaborative. Communities become audiences. Participation becomes engagement. Learning becomes content. Trust becomes a metric. Regenerative infrastructure should help people and institutions renew the relationships and practices that make shared action possible over time.
 
@@ -194,7 +196,7 @@ Distributed intelligence requires infrastructure that lets different forms of kn
 
 A fluent answer is not the same as responsible action. Institutional technology should be judged not only by whether it produces plausible outputs, but by whether those outputs can be traced, challenged, corrected, and governed. This is especially important when AI systems generate language that sounds more settled than the institution itself.
 
-Accountability over fluency means that systems must make reasons, sources, permissions, and limits visible. They should support contestation rather than hide uncertainty. The question is not only “is this answer good?” but “can the institution remain answerable after this answer enters the work?”
+Accountability over fluency means that systems must make reasons, sources, permissions, provenance, and limits visible. This requires verifiable provenance, especially when AI systems synthesize outputs from many human, institutional, and machine sources. Systems should support contestation rather than hide uncertainty. The question is not only “is this answer good?” but “can the institution remain answerable after this answer enters the work?”
 
 ## 6. Technology / Stack: Infrastructure for New Institutions
 
@@ -231,6 +233,14 @@ This may include community spaces, participatory governance tools, learning envi
 The interoperability layer answers the problem of lock-in and brittle infrastructure. Institutions need to compose tools, exchange knowledge, collaborate across boundaries, and change systems without losing their memory or agency. Interoperability is therefore not only a technical convenience. It is a condition for institutional sovereignty and ecosystem coordination.
 
 This layer should support open standards, APIs, portable identifiers, common vocabularies, shared protocols, and modular integration across tools and organizations. It should allow institutions to cooperate without being absorbed into a single centralized platform. At its best, interoperability becomes the connective tissue of distributed institutional life: not one system controlling the rest, but many systems able to coordinate without surrendering their distinct roles and responsibilities.
+
+### 6.6 Provenance and Participation Primitives
+
+Across the stack, institutions need ways to verify where information, work, data, and decisions come from. Provenance is not only a compliance feature. It is a condition for institutional memory, accountable AI, and fair participation in value. Without provenance, distributed contribution remains difficult to trust, govern, or reward.
+
+When combined with token-like instruments, provenance can also support new forms of economic coordination. A token does not have to function as a speculative asset. It can represent contribution, membership, access, stewardship, governance rights, revenue participation, or claims on shared value. In distributed ecosystems, this can make it easier to answer not only who acted and on what basis, but who should participate in the value created.
+
+This is especially important for regenerative and civic infrastructure, where much of the value is produced through knowledge, care, coordination, trust-building, and maintenance. Without provenance, those contributions remain invisible. Without participation rights, they can be recognized symbolically while still being excluded economically.
 
 ## 7. Use Cases
 
