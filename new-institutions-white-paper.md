@@ -204,9 +204,9 @@ Accountability over fluency means that systems must make reasons, sources, permi
 
 ## 6. Technology / Stack: Infrastructure for New Institutions
 
-The stack is not a product catalogue. It is a way of translating institutional requirements into infrastructure. Each layer answers a diagnosed weakness: dependency without sovereignty, storage without memory, AI without context, community without durable coordination, and interoperability without shared governance. The aim is not to build a single platform that absorbs everything, but a composable stack that helps institutions carry memory, sovereignty, coordination, and accountability across contexts.
+This infrastructure is not a product catalogue. It translates institutional requirements into technical and organizational form. Each layer answers a diagnosed weakness: dependency without sovereignty, storage without memory, AI without context, community without durable coordination, and interoperability without shared governance. The aim is not to build a single platform that absorbs everything, but a composable stack that helps institutions carry memory, sovereignty, coordination, and accountability across contexts.
 
-The stack should make relationships visible. It should help institutions understand not only which systems are connected, but which roles, dependencies, flows, and responsibilities those systems carry. Without that relational layer, infrastructure easily becomes another collection of tools rather than an ecosystem capable of learning.
+Infrastructure should make relationships visible. It should help institutions understand not only which systems are connected, but which roles, dependencies, flows, and responsibilities those systems carry. Without that relational layer, infrastructure easily becomes another collection of tools rather than an ecosystem capable of learning.
 
 ### 6.1 Sovereign Data Layer
 
@@ -240,7 +240,7 @@ This layer should support open standards, APIs, portable identifiers, common voc
 
 ### 6.6 Provenance, Rights, and Shared Value
 
-Across the stack, institutions need ways to verify where information, work, data, and decisions come from. Provenance is not only a compliance feature. It is a condition for institutional memory, accountable AI, and fair participation in value. Without provenance, distributed contribution remains difficult to trust, govern, or reward.
+Across these layers, institutions need ways to verify where information, work, data, and decisions come from. Provenance is not only a compliance feature. It is a condition for institutional memory, accountable AI, and fair participation in value. Without provenance, distributed contribution remains difficult to trust, govern, or reward.
 
 When combined with token-like instruments, provenance can also support new forms of economic coordination. A token does not have to function as a speculative asset. It can represent contribution, membership, access, stewardship, governance rights, revenue participation, or claims on shared value. In distributed ecosystems, this can make it easier to answer not only who acted and on what basis, but who should participate in the value created.
 
@@ -248,15 +248,15 @@ This is especially important for regenerative and civic infrastructure, where mu
 
 ## 7. Use Cases
 
-The stack becomes meaningful when it helps real institutions carry work that currently depends on hidden labor, fragile memory, or platform dependency. The following use cases are not product verticals. They are situations in which institutional capability has become difficult to maintain, and where sovereign, regenerative, distributed infrastructure can change what is possible.
+Infrastructure becomes meaningful when it helps real institutions carry work that currently depends on hidden labor, fragile memory, or platform dependency. The following use cases are not product verticals. They are situations in which institutional capability has become difficult to maintain, and where sovereign, regenerative, distributed infrastructure can change what is possible.
 
-Each scenario combines multiple layers of the stack. A public institution rebuilding memory also needs accountable agents. A research ecosystem needs sovereignty, interoperability, and provenance. A regenerative community network needs coordination tools, but also mechanisms for trust, contribution, and shared value. The point is not to apply one layer at a time, but to show how capabilities reinforce one another in practice.
+Each scenario combines multiple layers of infrastructure. A public institution rebuilding memory also needs accountable agents. A research ecosystem needs sovereignty, interoperability, and provenance. A regenerative community network needs coordination tools, but also mechanisms for trust, contribution, and shared value. The point is not to apply one layer at a time, but to show how capabilities reinforce one another in practice.
 
 ### 7.1 A Public Institution Rebuilding Memory
 
 A municipality or public agency often holds enormous amounts of institutional knowledge: policies, permits, public consultations, council decisions, project histories, legal obligations, environmental constraints, and community commitments. Much of this knowledge exists, but not in a form that helps the institution explain itself or act coherently across departments. People can find documents, yet still struggle to understand why decisions were made, what remains binding, and who is responsible now.
 
-A new institutional stack would connect records, decisions, roles, and responsibilities into living memory. Agents could help staff retrieve precedents, summarize policy histories, compare obligations, and identify affected stakeholders, but only within bounded roles and visible provenance. The goal is not simply faster administration. It is a public institution that can remember its own commitments, explain its actions, and make accountability easier to practice.
+New institutional infrastructure would connect records, decisions, roles, and responsibilities into living memory. Agents could help staff retrieve precedents, summarize policy histories, compare obligations, and identify affected stakeholders, but only within bounded roles and visible provenance. The goal is not simply faster administration. It is a public institution that can remember its own commitments, explain its actions, and make accountability easier to practice.
 
 ### 7.2 A Foundation Coordinating Distributed Knowledge
 
@@ -274,7 +274,7 @@ A regenerative community network would treat connection itself as infrastructure
 
 Research and innovation ecosystems increasingly span universities, startups, public agencies, funders, civic organizations, and communities. Their value depends on distributed intelligence: knowledge, data, prototypes, relationships, facilities, lived experience, and institutional authority all held in different places. The challenge is to coordinate without forcing everything into one platform or surrendering control over data and intellectual contribution.
 
-A new institutional stack would allow participants to share knowledge selectively, maintain provenance, coordinate projects, and build collective memory across organizational boundaries. Agents could help map capabilities, identify complementarities, synthesize research, and support collaboration, while sovereignty and interoperability prevent any one actor from capturing the ecosystem. Token-like instruments could support new forms of participation in value where contributions are distributed across organizations and communities.
+New institutional infrastructure would allow participants to share knowledge selectively, maintain provenance, coordinate projects, and build collective memory across organizational boundaries. Agents could help map capabilities, identify complementarities, synthesize research, and support collaboration, while sovereignty and interoperability prevent any one actor from capturing the ecosystem. Token-like instruments could support new forms of participation in value where contributions are distributed across organizations and communities.
 
 ### 7.5 A Hybrid Human-Agent Organization
 
@@ -310,7 +310,7 @@ Verifiable provenance can strengthen trust, but it also creates governance quest
 
 Token-like instruments create a fourth governance risk and opportunity. They can make contribution, membership, access, stewardship, governance rights, revenue participation, or claims on shared value more explicit. Combined with provenance, they can help distributed ecosystems recognize who contributed to knowledge, care, coordination, maintenance, or innovation.
 
-But tokens can also distort institutional purpose. If designed poorly, they can turn participation into speculation, governance into plutocracy, contribution into point-scoring, or community into a market. New institutions should therefore distinguish carefully between speculative assets and participation primitives. Some rights may be transferable; others may need to be non-transferable, time-bound, revocable, reputation-based, or tied to stewardship obligations. The governance question is not only how value is represented, but what kinds of behavior that representation invites.
+But tokens can also distort institutional purpose. If designed poorly, they can turn participation into speculation, governance into plutocracy, contribution into point-scoring, or community into a market. New institutions should therefore distinguish carefully between speculative assets and participation rights. Some rights may be transferable; others may need to be non-transferable, time-bound, revocable, reputation-based, or tied to stewardship obligations. The governance question is not only how value is represented, but what kinds of behavior that representation invites.
 
 ### 8.5 Regeneration-Washing and Extractive Participation
 
@@ -341,7 +341,7 @@ Key risks include:
 - sovereign infrastructure becoming another form of lock-in
 - agents being treated as neutral authorities rather than situated collaborators
 - provenance becoming surveillance or unchallengeable proof
-- token-like instruments becoming speculative assets rather than participation primitives
+- token-like instruments becoming speculative assets rather than participation rights
 - memory systems becoming storage systems without interpretation
 - regenerative language becoming branding rather than governance
 - interoperability being promised at the interface while control remains centralized
