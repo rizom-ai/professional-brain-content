@@ -94,7 +94,7 @@ A machine that enters an institution without a clear role, bounded authority, vi
 
 New institutions therefore need infrastructure that can hold AI in place: connected enough to be useful, bounded enough to be accountable, contextual enough to be situated, and visible enough to be contested. AI should not become a ghost manager of institutional life. It should become a situated participant in systems that remain answerable to human and collective judgment.
 
-This shifts the question from adoption to architecture. If institutions need more than performance, and if AI must be situated rather than merely deployed, then the next task is to name the capabilities that make such institutions possible. These capabilities are not features of a product. They are conditions of institutional life that technology must learn to support.
+That requires a different kind of architecture. Institutions need more than performance, and AI needs more than deployment. The deeper task is to make the conditions of institutional life explicit enough to support: the capabilities through which memory, responsibility, coordination, and participation can keep circulating. These capabilities are not features of a product. They are conditions of institutional life that technology must learn to support.
 
 ## 4. Conceptual Framework: The Capabilities New Institutions Need
 
@@ -150,7 +150,7 @@ Without situated agency, AI becomes institutionally ambiguous. It may sound like
 
 ## 5. Design Principles for New Institutional Technology
 
-Capabilities only matter if they shape how systems are designed. A system can claim to support memory, sovereignty, accountability, or regeneration while still reproducing the institutional weaknesses it was meant to repair. Design principles are the bridge between conceptual framework and technology stack: they define what infrastructure must refuse, preserve, and make possible.
+Capabilities only matter if they shape how systems are designed. A system can claim to support memory, sovereignty, accountability, or regeneration while still reproducing the institutional weaknesses it was meant to repair. Design principles translate the conceptual framework into architectural commitments: they define what infrastructure must refuse, preserve, and make possible.
 
 These principles are not feature requirements in the narrow sense. They are constraints on how institutional technology should behave. They are meant to prevent new tools from turning weak memory into faster retrieval, unclear authority into automated decision-making, fragmented coordination into platform dependency, or social renewal into engagement metrics.
 
@@ -238,7 +238,7 @@ The interoperability layer answers the problem of lock-in and brittle infrastruc
 
 This layer should support open standards, APIs, portable identifiers, common vocabularies, shared protocols, and modular integration across tools and organizations. It should allow institutions to cooperate without being absorbed into a single centralized platform. At its best, interoperability becomes the connective tissue of distributed institutional life: not one system controlling the rest, but many systems able to coordinate without surrendering their distinct roles and responsibilities.
 
-### 6.6 Provenance and Participation Primitives
+### 6.6 Provenance, Rights, and Shared Value
 
 Across the stack, institutions need ways to verify where information, work, data, and decisions come from. Provenance is not only a compliance feature. It is a condition for institutional memory, accountable AI, and fair participation in value. Without provenance, distributed contribution remains difficult to trust, govern, or reward.
 
@@ -262,7 +262,7 @@ A new institutional stack would connect records, decisions, roles, and responsib
 
 Foundations often produce knowledge across grants, reports, evaluations, partnerships, communities, and strategic programs. But learning frequently remains fragmented. A program officer knows one history, a grantee knows another, an evaluation sits in a repository, and strategic insight depends on informal conversations that are rarely preserved. The institution funds learning without always becoming a learning institution.
 
-A capability-oriented infrastructure would connect grants, reports, decisions, relationships, field notes, and outcomes into a memory system that supports judgment rather than dashboard management. Agents could synthesize patterns across portfolios, surface prior decisions, identify contradictions, and help teams understand where knowledge came from. Provenance and participation primitives could also make contributor value more visible, especially when grantees, communities, or field partners generate insight that later shapes strategy.
+A capability-oriented infrastructure would connect grants, reports, decisions, relationships, field notes, and outcomes into a memory system that supports judgment rather than dashboard management. Agents could synthesize patterns across portfolios, surface prior decisions, identify contradictions, and help teams understand where knowledge came from. Provenance, rights, and shared value mechanisms could also make contributor value more visible, especially when grantees, communities, or field partners generate insight that later shapes strategy.
 
 ### 7.3 A Regenerative Community Network
 
@@ -386,7 +386,7 @@ Ecosystem coordination requires interoperability, shared vocabularies, portable 
 
 The sixth phase develops mechanisms for participation, contribution recognition, and shared value. Once provenance makes contribution visible, institutions can begin to govern how value, rights, access, and responsibility should circulate. This may include membership rights, stewardship roles, revenue participation, governance rights, access rights, or other token-like instruments.
 
-This phase should proceed carefully. The goal is not to financialize every contribution or introduce speculative dynamics into civic and regenerative work. The goal is to prevent distributed contribution from being recognized only symbolically while value accumulates elsewhere. Participation primitives should be designed around purpose, legitimacy, and stewardship before transferability or liquidity.
+This phase should proceed carefully. The goal is not to financialize every contribution or introduce speculative dynamics into civic and regenerative work. The goal is to prevent distributed contribution from being recognized only symbolically while value accumulates elsewhere. Participation rights should be designed around purpose, legitimacy, and stewardship before transferability or liquidity.
 
 ### Phase 7: Regenerative Governance
 
