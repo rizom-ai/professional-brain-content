@@ -144,31 +144,57 @@ Without situated agency, AI becomes institutionally ambiguous. It may sound like
 
 ## 5. Design Principles for New Institutional Technology
 
-The design principles translate the framework into technology requirements. They are intended to prevent new tools from reproducing the same institutional failures in more technical form.
+The capabilities in Section 4 become practical only when they shape design decisions. A system can claim to support memory, sovereignty, accountability, or regeneration while still reproducing the institutional weaknesses it was meant to repair. Design principles are the bridge between the conceptual framework and the technology stack: they define what infrastructure must refuse, preserve, and make possible.
 
-1. **Sovereignty by default**  
-   Data should remain governed by the people and institutions that produce it.
+These principles are not feature requirements in the narrow sense. They are constraints on how institutional technology should behave. They are meant to prevent new tools from turning weak memory into faster retrieval, unclear authority into automated decision-making, fragmented coordination into platform dependency, or social renewal into engagement metrics.
 
-2. **Context before automation**  
-   AI should not act on institutional traces without understanding their status, limits, and history.
+### 5.1 Sovereignty by Default
 
-3. **Memory over storage**  
-   Systems should preserve meaning, not just documents.
+Data should remain governed by the people, communities, and institutions that produce it. Sovereignty cannot be an optional enterprise feature added after dependency has already been created. It has to shape architecture from the beginning: where data lives, who can access it, how it moves, how it can be withdrawn, and under what conditions it can be used by models, agents, or external services.
 
-4. **Interoperability over lock-in**  
-   Institutions should be able to connect, migrate, and compose tools without becoming dependent on one platform.
+This does not mean every institution must build everything alone. Sovereignty is compatible with interoperability, shared infrastructure, and external services. The key question is whether participation requires surrender. New institutional technology should make it possible to connect without being captured.
 
-5. **Agents as situated collaborators**  
-   AI agents should have named roles, bounded authority, visible context, and contestable outputs.
+### 5.2 Context Before Automation
 
-6. **Regeneration over extraction**  
-   Technology should restore institutional and community capability rather than extract attention, data, or labor.
+Automation should not be applied to institutional traces before their meaning, status, and limits are understood. A document is not just a document. It may be a draft, a policy, a record, a precedent, a proposal, a symbolic artifact, or a decision that has since been superseded. Acting on those traces without context turns institutional ambiguity into machine output.
 
-7. **Distributed intelligence over centralized control**  
-   Intelligence should emerge across people, agents, documents, communities, and practices.
+Context before automation means that systems must preserve provenance, status, authorship, authority, and relation. Before an agent summarizes, recommends, routes, or acts, the infrastructure should help establish what it is acting on, what that material means, and what responsibilities remain attached to it.
 
-8. **Accountability over fluency**  
-   A fluent answer is not the same as responsible action.
+### 5.3 Memory Over Storage
+
+Institutional technology should preserve meaning, not just documents. Storage asks whether something can be kept and retrieved. Memory asks whether it can orient judgment. A system designed only for storage can make an institution appear knowledge-rich while leaving people unable to understand what matters now.
+
+Memory over storage requires infrastructure that connects records to decisions, decisions to reasons, reasons to roles, and roles to ongoing responsibilities. The goal is not to accumulate more traces, but to make the past usable without forcing every participant to reconstruct context from scratch.
+
+### 5.4 Interoperability Over Lock-In
+
+Institutions should be able to connect, migrate, and compose tools without becoming dependent on a single platform. Lock-in is not only a technical problem. It is an institutional problem, because it shifts memory, coordination, and future choice into systems whose incentives may not align with the institution’s purpose.
+
+Interoperability should therefore be treated as a governance requirement, not just an integration convenience. Data, permissions, identifiers, workflows, and agent interactions should be designed so that institutions can change components without losing their memory or becoming unable to act.
+
+### 5.5 Agents as Situated Collaborators
+
+AI agents should have named roles, bounded authority, visible context, and contestable outputs. An agent should not appear as a general intelligence floating above the institution. It should participate from somewhere: with a purpose, scope, permission set, memory boundary, and clear relation to human responsibility.
+
+This principle protects both the institution and the agentic system from false authority. The more capable an agent becomes, the more important it is to define what it is allowed to know, what it is allowed to influence, who can challenge it, and who remains accountable after it acts.
+
+### 5.6 Regeneration Over Extraction
+
+Technology should restore institutional and community capability rather than extract attention, data, trust, or labor. Many systems increase activity while depleting the conditions that make meaningful participation possible. They ask people to contribute more signals, more content, more feedback, and more behavioral data, while returning little durable capability to the community or institution.
+
+Regenerative design asks whether the system strengthens the people and relationships it depends on. Does it make learning easier? Does it reduce hidden coordination labor? Does it support maintenance and repair? Does it help trust become more grounded, or merely more measurable?
+
+### 5.7 Distributed Intelligence Over Centralized Control
+
+Intelligence should emerge across people, agents, documents, communities, and practices rather than being concentrated in a single model, dashboard, or command layer. Centralization can create clarity, but it can also erase situated knowledge and make institutions dependent on one view of the system.
+
+Distributed intelligence requires infrastructure that lets different forms of knowledge remain connected without being flattened. Local experience, formal authority, machine synthesis, historical memory, and community feedback each have different roles. New institutional technology should help those roles interact, not pretend that one layer can replace the others.
+
+### 5.8 Accountability Over Fluency
+
+A fluent answer is not the same as responsible action. Institutional technology should be judged not only by whether it produces plausible outputs, but by whether those outputs can be traced, challenged, corrected, and governed. This is especially important when AI systems generate language that sounds more settled than the institution itself.
+
+Accountability over fluency means that systems must make reasons, sources, permissions, and limits visible. They should support contestation rather than hide uncertainty. The question is not only “is this answer good?” but “can the institution remain answerable after this answer enters the work?”
 
 ## 6. Technology / Stack: Infrastructure for New Institutions
 
