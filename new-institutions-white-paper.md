@@ -392,6 +392,14 @@ Regenerative governance asks whether the infrastructure continues to restore cap
 
 ## 10. Conclusion: Infrastructure for What Comes Next
 
-New institutions will not emerge from technology alone. But they will require technology aligned with the capabilities we need: memory, trust, coordination, sovereignty, accountability, and regeneration.
+New institutions will not emerge from technology alone. But they will not emerge without infrastructure either. The question is not how much of institutional life can be automated, accelerated, or pushed through AI. The question is what kinds of institutions digital infrastructure will help make possible.
 
-The task of ecosystem architecture is to design the conditions under which those capabilities can keep circulating across people, agents, tools, communities, and institutions. The question is not how much of society we can push through AI. The question is what kinds of institutions AI and digital infrastructure will help us build.
+The present institutional crisis is not only a loss of trust or legitimacy. It is a weakening of the capabilities that allow institutions to carry themselves: memory, legibility, coordination, accountability, sovereignty, regeneration, and situated agency. When those capabilities erode, institutions may keep their visible form while losing the ability to remember, explain, coordinate, repair, and renew.
+
+AI makes this condition harder to ignore. It can help institutions search, synthesize, draft, compare, and coordinate. But it also reveals whether the institution has made itself knowable enough to be acted on. Where memory is thin, authority unclear, provenance missing, and responsibility dispersed, AI does not solve the problem. It makes the institutional condition more legible, often by amplifying it.
+
+The work ahead is therefore architectural. New institutions need sovereign data infrastructure, living memory systems, situated agents, regenerative community coordination, interoperable ecosystems, and verifiable provenance that can support fair participation in value. These are not separate technology trends. They are parts of a deeper institutional requirement: the ability to act responsibly across distributed people, tools, agents, communities, and time.
+
+This also changes the meaning of innovation. The opportunity is not simply to build faster organizations or more intelligent platforms. It is to build institutions that can remember what they are doing, govern the systems they depend on, recognize the people and communities that create value, and remain answerable as agency becomes more distributed.
+
+The task of ecosystem architecture is to design the conditions under which those capabilities can keep circulating. Not as a finished platform. Not as a new bureaucracy. Not as a speculative overlay on social life. But as living infrastructure for institutions that can carry themselves.
