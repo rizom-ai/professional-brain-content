@@ -407,3 +407,37 @@ The work ahead is architectural. New institutions need sovereign data infrastruc
 This changes the meaning of innovation. The opportunity is not simply to build faster organizations or more intelligent platforms. It is to build institutions that can remember what they are doing, govern the systems they depend on, recognize the people and communities that create value, and remain answerable as agency becomes more distributed.
 
 Ecosystem architecture is the practice of designing the conditions under which those capabilities can keep circulating. Not as a finished platform. Not as a new bureaucracy. Not as a speculative overlay on social life. But as living infrastructure for institutions that can carry themselves.
+
+## Appendix: Key Terms
+
+### Institutional Capability
+
+The ability of an institution to remember, coordinate, make judgment, remain accountable, and renew the agreements that make shared action possible. Capability is different from performance: it is not only about producing more, faster, but about acting responsibly over time.
+
+### Living Memory
+
+Institutional memory that remains usable for present judgment. Living memory connects documents, decisions, roles, histories, and responsibilities so that people can understand what still matters, what has changed, and what remains binding.
+
+### Legibility
+
+The quality that allows people and agents to understand roles, authority, context, dependencies, and responsibilities without relying entirely on tacit access to insiders. Legibility makes complexity navigable without reducing it to bureaucracy.
+
+### Situated Agents
+
+AI agents with defined roles, bounded authority, visible context, permission limits, and contestable outputs. A situated agent does not speak from nowhere; it participates from within an explicit field of responsibility.
+
+### Verifiable Provenance
+
+The ability to know where information, work, data, and decisions came from, how they changed, and what rights or responsibilities remain attached to them. Provenance supports institutional memory, accountable AI, and fair participation in value.
+
+### Participation Rights
+
+Rights that emerge from contribution, membership, stewardship, access, governance, or shared value. Participation rights may be represented through token-like instruments, but they should be designed around purpose, legitimacy, and stewardship before speculation or liquidity.
+
+### Regenerative Infrastructure
+
+Infrastructure that restores the conditions of shared action rather than extracting attention, data, trust, or labor. Regenerative infrastructure strengthens participation, learning, care, maintenance, feedback, and repair.
+
+### Ecosystem Architecture
+
+The practice of designing conditions under which memory, trust, responsibility, coordination, and shared value can circulate across distributed people, institutions, tools, agents, and communities. Ecosystem architecture treats institutions as living arrangements rather than machines to optimize from the center.
