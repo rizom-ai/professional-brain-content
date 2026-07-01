@@ -344,33 +344,51 @@ Key risks include:
 
 ## 9. Implementation Roadmap: From Diagnosis to Living Infrastructure
 
-The implementation path should begin with institutional diagnosis rather than tooling. New institutions cannot be installed. They have to be cultivated by making memory, responsibility, coordination, and governance progressively more legible.
+New institutions cannot be installed as finished systems. They have to be cultivated through a sequence of decisions that make memory, responsibility, coordination, and governance progressively more legible. The implementation path should therefore begin with institutional diagnosis rather than tooling. Tools introduced too early often automate the very confusion they were meant to solve.
 
-Living infrastructure is infrastructure that remains open to maintenance, contestation, adaptation, and renewal by the people and institutions that depend on it. It is not finished at launch. It becomes more useful as the ecosystem learns how to inhabit it.
+Living infrastructure is infrastructure that remains open to maintenance, contestation, adaptation, and renewal by the people and institutions that depend on it. It is not finished at launch. It becomes more useful as the ecosystem learns how to inhabit it, challenge it, repair it, and extend it.
 
 ### Phase 1: Institutional Diagnosis
 
-Map memory, data, roles, workflows, authority, and coordination failures. Identify where heroics, missing context, broken archives, unclear responsibility, and platform dependencies are carrying hidden institutional load.
+The first phase is to map how the institution actually carries itself today. This means identifying where memory lives, how decisions are made, which roles carry authority, which workflows depend on informal repair, where data is stored, and which platform dependencies have become institutionally significant. The diagnosis should make visible the hidden load currently carried by fixers, veterans, private notes, undocumented exceptions, and tacit social knowledge.
+
+The output of this phase is not a technology roadmap yet. It is an institutional map: memory gaps, authority gaps, coordination failures, unclear responsibilities, provenance risks, data dependencies, and places where AI would currently amplify confusion. This map becomes the basis for deciding where infrastructure can strengthen capability rather than merely increase throughput.
 
 ### Phase 2: Knowledge Infrastructure
 
-Make documents, decisions, people, and context legible. Build memory systems that preserve orientation, not just traces.
+The second phase is to make documents, decisions, people, roles, and context legible. The goal is not to centralize all knowledge into one repository, but to connect institutional traces to meaning: what is authoritative, what is obsolete, what is contested, what remains binding, and who remains responsible.
+
+This phase should establish the foundations for living memory: provenance, versioning, contextual annotation, decision histories, role relationships, and clear distinctions between records, drafts, commitments, and practices. AI can assist with retrieval and synthesis, but only after the institution has begun to clarify the status and meaning of the materials being retrieved.
 
 ### Phase 3: Sovereign AI Integration
 
-Connect data to AI under clear governance. Ensure that access, permissions, provenance, and institutional responsibility are explicit before automation expands.
+The third phase is to connect institutional data and knowledge to AI under explicit governance. This means defining access permissions, data boundaries, model use, audit requirements, provenance expectations, and human review points before automation expands. The question is not simply which model to use, but what institutional conditions make model participation responsible.
+
+Sovereign AI integration should preserve the institution’s ability to govern its memory and decision conditions. Data should not be moved into systems that the institution cannot audit, exit, or explain. At this stage, AI should strengthen specific capabilities: search with context, summarization with provenance, comparison with source visibility, and drafting within bounded roles.
 
 ### Phase 4: Situated Agents
 
-Introduce bounded agents with named roles, visible limits, and contestable outputs. Treat agents as participants in institutional work, not as neutral oracles.
+The fourth phase introduces agents as bounded participants in institutional work. Each agent should have a named role, a defined scope, a memory boundary, a permission set, a review path, and a process for contestation. Agents should enter workflows where context, responsibility, and escalation are already sufficiently clear.
+
+Implementation should begin with low-risk, high-context roles: retrieval assistants, policy comparators, meeting memory agents, portfolio synthesis agents, or coordination agents that support rather than decide. As confidence grows, agents can take on more complex tasks, but their authority should expand only when accountability expands with it. The measure of success is not autonomy for its own sake, but better institutional judgment.
 
 ### Phase 5: Ecosystem Coordination
 
-Extend from internal institutional memory to cross-organizational collaboration. Support shared projects, federated knowledge, and distributed trust without collapsing everything into one platform.
+The fifth phase extends capability beyond the boundary of a single organization. Many institutional problems are ecosystem problems: ports, cities, research networks, foundations, civic coalitions, regenerative communities, and public-private partnerships all depend on distributed actors whose knowledge and authority are held in different places.
 
-### Phase 6: Regenerative Governance
+Ecosystem coordination requires interoperability, shared vocabularies, portable identities, permissioned knowledge sharing, and governance that allows cooperation without absorption. This is where provenance becomes especially important. Participants need to know where knowledge came from, under what conditions it can be used, and how contribution remains visible across organizational boundaries.
 
-Develop shared ownership, accountability, maintenance, and renewal practices. Ensure the infrastructure restores institutional and community capability over time.
+### Phase 6: Participation and Shared Value
+
+The sixth phase develops mechanisms for participation, contribution recognition, and shared value. Once provenance makes contribution visible, institutions can begin to govern how value, rights, access, and responsibility should circulate. This may include membership rights, stewardship roles, revenue participation, governance rights, access rights, or other token-like instruments.
+
+This phase should proceed carefully. The goal is not to financialize every contribution or introduce speculative dynamics into civic and regenerative work. The goal is to prevent distributed contribution from being recognized only symbolically while value accumulates elsewhere. Participation primitives should be designed around purpose, legitimacy, and stewardship before transferability or liquidity.
+
+### Phase 7: Regenerative Governance
+
+The final phase is ongoing governance, maintenance, and renewal. Infrastructure must be able to change as the institution learns. Roles will need adjustment. Agents will need review. Provenance records will need correction. Communities will need ways to contest decisions, repair harms, and reshape participation.
+
+Regenerative governance asks whether the infrastructure continues to restore capability over time. Does it reduce hidden labor? Does it make memory more usable? Does it keep responsibility visible? Does it distribute value more fairly? Does it help participants renew the agreements that make shared action possible? Living infrastructure remains alive only if the people who depend on it can keep caring for it.
 
 ## 10. Conclusion: Infrastructure for What Comes Next
 
