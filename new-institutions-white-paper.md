@@ -244,27 +244,39 @@ This is especially important for regenerative and civic infrastructure, where mu
 
 ## 7. Use Cases
 
-The use cases should show how the stack strengthens institutional capability in concrete settings. Each scenario should demonstrate not only what the technology does, but which institutional weakness it addresses.
+The stack becomes meaningful when it helps real institutions carry work that currently depends on hidden labor, fragile memory, or platform dependency. The following use cases are not product verticals. They are situations in which institutional capability has become difficult to maintain, and where sovereign, regenerative, distributed infrastructure can change what is possible.
+
+Each scenario combines multiple layers of the stack. A public institution rebuilding memory also needs accountable agents. A research ecosystem needs sovereignty, interoperability, and provenance. A regenerative community network needs coordination tools, but also mechanisms for trust, contribution, and shared value. The point is not to apply one layer at a time, but to show how capabilities reinforce one another in practice.
 
 ### 7.1 A Public Institution Rebuilding Memory
 
-A municipality or public agency makes decisions, policies, histories, and responsibilities legible across departments. The goal is not simply better search, but a public institution that can explain why it acted, what still matters, and who remains responsible.
+A municipality or public agency often holds enormous amounts of institutional knowledge: policies, permits, public consultations, council decisions, project histories, legal obligations, environmental constraints, and community commitments. Much of this knowledge exists, but not in a form that helps the institution explain itself or act coherently across departments. People can find documents, yet still struggle to understand why decisions were made, what remains binding, and who is responsible now.
+
+A new institutional stack would connect records, decisions, roles, and responsibilities into living memory. Agents could help staff retrieve precedents, summarize policy histories, compare obligations, and identify affected stakeholders, but only within bounded roles and visible provenance. The goal is not simply faster administration. It is a public institution that can remember its own commitments, explain its actions, and make accountability easier to practice.
 
 ### 7.2 A Foundation Coordinating Distributed Knowledge
 
-A foundation connects grants, reports, relationships, and strategic decisions into a living memory system. The goal is to make institutional learning travel across programs without reducing judgment to dashboards.
+Foundations often produce knowledge across grants, reports, evaluations, partnerships, communities, and strategic programs. But learning frequently remains fragmented. A program officer knows one history, a grantee knows another, an evaluation sits in a repository, and strategic insight depends on informal conversations that are rarely preserved. The institution funds learning without always becoming a learning institution.
+
+A capability-oriented infrastructure would connect grants, reports, decisions, relationships, field notes, and outcomes into a memory system that supports judgment rather than dashboard management. Agents could synthesize patterns across portfolios, surface prior decisions, identify contradictions, and help teams understand where knowledge came from. Provenance and participation primitives could also make contributor value more visible, especially when grantees, communities, or field partners generate insight that later shapes strategy.
 
 ### 7.3 A Regenerative Community Network
 
-Communities coordinate learning, resources, projects, and trust without relying on centralized social media platforms. The goal is infrastructure for shared action rather than attention capture.
+Regenerative communities depend on trust, shared practice, learning, maintenance, and coordination. Yet many are forced to use tools designed for attention capture, broadcast communication, or transactional project management. The result is a familiar mismatch: communities try to build long-term relationships inside systems optimized for short-term engagement.
+
+A regenerative community network would treat connection itself as infrastructure. It could support shared projects, local learning, resource exchange, mutual aid, participatory governance, and community memory without reducing participation to posts, likes, or metrics. Provenance and token-like participation instruments could help recognize care work, coordination, stewardship, and knowledge contributions that are often essential but economically invisible. The goal is not to financialize every interaction, but to create pathways through which value, responsibility, and governance can remain connected.
 
 ### 7.4 A Research or Innovation Ecosystem
 
-Universities, startups, civic organizations, funders, and public institutions share knowledge without surrendering data sovereignty. The goal is distributed intelligence across an ecosystem rather than platform control over its participants.
+Research and innovation ecosystems increasingly span universities, startups, public agencies, funders, civic organizations, and communities. Their value depends on distributed intelligence: knowledge, data, prototypes, relationships, facilities, lived experience, and institutional authority all held in different places. The challenge is to coordinate without forcing everything into one platform or surrendering control over data and intellectual contribution.
+
+A new institutional stack would allow participants to share knowledge selectively, maintain provenance, coordinate projects, and build collective memory across organizational boundaries. Agents could help map capabilities, identify complementarities, synthesize research, and support collaboration, while sovereignty and interoperability prevent any one actor from capturing the ecosystem. Token-like instruments could support new forms of participation in value where contributions are distributed across organizations and communities.
 
 ### 7.5 A Hybrid Human-Agent Organization
 
-Agents support coordination, retrieval, and synthesis while remaining bounded, visible, and accountable. The goal is not automation for its own sake, but better institutional judgment through situated machine participation.
+Organizations are beginning to work with AI systems that retrieve, summarize, draft, recommend, and coordinate. Without role design, these systems easily become ambiguous participants: not quite tools, not quite colleagues, not quite managers, but influential enough to shape decisions. The risk is not only technical error. It is institutional confusion about authority, responsibility, and context.
+
+A hybrid human-agent organization would define agents as situated participants. Each agent would have a purpose, scope, permissions, memory boundary, escalation path, and contestation process. Outputs would be connected to provenance and review rather than treated as neutral fluency. The goal is not to replace human judgment with machine productivity, but to build organizations where machine participation strengthens memory, coordination, and accountability without dissolving responsibility.
 
 ## 8. Governance / Risks: Who Remains Answerable?
 
