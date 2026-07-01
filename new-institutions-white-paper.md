@@ -8,7 +8,7 @@ AI and digital infrastructure will not automatically repair this condition. They
 
 New institutions therefore need infrastructure for capability rather than performance alone. That infrastructure must support sovereign data, living memory, situated agents, regenerative community coordination, interoperable ecosystems, and verifiable provenance. These are not isolated technology categories. They are interdependent conditions for institutions that can remember what matters, govern the systems they depend on, coordinate across distributed actors, and remain answerable as agency moves across people, tools, documents, models, and communities.
 
-Provenance and token-like participation instruments matter when framed carefully. Technical proof of provenance can make contribution, authorship, stewardship, and responsibility more visible. Token-like instruments can then represent membership, access, governance rights, revenue participation, or claims on shared value without becoming speculative assets. In regenerative and civic contexts, this creates a path toward recognizing forms of value that are often essential but economically invisible: care, coordination, maintenance, trust-building, and knowledge work.
+Provenance and token-like participation instruments matter when framed carefully. Technical proof of provenance can make contribution, authorship, stewardship, and responsibility more visible. Token-like instruments can then represent membership, access, governance rights, revenue participation, or claims on shared value without functioning as speculative assets. In regenerative and civic contexts, this creates a path toward recognizing forms of value that are often essential but economically invisible: care, coordination, maintenance, trust-building, and knowledge work.
 
 The work ahead is ecosystem architecture: designing the conditions under which memory, trust, responsibility, participation, and shared value can keep circulating. The goal is not another platform. The goal is living infrastructure for institutions that can carry themselves.
 
@@ -52,7 +52,7 @@ This is why many apparent AI failures are also institutional failures. The model
 
 AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once “just known” turns out not to be known by the institution at all.
 
-The problem, then, is not simply that institutions need AI strategies. It is that AI forces a prior question: has the institution made itself knowable enough for any strategy to work?
+The problem is not simply that institutions need AI strategies. AI forces a prior question: has the institution made itself knowable enough for any strategy to work?
 
 ## 3. Core Thesis: New Institutions Need Infrastructure for Institutional Capability
 
@@ -94,7 +94,7 @@ A machine that enters an institution without a clear role, bounded authority, vi
 
 New institutions therefore need infrastructure that can hold AI in place: connected enough to be useful, bounded enough to be accountable, contextual enough to be situated, and visible enough to be contested. AI should not become a ghost manager of institutional life. It should become a situated participant in systems that remain answerable to human and collective judgment.
 
-That requires a different kind of architecture. Institutions need more than performance, and AI needs more than deployment. The deeper task is to make the conditions of institutional life explicit enough for memory, responsibility, coordination, and participation to keep circulating. These capabilities are not features of a product. They are conditions of institutional life that technology must learn to support.
+That requires a different kind of architecture. Institutions need more than performance, and AI needs more than deployment. The deeper task is to make the conditions of institutional life explicit enough for memory, responsibility, coordination, and participation to keep circulating. These capabilities are not product features. They are conditions of institutional life that technology must learn to support.
 
 ## 4. Conceptual Framework: The Capabilities New Institutions Need
 
@@ -284,13 +284,13 @@ A hybrid human-agent organization would define agents as situated participants. 
 
 ## 8. Governance / Risks: Who Remains Answerable?
 
-New institutions require governance that is as explicit as their technology. The central question is not whether humans or machines act, but how agency is situated, bounded, contested, and made answerable. As data, models, agents, communities, and token-like instruments become part of institutional work, governance can no longer be treated as a policy layer added after the infrastructure is built. It has to be part of the infrastructure itself.
+New institutions require governance that is as explicit as their technology. The central question is not whether humans or machines act, but how agency is situated, bounded, contested, and made answerable. As data, models, agents, communities, and token-like instruments become part of institutional work, governance can no longer be treated as a policy layer added after the infrastructure is built. It has to be built into the infrastructure itself.
 
 Governance is the practice through which participants maintain shared systems, repair breakdowns, adjust roles, negotiate conflicts, and keep infrastructure aligned with its purpose. It determines who can act, who can challenge action, who can change the system, who benefits from shared value, and who remains responsible when tools become participants in institutional life.
 
 ### 8.1 Data Sovereignty and Institutional Memory
 
-A central governance risk is that sovereign infrastructure becomes another form of dependency. A system can promise control while quietly moving institutional memory, permissions, workflows, or intelligence into arrangements that are difficult to leave. If an institution cannot move its data, audit access, understand model use, or preserve context outside a vendor environment, sovereignty remains mostly symbolic.
+A central governance risk is that sovereign infrastructure becomes another form of dependency. A system can promise control while quietly moving institutional memory, permissions, workflows, or intelligence into arrangements that are difficult to leave. If an institution cannot move its data, audit access, understand model use, or preserve context outside a vendor environment, sovereignty is mostly symbolic.
 
 Governance must therefore define ownership, access, portability, retention, deletion, and reuse from the beginning. Institutions need to know not only where data is stored, but how it is interpreted, enriched, combined, and made available to agents or third parties. Sovereignty is not only about custody. It is about the continuing ability to govern the memory and decision conditions of the institution.
 
@@ -348,7 +348,7 @@ Key risks include:
 
 ## 9. Implementation Roadmap: From Diagnosis to Living Infrastructure
 
-New institutions cannot be installed as finished systems. They have to be cultivated through a sequence of decisions that make memory, responsibility, coordination, and governance progressively more legible. The implementation path should therefore begin with institutional diagnosis rather than tooling. Tools introduced too early often automate the very confusion they were meant to solve.
+New institutions cannot be installed as finished systems. They have to be cultivated through a sequence of decisions that make memory, responsibility, coordination, and governance progressively more legible. The implementation path should begin with institutional diagnosis rather than tooling. Tools introduced too early often automate the very confusion they were meant to solve.
 
 Living infrastructure is infrastructure that remains open to maintenance, contestation, adaptation, and renewal by the people and institutions that depend on it. It is not finished at launch. It becomes more useful as the ecosystem learns how to inhabit it, challenge it, repair it, and extend it.
 
@@ -412,7 +412,7 @@ Ecosystem architecture is the practice of designing the conditions under which t
 
 ### Institutional Capability
 
-The ability of an institution to remember, coordinate, make judgment, remain accountable, and renew the agreements that make shared action possible. Capability is different from performance: it is not only about producing more, faster, but about acting responsibly over time.
+The ability of an institution to remember, coordinate, exercise judgment, remain accountable, and renew the agreements that make shared action possible. Capability is different from performance: it is not only about producing more, faster, but about acting responsibly over time.
 
 ### Living Memory
 
@@ -424,7 +424,7 @@ The quality that allows people and agents to understand roles, authority, contex
 
 ### Situated Agents
 
-AI agents with defined roles, bounded authority, visible context, permission limits, and contestable outputs. A situated agent does not speak from nowhere; it participates from within an explicit field of responsibility.
+AI agents with defined roles, bounded authority, visible context, permission limits, and contestable outputs. A situated agent does not speak from nowhere. It participates from within an explicit field of responsibility.
 
 ### Verifiable Provenance
 
