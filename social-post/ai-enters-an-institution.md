@@ -3,7 +3,7 @@ title: AI Enters Institutions
 platform: linkedin
 status: draft
 ---
-AI adoption is too small a frame.
+We talk about AI adoption as if the institution were already ready to be amplified.
 
 What enters an organization is not a tool in isolation. It is a new participant in an existing institution.
 
