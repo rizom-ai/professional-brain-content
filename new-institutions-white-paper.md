@@ -15,6 +15,7 @@ This white paper argues that new institutions need infrastructure for capability
 Provenance and token-like participation instruments matter when framed carefully: not as speculative assets, but as ways to make contribution, membership, access, governance, stewardship, and shared value more visible and governable. In civic and regenerative contexts, this opens a path toward recognizing forms of work that are essential but often economically invisible: care, coordination, maintenance, trust-building, and knowledge work.
 
 The work ahead is ecosystem architecture: designing the conditions under which memory, trust, responsibility, participation, and shared value can keep circulating. The goal is not another platform or another layer of software. The goal is living infrastructure for institutions that can carry themselves.
+
 ## 2. Problem / Context: Institutions Can No Longer Carry Themselves
 
 The crisis of institutions is often described as a crisis of trust, competence, or legitimacy. Those descriptions are not wrong, but they start too late. Institutions do not fail only when people stop believing in them. They begin to fail when they can no longer carry the capabilities that made belief reasonable in the first place: memory, judgment, coordination, accountability, and a shared sense of what the institution is for.
