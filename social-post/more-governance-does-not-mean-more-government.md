@@ -2,6 +2,7 @@
 title: More Governance Does Not Mean More Government
 platform: linkedin
 status: draft
+coverImageId: more-governance-does-not-mean-more-government-cover
 ---
 More governance does not have to mean more government.
 
