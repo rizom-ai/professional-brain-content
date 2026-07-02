@@ -17,3 +17,6 @@ AI systems, data ecosystems, regenerative communities, research networks, ports,
 They need governance that is distributed, legible, accountable, and alive enough to adapt.
 
 More governance does not mean less freedom. Done well, it is how freedom becomes livable at scale.
+
+This is part of the institutional direction we are exploring at Rizom:
+https://rizom.foundation
