@@ -1,22 +1,30 @@
-# New Institutions: Technology for Sovereign, Regenerative, Distributed Coordination
+# Institutions That Can Carry Themselves
+
+*Technology for sovereign, regenerative, distributed coordination*
 
 ## 1. Executive Summary
 
-Contemporary institutions are not only facing a crisis of trust, legitimacy, or technology adoption. They are facing a crisis of institutional capability. Many still possess formal structures, procedures, archives, roles, and mandates, but increasingly struggle to carry their own memory, coordinate action, explain decisions, maintain accountability, and renew the agreements that make shared action possible.
+Imagine a foundation training an internal assistant on years of grant proposals, strategy documents, board notes, and reports. At first the system looks promising. It can summarize old programs, find budgets, and compare applications. But when someone asks why one project was renewed while another quietly disappeared, the answer becomes vague. The reasons live in remembered conversations, private judgments, informal exceptions, and decisions that were never written down.
 
-AI and digital infrastructure will not automatically repair this condition. They often make it more visible. AI reveals whether an institution has made itself legible enough to be acted on. It can strengthen memory, coordination, and judgment where those capabilities already have form. It can also multiply confusion, missing context, and unaccountable authority where they do not. The question is not how much institutional work can be automated, but what kind of institution automation will amplify.
+The tool looks incomplete. The deeper gap is institutional.
 
-New institutions therefore need infrastructure for capability rather than performance alone. That infrastructure must support sovereign data, living memory, situated agents, regenerative community coordination, interoperable ecosystems, and verifiable provenance. These are not isolated technology categories. They are interdependent conditions for institutions that can remember what matters, govern the systems they depend on, coordinate across distributed actors, and remain answerable as agency moves across people, tools, documents, models, and communities.
+AI is a stress test for institutions. It reveals whether an institution has made itself legible enough to be acted on. It can strengthen memory, coordination, and judgment where those capabilities already have form. It can multiply confusion, missing context, and unaccountable authority where they do not. The machine does not create the cracks. It finds them.
 
-Provenance and token-like participation instruments matter when framed carefully. Technical proof of provenance can make contribution, authorship, stewardship, and responsibility more visible. Token-like instruments can then represent membership, access, governance rights, revenue participation, or claims on shared value without functioning as speculative assets. In regenerative and civic contexts, this creates a path toward recognizing forms of value that are often essential but economically invisible: care, coordination, maintenance, trust-building, and knowledge work.
+Contemporary institutions are not only facing a crisis of trust, legitimacy, or technology adoption. They are facing a crisis of institutional capability. Many still possess formal structures, procedures, archives, roles, and mandates, but increasingly struggle to carry their own memory, coordinate action, explain decisions, maintain accountability, and renew the agreements that make shared action possible. The question is not how much institutional work can be automated, but what kind of institution automation will amplify.
+
+New institutions therefore need infrastructure for capability rather than performance alone: sovereign data, living memory, situated agents, regenerative community coordination, interoperable ecosystems, and verifiable provenance. These are not isolated technology categories. They are interdependent conditions for institutions that can remember what matters, govern the systems they depend on, coordinate across distributed actors, and remain answerable as agency moves across people, tools, documents, models, and communities.
+
+Provenance and token-like participation instruments matter when framed carefully: as proof of contribution and as participation rights — membership, access, governance, claims on shared value — rather than speculative assets. In regenerative and civic contexts, this creates a path toward recognizing forms of value that are essential but economically invisible: care, coordination, maintenance, trust-building, and knowledge work.
 
 The work ahead is ecosystem architecture: designing the conditions under which memory, trust, responsibility, participation, and shared value can keep circulating. The goal is not another platform. The goal is living infrastructure for institutions that can carry themselves.
 
 ## 2. Problem / Context: Institutions Can No Longer Carry Themselves
 
-The crisis of institutions is often described as a crisis of trust, competence, or legitimacy. Those descriptions are not wrong, but they usually start too late. Institutions do not fail only when people stop believing in them. They begin to fail when they can no longer carry the capabilities that made belief reasonable in the first place: memory, judgment, coordination, accountability, and a shared sense of what the institution is for.
+The crisis of institutions is often described as a crisis of trust, competence, or legitimacy. Those descriptions are not wrong, but they start too late. Institutions do not fail only when people stop believing in them. They begin to fail when they can no longer carry the capabilities that made belief reasonable in the first place: memory, judgment, coordination, accountability, and a shared sense of what the institution is for.
 
-An institution can retain its visible form long after those capabilities have begun to drain away. The building stands. The procedures circulate. The titles remain in place. Meetings still happen, reports still get written, dashboards still update, and strategies still name the future. From the outside, the institution may look intact. From the inside, however, more and more of the real work has moved elsewhere: into personal relationships, informal exceptions, private notes, long-tenured employees, unspoken norms, and the ability of a few people to remember how things are actually supposed to work.
+An institution can retain its visible form long after those capabilities have drained away. The building stands. The procedures circulate. The titles remain in place. Meetings still happen, reports get written, dashboards update, and strategies name the future. From the outside, the institution looks intact. From the inside, more and more of the real work has moved elsewhere: into personal relationships, informal exceptions, private notes, long-tenured employees, unspoken norms, and the ability of a few people to remember how things are actually supposed to work.
+
+I know this condition from the inside. I came to technology through philosophy, and spent years as an assistant professor at the University of Amsterdam. In 2013, Marijn Koolen and I wrote a letter to our dean arguing that the humanities faculty should invest seriously in online education — for us, less about scale or cost than about the chance to raise the quality of teaching and research. The letter was flawed: long on diagnosis, short on urgency. But it worked. The proposal was greenlighted, and I worked on it until I left the university in 2016. Then, in 2020, a pandemic forced every lecture online, and I rediscovered our proposal — struck by how little of what we had argued had traveled. Universities everywhere reproduced their existing form in a new medium, the same lectures now on a screen, and called that adaptation. Our initiative had been approved and worked on. What it had not done was enter institutional memory: it lived in the people who carried it, and it moved on when we did.
 
 This is what it means for an institution to stop carrying itself. The form remains, but the force of the form weakens. Authority still exists on paper, but decisions depend on private interpretation. Memory still exists as storage, but not as orientation. Coordination still happens, but only because people continuously repair the gaps between official process and lived practice. The institution does not disappear. It becomes dependent on compensations it can no longer name.
 
@@ -24,7 +32,7 @@ This is what it means for an institution to stop carrying itself. The form remai
 
 Institutions do not protect democracy, legitimacy, or coordination by themselves. They depend on underlying social contracts that make their forms meaningful. A constitution, a mandate, a policy, a procedure, or a role only works when enough people still recognize the obligations, limits, and shared purposes behind it. When those agreements hold, institutional form can coordinate action across distance and time. When they weaken, the same form becomes increasingly theatrical: still present, still procedural, but less able to command trust or organize collective action.
 
-This is why institutional decay cannot be understood only as administrative failure. It is also a failure of shared meaning. People stop treating institutions as legitimate not simply because a process is inefficient, but because the institution no longer appears to hold up its side of the agreement. It cannot explain itself. It cannot remember why decisions were made. It cannot make responsibility visible. It cannot connect formal commitments to lived consequences. The agreement underneath the institution frays, and the institution begins to operate as if that agreement were still intact.
+This is why institutional decay cannot be understood only as administrative failure. It is also a failure of shared meaning. People stop treating institutions as legitimate not simply because a process is inefficient, but because the institution no longer appears to hold up its side of the agreement. It cannot explain itself. It cannot remember why decisions were made. It cannot make responsibility visible. The agreement underneath the institution frays, and the institution begins to operate as if that agreement were still intact.
 
 New institutions therefore cannot be built by improving procedure alone. They require renewed forms of participation, responsibility, and shared orientation. The technical question of how institutions store, retrieve, and coordinate knowledge is inseparable from the political question of what agreements make that knowledge meaningful.
 
@@ -32,9 +40,11 @@ New institutions therefore cannot be built by improving procedure alone. They re
 
 When institutions can no longer carry their own memory and coordination, they borrow those capabilities from people. Every failing institution has some version of the fixer, the veteran, the founder, the overloaded coordinator, or the indispensable colleague who knows how things really work. They remember the exception that was never documented. They know which process is ceremonial and which one matters. They translate between teams that no longer understand each other. They absorb ambiguity before it becomes visible.
 
+In the years since leaving academia — building learning platforms, education technology, and tools for distributed teams — I have watched this pattern repeat at every scale. New hires interrupt the same overloaded colleague with the same questions. Projects stall the week the one domain expert is unavailable. The context that shaped a decision survives only in an old chat thread, a private AI conversation, or nowhere at all. Coordination costs grow faster than the team.
+
 This labor is often praised as dedication, leadership, or ownership. Sometimes it is all of those things. But it is also evidence that the institution has failed to distribute its own capabilities. The more indispensable a person becomes, the more likely it is that the surrounding form has stopped functioning institutionally. Memory has migrated from the archive to the veteran. Coordination has migrated from the process to the fixer. Legitimacy has migrated from the role to the person who somehow still knows how to make the role matter.
 
-These compensations can keep an institution alive, but they do not make it healthy. They conceal the distance between formal structure and actual practice. As long as the right people remain in place, the institution can appear coherent. When they leave, burn out, or become overloaded, the hidden dependency becomes visible. A living institution should not require exceptional people to continuously patch its ordinary operations. Expertise matters, but it should circulate through the institution rather than become trapped in particular bodies.
+These compensations can keep an institution alive, but they do not make it healthy. As long as the right people remain in place, the institution can appear coherent. When they leave, burn out, or become overloaded, the hidden dependency becomes visible. A living institution should not require exceptional people to continuously patch its ordinary operations. Expertise matters, but it should circulate through the institution rather than become trapped in particular bodies.
 
 ### 2.3 The Failure of Institutional Memory
 
@@ -46,11 +56,11 @@ This distinction matters because institutions increasingly mistake retrieval for
 
 ### 2.4 AI as an Institutional Stress Test
 
-AI enters this situation as both promise and stress test. It promises to search the archive, summarize the meeting, draft the strategy, compare the options, retrieve the precedent, and coordinate the next step. But in doing so, it also reveals whether the institution has made itself legible enough to be acted on. If decisions lack reasons, archives lack context, roles lack authority, or vocabularies lack shared meaning, the machine will not magically repair the gap. It will expose it, compress it, or multiply it.
+AI enters this situation as both promise and stress test. It promises to search the archive, summarize the meeting, draft the strategy, compare the options, retrieve the precedent, and coordinate the next step. But in doing so, it reveals whether the institution has made itself legible enough to be acted on. If decisions lack reasons, archives lack context, roles lack authority, or vocabularies lack shared meaning, the machine will not magically repair the gap. It will expose it, compress it, or multiply it.
 
-This is why many apparent AI failures are also institutional failures. The model sounds generic because the institution has no shared language for what specificity would require. Retrieval fails because the archive preserved documents without preserving their status. The agent cannot act because responsibility is not legible. The summary misses the point because the point lived in a conversation, exception, or conflict the institution never learned how to hold.
+Return to the foundation with the fluent assistant. Its answers turned vague not because the model was weak, but because the institution had preserved everything except the reasons. Many apparent AI failures follow this shape. The model sounds generic because the institution has no shared language for what specificity would require. Retrieval fails because the archive preserved documents without preserving their status. The agent cannot act because responsibility is not legible. The summary misses the point because the point lived in a conversation, exception, or conflict the institution never learned how to hold.
 
-AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once “just known” turns out not to be known by the institution at all.
+AI does not create most of these cracks. It removes some of the social padding that allowed them to remain hidden. In co-present institutions, people can repair missing context through proximity: hallway conversations, quick clarifications, informal translations, and the tacit knowledge of who to ask. Once work becomes more distributed, mediated, and agentic, those repairs have to become more explicit. What was once "just known" turns out not to be known by the institution at all.
 
 The problem is not simply that institutions need AI strategies. AI forces a prior question: has the institution made itself knowable enough for any strategy to work?
 
@@ -58,33 +68,23 @@ The problem is not simply that institutions need AI strategies. AI forces a prio
 
 New institutions are not simply better organizations with better tools. They are institutions that can carry their own memory, make authority legible, coordinate without heroics, use AI without laundering responsibility, and renew the agreements that make shared action possible.
 
-Institutional renewal depends on capability, not performance. Performance asks how much an institution can produce, process, automate, or accelerate. Capability asks whether the institution can remember what matters, understand its own roles and responsibilities, coordinate across difference, make decisions that can be explained, and remain accountable for the consequences of its actions over time.
-
 ### 3.1 Capability, Not Performance
 
-Much of the current AI conversation treats institutions as throughput problems. The promise is more speed, more output, more automation, more analysis, more personalized service, and more work completed with fewer people. These gains may matter. But they do not answer the deeper institutional question. An organization can become faster while becoming less coherent. It can produce more while understanding less. It can automate tasks while further obscuring who is responsible for the outcome.
+Much of the current AI conversation treats institutions as throughput problems. The promise is more speed, more output, more automation, and more work completed with fewer people. These gains may matter. But an organization can become faster while becoming less coherent. It can produce more while understanding less. It can automate tasks while further obscuring who is responsible for the outcome.
 
-Institutional capability is different. It is the ability to act responsibly under conditions of complexity. A capable institution can make its memory usable, its authority understandable, its decisions contestable, and its coordination less dependent on hidden labor. It can use technology to strengthen judgment rather than replace the conditions that make judgment possible.
-
-This distinction matters because new tools tend to amplify the institution they enter. If the institution already has clear roles, living memory, accountable decision-making, and shared orientation, AI can extend those capabilities. If it does not, AI is more likely to multiply the confusion: producing fluent summaries from weak archives, confident recommendations from unclear priorities, and apparent coordination where responsibility remains unresolved.
+Institutional capability is different. It is the ability to act responsibly under conditions of complexity. A capable institution can make its memory usable, its authority understandable, its decisions contestable, and its coordination less dependent on hidden labor. This distinction matters because new tools amplify the institution they enter. If the institution already has clear roles, living memory, and accountable decision-making, AI can extend those capabilities. If it does not, AI is more likely to multiply the confusion: producing fluent summaries from weak archives, confident recommendations from unclear priorities, and apparent coordination where responsibility remains unresolved.
 
 ### 3.2 Infrastructure, Not Platforms
 
-The answer is not another platform that promises to absorb institutional complexity into a single interface. Platforms often simplify by centralizing control: they capture workflows, standardize behavior, and make institutions dependent on the logic of the system that hosts them. That may create efficiency, but it does not necessarily create institutional capability.
+The answer is not another platform that promises to absorb institutional complexity into a single interface. Platforms often simplify by centralizing control: they capture workflows, standardize behavior, and make institutions dependent on the logic of the system that hosts them. That may create efficiency, but it does not create institutional capability.
 
-New institutions need infrastructure instead: composable systems that help memory, data, roles, relationships, agents, and governance remain connected without collapsing into one point of control. Infrastructure should make the institution more capable of understanding itself. It should help people see which decisions are still alive, which responsibilities attach to which roles, which knowledge is authoritative, which systems depend on each other, and where intervention is needed.
+New institutions need infrastructure instead: composable systems that help memory, data, roles, relationships, agents, and governance remain connected without collapsing into one point of control. Infrastructure should make the institution more capable of understanding itself: which decisions are still alive, which responsibilities attach to which roles, which knowledge is authoritative, which systems depend on each other, and where intervention is needed.
 
 This is why ecosystem architecture matters. The work is not simply to select tools, but to design the conditions under which institutional capabilities can circulate. Memory must move without becoming noise. Authority must be visible without becoming rigid. Agents must participate without pretending to speak from nowhere. Communities must coordinate without being captured by the infrastructure that connects them.
 
 ### 3.3 Sovereign, Regenerative, Distributed
 
-Three commitments follow from this thesis.
-
-Sovereign means that institutions and communities must retain meaningful governance over the data, memory, and digital systems that define their ability to act. Sovereignty is not isolation or technological nationalism. It is the ability to participate in digital systems without surrendering institutional memory and decision-making to external platforms.
-
-Regenerative means that technology should restore the conditions of shared action rather than extract from them. Institutions depend on trust, attention, learning, maintenance, participation, and repair. If technology consumes those conditions faster than it renews them, it may increase performance while weakening the institution itself.
-
-Distributed means that intelligence, responsibility, and coordination should not be concentrated in a single platform, department, model, or leader. Institutions increasingly operate across ecosystems of people, organizations, data sources, infrastructures, and agents. Their technology should support that distributed reality while making relationships and responsibilities more legible. In distributed systems, the question is not only how coordination happens, but how contribution remains visible and how participation in value is governed.
+Three commitments follow from this thesis. **Sovereign**: institutions and communities must retain meaningful governance over the data, memory, and digital systems that define their ability to act — not isolation, but participation without surrender. **Regenerative**: technology should restore the conditions of shared action — trust, attention, learning, maintenance, participation, repair — rather than extract from them. **Distributed**: intelligence, responsibility, and coordination should not be concentrated in a single platform, department, model, or leader, and in distributed systems, contribution must remain visible and participation in value must be governed.
 
 ### 3.4 AI as Situated Participation
 
@@ -94,15 +94,11 @@ A machine that enters an institution without a clear role, bounded authority, vi
 
 New institutions therefore need infrastructure that can hold AI in place: connected enough to be useful, bounded enough to be accountable, contextual enough to be situated, and visible enough to be contested. AI should not become a ghost manager of institutional life. It should become a situated participant in systems that remain answerable to human and collective judgment.
 
-That requires a different kind of architecture. Institutions need more than performance, and AI needs more than deployment. The deeper task is to make the conditions of institutional life explicit enough for memory, responsibility, coordination, and participation to keep circulating. These capabilities are not product features. They are conditions of institutional life that technology must learn to support.
-
 ## 4. Conceptual Framework: The Capabilities New Institutions Need
 
 New institutions do not become more capable because they adopt more tools. They become more capable when the basic conditions of institutional life become easier to carry: memory, legibility, coordination, accountability, sovereignty, regeneration, and situated agency.
 
 These capabilities are not separate modules. They reinforce one another. Memory without legibility becomes an archive that only insiders can interpret. Legibility without accountability becomes surveillance or bureaucracy. Coordination without sovereignty becomes dependency on the platform that coordinates. Regeneration without governance becomes branding. Situated agency without memory becomes automation without context.
-
-Ecosystem architecture is the practice of designing for these capabilities across distributed actors. It does not treat an organization as a machine to be optimized from the center, but as a living arrangement of roles, relationships, flows, constraints, feedback, and shared responsibilities. From this perspective, technology matters when it helps the system sense itself, remember what matters, coordinate action, repair breakdowns, and renew the conditions of participation.
 
 ### 4.1 Memory
 
@@ -124,7 +120,7 @@ Without coordination, work fragments into local optimizations. Teams build their
 
 ### 4.4 Accountability
 
-Accountability is the ability to know who or what acted, on what basis, with what authority, and who remains responsible. It matters especially when agency is distributed across people, documents, software systems, and AI agents. The more distributed the system becomes, the more carefully responsibility has to be situated. Accountability also depends on provenance: the ability to know where information, work, and decisions came from, how they changed, and what rights or responsibilities remain attached to them.
+Accountability is the ability to know who or what acted, on what basis, with what authority, and who remains responsible. It matters especially when agency is distributed across people, documents, software systems, and AI agents. Accountability also depends on provenance: the ability to know where information, work, and decisions came from, how they changed, and what rights or responsibilities remain attached to them.
 
 Without accountability, fluency replaces answerability. A decision can be generated, routed, summarized, or implemented without anyone being able to explain how it acquired authority. This is especially dangerous when AI systems enter institutional workflows. Infrastructure for accountability should preserve provenance, make permissions visible, support contestation, and keep responsibility attached to roles rather than disappearing into tools.
 
@@ -132,7 +128,7 @@ Without accountability, fluency replaces answerability. A decision can be genera
 
 Sovereignty is the ability to use data and AI without surrendering control to external platforms. It is not isolation. It is the capacity to participate in digital systems without giving up governance over the data, memory, and decisions that define the institution.
 
-Without sovereignty, institutions may become technically advanced while becoming strategically dependent. Their memory, workflows, and intelligence move into systems they do not govern and cannot easily leave. New institutional infrastructure should allow organizations and communities to connect to advanced capabilities while retaining control over access, permissions, provenance, portability, and future use.
+Without sovereignty, institutions may become technically advanced while becoming strategically dependent. Their memory, workflows, and intelligence move into systems they do not govern and cannot easily leave.
 
 ### 4.6 Regeneration
 
@@ -140,7 +136,7 @@ Regeneration is the ability to restore capability rather than extract attention,
 
 Regeneration also has an economic dimension. If institutions depend on care, knowledge, coordination, and maintenance, then those contributions must not only be recognized symbolically; they need pathways into governance, ownership, and shared value.
 
-Without regeneration, infrastructure becomes extractive even when its language is collaborative. Communities become audiences. Participation becomes engagement. Learning becomes content. Trust becomes a metric. Regenerative infrastructure should help people and institutions renew the relationships and practices that make shared action possible over time.
+Without regeneration, infrastructure becomes extractive even when its language is collaborative. Communities become audiences. Participation becomes engagement. Learning becomes content. Trust becomes a metric.
 
 ### 4.7 Situated Agency
 
@@ -152,41 +148,39 @@ Without situated agency, AI becomes institutionally ambiguous. It may sound like
 
 Capabilities only matter if they shape how systems are designed. A system can claim to support memory, sovereignty, accountability, or regeneration while still reproducing the institutional weaknesses it was meant to repair. Design principles translate the conceptual framework into architectural commitments: they define what infrastructure must refuse, preserve, and make possible.
 
-These principles are not feature requirements in the narrow sense. They are constraints on how institutional technology should behave. They are meant to prevent new tools from turning weak memory into faster retrieval, unclear authority into automated decision-making, fragmented coordination into platform dependency, or social renewal into engagement metrics.
-
 ### 5.1 Sovereignty by Default
 
 Data should remain governed by the people, communities, and institutions that produce it. Sovereignty cannot be an optional enterprise feature added after dependency has already been created. It has to shape architecture from the beginning: where data lives, who can access it, how it moves, how it can be withdrawn, and under what conditions it can be used by models, agents, or external services.
 
-This does not mean every institution must build everything alone. Sovereignty is compatible with interoperability, shared infrastructure, and external services. The key question is whether participation requires surrender. New institutional technology should make it possible to connect without being captured.
+The key question is whether participation requires surrender. New institutional technology should make it possible to connect without being captured.
 
 ### 5.2 Context Before Automation
 
 Automation should not be applied to institutional traces before their meaning, status, and limits are understood. A document is not just a document. It may be a draft, a policy, a record, a precedent, a proposal, a symbolic artifact, or a decision that has since been superseded. Acting on those traces without context turns institutional ambiguity into machine output.
 
-Context before automation means that systems must preserve provenance, status, authorship, authority, and relation. Before an agent summarizes, recommends, routes, or acts, the infrastructure should help establish what it is acting on, what that material means, and what responsibilities remain attached to it.
+Before an agent summarizes, recommends, routes, or acts, the infrastructure should help establish what it is acting on, what that material means, and what responsibilities remain attached to it.
 
 ### 5.3 Memory Over Storage
 
-Institutional technology should preserve meaning, not just documents. Storage asks whether something can be kept and retrieved. Memory asks whether it can orient judgment. A system designed only for storage can make an institution appear knowledge-rich while leaving people unable to understand what matters now.
+Institutional technology should preserve meaning, not just documents. A system designed only for storage can make an institution appear knowledge-rich while leaving people unable to understand what matters now.
 
 Memory over storage requires infrastructure that connects records to decisions, decisions to reasons, reasons to roles, and roles to ongoing responsibilities. The goal is not to accumulate more traces, but to make the past usable without forcing every participant to reconstruct context from scratch.
 
 ### 5.4 Interoperability Over Lock-In
 
-Institutions should be able to connect, migrate, and compose tools without becoming dependent on a single platform. Lock-in is not only a technical problem. It is an institutional problem, because it shifts memory, coordination, and future choice into systems whose incentives may not align with the institution’s purpose.
+Institutions should be able to connect, migrate, and compose tools without becoming dependent on a single platform. Lock-in is not only a technical problem. It is an institutional problem, because it shifts memory, coordination, and future choice into systems whose incentives may not align with the institution's purpose.
 
 Interoperability should therefore be treated as a governance requirement, not just an integration convenience. Data, permissions, identifiers, workflows, and agent interactions should be designed so that institutions can change components without losing their memory or becoming unable to act.
 
 ### 5.5 Agents as Situated Collaborators
 
-AI agents should have named roles, bounded authority, visible context, and contestable outputs. An agent should not appear as a general intelligence floating above the institution. It should participate from somewhere: with a purpose, scope, permission set, memory boundary, and clear relation to human responsibility.
+AI agents should have named roles, bounded authority, visible context, and contestable outputs. An agent should not appear as a general intelligence floating above the institution.
 
-This principle protects both the institution and the agentic system from false authority. The more capable an agent becomes, the more important it is to define what it is allowed to know, what it is allowed to influence, who can challenge it, and who remains accountable after it acts.
+This principle protects both the institution and the agentic system from false authority. The more capable an agent becomes, the more tightly its knowledge, its influence, and its accountability need to be bound together.
 
 ### 5.6 Regeneration Over Extraction
 
-Technology should restore institutional and community capability rather than extract attention, data, trust, or labor. Many systems increase activity while depleting the conditions that make meaningful participation possible. They ask people to contribute more signals, more content, more feedback, and more behavioral data, while returning little durable capability to the community or institution.
+Many systems increase activity while depleting the conditions that make meaningful participation possible. They ask people to contribute more signals, more content, more feedback, and more behavioral data, while returning little durable capability to the community or institution.
 
 Regenerative design asks whether the system strengthens the people and relationships it depends on. Does it make learning easier? Does it reduce hidden coordination labor? Does it support maintenance and repair? Does it help trust become more grounded, or merely more measurable?
 
@@ -200,19 +194,17 @@ Distributed intelligence requires infrastructure that lets different forms of kn
 
 A fluent answer is not the same as responsible action. Institutional technology should be judged not only by whether it produces plausible outputs, but by whether those outputs can be traced, challenged, corrected, and governed. This is especially important when AI systems generate language that sounds more settled than the institution itself.
 
-Accountability over fluency means that systems must make reasons, sources, permissions, provenance, and limits visible. This requires verifiable provenance, especially when AI systems synthesize outputs from many human, institutional, and machine sources. Systems should support contestation rather than hide uncertainty. The question is not only “is this answer good?” but “can the institution remain answerable after this answer enters the work?”
+Accountability over fluency means that systems must make reasons, sources, permissions, provenance, and limits visible. This requires verifiable provenance, especially when AI systems synthesize outputs from many human, institutional, and machine sources. The question is not only "is this answer good?" but "can the institution remain answerable after this answer enters the work?"
 
 ## 6. Technology / Stack: Infrastructure for New Institutions
 
 This infrastructure is not a catalogue of tools. It translates institutional requirements into technical and organizational form. Each layer answers a diagnosed weakness: dependency without sovereignty, storage without memory, AI without context, community without durable coordination, and interoperability without shared governance. The aim is not to build a single platform that absorbs everything, but composable infrastructure that helps institutions carry memory, sovereignty, coordination, and accountability across contexts.
 
-Infrastructure should make relationships visible. It should help institutions understand not only which systems are connected, but which roles, dependencies, flows, and responsibilities those systems carry. Without that relational layer, infrastructure easily becomes another collection of tools rather than an ecosystem capable of learning.
-
 ### 6.1 Sovereign Data Layer
 
 The sovereign data layer answers the problem of dependency and platform capture. It allows institutions to connect data to AI, analytics, collaboration tools, and public-facing services while preserving governance over access, permissions, provenance, retention, and future use. Sovereignty here is practical: the institution must be able to know where its data lives, who can use it, under what conditions it can be combined, and how it can be moved or withdrawn.
 
-This layer should support secure storage, identity and access management, permissioned data sharing, audit trails, portability, and compliance with relevant legal and institutional obligations. More importantly, it should prevent institutional memory from becoming hostage to the systems that process it. The question is not only whether data can be used, but whether the institution remains able to govern the conditions of use.
+This layer should support secure storage, identity and access management, permissioned data sharing, audit trails, portability, and compliance with relevant legal and institutional obligations. More importantly, it should prevent institutional memory from becoming hostage to the systems that process it.
 
 ### 6.2 Knowledge and Memory Layer
 
@@ -236,7 +228,7 @@ This may include community spaces, participatory governance tools, learning envi
 
 The interoperability layer answers the problem of lock-in and brittle infrastructure. Institutions need to compose tools, exchange knowledge, collaborate across boundaries, and change systems without losing their memory or agency. Interoperability is therefore not only a technical convenience. It is a condition for institutional sovereignty and ecosystem coordination.
 
-This layer should support open standards, APIs, portable identifiers, common vocabularies, shared protocols, and modular integration across tools and organizations. It should allow institutions to cooperate without being absorbed into a single centralized platform. At its best, interoperability becomes the connective tissue of distributed institutional life: not one system controlling the rest, but many systems able to coordinate without surrendering their distinct roles and responsibilities.
+This layer should support open standards, APIs, portable identifiers, common vocabularies, shared protocols, and modular integration across tools and organizations. At its best, interoperability becomes the connective tissue of distributed institutional life: not one system controlling the rest, but many systems able to coordinate without surrendering their distinct roles and responsibilities.
 
 ### 6.6 Provenance, Rights, and Shared Value
 
@@ -250,7 +242,7 @@ This is especially important for regenerative and civic infrastructure, where mu
 
 Infrastructure becomes meaningful when it helps real institutions carry work that currently depends on hidden labor, fragile memory, or platform dependency. The following use cases are not market verticals. They are situations in which institutional capability has become difficult to maintain, and where sovereign, regenerative, distributed infrastructure can change what is possible.
 
-Each scenario combines multiple layers of infrastructure. A public institution rebuilding memory also needs accountable agents. A research ecosystem needs sovereignty, interoperability, and provenance. A regenerative community network needs coordination tools, but also mechanisms for trust, contribution, and shared value. The point is not to apply one layer at a time, but to show how capabilities reinforce one another in practice.
+Each scenario combines multiple layers of infrastructure; the point is not to apply one layer at a time, but to show how capabilities reinforce one another in practice.
 
 ### 7.1 A Public Institution Rebuilding Memory
 
@@ -260,13 +252,15 @@ New institutional infrastructure would connect records, decisions, roles, and re
 
 ### 7.2 A Foundation Coordinating Distributed Knowledge
 
-Foundations often produce knowledge across grants, reports, evaluations, partnerships, communities, and strategic programs. But learning frequently remains fragmented. A program officer knows one history, a grantee knows another, an evaluation sits in a repository, and strategic insight depends on informal conversations that are rarely preserved. The institution funds learning without always becoming a learning institution.
+Return to the foundation from the opening of this paper. Its assistant could summarize programs and find budgets, but could not explain why one project was renewed while another disappeared, because the institution had never made its own judgment legible. This is the common condition: a program officer knows one history, a grantee knows another, an evaluation sits in a repository, and strategic insight depends on informal conversations that are rarely preserved. The institution funds learning without becoming a learning institution.
 
 A capability-oriented infrastructure would connect grants, reports, decisions, relationships, field notes, and outcomes into a memory system that supports judgment rather than dashboard management. Agents could synthesize patterns across portfolios, surface prior decisions, identify contradictions, and help teams understand where knowledge came from. Provenance, rights, and shared value mechanisms could also make contributor value more visible, especially when grantees, communities, or field partners generate insight that later shapes strategy.
 
 ### 7.3 A Regenerative Community Network
 
 Regenerative communities depend on trust, shared practice, learning, maintenance, and coordination. Yet many are forced to use tools designed for attention capture, broadcast communication, or transactional project management. The result is a familiar mismatch: communities try to build long-term relationships inside systems optimized for short-term engagement.
+
+I encountered this mismatch directly when I was commissioned to design a vision for online collaboration for Planet B, a thought experiment centered on remote coordination for a planetary expedition: how do you build a thriving community of people dispersed across the globe who may never meet in person? The available tools all assumed either an office or an audience. Information got lost between interactions, context disappeared, and collective memory stayed fragmented — not because the community lacked commitment, but because nothing in its infrastructure was designed to hold it.
 
 A regenerative community network would treat connection itself as infrastructure. It could support shared projects, local learning, resource exchange, mutual aid, participatory governance, and community memory without reducing participation to posts, likes, or metrics. Provenance and token-like participation instruments could help recognize care work, coordination, stewardship, and knowledge contributions that are often essential but economically invisible. The goal is not to financialize every interaction, but to create pathways through which value, responsibility, and governance remain connected.
 
@@ -368,7 +362,7 @@ This phase should establish the foundations for living memory: provenance, versi
 
 The third phase is to connect institutional data and knowledge to AI under explicit governance. This means defining access permissions, data boundaries, model use, audit requirements, provenance expectations, and human review points before automation expands. The question is not simply which model to use, but what institutional conditions make model participation responsible.
 
-Sovereign AI integration should preserve the institution’s ability to govern its memory and decision conditions. Data should not be moved into systems that the institution cannot audit, exit, or explain. At this stage, AI should strengthen specific capabilities: search with context, summarization with provenance, comparison with source visibility, and drafting within bounded roles.
+Sovereign AI integration should preserve the institution's ability to govern its memory and decision conditions. Data should not be moved into systems that the institution cannot audit, exit, or explain. At this stage, AI should strengthen specific capabilities: search with context, summarization with provenance, comparison with source visibility, and drafting within bounded roles.
 
 ### Phase 4: Situated Agents
 
@@ -392,21 +386,21 @@ This phase should proceed carefully. The goal is not to financialize every contr
 
 The final phase is ongoing governance, maintenance, and renewal. Infrastructure must be able to change as the institution learns. Roles will need adjustment. Agents will need review. Provenance records will need correction. Communities will need ways to contest decisions, repair harms, and reshape participation.
 
-Regenerative governance asks whether the infrastructure continues to restore capability over time. Does it reduce hidden labor? Does it make memory more usable? Does it keep responsibility visible? Does it distribute value more fairly? Does it help participants renew the agreements that make shared action possible? Living infrastructure remains alive only if the people who depend on it can keep caring for it.
+Regenerative governance asks whether the infrastructure continues to restore capability over time. Does it reduce hidden labor? Does it make memory more usable? Does it keep responsibility visible? Does it distribute value more fairly? Living infrastructure remains alive only if the people who depend on it can keep caring for it.
 
 ## 10. Conclusion: Infrastructure for What Comes Next
 
 New institutions will not emerge from technology alone. But they will not emerge without infrastructure either. The question is not how much institutional life can be automated, accelerated, or pushed through AI. The question is what kinds of institutions digital infrastructure will help make possible.
 
-The present institutional crisis is not only a loss of trust or legitimacy. It is a weakening of the capabilities that allow institutions to carry themselves: memory, legibility, coordination, accountability, sovereignty, regeneration, and situated agency. When those capabilities erode, institutions may keep their visible form while losing the ability to remember, explain, coordinate, repair, and renew.
+AI makes the present institutional condition harder to ignore. It can help institutions search, synthesize, draft, compare, and coordinate. But it also reveals whether the institution has made itself knowable enough to be acted on. Where memory is thin, authority unclear, provenance missing, and responsibility dispersed, AI does not solve the problem. It makes the institutional condition more legible, often by amplifying it.
 
-AI makes this condition harder to ignore. It can help institutions search, synthesize, draft, compare, and coordinate. But it also reveals whether the institution has made itself knowable enough to be acted on. Where memory is thin, authority unclear, provenance missing, and responsibility dispersed, AI does not solve the problem. It makes the institutional condition more legible, often by amplifying it.
-
-The work ahead is architectural. New institutions need sovereign data infrastructure, living memory systems, situated agents, regenerative community coordination, interoperable ecosystems, and verifiable provenance that can support fair participation in value. These are not separate technology trends. They are parts of a deeper institutional requirement: the ability to act responsibly across distributed people, tools, agents, communities, and time.
+The work ahead is architectural. Sovereign data, living memory, situated agents, regenerative coordination, interoperable ecosystems, verifiable provenance: these are not separate technology trends. They are parts of a deeper institutional requirement — the ability to act responsibly across distributed people, tools, agents, communities, and time.
 
 This changes the meaning of innovation. The opportunity is not simply to build faster organizations or more intelligent platforms. It is to build institutions that can remember what they are doing, govern the systems they depend on, recognize the people and communities that create value, and remain answerable as agency becomes more distributed.
 
-Ecosystem architecture is the practice of designing the conditions under which those capabilities can keep circulating. Not as a finished platform. Not as a new bureaucracy. Not as a speculative overlay on social life. But as living infrastructure for institutions that can carry themselves.
+I have spent the past decade building toward this: open-source learning platforms, credentialing systems, community tools, and now Rizom, where we are testing what knowledge infrastructure for organizations that behave like living systems looks like in practice. That work has convinced me of one thing above all: no single product, platform, or organization can deliver institutional capability from the outside. It has to be cultivated, and the cultivation is shared work.
+
+Ecosystem architecture is the practice of designing the conditions under which that work can happen — the conditions under which memory, trust, responsibility, participation, and shared value keep circulating. Not as a finished platform. Not as a new bureaucracy. Not as a speculative overlay on social life. But as living infrastructure for institutions that can carry themselves.
 
 ## Appendix: Key Terms
 
