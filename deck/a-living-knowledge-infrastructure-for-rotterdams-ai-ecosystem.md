@@ -11,7 +11,7 @@ For a campus that learns as it grows.
 
 ## AI Datacampus is an ecosystem, not only a campus
 
-The AI Datacampus Rotterdam is framed as a living-learning-working environment: a place where education, talent development, technology, industry, housing, public space, and community come together.
+The AI Datacampus Rotterdam will become a living-learning-working environment: a place where education, talent development, technology, industry, housing, public space, and community come together.
 
 That makes it more than a physical development. It is an ecosystem project.
 
