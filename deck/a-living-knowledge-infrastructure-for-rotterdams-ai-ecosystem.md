@@ -33,6 +33,14 @@ It combines portable knowledge, AI agents, and open protocols so knowledge can b
 
 ---
 
+## What a Brain contains
+
+A brain can hold documents, notes, datasets, decisions, people, roles, projects, questions, conversations, and histories.
+
+It is not one database. It is a portable knowledge environment that can connect personal, team, and ecosystem memory.
+
+---
+
 ## Personal brains preserve ownership
 
 Students, founders, researchers, educators, mentors, and professionals can maintain personal knowledge brains that remain portable and under their control.
