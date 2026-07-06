@@ -11,7 +11,7 @@ Living knowledge infrastructure for a campus that learns as it grows.
 
 ## AI ecosystems need more than talent and infrastructure
 
-The AI Datacampus Rotterdam is framed as a living-learning-working environment: a place where education, talent development, technology, industry, housing, public space, and community come together.
+The AI Datacampus Rotterdam will become a living-learning-working environment: a place where education, talent development, technology, industry, housing, public space, and community come together.
 
 For an ecosystem like that, the question is not only what gets built, who studies there, or which technologies are available. The question is how knowledge keeps moving across all of it.
 
