@@ -1,115 +1,79 @@
 ---
-title: Rizom Brains for Rotterdam’s AI Ecosystem
+title: A Campus That Learns
 slug: a-living-knowledge-infrastructure-for-rotterdams-ai-ecosystem
 status: draft
 ---
-# Rizom Brains for Rotterdam’s AI Ecosystem
+# A Campus That Learns
 
-## Living knowledge infrastructure
-## for a campus that learns.
-
----
-
-## AI ecosystems do not only need
-## talent, labs, and infrastructure.
-
-## They need *memory*.
+Rizom Brains for Rotterdam’s AI ecosystem.
 
 ---
 
-## Knowledge is produced everywhere.
-
-Student projects. Startup cohorts. Research groups. Labs. Datasets. Mentoring sessions. Partnerships. Events.
+## An AI campus is not made intelligent by AI.
 
 ---
 
-## But without living memory,
-## knowledge fragments.
+## It becomes intelligent when knowledge keeps traveling.
 
-Activity increases.
+---
 
-The ecosystem does not necessarily become smarter.
+## Most ecosystems leak memory.
+
+---
+
+## Students leave.
+
+## Cohorts end.
+
+## Projects close.
+
+## Context disappears.
+
+---
+
+## The work was real.
+
+## The learning was real.
+
+## But the ecosystem forgets.
 
 ---
 
 ## Rizom Brains are built
-## for knowledge that has to travel.
+## for the knowledge in between.
 
 ---
 
-## A Brain connects:
+## Not a database.
+
+## Not a chatbot.
+
+## A living knowledge environment.
+
+---
+
+## A Brain can connect:
 
 Documents. Notes. Datasets. Decisions. People. Roles. Projects. Questions. Conversations. Histories.
 
 ---
 
-## Not one database.
+## Personal brains let people
+## carry what they learn.
 
-## A portable knowledge environment.
-
-Personal memory. Team memory. Ecosystem memory.
-
----
-
-## Personal Brains
-
-For students, founders, researchers, educators, mentors, and professionals.
-
-Knowledge stays portable and under their control.
+Students. Founders. Researchers. Educators. Mentors. Professionals.
 
 ---
 
-## Shared Brains
+## Shared brains let programs
+## remember together.
 
-For cohorts, labs, venture tracks, research programs, and partnerships.
-
-Continuity across projects, people, and time.
-
----
-
-## Situated Agents
-
-Agents that retrieve, summarize, map, onboard, and connect.
-
-Not generic chatbots.
-
-Agents working from ecosystem context.
+Cohorts. Labs. Venture tracks. Research programs. Partnerships.
 
 ---
 
-## Open Protocols
-
-Knowledge infrastructure should not become another closed vendor dependency.
-
-Interoperability is a governance requirement.
-
----
-
-## Use case: students
-
-A student brain helps project work, research notes, prototypes, internships, skills, and interests travel across learning, work, and entrepreneurship.
-
----
-
-## Use case: cohorts
-
-A cohort brain preserves founder questions, mentor feedback, experiments, pivots, and recurring obstacles.
-
-Each cohort can learn from the last.
-
----
-
-## Use case: research to venture
-
-A shared brain connects expertise, datasets, problems, methods, prototypes, and opportunities.
-
-Research becomes easier to translate into action.
-
----
-
-## Use case: ecosystem navigation
-
-Rizom agents help answer:
+## Agents help the ecosystem
+## find itself.
 
 Who knows what?
 
@@ -119,20 +83,45 @@ Where is the relevant project, dataset, person, or opportunity?
 
 ---
 
-## Pilot
+## The first pilot can be small.
 
-Start with one cohort, research program, innovation studio, or partnership track.
+One cohort.
 
-Set up the shared brain. Define workflows. Configure agents. Map expertise. Establish permissions.
+One lab.
 
----
+One venture track.
 
-## What changes
-
-From activity
-## to accumulated intelligence.
+One partnership.
 
 ---
 
-## Rizom Brains help the ecosystem
-## remember, coordinate, and renew itself.
+## Set up the brain.
+
+Define the workflows.
+
+Configure the agents.
+
+Map the knowledge flows.
+
+Establish the permissions.
+
+---
+
+## The goal is simple.
+
+## Activity becomes accumulated intelligence.
+
+---
+
+## A campus that remembers
+## can coordinate.
+
+---
+
+## A campus that coordinates
+## can learn.
+
+---
+
+## A campus that learns
+## can grow without losing itself.
