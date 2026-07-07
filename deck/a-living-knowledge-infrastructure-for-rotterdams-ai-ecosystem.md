@@ -5,134 +5,134 @@ status: draft
 ---
 # Rizom Brains for Rotterdam’s AI Ecosystem
 
-Living knowledge infrastructure for a campus that learns as it grows.
+## Living knowledge infrastructure
+## for a campus that learns.
 
 ---
 
-## AI ecosystems need more than talent and infrastructure
+## AI ecosystems do not only need
+## talent, labs, and infrastructure.
 
-The AI Datacampus Rotterdam will become a living-learning-working environment: a place where education, talent development, technology, industry, housing, public space, and community come together.
-
-For an ecosystem like that, the question is not only what gets built, who studies there, or which technologies are available. The question is how knowledge keeps moving across all of it.
-
----
-
-## The missing layer is living memory
-
-AI ecosystems produce knowledge everywhere: in student projects, startup cohorts, research groups, labs, datasets, mentoring sessions, public-private partnerships, events, and informal conversations.
-
-Without living memory, that knowledge fragments. Activity increases, but the ecosystem does not necessarily become more intelligent over time.
+## They need *memory*.
 
 ---
 
-## Rizom Brains are built for knowledge that has to travel
+## Knowledge is produced everywhere.
 
-A Rizom Brain is a living knowledge environment for a person, team, program, lab, cohort, or ecosystem.
-
-It combines portable knowledge, AI agents, and open protocols so knowledge can be captured, connected, retrieved, and acted on without being locked into one platform.
+Student projects. Startup cohorts. Research groups. Labs. Datasets. Mentoring sessions. Partnerships. Events.
 
 ---
 
-## What a Brain contains
+## But without living memory,
+## knowledge fragments.
 
-A brain can hold documents, notes, datasets, decisions, people, roles, projects, questions, conversations, and histories.
+Activity increases.
 
-It is not one database. It is a portable knowledge environment that can connect personal, team, and ecosystem memory.
-
----
-
-## Personal brains preserve ownership
-
-Students, founders, researchers, educators, mentors, and professionals can maintain personal knowledge brains that remain portable and under their control.
-
-This matters in an ecosystem where people move between study, research, entrepreneurship, employment, and civic life. Their knowledge should be able to travel with them.
+The ecosystem does not necessarily become smarter.
 
 ---
 
-## Shared brains create continuity
-
-Cohorts, labs, research programs, venture tracks, innovation studios, and partnerships can maintain shared brains that connect documents, decisions, people, roles, histories, datasets, and open questions.
-
-The goal is not more storage. It is continuity across projects, programs, and time.
+## Rizom Brains are built
+## for knowledge that has to travel.
 
 ---
 
-## Agents make ecosystem knowledge usable
+## A Brain connects:
 
-AI agents can help people navigate the ecosystem: finding relevant expertise, surfacing prior projects, summarizing histories, comparing proposals, onboarding new participants, and connecting questions to people, datasets, or initiatives.
-
-These agents are situated. They work from specific context, permissions, and roles rather than generic prompts.
+Documents. Notes. Datasets. Decisions. People. Roles. Projects. Questions. Conversations. Histories.
 
 ---
 
-## Open protocols prevent knowledge lock-in
+## Not one database.
 
-Rizom Brains are built around portable content and open standards. That matters for an AI ecosystem because shared knowledge should not become dependent on one closed vendor environment.
+## A portable knowledge environment.
 
-Interoperability is not a technical detail. It is a governance requirement.
-
----
-
-## Use case: student learning and transition brains
-
-Students generate valuable knowledge while learning: project work, reflections, research notes, prototypes, internships, questions, skills, and emerging interests.
-
-A student brain helps that knowledge travel across courses, projects, mentors, internships, startups, research groups, and future work. It makes talent easier to support, match, and retain without reducing students to static profiles.
+Personal memory. Team memory. Ecosystem memory.
 
 ---
 
-## Use case: startup cohort brains
+## Personal Brains
 
-Each startup cohort generates insight: founder questions, mentor feedback, market assumptions, experiments, pivots, investor patterns, and recurring obstacles.
+For students, founders, researchers, educators, mentors, and professionals.
 
-A cohort brain helps that learning travel from one cohort to the next, without flattening founders into data points or losing the texture of their work.
-
----
-
-## Use case: research-to-venture brains
-
-Research often becomes entrepreneurial only when knowledge can travel across domains: labs, students, researchers, founders, funders, industry partners, and public institutions.
-
-A shared brain can make these pathways more visible by connecting expertise, datasets, problems, methods, prototypes, and opportunities.
+Knowledge stays portable and under their control.
 
 ---
 
-## Use case: ecosystem navigator agents
+## Shared Brains
 
-An AI ecosystem needs to know who knows what, who is learning what, and where capabilities are emerging.
+For cohorts, labs, venture tracks, research programs, and partnerships.
 
-Rizom agents can support dynamic expertise maps across students, researchers, founders, mentors, educators, and partners, helping the right knowledge reach the right person at the right time.
-
----
-
-## Use case: campus learning loops
-
-A living-learning-working campus should learn from itself. Events, programs, labs, partnerships, housing, public space, and community initiatives all create feedback.
-
-A campus brain can preserve that feedback as institutional memory, helping the ecosystem adapt rather than repeatedly rediscover the same lessons.
+Continuity across projects, people, and time.
 
 ---
 
-## What Rizom delivers in a pilot
+## Situated Agents
 
-A pilot can start with one cohort, one research program, one innovation studio, or one partnership track.
+Agents that retrieve, summarize, map, onboard, and connect.
 
-Rizom would help set up the shared brain, define personal-brain workflows, configure situated agents, map expertise and knowledge flows, and establish the permissions and governance needed for responsible use.
+Not generic chatbots.
+
+Agents working from ecosystem context.
+
+---
+
+## Open Protocols
+
+Knowledge infrastructure should not become another closed vendor dependency.
+
+Interoperability is a governance requirement.
+
+---
+
+## Use case: students
+
+A student brain helps project work, research notes, prototypes, internships, skills, and interests travel across learning, work, and entrepreneurship.
+
+---
+
+## Use case: cohorts
+
+A cohort brain preserves founder questions, mentor feedback, experiments, pivots, and recurring obstacles.
+
+Each cohort can learn from the last.
+
+---
+
+## Use case: research to venture
+
+A shared brain connects expertise, datasets, problems, methods, prototypes, and opportunities.
+
+Research becomes easier to translate into action.
+
+---
+
+## Use case: ecosystem navigation
+
+Rizom agents help answer:
+
+Who knows what?
+
+What already exists?
+
+Where is the relevant project, dataset, person, or opportunity?
+
+---
+
+## Pilot
+
+Start with one cohort, research program, innovation studio, or partnership track.
+
+Set up the shared brain. Define workflows. Configure agents. Map expertise. Establish permissions.
 
 ---
 
 ## What changes
 
-The ecosystem shifts from activity to accumulated intelligence.
-
-Students carry knowledge forward. Founders build on prior cohorts. Researchers find relevant collaborators. Partners understand where they fit. Programs learn from previous programs. The ecosystem becomes easier to navigate, easier to trust, and easier to grow.
+From activity
+## to accumulated intelligence.
 
 ---
 
-## Infrastructure for an ecosystem that learns
-
-The promise of an AI Datacampus is not only more technology, talent, or activity.
-
-It is the possibility of an ecosystem that can remember, coordinate, and renew itself.
-
-Rizom Brains are living knowledge infrastructure for that kind of ecosystem.
+## Rizom Brains help the ecosystem
+## remember, coordinate, and renew itself.
