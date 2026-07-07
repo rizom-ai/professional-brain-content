@@ -4,11 +4,11 @@
 
 ## The proposal
 
-Co-development, not vendor delivery. We are not proposing to hand the Datacampus a finished tool — there is no finished tool. We propose to build the first Rizom Brain together with a founding team on campus, so that what emerges is shaped by how the Datacampus actually works — not a generic template applied to it. What the campus gets, it owns: portable, open, and able to run without us. What Rizom brings is involvement: the method, the build leadership, and the experience of doing this before.
+Co-development, not vendor delivery. We are not proposing to hand the Datacampus a finished tool — there is no finished tool. We propose to build the first bespoke Rizom Brain together with a founding team on campus, so that what emerges is shaped by how the Datacampus actually works — not a generic template applied to it. What the campus gets, it owns: portable, open, and able to run without us. What Rizom brings is involvement: the method, the build leadership, and the experience of doing this before.
 
 The founding team, 8–12 people in two rings:
 
-- **A core of 4–6** who work in the brain daily — coordination, program leads, whoever runs the working groups. They are the co-developers; their engagement is the pilot's success condition.
+- **A core of 4–6** who work in the brain daily: coordination, program leads, whoever runs the working groups. They are the co-developers; their engagement is the pilot's success condition.
 - **A ring of 4–6 partner representatives** with a defined, lightweight role: their working-group decisions, notes, and answers flow in through simple contribution workflows, and they use the brain whenever they need context. They are not expected to be builders.
 
 Their coordination work becomes the first shared brain: partners, roles, commitments, decisions and their rationale, studies, consultations, open questions. The campus's first memory becomes the memory of its own creation.
