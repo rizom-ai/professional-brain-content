@@ -4,13 +4,15 @@
 
 ## The proposal
 
-Co-development, not vendor delivery. We are not proposing to hand the Datacampus a finished tool. We propose to build the first Rizom Brain together with a founding team on campus, so that what emerges is shaped by how the Datacampus actually works — not a generic template applied to it.
+Co-development, not vendor delivery. We are not proposing to hand the Datacampus a finished tool — there is no finished tool. We propose to build the first Rizom Brain together with a founding team on campus, so that what emerges is shaped by how the Datacampus actually works — not a generic template applied to it. What the campus gets, it owns: portable, open, and able to run without us. What Rizom brings is involvement: the method, the build leadership, and the experience of doing this before.
 
 The founding team: 8–12 people from the formation itself — coordination, program leads, working-group leads, partner representatives. Their coordination work becomes the first shared brain: partners, roles, commitments, decisions and their rationale, studies, consultations, open questions. The campus's first memory becomes the memory of its own creation.
 
 One precondition: a named founding team. If the formation side cannot yet field 8–12 people, that is the first thing to solve in the scoping session.
 
-## What the pilot includes
+## What we build together
+
+Rizom brings the method and the lead; the founding team brings the context. Together we build:
 
 - **A shared formation brain** holding the coalition's partners, roles, commitments, decisions with their rationale, studies, consultations, and open questions.
 - **Personal-brain workflows** for founding team members, so individual knowledge stays portable and under their own control.
@@ -18,6 +20,8 @@ One precondition: a named founding team. If the formation side cannot yet field 
 - **Situated agents** working from the coalition's actual context: onboarding a new partner representative in an afternoon, retrieving why a decision was taken, connecting a question to the partner who can answer it.
 - **A capability map of the coalition** — which partner brings what, visible to all.
 - **Permissions from day one** — each partner decides what it shares with the coalition and what stays internal.
+
+And throughout the build: the founding team learns to run its brain itself. Rizom's continued involvement after the pilot should be a choice, not a dependency.
 
 ## Scope and rhythm
 
@@ -27,7 +31,7 @@ A bounded build window on the formation calendar, fixed together in scoping. Act
 
 Sized to a single founding team, deliberately: a low-risk first step, not a campus-wide commitment neither side has evidence for yet.
 
-- **Rizom's fee** — a retainer covering methodology and project lead across the build, not a fee for a delivered product: **€3,000–5,000 per month during active build phases**.
+- **Rizom's fee** — a retainer for Rizom's involvement across the build: method, facilitation, and build leadership. Not a license, not a product: **€3,000–5,000 per month during active build phases**.
 - **The build itself** — resourced by the participating partners, in one of two ways worth deciding explicitly rather than defaulting: partners commit **staff time** to work alongside Rizom on the build, or fund Rizom to source it — indicatively **€10,000–18,000 across the build window** for additional talent Rizom brings in. Contributions can be mixed across partners: some in time, some in funding.
 
 ## What success looks like
