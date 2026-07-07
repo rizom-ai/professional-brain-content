@@ -5,21 +5,21 @@ status: draft
 ---
 # A Campus That Remembers
 
-Rizom Brains for Rotterdam's AI ecosystem.
+Living memory for the AI Datacampus Rotterdam.
 
 ---
 
-## The Datacampus will be full of knowledge from day one
+## The campus is a partnership before it is a place
 
-Student projects, startup cohorts, research labs, mentoring sessions, datasets, partnerships, events.
+The Datacampus exists today as a coalition: education institutions, industry, the developer, public parties, community.
 
-The question is not what gets built or who studies there. It is how knowledge keeps moving across all of it.
+Long before the first building opens, that coalition is already producing the campus's most valuable asset — knowledge.
 
 ---
 
-## Activity is not intelligence
+## Formation knowledge is the first thing to fragment
 
-Most innovation ecosystems get busier every year without getting smarter. Cohorts graduate, researchers move on, projects end — and what they learned walks out the door.
+Working groups decide, but the rationale stays in someone's inbox. Partner representatives change, and their context leaves with them. Every new stakeholder is onboarded from scratch, meeting by meeting.
 
 Activity increases. Intelligence does not accumulate.
 
@@ -30,31 +30,39 @@ Activity increases. Intelligence does not accumulate.
 
 Campuses plan for talent, technology, and buildings. Nobody plans for memory.
 
-An ecosystem that wants to learn as it grows needs infrastructure for knowledge that has to travel — across people, programs, and time.
+And memory cannot be retrofitted. It has to be running before the campus opens.
 
 ---
 
 ## What a Rizom Brain is
 
-A living knowledge environment for a person, cohort, lab, or ecosystem.
+A living knowledge environment for a person, a team, a coalition, or an ecosystem.
 
 It combines portable knowledge, AI agents, and open protocols — so knowledge can be captured, connected, retrieved, and acted on, without being locked into one platform.
 
 ---
 
-## A student's knowledge travels with them
+## The coalition is the first brain
 
-Students move between courses, internships, startups, research groups, and work. A personal brain carries their projects, skills, questions, and emerging interests along.
+A shared brain for the formation itself: partners, roles, commitments, decisions and their rationale, studies, consultations, open questions.
 
-Talent becomes easier to support, match, and retain — without reducing students to static profiles.
+A new partner representative gets up to speed in an afternoon — not in three months of meetings.
 
 ---
 
-## Cohort five starts where cohort four ended
+## The same layer grows with the campus
 
-Every startup cohort generates hard-won insight: founder questions, mentor feedback, experiments, pivots, recurring obstacles.
+What starts as the coalition's memory becomes the campus's memory.
 
-A cohort brain lets a founder ask who tried hardware distribution before — and get the mentor notes from two cohorts ago.
+Three scenes from the campus in operation:
+
+---
+
+## A student's knowledge travels with them
+
+Students will move between courses, internships, startups, research groups, and work. A personal brain carries their projects, skills, questions, and emerging interests along.
+
+Talent becomes easier to support, match, and retain — without reducing students to static profiles.
 
 ---
 
@@ -70,28 +78,28 @@ A shared brain makes those pathways visible by connecting expertise, datasets, p
 
 Who knows what. Who is learning what. Where capabilities are emerging.
 
-Navigator agents map expertise across students, researchers, founders, and partners — and campus memory preserves what programs and events teach, so the ecosystem adapts instead of rediscovering the same lessons.
+Navigator agents map expertise across partners, students, researchers, and founders — so the ecosystem adapts instead of rediscovering the same lessons.
 
 ---
 
-## Nobody gets locked in
+## Open by design
 
-Knowledge shared across public and private partners cannot depend on one closed vendor environment.
+Shared infrastructure for public and private partners should be built on open standards.
 
-Rizom Brains are built on portable content and open standards. Interoperability is not a technical detail — it is a governance requirement.
+Everything in a Rizom Brain stays portable. The knowledge belongs to the ecosystem — not to a vendor.
 
 ---
 
 ## How this begins
 
-Small and bounded: one cohort, one cycle.
+The pilot is the formation itself. The coalition's coordination work becomes the first shared brain: partners contribute from day one, and the pilot is carried jointly by the partners it serves.
 
-Set up the shared cohort brain, personal-brain workflows, situated agents, an expertise map, and the permissions for responsible use. Results are visible within a single cohort — before the campus scales.
+Small, bounded, immediately useful — the campus's first memory is the memory of its own creation.
 
 ---
 
-## An ecosystem that remembers, coordinates, and renews itself
+## A campus that learns before it opens
 
-Students carry knowledge forward. Founders build on prior cohorts. Researchers find collaborators. Programs learn from previous programs.
+Decisions keep their rationale. New partners start with full context. The programs to come will inherit the memory of the formation that shaped them.
 
-The promise of an AI Datacampus is not more technology, talent, or activity. It is a campus that learns as it grows.
+The promise of the AI Datacampus is not only technology, talent, or buildings. It is an ecosystem that can remember, coordinate, and renew itself — from day one.
