@@ -1,79 +1,115 @@
 ---
-title: A Campus That Learns
+title: Rizom Brains for Rotterdam’s AI Ecosystem
 slug: a-living-knowledge-infrastructure-for-rotterdams-ai-ecosystem
 status: draft
 ---
-# A Campus That Learns
+# Rizom Brains for Rotterdam’s AI Ecosystem
 
-Rizom Brains for Rotterdam’s AI ecosystem.
-
----
-
-## An AI campus is not made intelligent by AI.
+## Living knowledge infrastructure
+## for a campus that learns.
 
 ---
 
-## It becomes intelligent when knowledge keeps traveling.
+## AI ecosystems do not only need
+## talent, labs, and infrastructure.
+
+## They need *memory*.
 
 ---
 
-## Most ecosystems leak memory.
+## Knowledge is produced everywhere.
+
+Student projects. Startup cohorts. Research groups. Labs. Datasets. Mentoring sessions. Partnerships. Events.
 
 ---
 
-## Students leave.
+## But without living memory,
+## knowledge fragments.
 
-## Cohorts end.
+Activity increases.
 
-## Projects close.
-
-## Context disappears.
-
----
-
-## The work was real.
-
-## The learning was real.
-
-## But the ecosystem forgets.
+The ecosystem does not necessarily become smarter.
 
 ---
 
 ## Rizom Brains are built
-## for the knowledge in between.
+## for knowledge that has to travel.
 
 ---
 
-## Not a database.
-
-## Not a chatbot.
-
-## A living knowledge environment.
-
----
-
-## A Brain can connect:
+## A Brain connects:
 
 Documents. Notes. Datasets. Decisions. People. Roles. Projects. Questions. Conversations. Histories.
 
 ---
 
-## Personal brains let people
-## carry what they learn.
+## Not one database.
 
-Students. Founders. Researchers. Educators. Mentors. Professionals.
+## A portable knowledge environment.
 
----
-
-## Shared brains let programs
-## remember together.
-
-Cohorts. Labs. Venture tracks. Research programs. Partnerships.
+Personal memory. Team memory. Ecosystem memory.
 
 ---
 
-## Agents help the ecosystem
-## find itself.
+## Personal Brains
+
+For students, founders, researchers, educators, mentors, and professionals.
+
+Knowledge stays portable and under their control.
+
+---
+
+## Shared Brains
+
+For cohorts, labs, venture tracks, research programs, and partnerships.
+
+Continuity across projects, people, and time.
+
+---
+
+## Situated Agents
+
+Agents that retrieve, summarize, map, onboard, and connect.
+
+Not generic chatbots.
+
+Agents working from ecosystem context.
+
+---
+
+## Open Protocols
+
+Knowledge infrastructure should not become another closed vendor dependency.
+
+Interoperability is a governance requirement.
+
+---
+
+## Use case: students
+
+A student brain helps project work, research notes, prototypes, internships, skills, and interests travel across learning, work, and entrepreneurship.
+
+---
+
+## Use case: cohorts
+
+A cohort brain preserves founder questions, mentor feedback, experiments, pivots, and recurring obstacles.
+
+Each cohort can learn from the last.
+
+---
+
+## Use case: research to venture
+
+A shared brain connects expertise, datasets, problems, methods, prototypes, and opportunities.
+
+Research becomes easier to translate into action.
+
+---
+
+## Use case: ecosystem navigation
+
+Rizom agents help answer:
 
 Who knows what?
 
@@ -83,45 +119,20 @@ Where is the relevant project, dataset, person, or opportunity?
 
 ---
 
-## The first pilot can be small.
+## Pilot
 
-One cohort.
+Start with one cohort, research program, innovation studio, or partnership track.
 
-One lab.
-
-One venture track.
-
-One partnership.
+Set up the shared brain. Define workflows. Configure agents. Map expertise. Establish permissions.
 
 ---
 
-## Set up the brain.
+## What changes
 
-Define the workflows.
-
-Configure the agents.
-
-Map the knowledge flows.
-
-Establish the permissions.
+From activity
+## to accumulated intelligence.
 
 ---
 
-## The goal is simple.
-
-## Activity becomes accumulated intelligence.
-
----
-
-## A campus that remembers
-## can coordinate.
-
----
-
-## A campus that coordinates
-## can learn.
-
----
-
-## A campus that learns
-## can grow without losing itself.
+## Rizom Brains help the ecosystem
+## remember, coordinate, and renew itself.
