@@ -92,7 +92,7 @@ Everything in a Rizom Brain stays portable. The knowledge belongs to the ecosyst
 
 ## How this begins
 
-The pilot is the formation itself. The coalition's coordination work becomes the first shared brain: partners contribute from day one, and the pilot is carried jointly by the partners it serves.
+Not a tool delivered to the campus. The first brain is built together with a founding team of 8–12 from the formation itself — shaped by how the Datacampus actually works, carried jointly by the partners it serves.
 
 Small, bounded, immediately useful — the campus's first memory is the memory of its own creation.
 
