@@ -7,7 +7,7 @@
 - **What** — Co-development of the first Rizom Brain on campus: built *with* a founding team, not delivered to it.
 - **Who** — A founding team in two rings: a core that works in the brain daily, a ring that contributes and retrieves. Two options for where the core sits — see below.
 - **Window** — One bounded build window, three phases, fixed in scoping.
-- **Investment** — Rizom retainer €3,000–5,000/month during active build; the build itself resourced by partners in staff time or €10,000–18,000.
+- **Investment** — Rizom retainer €3,000–5,000/month during active build; the build itself resourced by partners in staff time or €10,000–20,000 (single-team scope; option 2 priced in scoping).
 
 ## The proposal
 
@@ -19,10 +19,10 @@ The founding team works in two rings. The **core** works in the brain daily and 
 
 | | **Option 1 — Formation core** | **Option 2 — ECE core** |
 |---|---|---|
-| **Core** | 4–6 people from the Datacampus coordination work | The ECE team (~12), already working together daily |
+| **Core** | 4–6 people from the Datacampus coordination work | The ECE team, already working together daily |
 | **Ring** | 4–6 partner representatives | The Datacampus formation group |
 | **The story** | The campus's first memory is the memory of its own creation | The first team brain on campus, with campus memory growing around it |
-| **Size** | Leanest — the ranges below as stated | Larger — upper end of the ranges, longer window |
+| **Size** | Leanest — the ranges below as stated | Larger — priced separately in scoping, longer window |
 
 **Option 1** is the leanest step and the cleanest story for the coalition. It stands or falls on one precondition: a named core of 4–6 people who will genuinely work in the brain daily.
 
@@ -48,9 +48,9 @@ One bounded build window, three phases inside it: the core builds and seeds the 
 Sized to a single founding team, deliberately: a low-risk first step, not a campus-wide commitment neither side has evidence for yet.
 
 - **Rizom's fee** — a retainer for involvement: method, facilitation, build leadership. Not a license, not a product: **€3,000–5,000 per month during active build phases**.
-- **The build itself** — resourced by the participating partners: **staff time** committed to work alongside Rizom, or **€10,000–18,000 across the build window** for talent Rizom brings in. Mixable across partners: some in time, some in funding.
+- **The build itself** — resourced by the participating partners: **staff time** committed to work alongside Rizom, or **€10,000–20,000 across the build window** for talent Rizom brings in. Mixable across partners: some in time, some in funding.
 
-For option 2 the structure is identical, sized to the two rings in scoping — expect the upper end of these ranges and a longer window.
+These ranges are sized to option 1's single team. Option 2 keeps the same structure but exceeds them — it is priced in the scoping sprint, sized to the two rings, with a longer window.
 
 ## What success looks like
 
