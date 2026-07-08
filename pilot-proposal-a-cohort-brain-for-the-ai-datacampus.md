@@ -62,7 +62,7 @@ The founding team's experience becomes the case for extending across the Datacam
 
 ## How we start
 
-1. **A short call** — thirty minutes: do you want this, and which option fits — can the formation side field a core, or does the core start at ECE?
+1. **A short call** — thirty minutes: does this fit how you see the Datacampus, and which option suits best — can the formation side field a core, or does the core start at ECE?
 2. **A scoping sprint** — fixed fee at the level of one build month, **credited against the pilot if it proceeds**. Together we fix the option, the team, the build window, and the phase plan. The deliverable: a priced, circulate-able pilot proposal for the co-funding partners.
 3. **The partners commit** on that proposal.
 4. **Kickoff** — the build begins, and the retainer with it.
