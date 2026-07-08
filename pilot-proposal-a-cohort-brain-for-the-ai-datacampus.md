@@ -4,16 +4,15 @@
 
 **At a glance**
 
-- **What** — Co-development of the first Rizom Brain on campus: built *with* a founding team, not delivered to it.
+- **What** — Two phases: build the first Rizom Brain with a founding team, then extend it across the campus.
 - **Who** — A founding team in two rings: a core that works in the brain daily, a ring that contributes and retrieves. Two options for where the core sits — see below.
-- **Window** — One bounded build window, three phases, fixed in scoping.
-- **Investment** — Rizom retainer €3,000–5,000/month during active build; the build itself resourced by partners in staff time or €10,000–20,000 (single-team scope; option 2 priced in scoping).
+- **Window** — Phase 1: one bounded build window, three phases, fixed in scoping. Phase 2: scoped once Phase 1 proves out.
+- **Investment** — Phase 1 funds the build and Rizom's lead role (€3,000–5,000/month). Phase 2 is a licensing fee, scaled to campus adoption.
 
 ## The proposal
 
-Co-development, not vendor delivery. There is no finished tool: we build the first bespoke Rizom Brain together with a founding team on campus, shaped by how the Datacampus actually works. What the campus gets, it owns — portable, open, and able to run without us. What Rizom brings is involvement: the method, the build leadership, and the experience of doing this before.
-
-The founding team works in two rings. The **core** works in the brain daily and co-develops it. The **ring** contributes through light workflows and uses the brain whenever it needs context.
+Two phases, two different relationships. Phase 1 is a build: Rizom is paid for its IP and project lead position, and works daily with a founding team until that team can run its own Brain. Phase 2 is a license: once the Brain works for one team, extending it across the Datacampus is priced as adoption scales, not as another build from scratch.
+This document scopes Phase 1. The founding team works in two rings. The core works in the brain daily and co-develops it. The ring contributes through light workflows and uses the brain whenever it needs context.
 
 ## Two options for the founding team
 
@@ -28,7 +27,7 @@ The founding team works in two rings. The **core** works in the brain daily and 
 
 **Option 2** starts where daily knowledge work already happens. The ECE team is defined and immediately available, and the formation group joins as the outer ring from day one — so the pilot tests the full layered architecture the campus will eventually run on: a team brain inside an ecosystem ring. The honest cost: a larger build, and two governance contexts (ECE-internal versus coalition-shared) that must be kept cleanly separated. That separation is itself part of what the pilot proves.
 
-The choice comes down to one question: **where does daily use live today?** If the formation side can field the core, option 1. If not, option 2. The scoping sprint settles this — the first call doesn't have to.
+Both options are ways into Phase 1, not two separate proposals. One question decides which: where does daily use live today? Formation can field the core — Option 1. Not yet — Option 2. The scoping sprint settles it.
 
 ## What we build together
 
@@ -37,20 +36,25 @@ The choice comes down to one question: **where does daily use live today?** If t
 - **Situated agents**: onboarding a new partner representative in an afternoon, retrieving why a decision was taken, connecting a question to the partner who can answer it.
 - **Permissions and a capability map**: each partner decides what it shares; everyone sees who brings what.
 
-Throughout the build, the founding team learns to run its brain itself. Rizom's continued involvement after the pilot should be a choice, not a dependency.
+Throughout the build, the founding team learns to run its own brain. By the end of Phase 1, continued Rizom involvement is a choice the team can make — not a dependency it's stuck with.
 
 ## Rhythm
 
 One bounded build window, three phases inside it: the core builds and seeds the brain with existing material → the ring joins a brain that already answers questions → proof and handover. Phases are rhythm, not gates: one decision starts the pilot, and the only decision after it is extension across the campus.
 
-## Investment (indicative — fixed in scoping)
+## Financing 
+**What Phase 1 funds**
 
-Sized to a single founding team, deliberately: a low-risk first step, not a campus-wide commitment neither side has evidence for yet.
+Two things are being resourced.
+**Rizom's retainer** — payment for the IP and the project lead position: the method, the build leadership, and the experience of having done this before. €3,000–5,000/month during active build phases.
 
-- **Rizom's fee** — a retainer for involvement: method, facilitation, build leadership. Not a license, not a product: **€3,000–5,000 per month during active build phases**.
-- **The build itself** — resourced by the participating partners: **staff time** committed to work alongside Rizom, or **€10,000–20,000 across the build window** for talent Rizom brings in. Mixable across partners: some in time, some in funding.
+**The build itself** — resourced by the founding team's partners, in staff time or budget: €10,000–20,000 across the window for talent Rizom brings in. Mixable — some in time, some in funding.
 
-These ranges are sized to option 1's single team. Option 2 keeps the same structure but exceeds them — it is priced in the scoping sprint, sized to the two rings, with a longer window.
+**Phase 2 — campus licensing**
+
+Where Phase 1 established the Brain works for a real team, Phase 2 extends it across the Datacampus — additional cohorts, labs, programs, partners. 
+
+This phase requires a licensing fee for baseline, not a build fee: Rizom isn't leading a new build from scratch, it's licensing a working system plus ongoing methodology stewardship as it scales. Priced separately once Phase 1 produces a working proof point. 
 
 ## What success looks like
 
