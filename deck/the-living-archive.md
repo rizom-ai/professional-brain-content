@@ -5,21 +5,21 @@ status: draft
 ---
 # The Living Archive
 
-Living memory for foundations, academies, and the art field.
+Living memory for the art field.
 
 ---
 
-## Art institutions are built to remember
+## No field invests more in memory
 
-Foundations, academies, museums, and archives exist to preserve culture — works, artists, movements, histories.
+Works are conserved, catalogued, insured, climate-controlled. Museums, foundations, academies, and archives exist to make culture last.
 
-Yet the living knowledge behind that work — why a show was made, how an artist was found, what a program taught — is the first thing to disappear.
+Yet the knowledge behind the work — why a show was made, how an artist was found, what a program taught — is the first thing to disappear.
 
 ---
 
 ## The memory that leaves with people
 
-A curator leaves, and the reasoning behind a decade of programming goes with them. A residency ends, and the next cohort starts from nothing. A foundation changes hands, and its relationships reset to zero.
+A curator leaves, and the reasoning behind a decade of programming goes with them. A residency ends, and the next cohort starts from zero. A foundation changes hands, and its relationships reset.
 
 The archive keeps the works. It loses the context.
 
@@ -42,9 +42,9 @@ It combines portable knowledge, AI agents, and open protocols — so knowledge c
 
 ---
 
-## The first brain is a shared one
+## The institution is the first brain
 
-A brain for a foundation, an academy, or a collaboration between them: artists, works, programs, decisions and their rationale, funding histories, relationships, open questions.
+Artists, works, programs, decisions and their rationale, funding histories, relationships, open questions — held together in one living environment.
 
 A new director inherits not just the files, but the understanding.
 
@@ -52,7 +52,7 @@ A new director inherits not just the files, but the understanding.
 
 ## The same layer grows with the field
 
-What starts as one institution's memory can become shared infrastructure across many.
+What starts as one institution's memory becomes shared infrastructure for the field.
 
 Three scenes:
 
@@ -66,19 +66,19 @@ The practice stays theirs — portable, owned, never trapped in one institution'
 
 ---
 
-## A foundation that learns from its own history
+## A program that learns from its own history
 
-Every grant, residency, and exhibition generates insight: what worked, who was supported, why a decision was made, what a program taught.
+Every grant, residency, and exhibition generates insight. A program lead asks what came of the 2019 cohort — and gets the jury's reasoning, the works, and where each artist went next.
 
-A shared brain lets that learning travel from one program to the next — instead of resetting each time leadership or funding changes.
+That learning travels from one program to the next, instead of resetting each time leadership or funding changes.
 
 ---
 
 ## The field can find itself
 
-Who is working on what. Which artists, curators, and researchers share concerns. Where a lineage runs.
+Who is working on what. Which practices speak to each other. What an interview, a film, a catalogue already recorded — and what it connects to.
 
-Agents map practices, references, and relationships across institutions — connecting an artist to a residency, a researcher to an archive, a curator to a precedent.
+Agents link works, documentation, and people across institutions: an artist to a residency, a researcher to an archive, a curator to a precedent.
 
 ---
 
@@ -90,11 +90,19 @@ Everything in a Rizom Brain stays portable and open. It belongs to the artists a
 
 ---
 
+## The brain does not start empty
+
+Art institutions already hold decades of documentation: archives, catalogues, films, interviews, correspondence.
+
+That material becomes the seed. The first brain grows out of what an institution already has — and gives it back as living, connected memory.
+
+---
+
 ## How this begins
 
-Not a system installed over an institution. The first brain is built together — with a foundation, an academy, or a collaboration between them — shaped by how that organization actually works.
+Not a system installed over an institution. The first brain is built together with one institution and its people — shaped by how it actually works, owned by it from day one.
 
-Small, bounded, immediately useful: a living memory the institution owns from day one.
+Small, bounded, immediately useful.
 
 ---
 
