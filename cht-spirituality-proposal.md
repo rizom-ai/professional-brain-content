@@ -1,8 +1,10 @@
 # CHT Spirituality Proposal
 
-**Status:** working draft · revision 3.1 (trimmed) · candidate second proposal (vs CHT Machine Proposal) · deadline July 12, 2026
-**Companion note:** CHT Cognition Proposal
+**Status:** RUNNER-UP — not selected (Machine chosen as second proposal, 2026-07-08) · revision 3.1 · retained as archive / fallback
+**Companion note:** CHT Cognition Proposal · CHT Machine Proposal (selected)
 **Master note:** CHT Fellowship Overview
+
+> Kept because it is a strong, submission-ready draft: if the Machine framing hits an obstacle before the July 12 deadline, this is the ready alternative. Practice/ritual framing, ~900 words, fits 2 pages.
 
 ---
 
@@ -27,15 +29,6 @@
 
 ---
 
-## Iteration checklist (status 2026-07-08, revision 3.1)
+## Status note (2026-07-08)
 
-1. **Reframed around practice/ritual — ✅ per Jan Hein's direction.** Earlier version drifted into religion (clergy, congregations, faith leaders) with no tie to ecosystem architecture. Now practice is the spine: practices as regenerative infrastructure, ritual as coordination technology, Planet B as the secular version of the question, attention economy as CHT's home turf (RQ3). Title changed from "Oracles Without Community" to "Answers Without Practice." Interview subjects changed from "faith leaders" to "practice leaders" including secular communities.
-2. **Podcast deliverable — ✅ clarified.** CHT-facilitated fellowship expectation, not self-produced.
-3. **Personal claims — ✅ verified.** "Continental tradition" supported by anchor profile (Heidegger, Bataille, Benjamin, Kittler) and CV (PhD Philosophy and Media Studies, Utrecht & Humboldt; Assistant Professor in Cultural Analysis, UvA 2005–2016).
-4. **Product facts — ✅ verified.** Bible Chat 30M+ downloads, Hallow topping App Store, QuranGPT demand crash (TechCrunch Sept 2025 + app-market coverage).
-5. **TESCREAL scholarship — ✅ named,** angled as transcendence-without-discipline.
-6. **Whitepaper bridge — ✅ in summary.**
-7. **Length — ✅ trimmed** to ~900 words; fits 2 pages.
-8. **Access list — ⏳ needs Jan Hein.** Which practice leaders/networks are reachable (meditation teachers, chaplains, ritual designers, secular practice communities via Planet B/Waag, Rizom contacts, Taipei).
-9. **Decision — ⏳** this vs CHT Machine Proposal as the second submission. Odds favor this (thin applicant pool); positioning-for-Rizom may favor Machine. See the Machine note's decision frame.
-10. **Tie to video — open.**
+Not selected — the team chose Inside the Machine as the second proposal (brains-as-subject, direct answer to CHT's "shift incentives from the inside out," stronger positioning for Rizom). This draft is complete and submission-ready; it remains the fallback if the Machine framing needs to change before the deadline. Original iteration checklist (all items resolved except the practice-leader access list) preserved in git history / the fellowship overview archive.
