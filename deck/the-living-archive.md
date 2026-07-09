@@ -52,9 +52,7 @@ A new director inherits not just the files, but the understanding.
 
 ## The same layer grows with the field
 
-What starts as one institution's memory becomes shared infrastructure for the field.
-
-Three scenes:
+What starts as one institution's memory becomes shared infrastructure — for artists, for programs, for the field itself.
 
 ---
 
