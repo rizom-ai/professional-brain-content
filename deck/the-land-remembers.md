@@ -50,19 +50,19 @@ Ten seasons side by side answer questions no single season can.
 
 ---
 
-## What one farm learns, the next shouldn't relearn
+## The same layer grows beyond the farm
 
-A member asks who has tried herbal leys on heavy clay — and back come the mixes, the trials, and three seasons of results from farms up the road.
+What one farm learns the hard way, the next shouldn't have to.
 
-This is where one farm's memory becomes the cooperative's. Three places it needs to travel:
+Three scenes from the countryside:
 
 ---
 
 ## Nobody has to learn it twice
 
-Within a cooperative, hard-won lessons stop staying in one shed. What worked, what failed, and why moves between members.
+A member asks who has tried herbal leys on heavy clay — and back come the mixes, the trials, and three seasons of results from farms up the road.
 
-So no one loses a season to what the farm down the road already knows.
+A cooperative brain moves hard-won lessons between members, so no one loses a season to what the farm down the road already knows.
 
 ---
 
