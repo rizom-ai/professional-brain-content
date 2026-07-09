@@ -12,6 +12,7 @@
 ## The proposal
 
 Two phases, two different relationships. Phase 1 is a build: Rizom is paid for its IP and project lead position, and works daily with a founding team until that team can run its own Brain. Phase 2 is a license: once the Brain works for one team, extending it across the Datacampus is priced as adoption scales, not as another build from scratch.
+
 This document scopes Phase 1. The founding team works in two rings. The core works in the brain daily and co-develops it. The ring contributes through light workflows and uses the brain whenever it needs context.
 
 ## Two options for the founding team
@@ -42,19 +43,21 @@ Throughout the build, the founding team learns to run its own brain. By the end 
 
 One bounded build window, three phases inside it: the core builds and seeds the brain with existing material → the ring joins a brain that already answers questions → proof and handover. Phases are rhythm, not gates: one decision starts the pilot, and the only decision after it is extension across the campus.
 
-## Financing 
+## Financing
+
 **What Phase 1 funds**
 
 Two things are being resourced.
+
 **Rizom's retainer** — payment for the IP and the project lead position: the method, the build leadership, and the experience of having done this before. €3,000–5,000/month during active build phases.
 
 **The build itself** — resourced by the founding team's partners, in staff time or budget: €10,000–20,000 across the window for talent Rizom brings in. Mixable — some in time, some in funding.
 
 **Phase 2 — campus licensing**
 
-Where Phase 1 established the Brain works for a real team, Phase 2 extends it across the Datacampus — additional cohorts, labs, programs, partners. 
+Once Phase 1 has established that the Brain works for a real team, Phase 2 extends it across the Datacampus — additional cohorts, labs, programs, partners.
 
-This phase requires a licensing fee for baseline, not a build fee: Rizom isn't leading a new build from scratch, it's licensing a working system plus ongoing methodology stewardship as it scales. Priced separately once Phase 1 produces a working proof point. 
+This phase carries a licensing fee, not a build fee: Rizom isn't leading a new build from scratch, it's licensing a working system plus ongoing methodology stewardship as it scales. Priced separately once Phase 1 produces a working proof point.
 
 ## What success looks like
 
