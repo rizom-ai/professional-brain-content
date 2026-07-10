@@ -10,6 +10,7 @@ excerpt: >-
   expectations explicit.
 author: Yeehaa
 coverImageId: value-driven-development-cover-image
+ogImageId: og-post-value-driven-development
 seriesName: Public Badges
 seriesIndex: 2
 ---

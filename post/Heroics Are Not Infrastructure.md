@@ -10,6 +10,7 @@ excerpt: >-
   decay. Heroics are not infrastructure.
 author: Yeehaa
 coverImageId: heroics-are-not-infrastructure-cover-image-v2
+ogImageId: og-post-heroics-are-not-infrastructure
 seriesName: New Institutions
 seriesIndex: 2
 ---
