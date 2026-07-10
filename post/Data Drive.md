@@ -11,6 +11,7 @@ excerpt: >-
   relevant today.
 author: Yeehaa
 coverImageId: data-drive-cover-image
+ogImageId: og-post-data-drive
 ---
 > Like a Lexus, if driven wrong it's sure to hurt you
 

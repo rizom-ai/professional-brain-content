@@ -10,6 +10,7 @@ excerpt: >-
   In 2020, I'm surprised that most people still treat online learning as second
   best.
 author: Yeehaa
+ogImageId: og-post-learning-apart-together
 ---
 > Traveling at the speed of light and then
 > At the same time I'm in the same spot too

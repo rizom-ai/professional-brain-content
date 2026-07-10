@@ -9,6 +9,7 @@ excerpt: >-
   be in the same place at the same time. The solution: a mob of bots with an
   attitude.
 author: Yeehaa
+ogImageId: og-post-agency-trumps-humanness
 ---
 Last year, I was asked to develop a vision for online collaboration for the Planet B project. The challenge: building a community of people that may never be in the same place at the same time. The solution: a mob of bots with an attitude.
 

@@ -9,6 +9,7 @@ excerpt: >-
   an opportunity for innovation rather than a problem to solve.
 author: Yeehaa
 coverImageId: align-the-misaligned-cover
+ogImageId: og-post-align-the-misaligned
 seriesName: Ecosystem Architecture
 seriesIndex: 3
 ---
