@@ -1,30 +1,44 @@
 ---
 strengths:
-  - title: Regenerative systems
+  - title: Innovation framing
     detail: >-
-      Use this when you want to redesign tools or organizations as living
-      systems; it is a dependable lens for turning ecosystem patterns into
-      practical principles.
+      Use this to turn exploratory ideas into practical frameworks, prototypes,
+      and a clear strategic narrative.
+  - title: Ecosystem design
+    detail: >-
+      Lean on this when you need to make sense of complex organizational
+      patterns and shape resilient structures.
 weaknesses:
-  - title: Learning design gap
+  - title: Video gap
     detail: >-
-      Treat learning experience design as a thinner area and avoid assuming your
-      current network will supply direct help beyond adjacent structure and
-      positioning skills.
+      Do not assume you can handle video work well; test it early or pair with
+      someone who already does it.
+  - title: Visualization gap
+    detail: >-
+      Treat visual explanation and diagramming as a weak spot unless you
+      deliberately build it into your process.
 opportunities:
-  - title: Profile organization
+  - title: Profile structure
     detail: >-
-      Pair with this when you need messy people-and-role information turned into
-      clear profiles, summaries, or reusable knowledge structure.
-  - title: Cultural writing
+      Use this to improve how you organize people-and-role information and to
+      shape cleaner profiles for your own work.
+  - title: Positioning
     detail: >-
-      Use this to turn critique into polished posts, essays, or decks when you
-      want your ideas to become publishable output.
+      Use this to test how you present your work and tighten the narrative
+      around your value.
+  - title: Research systems
+    detail: >-
+      Use the search, list, and retrieval tools to review your knowledge base
+      more systematically and confirm what you already know.
 threats:
-  - title: Readiness planning
+  - title: Video dependency
     detail: >-
-      Do not rely on the current network for full roadmap ownership; use it only
-      to summarize priorities and release-readiness concerns.
-derivedAt: '2026-07-01T08:22:14.532Z'
+      If video becomes central to the work, you will need a real partner skill
+      rather than hoping this gap stays minor.
+  - title: Shallow synthesis
+    detail: >-
+      Watch for work that needs more than finding and arranging information, and
+      add a complementary thinker if deeper synthesis becomes essential.
+derivedAt: '2026-07-10T18:04:09.033Z'
 ---
 
