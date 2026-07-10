@@ -11,6 +11,7 @@ excerpt: >-
   alignment.
 author: Yeehaa
 coverImageId: learning-from-nature-cover
+ogImageId: og-post-learning-from-nature
 seriesName: Ecosystem Architecture
 seriesIndex: 8
 ---
