@@ -11,8 +11,7 @@ Living memory for the art field.
 
 ## No field invests more in memory
 
-Works are conserved, catalogued, insured, climate-controlled. Museums, foundations, academies, and archives exist to make culture last.
-
+Works are preserved, catalogued, insured, and climate-controlled. Museums, foundations, academies, and archives exist to help culture endure.
 Yet the knowledge behind the work — why a show was made, how an artist was found, what a program taught — is the first thing to disappear.
 
 ---
