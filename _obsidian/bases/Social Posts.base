@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.inFolder("social-post")
+views:
+  - type: table
+    name: All Social Posts
+    order:
+      - file.name
+      - title
+      - platform
+      - status
+      - coverImageId
+      - publishedAt
+      - platformPostId
+      - sourceEntityId
+      - sourceEntityType
+    sort:
+      - property: status
+        direction: ASC
+      - property: publishedAt
+        direction: DESC
+  - type: table
+    name: By Status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - title
+      - platform
+      - status
+      - coverImageId
+      - publishedAt
+      - platformPostId
+      - sourceEntityId
+      - sourceEntityType

@@ -1,0 +1,4 @@
+---
+title: Learning Infrastructure
+---
+Learning infrastructure is a recurring topic, especially in relation to online education, crowdlearning, and knowledge sharing outside institutions. The content argues that online learning should not be treated as a compromise, but as a distinct medium with its own strengths. Offcourse and related reflections show a preference for decentralized, asynchronous, peer-driven learning environments that allow people to curate, share, and structure knowledge collaboratively. The writing also highlights the importance of automation, feedback, and playful engagement in effective learning systems. This is not simply about digitizing classrooms, but about rethinking how people grow together when institutions no longer define the boundaries of learning. The broader vision is educational infrastructure that supports autonomy, curiosity, and collective intelligence.

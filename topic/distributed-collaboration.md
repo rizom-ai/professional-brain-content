@@ -1,0 +1,4 @@
+---
+title: Distributed Collaboration
+---
+Distributed collaboration appears throughout the material as a response to the limits of traditional institutions and co-located teams. The content explores how people can coordinate effectively across time, geography, and role boundaries without relying on centralized command structures. Several examples show collaboration in hybrid human-bot teams, networked communities, and decentralized professional collectives. A key idea is that collaboration should be based on agency, shared values, and mutual visibility rather than on shared physical presence alone. The work also emphasizes coordination mechanisms such as reputation, transactive memory, and open standards to make distributed collaboration workable in practice. This topic is tightly linked to the broader ambition of building organizations that behave more like ecosystems than hierarchies.

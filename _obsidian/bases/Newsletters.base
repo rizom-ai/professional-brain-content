@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.inFolder("newsletter")
+views:
+  - type: table
+    name: All Newsletters
+    order:
+      - file.name
+      - subject
+      - status
+      - entityIds
+      - scheduledFor
+      - sentAt
+      - buttondownId
+      - sourceEntityType
+  - type: table
+    name: By Status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - subject
+      - status
+      - entityIds
+      - scheduledFor
+      - sentAt
+      - buttondownId
+      - sourceEntityType

@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.inFolder("series")
+views:
+  - type: table
+    name: All Series
+    order:
+      - file.name
+      - title
+      - slug
+      - coverImageId
