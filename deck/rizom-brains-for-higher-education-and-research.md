@@ -1,7 +1,7 @@
 ---
 title: Rizom Brains for Higher Education and Research
-status: draft
 slug: rizom-brains-for-higher-education-and-research
+status: draft
 ---
 # Rizom Brains for Higher Education and Research
 
