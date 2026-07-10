@@ -11,6 +11,6 @@ source:
   ref: 'mcp:local'
   label: MCP
 ---
-The page is the homepage for Het Portaal. It features a media player area with a downloadable video file, followed by the heading "Content Format Vision." The main message positions Het Portaal as a communication consultancy for organizations and companies that take the challenges of today and tomorrow seriously.
+The homepage for Het Portaal features a media player with a downloadable video and the heading “Content Format Vision.” Its main message presents Het Portaal as a communication consultancy for organizations and companies that take today’s and tomorrow’s challenges seriously.
 
-The page also includes calls to action linking to a "Get Started" page and a vacancies/contact page, suggesting the site is oriented toward client engagement and recruitment. No further detailed service information is provided in the visible content, likely because the page is partially media-driven or requires additional access.
+The page also includes calls to action leading to a “Get Started” page and a vacancies/contact page, indicating a focus on client engagement and recruitment. No additional detailed service information is visible, likely because the page is media-led or requires further access.
