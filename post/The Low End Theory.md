@@ -10,6 +10,7 @@ excerpt: >-
   to Google and pick low-hanging fruit instead.
 author: Yeehaa
 coverImageId: the-low-end-theory-cover-image
+ogImageId: og-post-the-low-end-theory
 ---
 > There's a tidal wave of mysticism
 > Surging through our jet-aged generation

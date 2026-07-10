@@ -10,6 +10,7 @@ excerpt: >-
   than contingent geography.
 author: Yeehaa
 coverImageId: the-good-foot-cover
+ogImageId: og-post-the-good-foot
 seriesName: Ecosystem Architecture
 seriesIndex: 9
 ---

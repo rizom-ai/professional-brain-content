@@ -10,6 +10,7 @@ excerpt: >-
   inhabitable futures against predetermined dystopias.
 author: Yeehaa
 coverImageId: reclaiming-the-future-cover
+ogImageId: og-post-reclaiming-the-future
 seriesName: Ecosystem Architecture
 seriesIndex: 11
 ---

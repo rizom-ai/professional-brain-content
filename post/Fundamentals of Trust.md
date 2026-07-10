@@ -10,6 +10,7 @@ excerpt: >-
   Badges, we enable organizations and initiatives to communicate why they are
   trustworthy to their users.
 author: Yeehaa
+ogImageId: og-post-fundamentals-of-trust
 seriesName: Public Badges
 seriesIndex: 1
 ---

@@ -10,6 +10,7 @@ excerpt: >-
   and equitable solutions.
 author: Yeehaa
 coverImageId: practice-innovation-cover
+ogImageId: og-post-practice-innovation
 seriesName: Ecosystem Architecture
 seriesIndex: 2
 ---
