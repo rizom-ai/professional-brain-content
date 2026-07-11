@@ -8,7 +8,7 @@ Institutional knowledge infrastructure: the TMS diagnostic methodology and an AI
 **Superconnectors Network — Founder & Chief Vision Officer** *(May 2021 – Present | Rotterdam)*
 Matchmaking event format connecting startup founders with high-value connectors; expanded across the Netherlands and to Japan, growing into a global community of 1,000+ members.
 
-**Offcourse — Founder** *(June 2013 – December 2024 | Taipei / Rotterdam)*
+**Offcourse — Founder** *(June 2013 – December 2024 | Rotterdam / Taipei)*
 Open-source crowdlearning platform for distributed knowledge-sharing; relaunched 2023 with a focus on AI-assisted knowledge coordination.
 
 **Varias — Chief Product Officer** *(January 2022 – January 2024 | Rotterdam)*
