@@ -10,6 +10,7 @@ excerpt: >-
   understanding.
 author: Yeehaa
 coverImageId: hiding-in-plain-sight-cover-image
+ogImageId: og-post-hiding-in-plain-sight
 seriesName: New Institutions
 seriesIndex: 3
 ---
