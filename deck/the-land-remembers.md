@@ -1,6 +1,12 @@
 ---
 title: The Land Remembers
 slug: the-land-remembers
+description: >-
+  A living, open knowledge environment that helps farmers and cooperatives
+  capture, connect, and carry forward practical learning across seasons and
+  generations. Rizom Brain turns farm records and experience into shared memory
+  for wiser, more regenerative farming—supporting collaboration, succession, and
+  proof without adding more work.
 status: draft
 ---
 # The Land Remembers
