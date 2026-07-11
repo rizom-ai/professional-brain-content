@@ -6,6 +6,8 @@ Proposal 1 examines institutional memory and judgment: what happens when organiz
 
 ### What Happens When Organizations Offload Memory and Judgment to AI
 
+**Focus area: AI and Cognition**
+
 **Summary.** Humans think through organizations, archives, roles, and procedures that remember, judge, and decide on our behalf. Institutions are beginning to shift parts of that work to AI at an organizational scale, without a clear account of what happens to collective judgment. This project asks: what happens to a society when its organizations can retrieve everything and remember nothing?
 
 **Research questions.**
@@ -35,6 +37,8 @@ Transactive memory theory (Wegner) will be the primary conceptual framework. Dis
 ## Proposal 2: Responsibility Laundering
 
 ### How AI Agents Are Built to Act Without Answering—and the Open-Source Alternative
+
+**Focus area: Inside the Machine**
 
 **Summary.** I build and deploy AI agents inside organizations. From that work, I see how agents retrieve, draft, route, prioritize, and act while their institutional role remains ambiguous. They can influence decisions without a named role, a clear provenance trail, or a path for an affected person to contest the result. I call this *responsibility laundering*: agency passes through the machine while accountability becomes difficult to assign.
 
