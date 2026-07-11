@@ -6,6 +6,61 @@
 **Target:** ~295 words ≈ 2:00 at a natural pace (150 wpm). Practice once with a timer; if over, use the marked cuts.
 
 ---
+## Script (Sam's edit)
+[0:00 — Hook | 15s | 34 words | ~136 wpm]
+
+I'm Jan Hein Hoogstad. 
+
+If there's one thread through my career, 
+
+it's connecting communities and institutions that don't normally talk to each other, 
+
+via philosophy and technology.
+
+[0:15 — Academia to public sector | 28s | 62 words | ~133 wpm]
+
+I started as a philosopher, at the University of Amsterdam. 
+
+Then I moved into public-interest technology — 
+
+building the Public Badges framework, digital quality marks that were used across Dutch media, culture, and educational institutions. 
+
+That work only happened because those sectors don't usually build anything together. 
+
+New ideas and inventions have to connect them.
+
+[0:43 — Community-building at scale | 28s | 62 words | ~133 wpm]
+
+
+That is my body of work. 
+
+I founded Superconnectors Network, a matchmaking format connecting startup founders with the people who can actually help them — 
+
+it's since spread across the Netherlands, all over the world from Vegas to Japan. 
+
+And at Rizom, I work between Taipei and Rotterdam, linking civic-tech organizations, universities, and foundations across Europe and Asia around one question: 
+
+how do communities actually coordinate and remember what they know?
+
+[1:11 — Why this matters for the research | 30s | 66 words | ~132 wpm]
+
+That's why my case studies for this fellowship aren't hypothetical — 
+
+they span a public agency, a foundation, a mid-size company, universities, a newsroom. 
+
+Not because that's a convenient sample, but because those are the sectors I've spent a career building bridges between. 
+
+I'm not studying institutions from the outside. I'm already inside the rooms where this is happening.
+
+[1:41 — Close | 19s | 44 words | ~139 wpm]
+
+Every project I've built has tried to make real change land in a specific community, not just a headline. 
+
+This fellowship is the same instinct, pointed at a bigger question: 
+
+whether the institutions we depend on can still stand behind what they do, once AI is in the room with them.
+
+---
 
 ## Script (v2 — Machine pairing)
 
