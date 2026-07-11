@@ -6,8 +6,7 @@
 
 ---
 
-## The Outsourced Institution: What Happens When Organizations Offload Memory and Judgment to AI
-
+## The Outsourced Institution: When Organizations Delegate Memory and Judgment to AI
 **Summary.** In *Institutions That Can Carry Themselves* (2026), I describe a foundation whose fluent AI assistant could summarize every program and find every budget, yet could not explain why one project was renewed while another quietly disappeared. The institution had preserved everything except its reasons. CHT asks whether AI is more like a calculator or something qualitatively different for human thinking. I propose to answer that question at a level the current debate almost entirely ignores: the institution. Humans have never thought alone — we think through organizations, archives, roles, and procedures that remember, judge, and decide on our behalf. Institutions are now offloading their cognition to AI faster than any individual, and we have almost no rigorous account of what that does to collective judgment. This project extends the cognitive-offloading question from the individual mind to the institutional one, and asks: what happens to a society when its organizations can retrieve everything and remember nothing?
 
 **Research questions.**
