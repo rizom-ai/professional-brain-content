@@ -1,6 +1,6 @@
 # CHT Fellowship Proposals
 
-Proposal 1 examines institutional memory and judgment: what happens when organizations outsource the work by which they remember and decide. Proposal 2 examines responsibility when AI acts: how agency and accountability are distributed when agents operate inside organizations, and what an accountable alternative might look like. They approach the same changing institutional landscape from different directions.
+Both proposals grow out of my work building and deploying Rizom Brains: open-source knowledge infrastructure through which people and AI agents participate in organizational work. *The Outsourced Institution* examines what happens to institutional memory and judgment as parts of that work move to AI. *Responsibility Laundering* examines what happens to responsibility when AI systems begin to act. They approach the same institutional shift from different directions.
 
 ## Proposal 1: The Outsourced Institution
 
