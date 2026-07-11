@@ -1,7 +1,8 @@
 ---
 title: Hiding in Plain Sight
 slug: hiding-in-plain-sight
-status: draft
+status: published
+publishedAt: '2026-06-03T09:38:21.748Z'
 excerpt: >-
   Modern institutions hardly ever suffer from a lack of information. They suffer
   from a surplus of traces that no longer add up to memory. Archives, documents,

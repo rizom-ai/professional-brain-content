@@ -1,7 +1,8 @@
 ---
 title: A Colleague Without Context
 slug: a-colleague-without-context
-status: draft
+status: published
+publishedAt: '2026-06-24T08:19:04.405Z'
 excerpt: >-
   Organizations want AI to provide the leverage of a machine, the judgment of a
   colleague, and the accountability of neither. But AI does not multiply
