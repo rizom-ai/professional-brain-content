@@ -1,0 +1,33 @@
+filters:
+  and:
+    - file.inFolder("agent")
+views:
+  - type: table
+    name: All Agents
+    order:
+      - file.name
+      - name
+      - kind
+      - organization
+      - brainName
+      - url
+      - did
+      - status
+      - discoveredAt
+      - discoveredVia
+  - type: table
+    name: By Status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - file.name
+      - name
+      - kind
+      - organization
+      - brainName
+      - url
+      - did
+      - status
+      - discoveredAt
+      - discoveredVia

@@ -1,0 +1,12 @@
+filters:
+  and:
+    - or:
+        - file.inFolder("brain-character")
+        - file.inFolder("anchor-profile")
+        - file.inFolder("site-info")
+views:
+  - type: table
+    name: Settings
+    order:
+      - file.name
+      - file.folder

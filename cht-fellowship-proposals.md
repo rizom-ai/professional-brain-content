@@ -1,0 +1,69 @@
+# CHT Fellowship Proposals
+
+Both proposals grow out of my work building and deploying Rizom Brains: open-source knowledge infrastructure through which people and AI agents participate in organizational work. *The Outsourced Institution* examines what happens to institutional memory and judgment as parts of that work move to AI. *Responsibility Laundering* examines what happens to responsibility when AI systems begin to act. They approach the same institutional shift from different directions.
+
+## Proposal 1: The Outsourced Institution
+
+### What Happens When Organizations Offload Memory and Judgment to AI
+
+**Focus area: AI and Cognition**
+
+**Summary.** Humans think through organizations, archives, roles, and procedures that remember, judge, and decide on our behalf. Institutions are beginning to shift parts of that work to AI at an organizational scale, without a clear account of what happens to collective judgment. This project asks: what happens to a society when its organizations can retrieve everything and remember nothing?
+
+**Research questions.**
+
+1. *Retrieval versus memory.* Institutional memory is not storage; it is the capacity to make the past available to present judgment—knowing which decisions are still alive, which documents are ceremonial, and which exceptions became practice. When AI summarization and retrieval substitute for that capacity, what exactly is lost? Can the difference be made observable?
+
+2. *Fluency versus judgment.* AI compresses weak institutional context into confident, fluent output. Under what conditions does that fluency displace the deliberation it imitates—and make institutional gaps harder to see and harder to contest?
+
+3. *Cognitive monoculture.* When thousands of organizations route internal sense-making through identical foundation models, do their judgments converge? What are the systemic risks of correlated institutional cognition, and how does this affect markets, public administration, and media?
+
+**Why these questions are worth answering.** The individual level has yielded important findings. Sparrow, Liu, and Wegner (*Science*, 2011) found that people with search access were less likely to remember information itself and more likely to remember where to find it. Lee et al. (*CHI*, 2025) report self-reported reductions in critical-thinking effort during AI-assisted knowledge work, particularly when people had greater confidence in the tool. The institutional level has received much less attention, even though most consequential decisions—medical, financial, governmental, and educational—are made by institutions rather than individuals.
+
+There is also a less visible consequence for apprenticeship. Institutional judgment has historically been transmitted through veterans, fixers, and coordinators who carried context as they worked. If AI absorbs their tasks without absorbing that context, the next generation may have fewer opportunities to practice the delegated work from which judgment is formed. The question is not only what current institutions lose, but how future institutions learn to judge.
+
+My working hypothesis is that AI functions as an *institutional stress test*: as a transactive partner every member can query, it rewrites the group's directory of who-knows-what, exposing and amplifying weaknesses in institutional memory and judgment rather than creating them. Missing context is compressed into plausible output. If that is right, harms will surface not as dramatic model failures but as a quiet erosion of institutions' capacity to explain, contest, and stand behind their decisions. The field currently runs on anecdote; distinguishing what we know from what we suspect is part of the work.
+
+The inquiry will examine how interfaces, business models, and institutional incentives shape these outcomes. Systems that present synthesis without provenance or status, productivity tools optimized for output volume, and throughput metrics that reward fluent answers over contestable ones all make certain forms of offloading more likely. Making those mechanisms visible can support different choices: interfaces that carry provenance, deployment practices that protect deliberation, and procurement standards that ask what a tool does to judgment as well as throughput.
+
+**Approach.** This will be a practice-based inquiry grounded in the concrete deployments and decisions through which institutions offload memory and judgment. As a philosopher-builder, I will trace what changes when an organization introduces AI into its knowledge work: which deployments and interfaces are adopted, what records become retrievable, what workflows are reorganized, what outputs are treated as authoritative, who is expected to remember the reasons, and how decisions are later explained or contested. I will follow these changes through the systems I build and deploy, the design choices they encode, and the institutional conversations around their adoption.
+
+The inquiry will develop and test two distinctions—storage versus memory, and fluency versus judgment—against real records, workflows, outputs, and decisions. Open infrastructure will make the designs inspectable and revisable. Alternative arrangements can then be built and compared: for example, systems that preserve provenance and exceptions, or workflows that require reasons and escalation rather than treating fluent synthesis as an endpoint. The work will follow concrete episodes across deployments and decisions, building evidence that shows where the distinctions hold, where they fail, and what institutional alternatives might look like.
+
+Transactive memory theory (Wegner) will be the primary conceptual framework. Distributed cognition (Hutchins) provides a supporting lineage for understanding institutional thinking across people, tools, and environments. These frameworks will help interpret the cases without determining their categories in advance. The emerging empirical literature on cognitive offloading will be brought into conversation with the evidence, with care about where individual-level findings do and do not transfer to institutions.
+
+**Deliverables (6 months).** The flagship report, *The Outsourced Institution*, will combine a framework, case evidence, and a practical diagnostic: “Is this system extending our judgment or replacing it?” Alongside it: 2–3 op-eds (e.g., “Your Company Doesn't Remember Anything Anymore,” “The Coming Monoculture of Institutional Judgment”) and a conversation on *Your Undivided Attention* or another CHT platform—the fellowship's podcast expectation—on why AI's cognitive impact may run through institutions rather than individual brains. The research will be conducted as open-notebook research in a [public, provenance-tracked knowledge base](https://yeehaa.io/dashboard)—the kind of [infrastructure I build in my day job](https://github.com/rizom-ai/brains)—so readers can trace claims in the report to their sources.
+
+## Proposal 2: Responsibility Laundering
+
+### How AI Agents Are Built to Act Without Answering—and the Open-Source Alternative
+
+**Focus area: Inside the Machine**
+
+**Summary.** I build and deploy AI agents inside organizations. From that work, I see how agents retrieve, draft, route, prioritize, and act while their institutional role remains ambiguous. They can influence decisions without a named role, a clear provenance trail, or a path for an affected person to contest the result. I call this *responsibility laundering*: agency passes through the machine while accountability becomes difficult to assign.
+
+The project pairs an account of how this happens with a working, open-source alternative. Its running reference implementation is central: build an accountable version in the open, publish the standard, and give it away.
+
+**Research questions.**
+
+1. *The anatomy of responsibility laundering.* Nissenbaum named the “problem of many hands” and the “computer as scapegoat” in 1996; Elish's “moral crumple zone” (2019) showed how a token human can absorb blame for a system they could not control. Responsibility laundering names what agentic AI adds: design choices that make this gap routine. Which choices matter—assistant personas that speak without context, synthesis that strips provenance and source status, permission models that limit access without defining purpose, and the absence of a genuine contestation path? Even when a human approves an output, the agent may already have shaped the frame in which the decision became visible.
+
+2. *The capability-and-incentives pipeline.* How does a benchmark result become a sales deck, a procurement decision, and a deployment mandate, and where do evaluation and accountability fail? How do venture, vendor, and buyer incentives select frictionless assistants over bounded, contestable systems? The evidence needs to be separated carefully: MIT NANDA found little measurable financial return across most enterprise GenAI pilots it studied, while RAND documents high estimated failure rates for AI projects. This project follows how such claims become requirements and defaults, and how failures can be absorbed or rebranded rather than reported.
+
+3. *The buildable alternative—with receipts.* What would a situated agent require in order to act within an organization without laundering responsibility? My work revolves around *situated agents*: a named role, bounded scope, provenance-carrying output, explicit escalation, and a genuine contestation path. I am building this pattern as [open-source infrastructure](https://github.com/rizom-ai/brains) and running it with organizations. The project will turn that practice into a published design standard precise enough for an engineer to implement and a procurement officer to require, while using the implementation to test whether the alternative works in the environments where current defaults are produced.
+
+**Why these questions are worth answering.** The public conversation about AI agents runs on vendor claims and lab announcements. The layer where those claims become decisions about real people—who gets flagged, prioritized, denied, or framed—is often thinly documented, in part because commercially sensitive deployments restrict what can be examined. Many consequential harms may be administered through this deployment layer, even when the underlying model is not itself the immediate source of the decision.
+
+Responsibility laundering is the diagnosis; situated agents are the alternative. Together they give journalists, regulators, and buyers handles they lack, while the reference implementation gives builders something to inspect, copy, and contest. Work in this layer provides unusual access and a clear situated interest. Therefore the evidence and implementation will run in the open: claims, design choices, deployment accounts, and code should be available for scrutiny rather than protected by insider authority.
+
+**Approach.** I will combine a technical anatomy of agent frameworks and enterprise assistant products with access gained through building and deploying these systems. I will examine code, trace deployments, follow formal procurement conversations, and study implementation choices that connect permissions, prompts, interfaces, provenance, and escalation paths to what an agent does inside an organization. This makes it possible to connect accountability gaps to the technical and institutional choices that produce them.
+
+The technical work will be placed alongside practitioner conversations and deployment accounts from engineers shipping agentic systems, implementation consultants, and buyers. These accounts will complement code and deployment access by showing how incentives shape defaults and how failures are absorbed, disputed, or buried. The project will culminate in a situated-agent design standard, published openly with a running open-source reference implementation: a named role, bounded scope, provenance-carrying output, explicit escalation, and a genuine contestation path. The standard will be precise enough for an engineer to implement and a procurement officer to require, while the implementation tests whether the alternative works in the environments where current defaults are produced.
+
+**Deliverables (6 months).** The central output will be the report *Responsibility Laundering*, a situated-agent specification, and a running open-source reference implementation. Alongside these: 2–3 op-eds (e.g., “Your New AI Coworker Has No Job Description,” “Nobody Reports a Failed AI Project”) and a conversation on *Your Undivided Attention* or another CHT platform—the fellowship's podcast expectation—tracing how an agent-shaped decision travels through an organization and where answerability leaks out. All work happens as open-notebook research in a [public, provenance-tracked knowledge base](https://yeehaa.io/dashboard) running on the same open-source infrastructure the project examines.
+
+## Fit
+
+I came to technology through philosophy and have spent the past decade building knowledge and learning infrastructure for organizations. That trajectory gives me academic grounding in questions of cognition, authority, and responsibility, alongside the practical experience of building systems, deploying them, and observing how institutions adopt them. I can move between technical detail, empirical research, and institutional practice without treating any of those as separate worlds.
+
+I am not a frontier-lab insider. I am an insider of the layer where frontier claims are implemented, monetized, and encountered by the public: the organizations, procurement processes, technical systems, and design decisions through which AI becomes consequential. That situated access grounds both proposals, while their questions remain distinct: one concerns institutional memory and judgment; the other concerns responsibility when AI acts.
