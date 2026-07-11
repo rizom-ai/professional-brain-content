@@ -1,6 +1,14 @@
 ---
 title: Rizom Brains for Higher Education and Research
 slug: rizom-brains-for-higher-education-and-research
+description: >-
+  Rizom Brains are living, portable knowledge environments for universities and
+  research institutions. They connect documents, decisions, people, methods,
+  histories, and expertise so research groups, education programs, and
+  institutional leaders can preserve context, support continuity, and learn over
+  time. Combining open formats, shared knowledge spaces, and AI agents, they
+  provide situated assistance without locking institutional knowledge into a
+  single vendor platform.
 status: draft
 ---
 # Rizom Brains for Higher Education and Research
