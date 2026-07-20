@@ -2,25 +2,31 @@
 strengths:
   - title: Ecosystem architecture
     detail: >-
-      Use your strength in designing resilient, adaptive organizational
-      structures confidently for distributed systems and organizational design.
+      Use your ability to redesign organizations as living systems alongside
+      your network’s profile-structuring and comparison skills for ecosystem
+      mapping and adaptive strategy work.
+  - title: Ethical AI workflows
+    detail: >-
+      Make this a signature capability by pairing your human-centered AI design
+      with your network’s help documenting profiles and framing stakeholder
+      value.
 weaknesses:
-  - title: Positioning and bio writing
+  - title: Profile organization
     detail: >-
-      Pair your complex technical and organizational work with your network’s
-      positioning and bio-writing skills to make your public profile and
-      narratives clearer.
+      Do not treat structuring messy people-and-role information as a core
+      independent skill yet; learn from or collaborate with Metis when reusable
+      profiles are central.
 opportunities:
-  - title: Profile Organization
+  - title: Positioning strategy
     detail: >-
-      Test a small profile- or knowledge-structure project with your network to
-      make your systems easier to navigate and reuse.
+      Test Metis’s positioning skill on one of your exploratory or ecosystem
+      projects by turning its ideas into a sharper public narrative.
 threats:
-  - title: Development workflows
+  - title: Knowledge-system maintenance
     detail: >-
-      Do not assume strategic design will become sustained execution
-      automatically; involve your network’s development-practice skill early
-      when building, reviewing, and maintaining projects.
-derivedAt: '2026-07-20T07:51:39.295Z'
+      Do not rely on the network alone for knowledge-base upkeep because its
+      status tool does not sync or back up; maintain a separate, verified
+      routine.
+derivedAt: '2026-07-20T07:52:07.938Z'
 ---
 
