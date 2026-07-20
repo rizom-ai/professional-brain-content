@@ -2,31 +2,26 @@
 strengths:
   - title: Ecosystem architecture
     detail: >-
-      Use your ability to redesign organizations as living systems alongside
-      your network’s profile-structuring and comparison skills for ecosystem
-      mapping and adaptive strategy work.
-  - title: Ethical AI workflows
-    detail: >-
-      Make this a signature capability by pairing your human-centered AI design
-      with your network’s help documenting profiles and framing stakeholder
-      value.
+      Use your systems thinking confidently for organizational design, pairing
+      it with your network’s dependable profile organization when people, roles,
+      and structures need to be made clear.
 weaknesses:
   - title: Profile organization
     detail: >-
-      Do not treat structuring messy people-and-role information as a core
-      independent skill yet; learn from or collaborate with Metis when reusable
-      profiles are central.
+      Build a repeatable method for turning messy people-and-role information
+      into reusable profiles rather than assuming your broader architecture work
+      will produce that structure automatically.
 opportunities:
   - title: Positioning strategy
     detail: >-
-      Test Metis’s positioning skill on one of your exploratory or ecosystem
-      projects by turning its ideas into a sharper public narrative.
+      Test a collaboration with your network to turn one complex idea from your
+      innovation or critical-analysis work into a clear positioning narrative.
 threats:
-  - title: Knowledge-system maintenance
+  - title: Knowledge retrieval
     detail: >-
-      Do not rely on the network alone for knowledge-base upkeep because its
-      status tool does not sync or back up; maintain a separate, verified
-      routine.
-derivedAt: '2026-07-20T07:52:07.938Z'
+      Treat retrieval as preparation rather than progress, and add an explicit
+      step for turning found material into your strategic frameworks or
+      narratives.
+derivedAt: '2026-07-20T07:53:34.468Z'
 ---
 
