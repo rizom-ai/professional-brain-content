@@ -1,32 +1,27 @@
 ---
 strengths:
-  - title: Technology futures criticism
+  - title: Critical technology essays
     detail: >-
-      Use your conceptually grounded writing as the profile’s clearest anchor,
-      pairing it with dependable profile organization and positioning support to
-      present the work clearly.
-  - title: Human-AI collaboration analysis
-    detail: >-
-      Use your analysis of agency, context, and institutional behavior for
-      human-AI and organizational-design questions, with Entity Comparison as a
-      dependable complementary perspective.
+      Use your ability to connect technology, culture, philosophy, and
+      organizational change as the profile’s anchor, and add comparative
+      analysis when it sharpens the argument.
 weaknesses:
-  - title: Readiness planning
+  - title: Knowledge retrieval
     detail: >-
-      Build or pair for roadmap prioritization and release-readiness tracking
-      before taking responsibility for turning ecosystem ideas into deliverable
-      work.
+      Strengthen dependable retrieval practices before presenting your knowledge
+      infrastructure as consistently easy to search and use, because the
+      matching profile-retrieval skills remain tentative.
 opportunities:
-  - title: Profile auditing
+  - title: Plan and Track Readiness
     detail: >-
-      Test the tentative profile-auditing capability on Paper Tiger’s profiles,
-      then use its findings to improve completeness, cleanup, and
-      maintainability.
+      Test your network’s tentative readiness skill on one concrete roadmap or
+      release-preparation task, then use what it reveals to improve planning.
 threats:
-  - title: Knowledge structuring
+  - title: Extensible systems design
     detail: >-
-      Do not rely on the tentative markdown-structuring capability for critical
-      restructuring until it has been validated on a small documentation set.
-derivedAt: '2026-07-21T06:36:19.011Z'
+      Do not rely on your network’s tentative extensible-systems skill for
+      critical architecture decisions until its handling of runtime and plugin
+      boundaries has been reviewed and validated.
+derivedAt: '2026-07-21T06:37:50.216Z'
 ---
 
