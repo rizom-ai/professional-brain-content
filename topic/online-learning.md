@@ -1,4 +1,0 @@
----
-title: Online Learning
----
-Online learning is presented as a distinct educational medium rather than a deficient substitute for classroom instruction. The discussion argues that digital education can improve quality by enabling short, focused lessons, interactive practice, automated feedback, and flexible participation. Code School serves as a model because it combined concise videos, browser-based coding exercises, unit tests, hints, thematic storytelling, and playful design. Effective online learning should take advantage of capabilities that are difficult or impossible to reproduce offline instead of imitating lectures and seminars through video calls. The topic also highlights the importance of communicating an educational vision through enthusiasm and concrete examples rather than relying only on criticism of existing institutions. These ideas remain relevant to higher education, professional training, and the design of participatory learning environments.

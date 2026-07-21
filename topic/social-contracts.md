@@ -1,4 +1,0 @@
----
-title: Social Contracts
----
-Social contracts are presented as the underlying foundation of legitimate and resilient institutions. Formal constitutions, laws, and public structures cannot protect democratic life when shared values and collective commitments have already eroded. Institutional legitimacy becomes fragile when people recognize authority only when it serves their interests. Rebuilding institutions therefore requires renewed negotiation around common values, individual rights, shared responsibilities, and the conditions of cooperation. Decentralized and asynchronous technologies may provide new infrastructure for civil society, but they cannot substitute for meaningful alignment. The topic connects political philosophy, institutional reform, democratic resilience, and the design of new forms of collective governance.

@@ -1,4 +1,0 @@
----
-title: Value Driven Development
----
-Value Driven Development extends Test Driven Development and Behavior Driven Development by making the ethical values behind software explicit. Test Driven Development treats tests as contracts that formalize expectations about what code should do. Behavior Driven Development broadens that contract to include users and customers through readable, executable specifications. Value Driven Development adds the question of why the software exists and which values it should serve, such as accessibility, happiness, privacy, or financial sustainability. Public Badges are proposed as a way to make these commitments measurable, reproducible, and communicable. This approach enables developers, customers, partners, and end users to evaluate software according to shared ethical standards. The broader argument is that software development is already value-laden, but its motivating values are often implicit and difficult to see.
