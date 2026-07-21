@@ -1,4 +1,0 @@
----
-title: Trust Systems
----
-Trust is treated as an alternative to overreliance on security and policing in digital environments. The content argues that secure systems alone do not create safe or trustworthy communities, and that reputation, evidence, and transparent values are more effective foundations. Public Badges is presented as a way to make trust legible by certifying values through measurable evidence rather than anecdotes or blanket standards. The discussion also connects trust to governance, moderation, and the quality of discourse in online communities. Instead of assuming trust should be implicit, the work proposes infrastructure for communicating why a person, organization, or protocol deserves trust. This turns trust into something that can be supported, assessed, and shared.
