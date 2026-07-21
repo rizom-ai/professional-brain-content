@@ -26,6 +26,9 @@ fields:
   - id: coverImageId
     name: coverImageId
     type: Input
+  - id: ogImageId
+    name: ogImageId
+    type: Input
   - id: url
     name: url
     type: Input
