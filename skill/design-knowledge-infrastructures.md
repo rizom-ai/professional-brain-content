@@ -1,16 +1,18 @@
 ---
 name: Design Knowledge Infrastructures
 description: >-
-  Design and explain knowledge systems that help organizations create, connect,
-  classify, and reuse collective intelligence.
+  Design systems that help organizations create, connect, retrieve, and share
+  knowledge across people and AI agents.
 tags:
   - knowledge-base
   - architecture
-  - classification
-  - analysis
+  - retrieval
+  - metadata
 examples:
-  - How should we structure a knowledge base for a distributed organization?
-  - Compare different ways to organize and retrieve organizational knowledge.
-  - Design a knowledge architecture for Rizom.
+  - >-
+    How should we design a knowledge infrastructure for a distributed
+    organization?
+  - Turn these organizational notes into a structured knowledge system.
+  - What metadata model would make this knowledge easier for AI agents to use?
 ---
 
