@@ -1,0 +1,4 @@
+---
+title: Ecosystem Architecture
+---
+Ecosystem architecture is described as the practice of designing and cultivating organizations as living systems rather than mechanical structures. It responds to the limitations of traditional institutional models in contexts shaped by distributed tools, decentralized participation, and complex social relationships. The approach draws from decentralized organizations, mesh networks, Afrofuturism, Shanzhai culture, philosophy of technology, and community building. Its focus is not the rejection of hierarchy in itself, but the development of structures that can adapt to changing tools, contexts, and forms of collective life. Rizom represents this practice through knowledge infrastructure intended to help people and organizations create, connect, and share knowledge. The broader goal is to build inhabitable institutions capable of supporting emergence, participation, and continuous repair.

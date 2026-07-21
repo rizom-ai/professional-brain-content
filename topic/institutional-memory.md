@@ -1,0 +1,4 @@
+---
+title: Institutional Memory
+---
+Institutional memory is presented as the capacity to make the past meaningful and available to present action, rather than merely storing records. Contemporary organizations often accumulate archives, dashboards, documents, and chat histories without preserving the reasons, practices, and judgments behind them. This creates an abundance of evidence alongside a scarcity of orientation. When knowledge remains fragmented or difficult to interpret, power shifts toward insiders who understand informal context and unwritten rules. Effective knowledge systems must connect records to practice, preserve context, support revision, and make room for deliberate forgetting. The topic is central to designing institutions that can learn, remain intelligible, and act responsibly across time.
