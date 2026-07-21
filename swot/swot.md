@@ -1,27 +1,31 @@
 ---
 strengths:
-  - title: Critical technology essays
+  - title: Trust and governance design
     detail: >-
-      Use your ability to connect technology, culture, philosophy, and
-      organizational change as the profile’s anchor, and add comparative
-      analysis when it sharpens the argument.
+      Use your skill confidently for social contracts, trust models, and
+      governance practices, pairing it with your network’s clearer profile and
+      role structures when needed.
 weaknesses:
-  - title: Knowledge retrieval
+  - title: Positioning Strategy
     detail: >-
-      Strengthen dependable retrieval practices before presenting your knowledge
-      infrastructure as consistently easy to search and use, because the
-      matching profile-retrieval skills remain tentative.
+      Practice turning your complex work in technology, culture, and
+      organizational design into concise statements of differentiation and
+      value.
 opportunities:
-  - title: Plan and Track Readiness
+  - title: Entity Comparison
     detail: >-
-      Test your network’s tentative readiness skill on one concrete roadmap or
-      release-preparation task, then use what it reveals to improve planning.
+      Use your network’s dependable comparison skill to test competing
+      governance models, digital ecosystems, and technology approaches.
+  - title: Profile Summarization
+    detail: >-
+      Learn from your network’s summarization skill to present projects,
+      concepts, and professional work in clearer, more concise formats.
 threats:
-  - title: Extensible systems design
+  - title: Shape Extensible Systems
     detail: >-
-      Do not rely on your network’s tentative extensible-systems skill for
-      critical architecture decisions until its handling of runtime and plugin
-      boundaries has been reviewed and validated.
-derivedAt: '2026-07-21T06:37:50.216Z'
+      Do not rely on this tentative capability for critical extensibility
+      decisions until a small architectural test or independent review validates
+      it.
+derivedAt: '2026-07-21T14:19:30.280Z'
 ---
 
