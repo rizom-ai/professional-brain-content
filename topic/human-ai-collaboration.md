@@ -1,4 +1,0 @@
----
-title: Human-AI Collaboration
----
-The content consistently frames AI as a participant in collaborative ecosystems rather than merely a tool, replacement, or autonomous authority. Projects such as Bots with an Attitude, Lefthoek, and Rizom use specialized agents to organize information, support onboarding, coordinate expertise, and automate repetitive work. The key principle is that agency matters more than humanness: an agent should be judged by whether it contributes meaningfully, respects community values, and remains accountable within a shared context. AI can amplify judgment, memory, and coordination, but it can also multiply institutional confusion when roles, archives, and responsibilities are unclear. Responsible collaboration therefore requires visible limits, situated knowledge, bounded authority, and contestable outputs. The preferred model is a network of narrow, ethical, creative agents working alongside humans in living knowledge systems.
