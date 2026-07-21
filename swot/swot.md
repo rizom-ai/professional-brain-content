@@ -1,29 +1,28 @@
 ---
 strengths:
-  - title: Ecosystem architecture
+  - title: Distributed collaboration design
     detail: >-
-      Use your ability to design resilient organizations as living systems,
-      paired with your network’s dependable profile organization and entity
-      comparison, for work requiring both systems thinking and structured
-      relationship analysis.
+      Use your strength in collaboration models, social contracts, and
+      governance when shaping distributed organizations, communities, or agent
+      ecosystems.
 weaknesses:
   - title: Profile auditing
     detail: >-
-      Do not rely on your current skills for checking profile completeness,
-      placeholders, and cleanup; establish a review practice before using the
-      network for this work.
+      Build your own repeatable review practice for completeness, placeholders,
+      and cleanup instead of assuming the tentative network capability will
+      catch these issues reliably.
 opportunities:
-  - title: Knowledge retrieval
+  - title: Profile organization
     detail: >-
-      Test your network’s semantic search, entity listing, and record retrieval
-      in Paper Tiger so your organized knowledge becomes easier to access and
-      reuse.
+      Test Metis on messy people-and-role information, then adopt the
+      classification and clarity practices that produce reusable profiles and
+      summaries.
 threats:
-  - title: Profile fact lookup
+  - title: Readiness planning
     detail: >-
-      Treat precise profile facts from this tentative capability as unverified,
-      and manually review important lookups before using them as authoritative
-      information.
-derivedAt: '2026-07-20T09:48:20.806Z'
+      Test and independently review the tentative planning capability before
+      relying on it for important priorities, roadmap decisions, or release
+      readiness.
+derivedAt: '2026-07-21T06:18:41.952Z'
 ---
 
