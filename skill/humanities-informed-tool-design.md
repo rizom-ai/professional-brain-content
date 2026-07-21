@@ -1,18 +1,18 @@
 ---
 name: Humanities-Informed Tool Design
 description: >-
-  Translate philosophy, cultural theory, and critical humanities into practical
-  approaches for designing digital tools and institutions.
+  Translate philosophical and cultural insights into practical concepts for
+  designing humane digital tools and collaborative environments.
 tags:
   - analysis
-  - best-practices
   - architecture
-  - comparison
+  - identity
+  - best-practices
 examples:
-  - Use Heidegger and Kittler to critique this knowledge-management tool.
-  - Help me turn a philosophical concept into a practical product principle.
+  - How can Heidegger or Kittler inform the design of a knowledge platform?
+  - Critique this product concept through a philosophy of technology lens.
   - >-
-    Write a design framework for tools that support meaning-making rather than
-    extraction.
+    Help me design a digital tool that supports agency rather than passive
+    consumption.
 ---
 
