@@ -1,0 +1,4 @@
+---
+title: Decentralization
+---
+Decentralization is a foundational idea throughout the batch, but it is used in a broad, reusable sense rather than as a narrow technical claim. The content contrasts meaningful decentralization with shallow versions tied to crypto hype or fragmented power structures. In its stronger form, decentralization enables resilience, local adaptation, multiple centers of activity, and more responsive coordination. It appears in discussions of manufacturing ecosystems, internet fragmentation, organizational design, and networked communities. The core argument is that distributed systems can create better innovation and governance when they are aligned with shared values and clear practices. Decentralization is not treated as an end in itself, but as a condition for more living, adaptable systems.

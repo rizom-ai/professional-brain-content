@@ -1,0 +1,4 @@
+---
+title: Internet Fragmentation
+---
+The internet is repeatedly described as a fragmented landscape made up of distinct technical, governmental, commercial, and cultural ecosystems. Rather than treating this fragmentation as a temporary failure to be repaired, the content reframes it as an enduring condition that can produce localized innovation, resilience, privacy, and diversity. Examples include superapps, mesh networks, app stores, national firewalls, and the rise of digital tribalism. The argument is that attempts to restore an imagined original web often ignore the actual historical and geopolitical forces that produced today’s internet. Instead, the content suggests designing for fragmentation through ecosystem thinking. This makes fragmentation not only a descriptive topic but also a design problem and an opportunity.
