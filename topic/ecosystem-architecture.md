@@ -1,0 +1,4 @@
+---
+title: Ecosystem Architecture
+---
+Ecosystem architecture is presented as a practice for designing organizations as living systems rather than machines. It responds to the limits of traditional institutional models in contexts shaped by digital networks, decentralization, and rapid change. The approach draws from decentralized organizations, mesh networks, Afrofuturism, Shanzhai culture, and community building without treating any single tradition as sufficient. Its goal is not to restore an idealized past, but to create structures that people can inhabit, adapt, and cultivate. This perspective emphasizes organizational design as an ongoing practice of coordination, meaning-making, and relationship-building. It provides the broad conceptual framework connecting the author’s work on Rizom, knowledge infrastructure, and new institutions.
