@@ -1,0 +1,4 @@
+---
+title: Knowledge Infrastructure
+---
+Knowledge infrastructure is presented as the foundation for organizations that need to coordinate across distributed people, tools, and time. The core problem is not merely missing information, but knowledge trapped in individuals, fragmented across systems, or stored without the context needed for meaningful retrieval. Rizom Brains addresses this through personal knowledge repositories, AI-supported organizational memory, open protocols, and systems that make expertise legible. Related work on institutional memory distinguishes storage from understanding, emphasizing the preservation of reasons, practices, and orientation. Effective infrastructure distributes intelligence while maintaining ownership, credibility, and coordination. Its purpose is to reduce dependence on heroic individuals and help organizations learn, adapt, and carry their own memory.

@@ -1,0 +1,4 @@
+---
+title: Ecosystem Architecture
+---
+Ecosystem architecture is the central framework for designing organizations, communities, and digital spaces as living systems rather than machines. It emphasizes decentralized, regenerative, and bottom-up development, allowing structures to emerge through shared values, experimentation, and ongoing cultivation. The practice spans internet fragmentation, network states, regenerative design, shanzhai production, value pluralism, and distributed work. Its four movements are Align, Validate, Scale, and Spin Out, moving from shared vision to committed participation and eventual autonomy. Ecosystems are expected to remain diverse, adaptive, and open to movement rather than enforcing universal unity. This approach seeks to create inhabitable futures that support resilience, creativity, and collective flourishing.
