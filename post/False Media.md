@@ -9,6 +9,7 @@ excerpt: >-
   argue that we should bypass this problem by focusing on the agent rather than
   on the news.
 author: Yeehaa
+ogImageId: og-post-false-media
 ---
 > False media, we don't need it...
 > ...do we?

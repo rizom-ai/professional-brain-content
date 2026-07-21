@@ -10,6 +10,7 @@ excerpt: >-
   complexity without universal norms.
 author: Yeehaa
 coverImageId: foam-party-cover
+ogImageId: og-post-foam-party
 seriesName: Ecosystem Architecture
 seriesIndex: 5
 ---

@@ -3,8 +3,12 @@ name: Brain
 kind: professional
 brainName: Brain
 url: 'https://docs.rizom.ai/a2a'
-status: approved
-discoveredAt: '2026-05-18T09:06:46.790Z'
+status: discovered
+discoveredAt: '2026-07-20T09:48:01.189Z'
+introducedBy:
+  - jo.rizom.ai
+  - smoke.rizom.ai
+hops: 2
 ---
 # Agent
 

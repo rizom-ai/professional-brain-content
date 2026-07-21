@@ -10,6 +10,7 @@ excerpt: >-
   it's all here. In other words, this blogpost is mainly here for nostalgic
   purposes.
 author: Yeehaa
+ogImageId: og-post-when-all-we-have-is-a-hammer
 ---
 _This is an old blogpost that I wrote in 2013. To me, it marked the beginning of a personal journey that I'm still on today. Over the last 7 years, the way I look at research, learning, and work has completely changed. But in essence, it's all here. In other words, this blogpost is mainly here for nostalgic purposes._
 

@@ -9,6 +9,7 @@ excerpt: >-
   explains that unsupervised learning promises a new way to think about
   intelligence in general: Human and otherwise.
 author: Yeehaa
+ogImageId: og-post-intelligence-unleashed
 ---
 > Grapple with reality to break out of these shackles
 

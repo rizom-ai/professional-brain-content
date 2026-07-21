@@ -10,6 +10,7 @@ excerpt: >-
   sieve-order and cellular automata's emergent complexity.
 author: Yeehaa
 coverImageId: the-practice-of-ecosystem-architecture-cover
+ogImageId: og-post-the-practice-of-ecosystem-architecture
 seriesName: Ecosystem Architecture
 seriesIndex: 10
 ---

@@ -1,37 +1,29 @@
 ---
 strengths:
-  - title: Critical writing
+  - title: Ecosystem architecture
     detail: >-
-      Use your essay and positioning strength for clear arguments, and let your
-      writing-capable network help with editing and publication polish.
+      Use your ability to design resilient organizations as living systems,
+      paired with your network’s dependable profile organization and entity
+      comparison, for work requiring both systems thinking and structured
+      relationship analysis.
 weaknesses:
-  - title: Facilitation
+  - title: Profile auditing
     detail: >-
-      Do not assume you can run workshops smoothly yet; pair with a facilitator
-      or test a small session before depending on it.
-  - title: Video production
-    detail: >-
-      Treat video as a weak area and avoid making it part of core delivery
-      unless you bring in help.
+      Do not rely on your current skills for checking profile completeness,
+      placeholders, and cleanup; establish a review practice before using the
+      network for this work.
 opportunities:
-  - title: Knowledge infrastructure
+  - title: Knowledge retrieval
     detail: >-
-      Use your analysis and ecosystem thinking to turn ideas into a clearer
-      knowledge system, and test structure with the network’s organization
-      skills.
-  - title: Readiness planning
-    detail: >-
-      Use this network skill to turn project ideas into sequenced next steps,
-      priorities, and release-ready plans.
+      Test your network’s semantic search, entity listing, and record retrieval
+      in Paper Tiger so your organized knowledge becomes easier to access and
+      reuse.
 threats:
-  - title: Video production gap
+  - title: Profile fact lookup
     detail: >-
-      If a project needs video soon, it may stall unless you line up an outside
-      collaborator.
-  - title: Workshop risk
-    detail: >-
-      Live or collaborative sessions may stay shaky unless you add a facilitator
-      or keep the format tightly scripted.
-derivedAt: '2026-05-31T07:51:33.807Z'
+      Treat precise profile facts from this tentative capability as unverified,
+      and manually review important lookups before using them as authoritative
+      information.
+derivedAt: '2026-07-20T09:48:20.806Z'
 ---
 

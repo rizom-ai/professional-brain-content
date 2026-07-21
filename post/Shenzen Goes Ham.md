@@ -10,6 +10,7 @@ excerpt: >-
   Western open source, while confronting its environmental costs.
 author: Yeehaa
 coverImageId: shenzhen-goes-ham-cover
+ogImageId: og-post-shenzen-goes-ham
 seriesName: Ecosystem Architecture
 seriesIndex: 6
 ---

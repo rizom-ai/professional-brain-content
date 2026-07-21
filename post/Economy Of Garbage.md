@@ -10,6 +10,7 @@ excerpt: >-
   paradigm shift from extraction to regeneration.
 author: Yeehaa
 coverImageId: economy-of-garbage-cover
+ogImageId: og-post-economy-of-garbage
 seriesName: Ecosystem Architecture
 seriesIndex: 7
 ---

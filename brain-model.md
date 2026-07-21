@@ -3,6 +3,15 @@ title: Brain Models
 ---
 # Brain Model & Instance Architecture
 
+This note explains the **model/instance** setup used by brains:
+
+- A **brain model** (`brains/`) is the reusable definition of a brain. It contains the brain’s capabilities, interfaces, identity, permissions, presets, and content model.
+- A **brain instance** (for example `~/mybrain/` or an in-repo `apps/<name>/`) is a lightweight per-deployment setup centered on `brain.yaml`, plus instance-specific files like `.env`, `.env.example`, `.gitignore`, `tsconfig.json`, `package.json`, and optional deploy artifacts.
+
+The same brain model can power multiple instances, such as dev, staging, and production, each with its own `brain.yaml` and `.env`.
+
+**Apps are not workspace members.** The `apps/*` directories were removed from `package.json` workspaces. They still act as small local execution boundaries and deploy scaffolding, but at runtime they are loaded by the `brain` CLI from `@rizom/brain`, which reads `brain.yaml` in the current directory, dynamically imports the referenced brain model package, and starts it. Deployable Rizom app instances such as `rizom.ai`, `rizom.foundation`, `rizom.work`, `mylittlephoney`, and `yeehaa.io` now live in standalone repos.
+
 ## Overview
 
 Brains follow a **model/instance** separation:
@@ -189,6 +198,7 @@ export default defineBrain({
   },
 
   permissions: {
+# Brain Model & Instance Architecture
     anchors: ["discord:123456789"],
     rules: [
       { pattern: "cli:*", level: "anchor" },

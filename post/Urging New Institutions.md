@@ -10,6 +10,7 @@ excerpt: >-
   aligned values and functioning social contracts.
 author: Yeehaa
 coverImageId: urging-new-institutions-cover-image-v5
+ogImageId: og-post-urging-new-institutions
 seriesName: New Institutions
 seriesIndex: 1
 ---

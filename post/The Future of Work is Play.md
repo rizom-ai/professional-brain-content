@@ -10,6 +10,7 @@ excerpt: >-
   voluntary, creative, and aligned with who you actually are.
 author: Yeehaa
 coverImageId: future-of-work-is-play-v2
+ogImageId: og-post-the-future-of-work-is-play
 ---
 We tell our children to find work that matters, to be creative, to follow their passion. Then we spend our days in meetings about meetings, defending positions we do not believe in, waiting for permission to do work that could start today.
 

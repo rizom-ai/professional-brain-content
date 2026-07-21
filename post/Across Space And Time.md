@@ -10,6 +10,7 @@ excerpt: >-
   cultivate thriving, non-hierarchical structures.
 author: Yeehaa
 coverImageId: across-space-and-time-cover
+ogImageId: og-post-across-space-and-time
 seriesName: Ecosystem Architecture
 seriesIndex: 1
 ---

@@ -10,6 +10,7 @@ excerpt: >-
   channels.
 author: Yeehaa
 coverImageId: global-village-people-cover
+ogImageId: og-post-global-village-people
 seriesName: Ecosystem Architecture
 seriesIndex: 4
 ---
