@@ -1,0 +1,4 @@
+---
+title: Human-AI Collaboration
+---
+Yeehaa consistently presents artificial intelligence as a participant in collaborative ecosystems rather than merely a replacement tool or autonomous threat. Projects such as Bots with an Attitude, Lefthoek, Rizom Brains, and the agent-focused presentations explore specialized agents that acquire, clean, analyze, evaluate, and present information while remaining situated within human communities. Agency is treated as more important than humanness: an agent’s value comes from its meaningful contribution, accountability, and ability to work within shared values. The work also stresses that AI amplifies the institution it enters, including its memory gaps, unclear roles, coordination problems, and hidden assumptions. Responsible human-AI collaboration therefore requires visible limits, bounded authority, contestability, trust, contextual knowledge, and deliberate role design.

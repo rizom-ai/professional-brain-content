@@ -1,0 +1,4 @@
+---
+title: Knowledge Infrastructure
+---
+Knowledge infrastructure is a major concern across Yeehaa’s projects, including Rizom Brains, Lefthoek, Offcourse Studio, and the broader vision for living organizations. The recurring problem is not simply missing information but knowledge trapped in people’s heads, scattered across tools, or preserved without the context needed to make it useful. Effective infrastructure should turn records into institutional memory, make expertise legible, preserve ownership, and help the right knowledge reach the right person at the right time. Proposed solutions include personal knowledge brains, portable markdown-based repositories, AI-assisted retrieval, transactive memory systems, open protocols, and tools for onboarding, synchronization, research, and coordination. The underlying principle is that organizations become more adaptive when knowledge can circulate without depending on heroic individuals or centralized gatekeepers.
