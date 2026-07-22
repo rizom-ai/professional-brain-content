@@ -1,30 +1,28 @@
 ---
 strengths:
-  - title: Institutional memory and record organization
+  - title: Technology and organization critique
     detail: >-
-      Use your knowledge-structuring skill for organizational memory work, and
-      pair with Smokey when entries need dependable structure and retrieval.
-  - title: Community norms and agreements
-    detail: >-
-      Lean on your ability to design norms, roles, incentives, and agreements
-      when diagnosing or building collaborative systems.
+      Use your writing and analysis confidently for essays, critical frameworks,
+      and organizational analysis, with your network’s dependable
+      profile-organization support reinforcing the classification work.
 weaknesses:
+  - title: Institutional knowledge design
+    detail: >-
+      Strengthen the retrieval and preservation techniques behind your knowledge
+      systems, and test profile retrieval carefully because the related network
+      capability is not yet dependable.
+opportunities:
   - title: Positioning strategy
     detail: >-
-      Do not treat differentiation and value framing as an established personal
-      skill; use Metis to sharpen how your projects and expertise are presented.
-opportunities:
-  - title: Profile organization
-    detail: >-
-      Test Metis on your professional profile and agent descriptions, then learn
-      its approach to turning messy people-and-role information into reusable
-      summaries.
+      Ask Metis to apply its dependable positioning skill to Paper Tiger’s
+      profile and selected professional work, then use the resulting framing to
+      sharpen how you present your identity, governance, and AI strategy.
 threats:
-  - title: Extensible systems
+  - title: Profile fact retrieval
     detail: >-
-      Treat the network’s runtime and plugin-boundary design as tentative, and
-      validate it with a small architecture test before relying on it for
-      technical extensibility decisions.
-derivedAt: '2026-07-21T15:56:14.738Z'
+      Avoid relying on the network’s tentative profile-fact retrieval for
+      important lookups until you manually validate its results and confirm that
+      it is consistent.
+derivedAt: '2026-07-22T15:55:11.175Z'
 ---
 
