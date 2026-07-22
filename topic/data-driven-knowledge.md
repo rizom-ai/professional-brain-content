@@ -1,0 +1,4 @@
+---
+title: Data-Driven Knowledge
+---
+Data-driven knowledge concerns the changing relationship between computation, scientific research, and the humanities. The material challenges the idea that large datasets provide direct, unmediated access to reality, arguing instead that data can transform how knowledge is produced, represented, and acted upon. It critiques approaches that use digital tools merely to reproduce established disciplinary frameworks. Data's scale and computational complexity are described not only as threats to human control but also as opportunities for creative and actionable research. The discussion asks who exercises agency over big data and how academic, artistic, and commercial practices might inform one another. This topic positions digital information as an active force that reshapes research rather than simply serving as evidence.
