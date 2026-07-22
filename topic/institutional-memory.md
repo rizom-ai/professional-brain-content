@@ -1,4 +1,0 @@
----
-title: Institutional Memory
----
-Institutional memory is distinguished from the mere storage of records, documents, dashboards, and archives. Contemporary organizations often possess abundant information but lack the ability to retrieve context, preserve reasons, and turn the past into meaningful guidance for present action. When knowledge remains scattered or inaccessible, power shifts toward insiders who can interpret informal histories and identify which records matter. Effective memory must remain connected to practice while also being durable, revisable, contestable, and transferable across time. The topic also includes the political consequences of archival design, since systems determine what becomes visible, trusted, measurable, or forgettable. Healthy institutions therefore need not only preservation, but also deliberate pruning and the ability to let obsolete records and assumptions die.

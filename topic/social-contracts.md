@@ -1,4 +1,0 @@
----
-title: Social Contracts
----
-Social contracts are described as the foundational agreements that make institutions legitimate and resilient. Constitutions and formal structures cannot protect democratic life when citizens no longer share enough aligned values to recognize their authority. Institutional decay is therefore framed not only as a failure of governance, but as a breakdown in collective commitments, trust, and negotiated responsibility. Rebuilding institutions requires renewed debate about shared values rather than merely repairing existing procedures. Decentralized and asynchronous technologies may support new forms of civil society, but they cannot substitute for a meaningful social foundation. This topic also shapes the responsible use of AI, because organizational tools must operate within clearly defined relationships of authority, accountability, and participation.
