@@ -1,0 +1,4 @@
+---
+title: Digital Ecosystems
+---
+Digital ecosystems are described as distributed communities that can transcend territorial, temporal, and institutional boundaries. The internet enables people to participate in multiple communities, move between habitats, and form societies around shared values rather than geographic proximity. This model challenges the assumption that a single unified system should contain everyone under universal norms. Concepts such as startup societies, network archipelagos, and network states illustrate how online communities might develop collective identity, history, currency, and governance. Healthy ecosystems must preserve the freedom to leave, since the ability to vote with one's feet supports experimentation, creativity, and accountability. Digital ecosystems therefore depend on permeability, pluralism, and the coexistence of different forms of social organization.
