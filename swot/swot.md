@@ -1,28 +1,26 @@
 ---
 strengths:
-  - title: Technology and organization critique
+  - title: Ecosystem and role design
     detail: >-
-      Use your writing and analysis confidently for essays, critical frameworks,
-      and organizational analysis, with your network’s dependable
-      profile-organization support reinforcing the classification work.
+      Use your ecosystem design confidently, and pair it with your network’s
+      dependable profile and agent-record organization when structures need to
+      be made clearer.
 weaknesses:
-  - title: Institutional knowledge design
+  - title: Content summarization
     detail: >-
-      Strengthen the retrieval and preservation techniques behind your knowledge
-      systems, and test profile retrieval carefully because the related network
-      capability is not yet dependable.
+      Build this skill directly and test concise digests before relying on the
+      network’s tentative summarization capability for consistent results.
 opportunities:
-  - title: Positioning strategy
+  - title: Bio writing
     detail: >-
-      Ask Metis to apply its dependable positioning skill to Paper Tiger’s
-      profile and selected professional work, then use the resulting framing to
-      sharpen how you present your identity, governance, and AI strategy.
+      Use your network’s dependable bio-writing capability for professional
+      profiles, contributor pages, and project introductions, then learn which
+      framing makes your work clearest.
 threats:
   - title: Profile fact retrieval
     detail: >-
-      Avoid relying on the network’s tentative profile-fact retrieval for
-      important lookups until you manually validate its results and confirm that
-      it is consistent.
-derivedAt: '2026-07-22T15:55:11.175Z'
+      Validate the network’s tentative profile-fact retrieval on important
+      lookups before using it in workflows that depend on accurate answers.
+derivedAt: '2026-07-22T15:56:14.465Z'
 ---
 
