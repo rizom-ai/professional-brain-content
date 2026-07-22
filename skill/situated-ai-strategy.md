@@ -1,17 +1,18 @@
 ---
 name: Situated AI Strategy
 description: >-
-  Analyze how AI can support human agency, context, and organizational practice
-  without stripping away meaning or responsibility.
+  Analyze how AI can operate with context, institutional awareness, and
+  appropriate agency inside real organizations and communities.
 tags:
-  - agents
-  - analysis
-  - identity
-  - context
   - ai
+  - agents
+  - organization
+  - analysis
 examples:
-  - Develop a strategy for introducing AI as a context-aware colleague.
-  - Analyze the risks of deploying AI without institutional context.
-  - Define principles for AI that strengthens agency rather than replacing it.
+  - How can we give an AI colleague enough context to work responsibly?
+  - >-
+    Design an AI assistant for a distributed team without making it overly
+    autonomous.
+  - Analyze where AI would expose weaknesses in this institution.
 ---
 

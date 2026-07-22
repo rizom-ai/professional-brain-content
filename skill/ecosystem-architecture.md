@@ -1,19 +1,18 @@
 ---
 name: Ecosystem Architecture
 description: >-
-  Design living organizational ecosystems that connect people, tools, knowledge,
-  and values across distributed contexts.
+  Design plural digital ecosystems that connect people, tools, communities, and
+  knowledge without reducing them to a single organizational model.
 tags:
   - architecture
   - organization
   - agents
-  - knowledge-base
-  - ecosystems
+  - identity
 examples:
-  - Design an ecosystem architecture for a distributed organization.
+  - Help me design an ecosystem architecture for a distributed organization.
+  - 'Compare centralized, federated, and peer-to-peer models for this project.'
   - >-
-    Map the roles, tools, and relationships needed for a knowledge-sharing
-    network.
-  - Compare centralized and decentralized models for this community.
+    What roles, relationships, and protocols should our digital ecosystem
+    include?
 ---
 
