@@ -1,18 +1,19 @@
 ---
 name: Ecosystem Architecture
 description: >-
-  Design and articulate organizations, communities, and tools as adaptive living
-  systems rather than fixed mechanical structures.
+  Design living organizational ecosystems that connect people, tools, knowledge,
+  and values across distributed contexts.
 tags:
   - architecture
   - organization
-  - futures-thinking
   - agents
+  - knowledge-base
+  - ecosystems
 examples:
-  - Help me develop an ecosystem architecture for a distributed organization.
+  - Design an ecosystem architecture for a distributed organization.
   - >-
-    What principles should guide a knowledge infrastructure that behaves like a
-    living system?
-  - Turn this organizational idea into a clear ecosystem architecture framework.
+    Map the roles, tools, and relationships needed for a knowledge-sharing
+    network.
+  - Compare centralized and decentralized models for this community.
 ---
 
