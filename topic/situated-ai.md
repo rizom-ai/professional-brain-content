@@ -1,0 +1,4 @@
+---
+title: Situated AI
+---
+The treatment of AI focuses on how artificial intelligence inherits and amplifies the institutional conditions in which it is deployed. AI can increase speed and output, but it can also scale unclear roles, broken archives, unresolved conflicts, and weak accountability. Fluent machine-generated language may make partial or politically situated knowledge appear objective, hiding the sources, omissions, and assumptions behind an answer. For AI to function as a meaningful organizational colleague, its access, limits, authority, and responsibility must be explicit and contestable. This requires role design rather than simple adoption, optimization, or workflow enablement. The central concern is not only whether AI is accurate, but whether the institution has enough memory, judgment, context, and accountability for its capabilities to be used responsibly.
