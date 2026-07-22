@@ -1,0 +1,4 @@
+---
+title: Digital Trust
+---
+Digital trust is presented as a foundation for healthier online public spaces, distinct from security alone. Technical safeguards can protect communication while still weakening interpersonal and institutional trust, especially when users must surrender personal data to participate. The proposed alternative is to build evidence-based networks of trust through reputation, shared standards, and publicly communicated values. The history of spam filtering illustrates this shift from policing suspicious actors toward using reputation lists, positive signals, and trusted relationships. Public Badges are described as a mechanism for organizations to communicate why they deserve trust and to make those claims more accountable. This approach combines technological infrastructure with human and organizational coalitions rather than reducing trust to an opaque algorithm or a purely anecdotal judgment.
