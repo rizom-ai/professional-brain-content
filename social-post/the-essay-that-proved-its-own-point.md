@@ -1,8 +1,10 @@
 ---
 title: The Essay That Proved Its Own Point
 platform: linkedin
-status: draft
+status: published
 coverImageId: the-essay-that-proved-its-own-point-cover
+publishedAt: '2026-07-23T09:08:05.389Z'
+platformPostId: 'urn:li:share:7485984069336567808'
 ---
 Today, an essay I wrote about institutional memory disappeared from my website.
 
