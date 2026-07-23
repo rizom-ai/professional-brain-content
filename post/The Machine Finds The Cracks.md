@@ -19,7 +19,15 @@ AI is introduced to the official form and expected to operate within the shadow 
 
 The official form is the institution's account of itself: how work should happen, who may decide, and what counts as legitimate. Documentation allows that account to outlast its authors and orient people who were not present when it was made. A school's procedures guide new teachers; a foundation's criteria shape later grant rounds; a public agency's mandate coordinates action across offices. Yet the account is never complete. A policy may preserve an intention rather than a settled practice. Minutes record what was said, not what changed anyone's mind. A role description names responsibility while actual authority rests elsewhere.
 
-The lived institution fills those gaps. It is the colleague who knows which process is ceremonial, the programme officer who remembers why an exception was granted, and the person consulted before an old decision becomes precedent. This knowledge is often practical and generous, but fragile. The gap is not itself a failure; no serious organization can document every judgment. The problem begins when the gap becomes necessary to action while remaining invisible to the record. Then the institution depends on context nobody else can reliably find, interpret, or challenge.
+The lived institution fills those gaps. It is the colleague who knows which process is ceremonial, the programme officer who remembers why an exception was granted, and the person consulted before an old decision becomes precedent. This knowledge is often practical and generous, but fragile.
+
+In *The Tacit Dimension*, Michael Polanyi gives the shadow life its most compact formulation:
+
+> We can know more than we can tell.
+>
+> — Michael Polanyi
+
+This is not a failure of documentation. Practical knowledge always exceeds its formal account. The problem begins when an institution depends on what people know without knowing who carries it, how it can be challenged, or what happens when they leave.
 
 AI enters precisely here. It is asked to retrieve a policy, explain a decision, compare precedents, recommend a next step, or help someone act without the person who normally supplies the missing context. The system can work quickly across documents, but it cannot recover context an institution never made durable. Its failures can reveal where the institution cannot remember, explain, or authorize its own decisions.
 
@@ -31,13 +39,13 @@ AI can reveal an existing crack, amplify one through unwarranted fluency, or cre
 
 The distinction matters because not every failure proves an old institutional defect. The tool and the institution interact. A system may misread a clear record, or a clear-looking record may conceal an unresolved disagreement. The useful response is to examine both: what the system did, and what the institution had—or had not—made available for it to do responsibly.
 
-In *The Question Concerning Technology*, Martin Heidegger writes:
+In *The Question Concerning Technology*, Martin Heidegger pushes us beyond a merely technical account:
 
 > The essence of technology is by no means anything technological.
 >
 > — Martin Heidegger
 
-Here the point is practical. The important question is not only whether the machine works. It is what human arrangement the machine exposes: whose judgment has been recorded, which decisions can be explained, and where responsibility is allowed to rest.
+Here that distinction becomes concrete. A failed system does not only report on its own limits. It also discloses the arrangement in which it was asked to act: whose judgment has been recorded, which decisions can be explained, and where responsibility is allowed to rest.
 
 Repair therefore starts with the institution, not with the fantasy of a perfect assistant. A document needs an owner, a status, a date, and a relationship to the practice it describes. A decision needs its reason attached closely enough that someone later can distinguish rationale from outcome. An exception needs to be marked as an exception. A role needs clear limits on what it may interpret, approve, or change.
 
@@ -48,14 +56,6 @@ The constructive response is not an all-knowing institutional brain. An assistan
 Building this memory is slower than adding a connector. It asks institutions to record why a decision was made, who owns its interpretation, when its status changed, and which exceptions should remain provisional. It asks them to make informal repair visible enough to show what knowledge the system carries and what knowledge still depends on particular people. That work may feel administrative, but it is also a way of making responsibility durable.
 
 AI can help with the repair because its failures make absences easier to see. A failed answer can point to a decision with no rationale, a policy whose status is unknown, or a category that different groups use differently. A fluent answer can be tested against its sources and authority rather than accepted for sounding complete. The system becomes useful not when it always produces an answer, but when it makes the limits of an answer legible enough for someone to act responsibly.
-
-In *A Rant About “Technology”*, Ursula K. Le Guin writes:
-
-> Technology is the active human interface with the material world.
->
-> — Ursula K. Le Guin
-
-That makes the machine's role concrete. It is an interface to the accumulated material of institutional life: old decisions, current rules, abandoned ambitions, and temporary workarounds. It can help us see what has accumulated and where the layers conflict. It cannot tell us which layer should bear weight now.
 
 The machine finds the cracks. Sometimes it finds an old one. Sometimes it widens one. Sometimes, by entering the institution, it makes a new one. Our responsibility is to tell the difference, then decide what should be repaired, what should remain provisional, and what should hold.
 
