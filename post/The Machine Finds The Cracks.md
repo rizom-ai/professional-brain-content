@@ -13,9 +13,9 @@ seriesIndex: 5
 atprotoUri: >-
   at://did:plc:dtxrise7xa4kat6mh4zd4lqe/ai.rizom.brain.post/The_Machine_Finds_The_Cracks
 ---
-Every institution has a documented version and a lived one. The documented version consists of policies, minutes, role descriptions, dashboards, and plans. The lived one includes the exceptions, judgments, private agreements, and improvised repairs through which work actually gets done. They overlap, but never completely.
+Every institution has a shadow twin. There is the official version that is documented in policies, minutes, role descriptions, dashboards, and plans. And then there is the lived one, which includes the exceptions, judgments, private agreements, and improvised repairs through which work actually gets done. The institution and its shadow overlap, but never completely.
 
-AI is trained on the first and expected to operate in the second. The distance between them is where the machine finds the cracks.
+AI is trained on the first, but finds itself expected to operate in the second. The distance between them is where the machine finds the cracks.
 
 The documented institution is the version designed to travel. It gives a school its procedures, a foundation its criteria, a public agency its mandates, and a company its account of who may decide what. Documents make coordination possible across time and distance. They preserve more than memory; they establish a record that can be inspected, taught, revised, and used by people who were not present when the work began.
 
