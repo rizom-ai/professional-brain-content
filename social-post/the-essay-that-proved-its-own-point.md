@@ -27,3 +27,5 @@ We like to call something a “source of truth,” as if authority guarantees ac
 Sometimes an institution doesn’t forget because its records are missing.
 
 Sometimes it remembers the wrong thing with perfect confidence.
+
+Read *Hiding in Plain Sight*: https://yeehaa.io/essays/hiding-in-plain-sight
