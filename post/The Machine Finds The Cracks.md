@@ -13,9 +13,9 @@ seriesIndex: 5
 atprotoUri: >-
   at://did:plc:dtxrise7xa4kat6mh4zd4lqe/ai.rizom.brain.post/The_Machine_Finds_The_Cracks
 ---
-Every institution has a shadow twin. There is the official version that is documented in policies, minutes, role descriptions, dashboards, and plans. And then there is the lived one, which includes the exceptions, judgments, private agreements, and improvised repairs through which work actually gets done. The institution and its shadow overlap, but never completely.
+Every institution has an official form and a shadow life. The official form is recorded in policies, minutes, role descriptions, dashboards, and plans. The shadow life consists of the exceptions, judgments, private agreements, and improvised repairs through which work actually gets done. One makes the institution legible; the other allows it to adapt. They depend on each other, but never fully coincide.
 
-AI is introduced through the first, but soon finds itself expected to operate in the second. The distance between them is where the machine finds the cracks.
+AI is introduced to the official form and expected to operate within the shadow life. The distance between them is where the machine finds the cracks.
 
 The documented institution is designed to travel. It gives a school its procedures, a foundation its criteria, a public agency its mandates, and a company its account of who may decide what. But documents do not simply describe the institution. A policy may record an intention rather than a settled practice. Minutes preserve what was said without preserving what changed anyone's mind. A role description names responsibility while actual authority rests elsewhere.
 
