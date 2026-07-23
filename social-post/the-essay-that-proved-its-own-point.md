@@ -2,6 +2,7 @@
 title: The Essay That Proved Its Own Point
 platform: linkedin
 status: draft
+coverImageId: hiding-in-plain-sight-cover-image
 ---
 Today, an essay I wrote about institutional memory disappeared from my website.
 
