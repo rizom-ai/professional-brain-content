@@ -35,7 +35,7 @@ AI can reveal an existing crack, amplify one through unwarranted fluency, or cre
 
 The distinction matters because not every failure proves an old institutional defect. The tool and the institution interact. A system may misread a clear record, or a clear-looking record may conceal an unresolved disagreement. The useful response is to examine both: what the system did, and what the institution had—or had not—made available for it to do responsibly.
 
-In Martin Heidegger's *The Question Concerning Technology*, he writes:
+In *The Question Concerning Technology*, Martin Heidegger writes:
 
 > The essence of technology is by no means anything technological.
 >
@@ -53,7 +53,7 @@ Building this memory is slower than adding a connector. It asks institutions to 
 
 AI can help with the repair because its failures make absences easier to see. A failed answer can point to a decision with no rationale, a policy whose status is unknown, or a category that different groups use differently. A fluent answer can be tested against its sources and authority rather than accepted for sounding complete. The system becomes useful not when it always produces an answer, but when it makes the limits of an answer legible enough for someone to act responsibly.
 
-In Ursula K. Le Guin's *A Rant About “Technology”*, she writes:
+In *A Rant About “Technology”*, Ursula K. Le Guin writes:
 
 > Technology is the active human interface with the material world.
 >
