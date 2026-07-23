@@ -43,7 +43,7 @@ In *The Question Concerning Technology*, Martin Heidegger puts the problem blunt
 
 > The essence of technology is by no means anything technological.
 >
-> —Martin Heidegger
+> — Martin Heidegger
 
 An apparent technical failure may disclose an institutional condition: not merely that a machine could not answer, but that the institution had never made the relevant reason, status, or authority available in a durable form.
 
