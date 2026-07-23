@@ -17,7 +17,7 @@ AI systems do not test every institution in the same way.
 
 They become most revealing where work depends on memory, judgment, and coordination: schools, public agencies, research groups, foundations, civic organizations, consultancies, cultural institutions, and the hybrid forms now emerging between them. These are not places where work can be reduced to output alone. Their real work is deciding what matters, remembering why it matters, and coordinating action among people who do not all know the same things at the same time.
 
-This is the next question after *Hiding in Plain Sight* and *A Colleague Without Context*. The problem is not simply that institutional knowledge remains hidden, or that an assistant lacks the context to behave like a colleague. It is what happens when a system is asked to retrieve that knowledge, explain a prior decision, recommend an action, or participate in a workflow—and discovers that the institution has not made the relevant context durable enough to travel.
+The problem is not simply that institutional knowledge remains hidden, or that an assistant lacks the context to behave like a colleague. It is what happens when a system is asked to retrieve that knowledge, explain a prior decision, recommend an action, or participate in a workflow—and discovers that the institution has not made the relevant context durable enough to travel.
 
 AI is interesting here not because it is intelligent in the way an institution should be intelligent. It is not a substitute for judgment, and it will not magically make organizations more efficient, innovative, or humane. It is revealing because it needs something from the institution before it can be useful.
 
@@ -45,7 +45,7 @@ But the qualification matters. When these systems fail, AI can reveal an existin
 
 It reveals an existing crack when the system makes a pre-existing ambiguity visible: a stale document still treated as policy, a decision without a recorded reason, a role that exists in the chart but not in practice. It amplifies a crack when its fluency gives weak or contradictory material an authority it did not previously possess. A polished answer can make an unsettled interpretation sound official. And it introduces a new crack when the system's own boundaries, permissions, or classifications create confusion that was not present before—when, for example, an assistant recommends an action without making clear whether it is retrieving precedent, applying policy, or exercising a new kind of judgment.
 
-This does not weaken the metaphor. It makes it more useful. The point is not that every failure proves an old institutional defect. The point is that failure gives us a chance to distinguish the condition of the institution from the behaviour of the tool, and to notice where the two begin to interact.
+The distinction makes the metaphor useful. Not every failure proves an old institutional defect. Failure gives us a chance to distinguish the condition of the institution from the behaviour of the tool, and to notice where the two begin to interact.
 
 In co-present institutions, much confusion is repaired informally. Someone knows who to ask. Someone remembers the exception. Someone translates an old document into current practice. Someone explains that the official process is not really how things work. These repairs are valuable, but they also conceal the condition of the institution. The organization continues because memory is carried by particular people, and because those people are willing to spend time making the missing context available.
 
@@ -65,14 +65,12 @@ Building this kind of memory is slower than adding a connector. It asks institut
 
 AI can help with that work. It can surface contradictions, find neglected precedents, show where a vocabulary fragments, and make the cost of missing context easier to see. A failed answer can be more valuable than a fluent one if it points to a decision that has no rationale or a policy whose status is unknown. The system becomes useful not when it always produces an answer, but when it makes the limits of the answer legible enough for someone to act responsibly.
 
-The fossil/interface image remains apt. An institution leaves behind layers of practice: old decisions, current rules, abandoned ambitions, temporary workarounds. The machine is an interface to that sediment. It can help us see the shape of what has accumulated, but it cannot tell us which layer should bear weight now. A fossil can be carefully rendered and still be a fossil.
+The institution leaves behind layers of practice: old decisions, current rules, abandoned ambitions, temporary workarounds. The machine is an interface to that sediment. It can help us see the shape of what has accumulated, but it cannot tell us which layer should bear weight now. A fossil can be carefully rendered and still be a fossil.
 
-The question, then, is not only how to make the AI better. It is also: what did the AI reveal about us? Did it reveal that our archive is unusable, that our roles are unclear, that our decisions do not travel, that our vocabulary is fragmented, or that our stated outcomes are too vague to guide action? Did it amplify a weakness through unwarranted fluency? Did the system introduce a new ambiguity about authority that we had not previously had to name?
+The useful questions are institutional ones. An unusable archive, unclear roles, decisions that do not travel, fragmented vocabulary, or vague outcomes each point to a different repair. Unwarranted fluency may amplify a weakness. The system may also introduce a new ambiguity about authority that the institution had not previously had to name.
 
 These are institutional questions that AI makes harder to ignore.
 
 The machine finds the cracks. Sometimes it finds an old one. Sometimes it widens one. Sometimes, by entering the building, it makes a new one. Our responsibility is to tell the difference, and then to decide what should be repaired, what should remain provisional, and what should hold.
 
-AI does not decide what should hold.
-
-That remains institutional work.
+AI does not decide what should hold. That remains institutional work.
