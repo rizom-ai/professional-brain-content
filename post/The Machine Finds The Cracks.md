@@ -59,7 +59,13 @@ Building this kind of memory is slower than adding a connector. It asks institut
 
 AI can help. It can surface contradictions, find neglected precedents, show where a vocabulary fragments, and make the cost of missing context easier to see. A failed answer can be more valuable than a fluent one if it points to a decision with no rationale or a policy whose status is unknown. The system becomes useful not when it always produces an answer, but when it makes the limits of the answer legible enough for someone to act responsibly.
 
-The institution leaves behind layers of practice: old decisions, current rules, abandoned ambitions, and temporary workarounds. The machine is an interface to that sediment. It can help us see the shape of what has accumulated, but it cannot tell us which layer should bear weight now. A fossil can be carefully rendered and still be a fossil.
+The institution leaves behind layers of practice: old decisions, current rules, abandoned ambitions, and temporary workarounds. Ursula K. Le Guin makes the relation more concrete in *A Rant About “Technology”*:
+
+> Technology is the active human interface with the material world.
+>
+> — Ursula K. Le Guin
+
+The machine is an interface to that sediment. It can help us see the shape of what has accumulated, but it cannot tell us which layer should bear weight now.
 
 The machine finds the cracks. Sometimes it finds an old one. Sometimes it widens one. Sometimes, by entering the building, it makes a new one. Our responsibility is to tell the difference, then decide what should be repaired, what should remain provisional, and what should hold.
 
