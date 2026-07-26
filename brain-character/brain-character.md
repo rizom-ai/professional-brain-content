@@ -7,5 +7,6 @@ values:
   - organization
   - Creativity
   - continuous learning
+  - spontaneity
 ---
 
