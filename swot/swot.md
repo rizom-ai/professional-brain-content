@@ -1,30 +1,26 @@
 ---
 strengths:
-  - title: Technology and culture analysis
+  - title: AI and agency analysis
     detail: >-
-      Use this as your core lens for essays, critiques, and technology strategy
-      involving knowledge, agency, and institutions.
-  - title: Knowledge infrastructure design
+      Use this capability to develop principles and critiques for human–AI
+      collaboration, especially where agency and organizational context are at
+      stake.
+  - title: Data-driven insight
     detail: >-
-      Use this to turn scattered material into structured, discoverable
-      knowledge that people and AI agents can use.
-  - title: Ecosystem architecture
+      Apply it to audits, classification work, and organizational records to
+      turn evidence into clearer decisions and expose blind spots.
+  - title: Knowledge-tool design
     detail: >-
-      Apply this integrative skill when shaping distributed projects that
-      connect people, tools, communities, and knowledge.
-weaknesses:
-  - title: Limited external reinforcement
-    detail: >-
-      Treat these capabilities as primarily your own for now, and do not assume
-      your network adds concrete expertise without confirming specific
-      collaborators.
+      Use it to improve Paper Tiger’s retrieval, context, and metadata so
+      captured knowledge becomes easier to reuse and showcase.
+weaknesses: []
 opportunities: []
 threats:
-  - title: Missing complementary expertise
+  - title: Missing external complement
     detail: >-
-      For work involving decentralized organization design, situated AI
-      strategy, knowledge infrastructure, or ecosystem architecture, seek
-      specific collaborators before relying on your network to extend the work.
-derivedAt: '2026-07-28T16:28:30.975Z'
+      Your network currently adds no documented skills beyond your own profile,
+      so test relationships that contribute capabilities you do not hold before
+      relying on them for collaboration.
+derivedAt: '2026-07-28T16:29:22.627Z'
 ---
 
