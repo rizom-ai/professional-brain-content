@@ -1,25 +1,26 @@
 ---
 strengths:
-  - title: Context-aware knowledge tools
+  - title: Software Architecture
     detail: >-
-      Use this as a core capability for Paper Tiger by testing whether preserved
-      context and improved retrieval help people act on institutional memory.
-  - title: Trustworthy AI architecture
+      Use your ability to connect data, tools, and distributed components when
+      turning complex requirements into modular system designs.
+  - title: Knowledge System Design
     detail: >-
-      Turn this into practical architecture reviews and clear principles for
-      making AI systems transparent, reliable, and trustworthy.
-  - title: Distributed learning and work
+      Apply your knowledge-system skills to concrete knowledge-base and
+      internal-search projects so institutional memory and missing context
+      become easier to use.
+  - title: Situated AI Strategy
     detail: >-
-      Apply this capability to design collaboration models that balance
-      autonomy, coordination, and shared context.
+      Use your understanding of context, agency, identity, and human
+      collaboration to define AI agent roles and collaboration principles.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Missing specialist perspectives
+  - title: External validation for specialized AI and ecosystem work
     detail: >-
-      Do not rely on your current network for capabilities absent from your
-      profile; deliberately build relationships that add specialist perspectives
-      to your knowledge-tool, AI, and distributed-work expertise.
-derivedAt: '2026-07-30T17:09:21.908Z'
+      Your current network does not show a clear capability to challenge or
+      complement your specialized AI and ecosystem ideas, so seek targeted peer
+      review before making them central to a project.
+derivedAt: '2026-07-30T17:10:13.079Z'
 ---
 
