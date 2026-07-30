@@ -1,25 +1,29 @@
 ---
 strengths:
-  - title: Critical technology essays
+  - title: Digital ecosystem design
     detail: >-
-      Use your essay writing as the primary way to explain technology’s social,
-      organizational, and human consequences.
-  - title: Human-AI system architecture
+      Use this skill to frame organizational and online-community challenges
+      involving learning, collaboration, and trust.
+  - title: Trustworthy system architecture
     detail: >-
-      Build this capability through concrete system-design projects and
-      documented patterns for roles, context, and reliable action.
-  - title: Trustworthy digital ecosystems
+      Lead architecture work involving adaptable, interoperable systems,
+      including combinations of agents and institutional data.
+  - title: Knowledge-tool development
     detail: >-
-      Apply this skill when evaluating identity, accountability, transparency,
-      and user-agency risks in digital systems.
-weaknesses: []
+      Apply this capability to Paper Tiger and related systems that turn
+      scattered data into usable knowledge and decisions.
+weaknesses:
+  - title: Limited external reinforcement
+    detail: >-
+      Seek deliberate review from collaborators when designing AI collaborators
+      or institutional-memory tools rather than treating your judgment as
+      independently validated.
 opportunities: []
 threats:
-  - title: Missing architecture complement
+  - title: Context-aware AI validation risk
     detail: >-
-      Do not rely on your current network for independent review or adjacent
-      expertise; seek a complementary systems perspective before high-stakes
-      decisions.
-derivedAt: '2026-07-30T17:07:44.422Z'
+      Test important AI designs with carefully chosen collaborators before
+      relying on them in meaningful organizational work.
+derivedAt: '2026-07-30T17:08:35.538Z'
 ---
 
