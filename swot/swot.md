@@ -1,25 +1,20 @@
 ---
 strengths:
-  - title: Digital knowledge architecture
+  - title: Emerging-technology writing
     detail: >-
-      Use this as a core capability when shaping Paper Tiger and designing
-      systems that connect, organize, and retrieve complex knowledge.
-  - title: Institutional memory analysis
+      Use your ability to turn AI, software, knowledge, and digital-trust ideas
+      into clear essays, arguments, and practical frameworks.
+  - title: Institutional-knowledge analysis
     detail: >-
-      Apply this skill to audit captured knowledge, identify gaps and
-      contradictions, and improve how easily it can be navigated.
-  - title: Digital trust strategy
+      Apply this skill to audit archives and knowledge bases, identify gaps and
+      risks, and guide concrete improvements.
+  - title: Knowledge-tool design
     detail: >-
-      Use your expertise in accountability, identity, governance, and
-      trustworthiness to guide the design of AI agents and knowledge systems.
+      Turn your analyses into practical workflows and tools that help people
+      capture, organize, retrieve, and apply institutional knowledge.
 weaknesses: []
 opportunities: []
-threats:
-  - title: Missing collaborative and AI-design reinforcement
-    detail: >-
-      Do not rely only on your own approaches to collaborative work models and
-      context-aware AI systems; build relationships with people who can
-      challenge and extend those designs.
-derivedAt: '2026-07-30T17:04:32.970Z'
+threats: []
+derivedAt: '2026-07-30T17:05:48.756Z'
 ---
 
