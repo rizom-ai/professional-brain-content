@@ -1,25 +1,25 @@
 ---
 strengths:
-  - title: Writing About Digital Futures
+  - title: Critical technology essays
     detail: >-
-      Use this as your primary way to turn complex ideas about AI, digital
-      trust, and organizational change into clear public-facing work.
-  - title: Analyzing Data-Driven Knowledge
+      Use your essay writing as the primary way to explain technology’s social,
+      organizational, and human consequences.
+  - title: Human-AI system architecture
     detail: >-
-      Build this through recurring archive audits that expose gaps and improve
-      the quality of decisions based on organizational knowledge.
-  - title: Architecting Situated AI Systems
+      Build this capability through concrete system-design projects and
+      documented patterns for roles, context, and reliable action.
+  - title: Trustworthy digital ecosystems
     detail: >-
-      Apply this when designing context-aware AI agents, testing their fit with
-      organizational settings, and defining responsible design principles.
+      Apply this skill when evaluating identity, accountability, transparency,
+      and user-agency risks in digital systems.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Designing Knowledge Tools
+  - title: Missing architecture complement
     detail: >-
-      Because your network offers no complementary tool-design skills, seek
-      specialized collaborators or test retrieval, context, and
-      institutional-memory designs directly with users.
-derivedAt: '2026-07-30T17:06:42.721Z'
+      Do not rely on your current network for independent review or adjacent
+      expertise; seek a complementary systems perspective before high-stakes
+      decisions.
+derivedAt: '2026-07-30T17:07:44.422Z'
 ---
 
