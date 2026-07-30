@@ -1,17 +1,19 @@
 ---
 name: Design Knowledge Tools
 description: >-
-  Create practical tools and workflows that help people capture, organize,
-  retrieve, and apply institutional knowledge.
+  Design knowledge tools that improve retrieval, context, collaboration, and
+  institutional memory.
 tags:
   - knowledge-base
-  - agents
   - retrieval
+  - agents
   - organization
-  - metadata
+  - ai
 examples:
-  - Design a knowledge tool for a distributed team.
-  - Suggest a workflow for capturing institutional memory.
-  - Create metadata fields for an organizational knowledge base.
+  - Design a knowledge tool for preserving institutional memory.
+  - >-
+    How should an AI assistant retrieve relevant context without overwhelming
+    users?
+  - Turn these organizational knowledge needs into a product concept.
 ---
 
