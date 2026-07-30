@@ -1,26 +1,25 @@
 ---
 strengths:
-  - title: AI and agency analysis
+  - title: Digital knowledge architecture
     detail: >-
-      Use this capability to develop principles and critiques for human–AI
-      collaboration, especially where agency and organizational context are at
-      stake.
-  - title: Data-driven insight
+      Use this as a core capability when shaping Paper Tiger and designing
+      systems that connect, organize, and retrieve complex knowledge.
+  - title: Institutional memory analysis
     detail: >-
-      Apply it to audits, classification work, and organizational records to
-      turn evidence into clearer decisions and expose blind spots.
-  - title: Knowledge-tool design
+      Apply this skill to audit captured knowledge, identify gaps and
+      contradictions, and improve how easily it can be navigated.
+  - title: Digital trust strategy
     detail: >-
-      Use it to improve Paper Tiger’s retrieval, context, and metadata so
-      captured knowledge becomes easier to reuse and showcase.
+      Use your expertise in accountability, identity, governance, and
+      trustworthiness to guide the design of AI agents and knowledge systems.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Missing external complement
+  - title: Missing collaborative and AI-design reinforcement
     detail: >-
-      Your network currently adds no documented skills beyond your own profile,
-      so test relationships that contribute capabilities you do not hold before
-      relying on them for collaboration.
-derivedAt: '2026-07-28T16:29:22.627Z'
+      Do not rely only on your own approaches to collaborative work models and
+      context-aware AI systems; build relationships with people who can
+      challenge and extend those designs.
+derivedAt: '2026-07-30T17:04:32.970Z'
 ---
 
