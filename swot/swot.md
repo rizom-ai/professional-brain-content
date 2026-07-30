@@ -1,26 +1,21 @@
 ---
 strengths:
-  - title: Software Architecture
+  - title: Critical technology writing
     detail: >-
-      Use your ability to connect data, tools, and distributed components when
-      turning complex requirements into modular system designs.
-  - title: Knowledge System Design
+      Use your clear, original analysis to turn research and project experience
+      into publishable work.
+  - title: Trustworthy system architecture
     detail: >-
-      Apply your knowledge-system skills to concrete knowledge-base and
-      internal-search projects so institutional memory and missing context
-      become easier to use.
-  - title: Situated AI Strategy
+      Apply your understanding of provenance, identity, and digital trust when
+      evaluating institutional memory, collaborative AI, or knowledge-system
+      designs.
+  - title: Context-aware knowledge tools
     detail: >-
-      Use your understanding of context, agency, identity, and human
-      collaboration to define AI agent roles and collaboration principles.
+      Use your ability to combine context, retrieval, and human agency as a core
+      design capability for better decision support.
 weaknesses: []
 opportunities: []
-threats:
-  - title: External validation for specialized AI and ecosystem work
-    detail: >-
-      Your current network does not show a clear capability to challenge or
-      complement your specialized AI and ecosystem ideas, so seek targeted peer
-      review before making them central to a project.
-derivedAt: '2026-07-30T17:10:13.079Z'
+threats: []
+derivedAt: '2026-07-30T17:50:58.405Z'
 ---
 
