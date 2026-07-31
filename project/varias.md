@@ -7,6 +7,7 @@ description: >-
   ("virtual team members") that became its core IP. As Chief Product Officer,
   Jan Hein owned both the product and the services methodology.
 year: 2022
+coverImageId: cover-varias
 ---
 ## Context
 
