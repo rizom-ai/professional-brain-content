@@ -1,25 +1,25 @@
 ---
 strengths:
-  - title: Knowledge-system architecture
+  - title: Organizational knowledge structuring
     detail: >-
-      Use your ability to make organizational knowledge structured, retrievable,
-      and durable as the foundation for Paper Tiger and related knowledge work.
-  - title: Data-to-decision synthesis
-    detail: >-
-      Apply your ability to turn scattered records into insights and actionable
-      decisions in strategic briefings and curated knowledge collections.
+      Use this capability as the foundation for Paper Tiger’s knowledge
+      curation, retrieval, and reusable institutional memory.
   - title: Context-aware AI design
     detail: >-
-      Use your understanding of institutional context, situated knowledge, and
-      human agency to define how AI should work with organizational knowledge.
+      Apply institutional memory, retrieval, and situational context directly to
+      Paper Tiger’s agent design to improve the reliability of its work.
+  - title: Critical technology writing
+    detail: >-
+      Use clear analysis of software, data, AI, and organizational change to
+      explain and showcase the thinking behind Paper Tiger.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Distributed collaboration
+  - title: Missing complementary network skills
     detail: >-
-      Do not assume your network can add practical facilitation or
-      cross-organization collaboration expertise; test this through a concrete
-      project and identify the missing skills afterward.
-derivedAt: '2026-07-31T05:24:26.455Z'
+      Do not rely on the current network for research, facilitation, workflow,
+      video, or visualization; test or develop one of these complements before
+      expanding the work.
+derivedAt: '2026-07-31T16:47:40.973Z'
 ---
 
