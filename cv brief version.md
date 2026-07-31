@@ -33,7 +33,7 @@ Postdoctoral research fellowship in art theory and cultural analysis.
 
 ## Education
 
-**Ph.D. in Philosophy and Media Studies** — Utrecht University & Humboldt-Universität zu Berlin *(2001–2005)*
+**Ph.D. in Philosophy** — Utrecht University, in a joint doctoral trajectory with Humboldt-Universität zu Berlin (Media Studies) *(2001–2005)*
 
 **Drs. (BA/MA) in Philosophy** — Utrecht University *(1995–2000)*; minor in gender studies and cognitive artificial intelligence
 
