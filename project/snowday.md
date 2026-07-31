@@ -7,6 +7,7 @@ description: >-
   the US. As co-founder & CTO, Jan Hein built the technical architecture and the
   infrastructure to support rapid scaling.
 year: 2022
+coverImageId: cover-snowday
 url: 'https://snow.day'
 ---
 ## Context
