@@ -1,25 +1,29 @@
 ---
 strengths:
-  - title: Write Technology Essays
+  - title: Data-driven explanation
     detail: >-
-      Use your essays to explain complex links among software design, data, AI,
-      and organizational change in a clear, reflective way.
-  - title: Architect Knowledge Systems
+      Use your ability to turn data, machine-learning concepts, and
+      organizational knowledge into clear recommendations and publishable work.
+  - title: Knowledge-tool architecture
     detail: >-
-      Apply this skill to durable knowledge bases and fragmented records, where
-      organizing and connecting information is the central challenge.
-  - title: Design Context-Aware AI
+      Turn recurring capture, retrieval, and reuse practices into tools or
+      architectures that support your ongoing work.
+  - title: Context-aware AI design
     detail: >-
-      Use this capability on concrete AI collaboration problems that require
-      institutional memory, situational context, and human agency.
-weaknesses: []
+      Apply your understanding of institutional memory and human agency when
+      shaping AI systems for organizational settings.
+weaknesses:
+  - title: Distributed-collaboration testing
+    detail: >-
+      Pair your collaboration-design skills with someone who can test them in
+      real distributed-work or online-learning settings.
 opportunities: []
 threats:
-  - title: Limited external reinforcement
+  - title: Implementation support
     detail: >-
-      Do not rely on your current network to validate or pressure-test work in
-      decentralized collaboration, digital trust, knowledge architecture, or
-      context-aware AI.
-derivedAt: '2026-07-31T16:50:03.828Z'
+      Avoid relying on your current network to challenge, operationalize, or
+      independently validate your work until complementary implementation skills
+      are added.
+derivedAt: '2026-07-31T17:10:57.974Z'
 ---
 
