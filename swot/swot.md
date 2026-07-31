@@ -1,25 +1,25 @@
 ---
 strengths:
-  - title: Organizational knowledge structuring
+  - title: Write Technology Essays
     detail: >-
-      Use this capability as the foundation for Paper Tiger’s knowledge
-      curation, retrieval, and reusable institutional memory.
-  - title: Context-aware AI design
+      Use your essays to explain complex links among software design, data, AI,
+      and organizational change in a clear, reflective way.
+  - title: Architect Knowledge Systems
     detail: >-
-      Apply institutional memory, retrieval, and situational context directly to
-      Paper Tiger’s agent design to improve the reliability of its work.
-  - title: Critical technology writing
+      Apply this skill to durable knowledge bases and fragmented records, where
+      organizing and connecting information is the central challenge.
+  - title: Design Context-Aware AI
     detail: >-
-      Use clear analysis of software, data, AI, and organizational change to
-      explain and showcase the thinking behind Paper Tiger.
+      Use this capability on concrete AI collaboration problems that require
+      institutional memory, situational context, and human agency.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Missing complementary network skills
+  - title: Limited external reinforcement
     detail: >-
-      Do not rely on the current network for research, facilitation, workflow,
-      video, or visualization; test or develop one of these complements before
-      expanding the work.
-derivedAt: '2026-07-31T16:47:40.973Z'
+      Do not rely on your current network to validate or pressure-test work in
+      decentralized collaboration, digital trust, knowledge architecture, or
+      context-aware AI.
+derivedAt: '2026-07-31T16:50:03.828Z'
 ---
 
