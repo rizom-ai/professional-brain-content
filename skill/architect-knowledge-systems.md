@@ -1,17 +1,19 @@
 ---
 name: Architect Knowledge Systems
 description: >-
-  Create software and information architectures that organize, retrieve, and
-  connect knowledge across distributed environments.
+  Create software and knowledge architectures that organize, retrieve, and
+  connect distributed information across digital ecosystems.
 tags:
   - architecture
   - knowledge-base
   - retrieval
-  - software-design
   - organization
+  - data
 examples:
-  - Design an architecture for an institutional knowledge system.
-  - How can we improve retrieval across fragmented organizational records?
-  - Compare architectural approaches for a durable knowledge base.
+  - Propose an architecture for a searchable institutional memory system.
+  - How should we structure knowledge so agents can retrieve the right context?
+  - >-
+    Compare centralized and distributed approaches to organizing organizational
+    knowledge.
 ---
 
