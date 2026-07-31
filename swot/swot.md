@@ -1,28 +1,25 @@
 ---
 strengths:
-  - title: Knowledge tool architecture
+  - title: Knowledge-system architecture
     detail: >-
-      Use your ability to structure, retrieve, and apply institutional knowledge
-      as a core capability for Paper Tiger and related workflows.
-  - title: Digital ecosystem strategy
+      Use your ability to make organizational knowledge structured, retrievable,
+      and durable as the foundation for Paper Tiger and related knowledge work.
+  - title: Data-to-decision synthesis
     detail: >-
-      Apply your strength in interoperable ecosystems when choosing platforms
-      and designing collaboration structures that preserve user agency.
+      Apply your ability to turn scattered records into insights and actionable
+      decisions in strategic briefings and curated knowledge collections.
   - title: Context-aware AI design
     detail: >-
-      Develop this as a distinctive foundation for AI collaboration that
-      respects institutional context, situated knowledge, and human agency.
-weaknesses:
-  - title: Data-driven sensemaking
-    detail: >-
-      Treat this capability as primarily owner-dependent and validate analyses
-      of historical or operational data carefully before acting on them.
+      Use your understanding of institutional context, situated knowledge, and
+      human agency to define how AI should work with organizational knowledge.
+weaknesses: []
 opportunities: []
 threats:
-  - title: Context-aware AI design
+  - title: Distributed collaboration
     detail: >-
-      Do not rely on your network to test or extend AI collaboration designs
-      until you establish a suitable complementary capability.
-derivedAt: '2026-07-31T05:02:02.601Z'
+      Do not assume your network can add practical facilitation or
+      cross-organization collaboration expertise; test this through a concrete
+      project and identify the missing skills afterward.
+derivedAt: '2026-07-31T05:24:26.455Z'
 ---
 
