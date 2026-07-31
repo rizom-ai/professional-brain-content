@@ -1,12 +1,12 @@
 ## Professional Experience
 
-**Rizom — Founder** *(January 2024 – Present | Rotterdam / Taipei)*
+**Rizom — Founder** *(January 2024 – Present | Taipei / Rotterdam)*
 
 Founded Rizom to research and build infrastructure for institutional knowledge coordination — specifically, how organizations diagnose and repair the gap between their formal structure (roles, policies, procedures) and the informal knowledge, memory, and coordination that actually keeps them running. Leads the development of Transactive Memory Systems (TMS), a diagnostic methodology adapted from organizational psychology, alongside an AI agent suite for organizational knowledge coordination. The Rizom Foundation (non-profit) supports projects into institutional design, and stewards open-source AI infrastructure.
 
 For example, Jan Hein was engaged as ecosystem architect for transportation sharing software Weave, applying TMS methodology to strengthen the organization's expert positioning in software engineering and to develop international partnerships aligned with its values-based mission.
 
-**Offcourse — Founder** *(June 2013 – December 2024 | Rotterdam / Taipei)*
+**Offcourse — Founder** *(June 2013 – December 2024 | Taipei / Rotterdam)*
 Founded and led an open-source platform for collaborative online learning. Offcourse pioneered crowdlearning — enabling practitioners to curate, structure, and share knowledge across distributed networks. Relaunched in December 2023 with a focus on AI-assisted knowledge coordination.
 
 **Superconnectors Network — Founder & Chief Vision Officer** *(May 2021 – Present | Rotterdam)*
