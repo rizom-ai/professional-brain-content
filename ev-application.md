@@ -10,7 +10,7 @@ Emergent Ventures (Mercatus Center) grant application draft. Form: https://merca
 - Tweet description (below)
 - Proposal: max 1500 words (draft ~650 below)
 - Estimated budget + breakdown (below)
-- Four upload slots: white paper + 2-page CV (CV trim still pending)
+- Four upload slots (accepts doc/docx/images, NOT pdf): use `~/Documents/datacampus-pitch/jan-hein-hoogstad-cv-grants.png` (branded) or `.docx` (plain), plus white paper as docx
 - Multimedia URL: yeehaa.io/dashboard
 
 ## Tweet description
@@ -39,9 +39,9 @@ I am a philosopher turned builder. I taught cultural analysis at the University 
 
 ## Checklist before submitting
 
-- [ ] Trim CV to 2 pages (also needed for other applications)
+- [x] CV ready — branded one-pager updated with contact line + brains repo; rendered as PDF, PNG (for EV's no-pdf upload slots), and docx at `~/Documents/datacampus-pitch/jan-hein-hoogstad-cv-grants.*` (2026-08-03)
 - [ ] Decide affected region: Europe vs No specified area
-- [ ] Attach white paper + CV in upload slots
+- [ ] Convert white paper to docx for upload slot (EV accepts no pdf) — or rely on multimedia URL
 - [ ] Final read-aloud pass on tweet + proposal
 
 Related: grants-pipeline, cht-machine-proposal
