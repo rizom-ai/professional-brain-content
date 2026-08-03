@@ -1,20 +1,20 @@
 ---
 strengths:
-  - title: Technology essays
+  - title: Strategic technology writing
     detail: >-
-      Use your essays to connect AI, software, learning, research, and
-      technology’s social consequences into a coherent body of work.
+      Use your ability to turn research and experience into clear essays as the
+      primary way to clarify and communicate Paper Tiger’s ideas.
+weaknesses:
   - title: Knowledge-system architecture
     detail: >-
-      Use this capability as Paper Tiger’s structural foundation for organizing,
-      connecting, and preserving knowledge as it evolves.
-  - title: Context-aware AI design
-    detail: >-
-      Turn this into concrete designs that combine institutional memory,
-      context, and human agency to support reliable collaboration.
-weaknesses: []
+      Deepen your independent capability and seek complementary expertise before
+      taking on complex knowledge-system implementations.
 opportunities: []
-threats: []
-derivedAt: '2026-08-03T10:10:28.092Z'
+threats:
+  - title: Context-aware AI delivery
+    detail: >-
+      Do not rely on your current network to execute context-aware AI work; add
+      collaborators before moving from design principles into delivery.
+derivedAt: '2026-08-03T10:11:37.696Z'
 ---
 
