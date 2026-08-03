@@ -1,9 +1,11 @@
-# Jan Hein Hoogstad CV
+# Jan Hein Hoogstad
+
+yeehaa@offcourse.io · yeehaa.io · github.com/rizom-ai · Taipei / Rotterdam
 
 ## Professional Experience
 
 **Rizom — Founder & CEO** *(January 2024 – Present | Taipei / Rotterdam)*
-Institutional knowledge infrastructure: the TMS diagnostic methodology and an AI agent suite for organizational coordination, alongside a talent community connecting practitioners across the ecosystem, plus a foundation supporting institutional-design research and open-source AI infrastructure.
+Institutional knowledge infrastructure: the TMS diagnostic methodology and an AI agent suite for organizational coordination, alongside a talent community connecting practitioners across the ecosystem, plus a foundation supporting institutional-design research and open-source AI infrastructure. Core infrastructure is developed in the open at github.com/rizom-ai/brains.
 
 **Superconnectors Network — Founder & Chief Vision Officer** *(May 2021 – Present | Rotterdam)*
 Matchmaking event format connecting startup founders with high-value connectors; expanded across the Netherlands and to Japan, growing into a global community of 1,000+ members.
