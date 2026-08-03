@@ -1,25 +1,21 @@
 ---
 strengths:
-  - title: Design Context-Aware AI
+  - title: Strategic technology writing
     detail: >-
-      Use your ability to combine situated context, institutional memory, and
-      human agency when shaping trustworthy AI collaboration.
-  - title: Develop Digital Trust
+      Use this as your primary way to turn ideas about technology,
+      organizations, and social impact into clear public work.
+  - title: Digital ecosystem analysis
     detail: >-
-      Apply your understanding of identity, transparency, governance, and
-      accountability to AI agents and decentralized ecosystems.
-  - title: Build Knowledge Tools
+      Apply this before committing to organizational or technology choices so
+      you can expose power dynamics, gaps, opportunities, and tradeoffs.
+  - title: Knowledge-tool architecture
     detail: >-
-      Use your knowledge-tool skills to make Paper Tiger more effective at
-      organizing, retrieving, and applying professional knowledge.
+      Use this to turn institutional memory and professional content into
+      reusable systems that organize data, support collaboration, and reveal
+      relationships.
 weaknesses: []
 opportunities: []
-threats:
-  - title: Missing external skill complement
-    detail: >-
-      Do not assume your network adds expertise yet; seek collaborators with
-      complementary skills before accepting work that requires capabilities
-      beyond your own.
-derivedAt: '2026-08-03T08:25:25.054Z'
+threats: []
+derivedAt: '2026-08-03T08:26:30.480Z'
 ---
 
