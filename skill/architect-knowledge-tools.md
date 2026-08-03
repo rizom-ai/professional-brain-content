@@ -1,16 +1,16 @@
 ---
 name: Architect Knowledge Tools
 description: >-
-  Create software and knowledge-tool architectures that turn fragmented
-  information into usable, trustworthy systems.
+  Create software and knowledge architectures that turn distributed data and
+  institutional memory into usable tools.
 tags:
   - architecture
   - knowledge-base
   - data
-  - best-practices
+  - organization
 examples:
-  - Propose an architecture for an institutional memory system.
-  - Help me turn scattered documents into a searchable knowledge tool.
-  - What design patterns would make this knowledge system easier to maintain?
+  - Sketch an architecture for an institutional memory system.
+  - How can we structure a knowledge base for future AI agents?
+  - What design patterns help connect scattered organizational data?
 ---
 

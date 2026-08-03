@@ -1,16 +1,18 @@
 ---
 name: Design Context-Aware AI
 description: >-
-  Design and critique AI systems that use institutional context, agency, and
-  situated knowledge to support human work.
+  Design and evaluate AI systems that preserve institutional context, agency,
+  and useful organizational memory.
 tags:
   - ai
-  - agents
   - context
+  - agents
   - knowledge-base
 examples:
-  - Help me design an AI colleague that preserves organizational context.
-  - Analyze how agency should shape an AI collaboration tool.
-  - What information does an AI system need to act appropriately in a workplace?
+  - >-
+    How should we design an AI colleague that understands organizational
+    context?
+  - Analyze the risks of deploying AI without institutional memory.
+  - What principles should guide situated AI systems?
 ---
 
