@@ -11,7 +11,7 @@ Two pitch lanes:
 | Opportunity | Money | Deadline | Lane | Status |
 |---|---|---|---|---|
 | Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
-| Cosmos Institute Fellowship | $75k/yr | EOI open now, rolling | A+B | ✍ drafted — see cosmos-eoi; need their Airtable form fields |
+| Cosmos Institute (interest form) | $75k/yr fellowship + smaller grant rounds | EOI rolling; fellowship window not yet open | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
 | Stimuleringsfonds Digital Culture | €25k solo / €50k w. partners | Opens Aug 12, **closes Aug 19** | A | ☐ urgent — Dutch KvK ✓, 20% co-financing needed |
 | SIDN fonds Pioniers | ~€10k | Rolling, 6-week response | B | ☐ low effort |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
@@ -46,9 +46,9 @@ Individual and organisation are separate third parties (€500k lifetime cap eac
 ## Reusable assets (all in ~/Documents/datacampus-pitch/)
 
 - CV: `jan-hein-hoogstad-cv-grants.{pdf,png,docx}` — branded one-pager, contact = yeehaa@rizom.ai, brains repo named
-- Writing sample: `jan-hein-hoogstad-writing-sample.{html,docx}` — New Institutions essays; intro is CHT-specific ("two proposals") in the html, re-pointed to a single proposal in the current docx — re-check intro per target before reuse
+- Writing sample: `jan-hein-hoogstad-writing-sample.{html,docx}` — New Institutions essays; intro re-pointed to a single proposal in the current docx — re-check intro per target before reuse
 - White paper: `institutions-that-can-carry-themselves.docx`
-- EV final proposal text: `ev-proposal-draft.md`
+- EV final proposal text: `ev-proposal-draft.md` · Cosmos: `cosmos-eoi-draft.md`
 - Note: EV forms and some funders reject PDF — keep docx/png versions ready
 
 ## Dead ends (verified, don't revisit)
