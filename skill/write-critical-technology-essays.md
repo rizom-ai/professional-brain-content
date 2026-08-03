@@ -1,17 +1,21 @@
 ---
 name: Write Critical Technology Essays
 description: >-
-  Write clear, thought-provoking essays that connect software, data, AI,
-  institutional memory, and social change.
+  Write clear, reflective arguments about technology, organizational memory,
+  software tools, and the social consequences of AI.
 tags:
   - ai
-  - data
-  - knowledge-base
   - digital-trust
-  - architecture
+  - organization
+  - knowledge-base
+  - data
 examples:
-  - Draft an essay about what AI reveals in an organization’s archive.
-  - Turn these ideas about data-driven knowledge into a publishable article.
-  - Write a critical reflection on why tools shape the problems we see.
+  - >-
+    Turn these notes into an essay about AI exposing gaps in institutional
+    memory.
+  - >-
+    Write a critical piece on why better tools do not automatically create
+    better organizations.
+  - Help me develop an argument about the limits of data-driven knowledge.
 ---
 
