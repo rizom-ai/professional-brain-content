@@ -10,8 +10,8 @@ Two pitch lanes:
 
 | Opportunity | Money | Deadline | Lane | Status |
 |---|---|---|---|---|
-| Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✍ drafted — see ev-application |
-| Cosmos Institute Fellowship | $75k/yr | EOI open now, rolling | A+B | ✍ drafted — see cosmos-eoi |
+| Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
+| Cosmos Institute Fellowship | $75k/yr | EOI open now, rolling | A+B | ✍ drafted — see cosmos-eoi; need their Airtable form fields |
 | Stimuleringsfonds Digital Culture | €25k solo / €50k w. partners | Opens Aug 12, **closes Aug 19** | A | ☐ urgent — Dutch KvK ✓, 20% co-financing needed |
 | SIDN fonds Pioniers | ~€10k | Rolling, 6-week response | B | ☐ low effort |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
@@ -43,16 +43,16 @@ Two pitch lanes:
 
 Individual and organisation are separate third parties (€500k lifetime cap each); no rule against multiple proposals. But same-work-twice reads as cap-gaming. Plan: **Rizom applies for the brains reference implementation** (code, deployment); **Jan Hein applies personally for the situated-agent design standard** (spec, documentation, standards work). Distinct deliverables, relationship disclosed in both. Email NLnet before Sep 3 to confirm the approach.
 
+## Reusable assets (all in ~/Documents/datacampus-pitch/)
+
+- CV: `jan-hein-hoogstad-cv-grants.{pdf,png,docx}` — branded one-pager, contact = yeehaa@rizom.ai, brains repo named
+- Writing sample: `jan-hein-hoogstad-writing-sample.{html,docx}` — New Institutions essays; intro is CHT-specific ("two proposals") in the html, re-pointed to a single proposal in the current docx — re-check intro per target before reuse
+- White paper: `institutions-that-can-carry-themselves.docx`
+- EV final proposal text: `ev-proposal-draft.md`
+- Note: EV forms and some funders reject PDF — keep docx/png versions ready
+
 ## Dead ends (verified, don't revisit)
 
 NWO (needs tenure-track post) · Prototype Fund (Germany-only) · Volkswagen/Bosch Stiftung · Waag/PublicSpaces (recipients not funders) · Ada Lovelace/Nesta/JRF (no open calls) · AI2050 (early-career only, PhD 2005 too old) · Tarbell (newsroom placement) · Mozilla MOSS/MTF (discontinued/folded) · OTF (unstable, wrong angle) · Sloan Better Software (closed) · GitHub Secure OSS Fund (security-hardening only) · CZI/OSTIF (science-OSS/security niches) · Knight (US nonprofits) · Aspen S&T (US only) · Data & Society (no open cohort) · FLI (funds allocated) · Open Phil AI Governance RFP (closed Jan 2026)
 
-## Reusable asset kit
-
-1. Problem modules: outsourced institution (TMS) + responsibility laundering (Nissenbaum→Elish, MIT/RAND data) as ~300-word blocks
-2. Method module: open-notebook, provenance-tracked research (yeehaa.io/dashboard)
-3. Artifact module: brains repo + situated-agent spec (deliverable in Lane B, method in Lane A)
-4. Fit module: philosopher-builder, "insider of the deployment layer"
-5. All citations verified during CHT prep — reuse freely
-
-Related: grants-pipeline drafts — ev-application, cosmos-eoi · CHT sources — cht-cognition-proposal, cht-machine-proposal, cht-video-script
+Related: ev-application, cosmos-eoi · CHT sources — cht-cognition-proposal, cht-machine-proposal, cht-video-script
