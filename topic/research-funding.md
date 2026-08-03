@@ -1,0 +1,4 @@
+---
+title: Research Funding
+---
+The content focuses on building a diversified research and innovation funding pipeline across fellowships, grants, philanthropic programs, and public funding schemes. It distinguishes between research-oriented proposals on outsourced institutions and responsibility laundering, and infrastructure-oriented proposals involving open-source repositories and situated-agent standards. The strategy emphasizes reusing modular application assets, including problem statements, research methods, artifacts, and researcher profiles. Opportunities are evaluated by eligibility, funding size, deadlines, thematic fit, and administrative requirements. The pipeline also records unsuitable or closed programs to prevent repeated effort. This reflects a broader practice of systematically matching intellectual work to external funding ecosystems.
