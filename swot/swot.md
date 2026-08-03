@@ -1,26 +1,25 @@
 ---
 strengths:
-  - title: Curate Data-Driven Knowledge
+  - title: Strategic technology writing
     detail: >-
-      Use this strength to turn research and archival material into briefs,
-      institutional memory, and usable knowledge systems.
-  - title: Architect Knowledge Tools
+      Use your ability to connect architecture, data, AI, and social
+      implications to clarify complex ideas and publish them for professional
+      audiences.
+  - title: Institutional knowledge organization
     detail: >-
-      Apply this capability directly to Paper Tiger so its knowledge
-      architecture makes distributed information easier to use.
-  - title: Design Context-Aware AI
+      Apply your ability to turn scattered archives and organizational memory
+      into usable structures when developing Paper Tiger’s knowledge practices.
+  - title: Context-aware AI design
     detail: >-
-      Use this distinctive combination of AI design and knowledge management
-      when building systems that preserve context, agency, and organizational
-      memory.
+      Use institutional memory and human agency as core design requirements when
+      developing AI and knowledge tools.
 weaknesses: []
 opportunities: []
 threats:
-  - title: No external capability complement
+  - title: Missing external challenge
     detail: >-
-      Do not assume your current network will add expertise or challenge your
-      assumptions; seek collaborators when a project needs capabilities beyond
-      your own.
-derivedAt: '2026-08-03T08:45:02.499Z'
+      Because no outside AI or ecosystem expertise is documented, seek adjacent
+      collaborators to test and extend your designs before major implementation.
+derivedAt: '2026-08-03T08:54:24.780Z'
 ---
 
