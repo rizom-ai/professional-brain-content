@@ -2,28 +2,20 @@
 strengths:
   - title: Critical technology writing
     detail: >-
-      Use your essays to make complex connections among software, data, AI,
-      institutional memory, and social change understandable to others.
-  - title: Knowledge-tool architecture
+      Use your reflective writing to explain the organizational and social
+      consequences of AI and sharpen decisions about the work.
+  - title: Knowledge-system architecture
     detail: >-
-      Rely on this skill when shaping Paper Tiger or designing systems that
-      organize, retrieve, and connect changing knowledge.
-  - title: Digital-trust analysis
+      Use your architecture skills to build durable knowledge bases that
+      preserve and retrieve institutional memory as environments change.
+  - title: Context-aware AI design
     detail: >-
-      Use your frameworks to test whether AI collaboration protects identity,
-      agency, transparency, accountability, and human trust.
-weaknesses:
-  - title: Situated AI reinforcement
-    detail: >-
-      Develop and test your situated-AI work through deliberate collaboration or
-      independent experiments rather than relying on your current network.
+      Apply institutional context, memory, and agency as core design
+      requirements when developing or evaluating AI colleagues and other
+      situated systems.
+weaknesses: []
 opportunities: []
-threats:
-  - title: Digital-trust counterperspectives
-    detail: >-
-      Before making high-stakes decisions about digital trust, agents, or AI
-      systems, recruit collaborators who can challenge, extend, or validate your
-      approach.
-derivedAt: '2026-08-03T08:12:57.928Z'
+threats: []
+derivedAt: '2026-08-03T08:22:45.942Z'
 ---
 
