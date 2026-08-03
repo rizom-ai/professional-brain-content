@@ -1,6 +1,6 @@
 # Jan Hein Hoogstad
 
-yeehaa@offcourse.io · yeehaa.io · github.com/rizom-ai · Taipei / Rotterdam
+yeehaa@rizom.ai · yeehaa.io · github.com/rizom-ai · Taipei / Rotterdam
 
 ## Professional Experience
 
