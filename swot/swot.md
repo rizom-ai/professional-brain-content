@@ -1,25 +1,26 @@
 ---
 strengths:
-  - title: Extract Insight from Data
+  - title: Curate Data-Driven Knowledge
     detail: >-
-      Use this skill to turn archives and datasets into concise findings about
-      patterns, gaps, and next actions.
+      Use this strength to turn research and archival material into briefs,
+      institutional memory, and usable knowledge systems.
   - title: Architect Knowledge Tools
     detail: >-
-      Rely on this capability to structure scattered documents and institutional
-      memory into usable, trustworthy knowledge tools.
+      Apply this capability directly to Paper Tiger so its knowledge
+      architecture makes distributed information easier to use.
   - title: Design Context-Aware AI
     detail: >-
-      Apply this when designing or reviewing AI collaborators that must preserve
-      institutional context and support human agency.
+      Use this distinctive combination of AI design and knowledge management
+      when building systems that preserve context, agency, and organizational
+      memory.
 weaknesses: []
 opportunities: []
 threats:
-  - title: Limited specialist reinforcement
+  - title: No external capability complement
     detail: >-
-      Do not assume your current network can complement these capabilities; seek
-      collaborators or reviewers with relevant expertise before work depends on
-      outside input.
-derivedAt: '2026-08-03T08:33:43.798Z'
+      Do not assume your current network will add expertise or challenge your
+      assumptions; seek collaborators when a project needs capabilities beyond
+      your own.
+derivedAt: '2026-08-03T08:45:02.499Z'
 ---
 
