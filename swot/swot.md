@@ -1,21 +1,25 @@
 ---
 strengths:
-  - title: Strategic technology writing
+  - title: Extract Insight from Data
     detail: >-
-      Use this as your primary way to turn ideas about technology,
-      organizations, and social impact into clear public work.
-  - title: Digital ecosystem analysis
+      Use this skill to turn archives and datasets into concise findings about
+      patterns, gaps, and next actions.
+  - title: Architect Knowledge Tools
     detail: >-
-      Apply this before committing to organizational or technology choices so
-      you can expose power dynamics, gaps, opportunities, and tradeoffs.
-  - title: Knowledge-tool architecture
+      Rely on this capability to structure scattered documents and institutional
+      memory into usable, trustworthy knowledge tools.
+  - title: Design Context-Aware AI
     detail: >-
-      Use this to turn institutional memory and professional content into
-      reusable systems that organize data, support collaboration, and reveal
-      relationships.
+      Apply this when designing or reviewing AI collaborators that must preserve
+      institutional context and support human agency.
 weaknesses: []
 opportunities: []
-threats: []
-derivedAt: '2026-08-03T08:26:30.480Z'
+threats:
+  - title: Limited specialist reinforcement
+    detail: >-
+      Do not assume your current network can complement these capabilities; seek
+      collaborators or reviewers with relevant expertise before work depends on
+      outside input.
+derivedAt: '2026-08-03T08:33:43.798Z'
 ---
 
