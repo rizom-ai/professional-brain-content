@@ -1,29 +1,29 @@
 ---
 strengths:
-  - title: Data-driven explanation
+  - title: Critical technology writing
     detail: >-
-      Use your ability to turn data, machine-learning concepts, and
-      organizational knowledge into clear recommendations and publishable work.
+      Use your essays to make complex connections among software, data, AI,
+      institutional memory, and social change understandable to others.
   - title: Knowledge-tool architecture
     detail: >-
-      Turn recurring capture, retrieval, and reuse practices into tools or
-      architectures that support your ongoing work.
-  - title: Context-aware AI design
+      Rely on this skill when shaping Paper Tiger or designing systems that
+      organize, retrieve, and connect changing knowledge.
+  - title: Digital-trust analysis
     detail: >-
-      Apply your understanding of institutional memory and human agency when
-      shaping AI systems for organizational settings.
+      Use your frameworks to test whether AI collaboration protects identity,
+      agency, transparency, accountability, and human trust.
 weaknesses:
-  - title: Distributed-collaboration testing
+  - title: Situated AI reinforcement
     detail: >-
-      Pair your collaboration-design skills with someone who can test them in
-      real distributed-work or online-learning settings.
+      Develop and test your situated-AI work through deliberate collaboration or
+      independent experiments rather than relying on your current network.
 opportunities: []
 threats:
-  - title: Implementation support
+  - title: Digital-trust counterperspectives
     detail: >-
-      Avoid relying on your current network to challenge, operationalize, or
-      independently validate your work until complementary implementation skills
-      are added.
-derivedAt: '2026-07-31T17:10:57.974Z'
+      Before making high-stakes decisions about digital trust, agents, or AI
+      systems, recruit collaborators who can challenge, extend, or validate your
+      approach.
+derivedAt: '2026-08-03T08:12:57.928Z'
 ---
 
