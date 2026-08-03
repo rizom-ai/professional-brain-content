@@ -1,25 +1,22 @@
 ---
 strengths:
-  - title: Critical technology writing
+  - title: Trust and ecosystem analysis
     detail: >-
-      Use your ability to connect AI, software, organizations, and social
-      consequences to turn complex ideas into clear professional work.
-  - title: Knowledge-tool architecture
+      Use your ability to connect trust, identity, learning, and work practices
+      as a core lens for essays, ecosystem assessments, and
+      organizational-design work.
+  - title: Interoperable software architecture
     detail: >-
-      Use this skill to shape Paper Tiger and build systems that organize
-      information, reveal relationships, and support collaboration.
-  - title: Situated AI design
+      Apply your architectural skill to compare resilient patterns and design
+      interoperable, data-driven knowledge services.
+  - title: Actionable knowledge systems
     detail: >-
-      Apply your understanding of organizational context, institutional memory,
-      and human agency when turning AI concepts into practical systems.
+      Use your ability to turn institutional memory into inspectable tools to
+      strengthen Paper Tiger’s organization, capture, and presentation of
+      knowledge.
 weaknesses: []
 opportunities: []
-threats:
-  - title: Missing digital-trust and ecosystem complements
-    detail: >-
-      Before expanding into digital-trust frameworks or plural work ecosystems,
-      seek collaborators who can add practical identity, accountability, and
-      decentralized-participation expertise.
-derivedAt: '2026-08-03T10:32:28.007Z'
+threats: []
+derivedAt: '2026-08-03T10:51:48.217Z'
 ---
 
