@@ -1,21 +1,25 @@
 ---
 strengths:
-  - title: Critical technology writing
+  - title: Design Context-Aware AI
     detail: >-
-      Use your reflective writing to explain the organizational and social
-      consequences of AI and sharpen decisions about the work.
-  - title: Knowledge-system architecture
+      Use your ability to combine situated context, institutional memory, and
+      human agency when shaping trustworthy AI collaboration.
+  - title: Develop Digital Trust
     detail: >-
-      Use your architecture skills to build durable knowledge bases that
-      preserve and retrieve institutional memory as environments change.
-  - title: Context-aware AI design
+      Apply your understanding of identity, transparency, governance, and
+      accountability to AI agents and decentralized ecosystems.
+  - title: Build Knowledge Tools
     detail: >-
-      Apply institutional context, memory, and agency as core design
-      requirements when developing or evaluating AI colleagues and other
-      situated systems.
+      Use your knowledge-tool skills to make Paper Tiger more effective at
+      organizing, retrieving, and applying professional knowledge.
 weaknesses: []
 opportunities: []
-threats: []
-derivedAt: '2026-08-03T08:22:45.942Z'
+threats:
+  - title: Missing external skill complement
+    detail: >-
+      Do not assume your network adds expertise yet; seek collaborators with
+      complementary skills before accepting work that requires capabilities
+      beyond your own.
+derivedAt: '2026-08-03T08:25:25.054Z'
 ---
 

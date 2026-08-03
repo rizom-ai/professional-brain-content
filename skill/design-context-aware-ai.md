@@ -1,19 +1,17 @@
 ---
 name: Design Context-Aware AI
 description: >-
-  Design and evaluate AI systems that use institutional context, memory, and
-  agency to support better decisions.
+  Design and critique AI systems that use situated context, institutional
+  memory, and human agency to produce more trustworthy results.
 tags:
   - ai
   - agents
   - context
   - knowledge-base
-  - retrieval
+  - digital-trust
 examples:
-  - >-
-    How should we design an AI colleague that understands organizational
-    context?
-  - Analyze the risks of deploying an agent without institutional memory.
-  - Help me develop principles for situated AI systems.
+  - How should I design an AI colleague that understands organizational context?
+  - Analyze the risks of deploying an AI system without institutional memory.
+  - Help me develop principles for human agency in AI collaboration.
 ---
 
