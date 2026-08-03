@@ -1,14 +1,24 @@
 # Cosmos EOI
 
-Cosmos Institute Fellowship expression of interest. Fellowship: $75k/yr pro rata, up to one year, travel + compute included; "philosopher-builders" at the AI × philosophy frontier. Window not currently open; EOI via Airtable form at cosmos-institute.org/research-and-fellowships. Their form fields are unpublished, so these are modular blocks to map onto whatever the form asks. Final text below (de-em-dashed + de-patterned; stress-test anchor is Jan Hein's own thesis, ties to the Cognition proposal's institutional-stress-test hypothesis). Working file: `~/Documents/datacampus-pitch/cosmos-eoi-draft.md`.
+Cosmos Institute "Fellowship and Grants (interest form)" — SUBMITTED 2026-08-03. This is an interest/radar form (Airtable: airtable.com/appVcbDh7H6O23XBK), not the full application; the fellowship window is not yet open. Fellowship terms: $75k/yr pro rata, up to one year, travel + compute; "philosopher-builders" at the AI × philosophy frontier. Cosmos also runs recurring grant rounds ($1k–$10k+, 90-day open-source builds) — a brains subproject could apply when the next opens.
 
-Also note: Cosmos runs recurring grant rounds ($1k–$10k+, 90-day open-source builds; last round closed 2026-07-26); a brains subproject could apply when the next round opens.
+## What was submitted (interest form)
 
-## One-liner
+- Full name: Jan Hein Hoogstad · Email: yeehaa@rizom.ai · Location: Taipei, Taiwan
+- LinkedIn: https://www.linkedin.com/in/yeehaa/ · Website: https://yeehaa.io · Github: https://github.com/rizom-ai
+- How did you learn about Cosmos: "Through my own research into fellowships supporting open-source AI and human autonomy."
 
-Philosopher-turned-builder (PhD 2005; a decade teaching at the University of Amsterdam) building open-source AI infrastructure designed to extend human judgment rather than replace it.
+**Pitch (1-2 sentences):**
+Cosmos asks for philosopher-builders, and for me that isn't a label I reached for but simply what happened: a decade teaching philosophy at the University of Amsterdam, then a move into building. Today I build and deploy open-source AI agents inside organizations through my company Rizom, centered on "situated agents" that extend human judgment rather than replace it (github.com/rizom-ai/brains).
 
-## Statement (~230 words)
+**Additional comments:**
+What draws me to Cosmos specifically: the threat I see to human autonomy isn't dramatic misalignment but quiet substitution, institutions handing their memory and judgment to systems that turn thin context into confident, fluent answers. In practice AI works less like a cause than a stress test; the organizations it hollows out fastest were already treating their people as bots, executing decisions no one felt they owned. My answer in code is the situated agent: a named role, bounded scope, provenance-carrying output, explicit escalation, and a real path to contest what it did, run in the open in a provenance-tracked notebook (yeehaa.io/dashboard). If a round opens, I'd develop this into a published design standard for accountable agents and a study of what this offloading does to a group's shared judgment, grounded in transactive memory theory.
+
+## Reserved for the FULL application (when the window opens)
+
+The ~230-word de-patterned statement below is the basis for the real fellowship application — the interest form only took the short pitch above. Working file: `~/Documents/datacampus-pitch/cosmos-eoi-draft.md`. CV ready at `~/Documents/datacampus-pitch/jan-hein-hoogstad-cv-grants.{pdf,png,docx}`.
+
+Statement:
 
 Cosmos asks for philosopher-builders. For me that isn't a label I reached for; it's just what happened. I trained as a philosopher, taught for a decade at the University of Amsterdam, then left to build knowledge infrastructure. Now I build and deploy AI agents inside organizations through my company, Rizom.
 
@@ -17,17 +27,5 @@ What worries me most about AI and autonomy isn't dramatic misalignment. It's som
 My answer, in code, is what I call the situated agent: an agent with a named role, a bounded scope, output that carries its own provenance, a way to escalate, and a real path to contest what it did. I build it as open-source infrastructure (github.com/rizom-ai/brains) and run it in the open, in a public notebook where the reasoning is traceable (yeehaa.io/dashboard). As a fellow I'd take this in two directions: a published design standard for accountable agents, and a study of what this offloading does to a group's shared judgment, grounded in transactive memory theory and in the deployments I actually run.
 
 I try to build the thing I argue for, and to argue for it in public where the work can be checked.
-
-## Supporting blocks (if the form asks)
-
-- Links: github.com/rizom-ai/brains · yeehaa.io/dashboard · white paper "Institutions That Can Carry Themselves"
-- Bio (short): Jan Hein Hoogstad is a philosopher turned builder. He holds a PhD in Philosophy and Media Studies (Utrecht & Humboldt, 2005) and taught cultural analysis at the University of Amsterdam before leaving academia in 2016 to build knowledge and learning infrastructure. He is the founder of Rizom, where he builds and deploys open-source AI agent infrastructure inside organizations.
-- What I'd want from the network: contact with builders working on autonomy-preserving AI patterns; philosophical pressure-testing of the situated-agent standard before publication.
-
-## Checklist before submitting
-
-- [ ] Locate the Airtable EOI form link and capture its actual fields
-- [ ] Adapt blocks to actual form fields
-- [ ] CV ready if they ask: `~/Documents/datacampus-pitch/jan-hein-hoogstad-cv-grants.{pdf,png,docx}`
 
 Related: grants-pipeline, cht-cognition-proposal, cht-machine-proposal
