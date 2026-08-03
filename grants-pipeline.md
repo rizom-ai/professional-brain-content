@@ -10,8 +10,8 @@ Two pitch lanes:
 
 | Opportunity | Money | Deadline | Lane | Status |
 |---|---|---|---|---|
-| Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ☐ to draft |
-| Cosmos Institute Fellowship | $75k/yr | EOI open now, rolling | A+B | ☐ to draft — best profile match ("philosopher-builders") |
+| Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✍ drafted — see ev-application |
+| Cosmos Institute Fellowship | $75k/yr | EOI open now, rolling | A+B | ✍ drafted — see cosmos-eoi |
 | Stimuleringsfonds Digital Culture | €25k solo / €50k w. partners | Opens Aug 12, **closes Aug 19** | A | ☐ urgent — Dutch KvK ✓, 20% co-financing needed |
 | SIDN fonds Pioniers | ~€10k | Rolling, 6-week response | B | ☐ low effort |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
@@ -55,4 +55,4 @@ NWO (needs tenure-track post) · Prototype Fund (Germany-only) · Volkswagen/Bos
 4. Fit module: philosopher-builder, "insider of the deployment layer"
 5. All citations verified during CHT prep — reuse freely
 
-Related: cht-cognition-proposal, cht-machine-proposal, cht-video-script
+Related: grants-pipeline drafts — ev-application, cosmos-eoi · CHT sources — cht-cognition-proposal, cht-machine-proposal, cht-video-script
