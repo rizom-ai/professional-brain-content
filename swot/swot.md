@@ -1,28 +1,27 @@
 ---
 strengths:
-  - title: Trustworthy system architecture
+  - title: Organizational knowledge design
     detail: >-
-      Use your strength confidently for trust, identity, and transparency
-      design, pairing it with your network’s platform-architecture and
-      knowledge-retrieval skills for implementation and documentation.
+      Use your strength in turning archives and institutional memory into
+      searchable, actionable systems, and pair it with your network’s dependable
+      knowledge-design capability for implementation.
 weaknesses:
-  - title: Critical technology essays
+  - title: Facilitation and live collaboration
     detail: >-
-      Develop the editorial work independently or seek a close writing and
-      critique partner, because your network does not yet provide a dependable
-      complement for this capability.
+      Build or test workshop and live-group facilitation before presenting your
+      collaborative ecosystem design as a complete practice.
 opportunities:
-  - title: Historical and contemporary analysis
+  - title: Critical historical analysis
     detail: >-
-      Test Dynamic Sage as a complement to your technology essays when an
-      argument needs stronger theory, historical context, or connection to
-      contemporary social issues.
+      Test your critical technology writing with your network’s
+      historical-analysis capability on one essay or program connecting
+      technology, organizational change, and contemporary society.
 threats:
-  - title: Organizational knowledge transformation
+  - title: Visual and video communication
     detail: >-
-      Validate the full path from archives to actionable decisions before taking
-      on institutional-memory projects, since your network currently supports
-      retrieval and architecture more than the complete transformation.
-derivedAt: '2026-08-04T16:10:41.694Z'
+      Avoid making a project dependent on visual or video delivery until you add
+      or test a complementary capability, since neither you nor your current
+      network explicitly covers it.
+derivedAt: '2026-08-04T16:14:30.506Z'
 ---
 
