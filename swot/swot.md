@@ -1,27 +1,27 @@
 ---
 strengths:
-  - title: Organizational knowledge design
+  - title: Trustworthy systems architecture
     detail: >-
-      Use your strength in turning archives and institutional memory into
-      searchable, actionable systems, and pair it with your network’s dependable
-      knowledge-design capability for implementation.
+      Use this as a core capability, and pair your architectural judgment with
+      Doc’s dependable platform-architecture and documentation skills when
+      implementation detail matters.
 weaknesses:
-  - title: Facilitation and live collaboration
+  - title: Critical technology essays
     detail: >-
-      Build or test workshop and live-group facilitation before presenting your
-      collaborative ecosystem design as a complete practice.
+      Build a deliberate review and publishing process around your essays,
+      rather than relying on your current network to supply this capability.
 opportunities:
-  - title: Critical historical analysis
+  - title: Historical context for technology writing
     detail: >-
-      Test your critical technology writing with your network’s
-      historical-analysis capability on one essay or program connecting
-      technology, organizational change, and contemporary society.
+      Test Dynamic Sage on one essay or program outline to add theory,
+      historical context, and accessible analysis to your existing technology
+      writing.
 threats:
-  - title: Visual and video communication
+  - title: Organizational knowledge conversion
     detail: >-
-      Avoid making a project dependent on visual or video delivery until you add
-      or test a complementary capability, since neither you nor your current
-      network explicitly covers it.
-derivedAt: '2026-08-04T16:14:30.506Z'
+      Before scaling important archive or institutional-memory work, validate
+      your approach with Arcane Scribe so the result is structured, searchable,
+      and actionable.
+derivedAt: '2026-08-04T16:15:56.401Z'
 ---
 
