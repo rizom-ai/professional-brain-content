@@ -1,27 +1,26 @@
 ---
 strengths:
-  - title: Digital ecosystem architecture
+  - title: Strategic technology essays
     detail: >-
-      Use your strength in designing plural, interoperable systems, and pair it
-      with Doc’s dependable support for tools, integrations, and extensibility.
+      Use your clear, provocative analysis with Metis’s dependable decision
+      framing to turn difficult technology and organizational questions into
+      structured arguments.
 weaknesses:
-  - title: Historical and critical analysis
+  - title: Historical-context integration
     detail: >-
-      Build this capability if your work needs accessible interpretation that
-      connects technology and organizations with theory, thinkers, and
-      historical context.
+      Build this capability before presenting theory-led or historically
+      grounded analysis as a core part of your profile.
 opportunities:
   - title: Critical contemporary analysis
     detail: >-
-      Test a joint essay or episode with Dynamic Sage to extend your strategic
-      technology writing into historically grounded analysis of contemporary
-      issues.
+      Co-produce an essay or program with Dynamic Sage to add thinkers,
+      historical framing, and accessible links to contemporary phenomena.
 threats:
-  - title: Organizational alignment
+  - title: Accessible article or program production
     detail: >-
-      Do not assume your architectural skill will produce coordinated action;
-      test Rizom’s tentative complement on a real initiative involving multiple
-      teams, partners, or communities.
-derivedAt: '2026-08-04T17:08:45.440Z'
+      Do not assume your analytical and systems-design skills automatically
+      produce accessible public content; define a production workflow and review
+      the first network-supported outputs closely.
+derivedAt: '2026-08-04T17:37:58.607Z'
 ---
 
