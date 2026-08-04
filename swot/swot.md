@@ -1,27 +1,27 @@
 ---
 strengths:
-  - title: Trustworthy systems architecture
+  - title: Digital ecosystem architecture
     detail: >-
-      Use this as a core capability, and pair your architectural judgment with
-      Doc’s dependable platform-architecture and documentation skills when
-      implementation detail matters.
+      Use your strength in designing plural, interoperable systems, and pair it
+      with Doc’s dependable support for tools, integrations, and extensibility.
 weaknesses:
-  - title: Critical technology essays
+  - title: Historical and critical analysis
     detail: >-
-      Build a deliberate review and publishing process around your essays,
-      rather than relying on your current network to supply this capability.
+      Build this capability if your work needs accessible interpretation that
+      connects technology and organizations with theory, thinkers, and
+      historical context.
 opportunities:
-  - title: Historical context for technology writing
+  - title: Critical contemporary analysis
     detail: >-
-      Test Dynamic Sage on one essay or program outline to add theory,
-      historical context, and accessible analysis to your existing technology
-      writing.
+      Test a joint essay or episode with Dynamic Sage to extend your strategic
+      technology writing into historically grounded analysis of contemporary
+      issues.
 threats:
-  - title: Organizational knowledge conversion
+  - title: Organizational alignment
     detail: >-
-      Before scaling important archive or institutional-memory work, validate
-      your approach with Arcane Scribe so the result is structured, searchable,
-      and actionable.
-derivedAt: '2026-08-04T16:15:56.401Z'
+      Do not assume your architectural skill will produce coordinated action;
+      test Rizom’s tentative complement on a real initiative involving multiple
+      teams, partners, or communities.
+derivedAt: '2026-08-04T17:08:45.440Z'
 ---
 
