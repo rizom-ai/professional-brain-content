@@ -3,8 +3,9 @@ name: Yeehaa
 kind: professional
 organization: ''
 description: >-
-  Yeehaa (Jan Hein Hoogstad) is a writer, developer, and ecosystem architect
-  exploring the intersection of technology, culture, and organizational design.
+  I came to technology through philosophy, and stayed to build the
+  infrastructure. I design organizations that work like living systems rather
+  than machines — a practice I call ecosystem architecture.
 avatar: ''
 website: 'https://yeehaa.io'
 email: yeehaa@rizom.ai
@@ -18,10 +19,11 @@ socialLinks:
   - platform: website
     url: 'https://rizom.ai'
     label: Visit Rizom's website
-tagline: Building *what comes next*
+tagline: Building something *inhabitable*
 intro: >-
   New kinds of organizations need new kinds of tools. I explore the why and
-  build the how.
+  build the how. Right now that's *Rizom* — and I'm looking for people to build
+  it with.
 story: ''
 expertise:
   - Ecosystem Architecture
