@@ -7,13 +7,13 @@ tags:
   - ai-systems
   - agents
   - agency
-  - alignment
   - knowledge-base
+  - alignment
 examples:
   - >-
     How should we design an AI colleague that understands organizational
     context?
-  - Compare situated AI with generic automation for online collaboration.
-  - Draft principles for preserving human agency in an AI-assisted workplace.
+  - 'Help me develop principles for human-centered, situated AI.'
+  - Analyze the risks of giving AI access to institutional memory.
 ---
 

@@ -1,21 +1,17 @@
 ---
 name: Architect Digital Ecosystems
 description: >-
-  Create architectural models for plural, decentralized, and interoperable
-  digital ecosystems.
+  Create technical and organizational architectures for plural, decentralized,
+  and interoperable digital ecosystems.
 tags:
   - architecture
   - community
-  - agents
+  - decentralized-work
+  - ecosystems
   - best-practices
-  - organization
 examples:
-  - >-
-    Design an architecture for a plural digital ecosystem with multiple
-    communities.
-  - >-
-    What patterns support trust and interoperability across decentralized
-    platforms?
-  - Turn these ecosystem requirements into a clear systems architecture.
+  - Help me map the architecture of a plural digital ecosystem.
+  - What design principles support decentralized collaboration?
+  - Compare centralized and distributed approaches for an online community.
 ---
 

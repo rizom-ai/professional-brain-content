@@ -1,17 +1,17 @@
 ---
 name: Analyze Digital Trust
 description: >-
-  Evaluate how technology, data practices, and institutional design create or
-  undermine trust in digital environments.
+  Evaluate how technology, governance, and data practices create or undermine
+  trust in digital systems.
 tags:
+  - digital-trust
   - analysis
   - alignment
   - ai-systems
   - community
-  - best-practices
 examples:
-  - Analyze the trust risks of using AI in a distributed organization.
-  - Develop principles for trustworthy data-driven knowledge systems.
-  - Compare centralized and decentralized approaches to digital trust.
+  - Analyze the trust risks in deploying an AI system across an organization.
+  - What governance practices make a digital platform trustworthy?
+  - Help me assess whether a data-sharing model respects user agency.
 ---
 

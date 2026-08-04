@@ -1,8 +1,8 @@
 ---
 name: Build Knowledge Tools
 description: >-
-  Analyze information practices and design tools that make organizational
-  knowledge discoverable, useful, and actionable.
+  Design tools and workflows that organize, retrieve, and activate data-driven
+  knowledge for individuals and organizations.
 tags:
   - knowledge-base
   - organization
@@ -10,10 +10,10 @@ tags:
   - ai
   - best-practices
 examples:
-  - Design a knowledge tool for capturing and reusing institutional memory.
-  - How can an AI system reveal gaps in an organization’s archive?
+  - Help me design a tool for navigating institutional knowledge.
+  - How can we turn an archive into a useful knowledge system?
   - >-
-    Create a framework for evaluating whether a knowledge base supports real
-    work.
+    Create a workflow for organizing research notes and making them
+    discoverable.
 ---
 

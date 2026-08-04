@@ -1,21 +1,19 @@
 ---
 name: Write Strategic Technology Essays
 description: >-
-  Write clear, conceptually grounded essays about AI, software, learning, work,
-  and emerging technology practices.
+  Write clear, provocative analysis connecting AI, software, organizations,
+  learning, and social change.
 tags:
   - analysis
   - ai
-  - architecture
-  - acceleration
   - agency
+  - best-practices
+  - acceleration
 examples:
-  - Draft an essay on why agency matters more than human likeness in AI systems.
+  - Draft an essay about why agency matters more than human imitation in AI.
+  - Help me turn these notes on online learning into a compelling argument.
   - >-
-    Turn these notes about online learning and decentralized work into a
-    publishable article.
-  - >-
-    Write a provocative introduction about the limits of using one tool for
-    every problem.
+    Write a thoughtful critique of using one technical solution for every
+    organizational problem.
 ---
 
