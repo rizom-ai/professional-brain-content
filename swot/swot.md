@@ -1,25 +1,26 @@
 ---
 strengths:
-  - title: Critical technology essays
+  - title: Critical technology writing
     detail: >-
-      Use this as a core strength for turning research and AI themes into clear,
-      publishable arguments about organizational and social consequences.
-  - title: Organizational knowledge
+      Use your clear, reflective essays as the primary way to turn research and
+      technology ideas into publishable work.
+weaknesses:
+  - title: Complex decision analysis
     detail: >-
-      Apply this to concrete archive, research-data, and knowledge-base
-      projects, where scattered information must become usable decisions.
-  - title: Context-aware AI systems
+      Build your own structured tradeoff-analysis practice rather than assuming
+      a dependable complement is already available in your network.
+opportunities:
+  - title: Professional identity and action
     detail: >-
-      Make institutional context and human agency central when designing AI
-      colleagues or knowledge tools.
-weaknesses: []
-opportunities: []
+      Test this network capability by pairing it with your technology and
+      ecosystem work to sharpen Paper Tiger’s priorities, presentation, and next
+      steps.
 threats:
-  - title: Missing external reinforcement
+  - title: Learning and funding strategy
     detail: >-
-      Do not assume your current relationships provide complementary expertise;
-      test and build partnerships around the specific capabilities each project
-      requires.
-derivedAt: '2026-08-03T10:54:12.850Z'
+      Avoid making funding or learning initiatives depend on your availability
+      alone; document your approach and deliberately develop a complementary
+      capability.
+derivedAt: '2026-08-04T16:05:17.288Z'
 ---
 
