@@ -30,5 +30,17 @@ fields:
   - id: audience
     name: audience
     type: Input
+  - id: role
+    name: role
+    type: Input
+  - id: expertise
+    name: expertise
+    type: Multi
+  - id: currentFocus
+    name: currentFocus
+    type: Input
+  - id: availability
+    name: availability
+    type: Input
 filesPaths: anchor-profile
 ---
