@@ -2,25 +2,26 @@
 strengths:
   - title: Critical technology writing
     detail: >-
-      Use your clear, reflective essays as the primary way to turn research and
-      technology ideas into publishable work.
+      Use your ability to connect technology with organizational practice,
+      learning, work, and social consequences as a primary way to turn research
+      into publishable essays.
 weaknesses:
   - title: Complex decision analysis
     detail: >-
-      Build your own structured tradeoff-analysis practice rather than assuming
-      a dependable complement is already available in your network.
+      Build or deliberately pair for structured tradeoff analysis before relying
+      on it for ambiguous human–AI or organizational decisions.
 opportunities:
-  - title: Professional identity and action
+  - title: Historical and contemporary analysis
     detail: >-
-      Test this network capability by pairing it with your technology and
-      ecosystem work to sharpen Paper Tiger’s priorities, presentation, and next
-      steps.
+      Test your network’s ability to connect theory, thinkers, and historical
+      context on a technology essay to strengthen its framing of current
+      phenomena.
 threats:
   - title: Learning and funding strategy
     detail: >-
-      Avoid making funding or learning initiatives depend on your availability
-      alone; document your approach and deliberately develop a complementary
-      capability.
-derivedAt: '2026-08-04T16:05:17.288Z'
+      Do not assume your network can extend this combination of funding, online
+      learning, and knowledge practices; test and document the strategy
+      independently before making it central to a larger initiative.
+derivedAt: '2026-08-04T16:10:05.391Z'
 ---
 
