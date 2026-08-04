@@ -1,27 +1,28 @@
 ---
 strengths:
-  - title: Critical technology writing
+  - title: Trustworthy system architecture
     detail: >-
-      Use your ability to connect technology with organizational practice,
-      learning, work, and social consequences as a primary way to turn research
-      into publishable essays.
+      Use your strength confidently for trust, identity, and transparency
+      design, pairing it with your network’s platform-architecture and
+      knowledge-retrieval skills for implementation and documentation.
 weaknesses:
-  - title: Complex decision analysis
+  - title: Critical technology essays
     detail: >-
-      Build or deliberately pair for structured tradeoff analysis before relying
-      on it for ambiguous human–AI or organizational decisions.
+      Develop the editorial work independently or seek a close writing and
+      critique partner, because your network does not yet provide a dependable
+      complement for this capability.
 opportunities:
   - title: Historical and contemporary analysis
     detail: >-
-      Test your network’s ability to connect theory, thinkers, and historical
-      context on a technology essay to strengthen its framing of current
-      phenomena.
+      Test Dynamic Sage as a complement to your technology essays when an
+      argument needs stronger theory, historical context, or connection to
+      contemporary social issues.
 threats:
-  - title: Learning and funding strategy
+  - title: Organizational knowledge transformation
     detail: >-
-      Do not assume your network can extend this combination of funding, online
-      learning, and knowledge practices; test and document the strategy
-      independently before making it central to a larger initiative.
-derivedAt: '2026-08-04T16:10:05.391Z'
+      Validate the full path from archives to actionable decisions before taking
+      on institutional-memory projects, since your network currently supports
+      retrieval and architecture more than the complete transformation.
+derivedAt: '2026-08-04T16:10:41.694Z'
 ---
 
