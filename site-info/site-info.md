@@ -6,7 +6,7 @@ description: >-
 themeMode: light
 sections:
   essays:
-    blurb: On institutions, trust, and what our tools do to both.
+    blurb: 'On institutions, trust, and what our tools do to both.'
   presentations:
     blurb: Arguments made out loud.
   about:
