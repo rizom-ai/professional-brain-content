@@ -24,7 +24,6 @@ intro: >-
   New kinds of organizations need new kinds of tools. I explore the why and
   build the how. Right now that's *Rizom* — and I'm looking for people to build
   it with.
-story: ''
 expertise:
   - Ecosystem Architecture
   - Decentralized Organizations
