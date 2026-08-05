@@ -1,33 +1,26 @@
 ---
 strengths:
-  - title: Interoperable ecosystem architecture
+  - title: Technology strategy essays
     detail: >-
-      Use your strength in data portability, decentralization, and avoiding
-      platform lock-in when shaping trustworthy knowledge infrastructure or open
-      communities.
-  - title: Technology strategy writing
-    detail: >-
-      Use clear, critical essays to turn your architectural and organizational
-      insight into public-facing work about technology, agency, and social
-      change.
+      Use your ability to connect technology, organizations, agency, and social
+      change, pairing it with Metis for structured human–AI tradeoff analysis.
 weaknesses:
-  - title: Knowledge-system implementation
+  - title: Profile fact lookup
     detail: >-
-      Practice turning scattered notes and expertise into structured, searchable
-      systems rather than relying mainly on analysis of organizational
-      knowledge.
+      Do not assume you can quickly retrieve and present accurate profile facts;
+      build and test a repeatable lookup practice before taking on profile
+      audits.
 opportunities:
   - title: Critical contemporary analysis
     detail: >-
-      Pair your technology writing with Dynamic Sage's historical and
-      theoretical synthesis by testing one essay that connects technology and
-      society to contemporary phenomena.
+      Test Dynamic Sage on one essay or content project to add theory, thinkers,
+      and historical context to your existing technology-strategy writing.
 threats:
-  - title: Open ecosystem governance
+  - title: Tentative profile fact lookup
     detail: >-
-      Do not assume architectural insight alone resolves open-source, partner,
-      or collaboration questions; use concrete governance frameworks and
-      validate key decisions with the right expertise.
-derivedAt: '2026-08-05T07:23:49.634Z'
+      Review every result from the tentative profile-lookup capability and avoid
+      relying on it for high-stakes profile summaries until its accuracy is
+      established.
+derivedAt: '2026-08-05T09:48:24.802Z'
 ---
 
