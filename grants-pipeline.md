@@ -13,7 +13,7 @@ Two pitch lanes:
 | Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
 | Cosmos Institute (interest form) | $75k/yr fellowship + smaller grant rounds | EOI rolling; fellowship window not yet open | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
 | Stimuleringsfonds Digitale cultuur | €25k solo / €50k w. partners | **12 Aug 15:00 → 19 Aug 16:00 CEST** | A | ☐ **going solo, €25k** — terms verified 2026-08-04, see below |
-| SIDN fonds Pioniers | ~€10k | Rolling, 6-week response | B | ☐ low effort |
+| SIDN fonds Pioniers | max €10k | Rolling, 6-week response, max 6 months runtime | B | ☐ drafted — see sidn-fonds-pioniers-application-draft; apply as natural person |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
 | Humanity AI open call (Ford/MacArthur/Mozilla/Omidyar pooled $10M) | varies | Launching summer 2026 — watch humanityai.ai | A+B | ☐ watch |
 | IAS School of Social Science 2027–28 | stipend | Theme announced Aug 2026, deadline ~Oct 15 | A | ☐ watch theme |
@@ -30,7 +30,9 @@ Read from the regulation text itself (`Regeling-Digitale-cultuur-2025-2028.pdf`)
 
 > *"cofinanciering: aanvullende financiering in de vorm van een andere subsidie, sponsoring, investering, eigen inkomsten uit bijvoorbeeld kaartverkoop of een bijdrage van een externe partij... Eigen bijdragen in de vorm van investeringen of doorberekende kortingen worden niet gerekend tot cofinanciering"*
 
-So another subsidy, sponsorship, investment or own income all count. Own *investment* and discounted rates do not. On a €25k ask that is roughly €6.25k against ~€31.25k total costs — **SIDN Pioniers is the obvious source, since another subsidy counts explicitly.**
+So another subsidy, sponsorship, investment or own income all count. Own *investment* and discounted rates do not. On a €25k ask that is roughly €6.25k against ~€31.25k total costs.
+
+**Correction, 2026-08-04:** an earlier version of this note named SIDN Pioniers as the co-financing source. That is wrong. Cofinanciering is *aanvullende financiering **voor het project*** — funding for the same project. A SIDN grant for Lane B infrastructure work cannot co-finance a separate Lane A project. Own income is the realistic source.
 
 **One application only (art. 6.3–6.4):** one per subsidietijdvak, and one award per calendar year. Solo and partnered are mutually exclusive, not parallel bets.
 
@@ -41,6 +43,14 @@ So another subsidy, sponsorship, investment or own income all count. Own *invest
 **Other conditions:** Fair Practice Code is a condition (6.1.l) and the fund caps hourly rates in budgets at €82.50 excl. VAT. Results must be published or made publicly accessible (6.1.k). Projects rejected twice after negative advice are permanently excluded (6.2.l). Field definition (art. 1.22) is artistic — media art, games, AV-performances, worldbuilding, creative coding, sensory storytelling, art-science, posthumanism, internet culture, plus research and reflection on those. Article 3.2 requires the *project* to be primarily non-profit; it does not require the applicant to be, and ontwerpbureaus are explicitly eligible.
 
 **Phase I needs:** application form, project plan, closing budget + dekkingsplan showing the 20%, planning, communication plan, CVs, portfolio, project image. Intentieverklaringen only if partnered.
+
+### SIDN fonds Pioniers — verified terms
+
+Verified 2026-08-04. Max **€10,000**. Rolling, open year-round. **Max six months** runtime — longer projects do not qualify. Applicant may be a **natural person or a legal entity**; the organisation route additionally requires a KvK extract and a jaarrekening, so apply personally. Submitted via **FundPro**: questionnaire plus a **short video pitch**.
+
+Criteria: serves the public interest, contributes to a *sterk internet*, continues to exist after the funding period, and results — knowledge and experience, not only code — must be shared.
+
+Draft in `sidn-fonds-pioniers-application-draft`. Scoped as M2 (portability guarantee) from the NLnet draft; if funded, carve M2 out of the NLnet ask and disclose in both.
 
 ## 🟡 September–November 2026
 
@@ -79,4 +89,4 @@ Individual and organisation are separate third parties (€500k lifetime cap eac
 
 NWO (needs tenure-track post) · Prototype Fund (Germany-only) · Volkswagen/Bosch Stiftung · Waag/PublicSpaces (recipients not funders) · Ada Lovelace/Nesta/JRF (no open calls) · AI2050 (early-career only, PhD 2005 too old) · Tarbell (newsroom placement) · Mozilla MOSS/MTF (discontinued/folded) · OTF (unstable, wrong angle) · Sloan Better Software (closed) · GitHub Secure OSS Fund (security-hardening only) · CZI/OSTIF (science-OSS/security niches) · Knight (US nonprofits) · Aspen S&T (US only) · Data & Society (no open cohort) · FLI (funds allocated) · Open Phil AI Governance RFP (closed Jan 2026)
 
-Related: ev-application, cosmos-eoi · CHT sources — cht-cognition-proposal, cht-machine-proposal, cht-video-script
+Related: ev-application, cosmos-eoi, sidn-fonds-pioniers-application-draft · CHT sources — cht-cognition-proposal, cht-machine-proposal, cht-video-script
