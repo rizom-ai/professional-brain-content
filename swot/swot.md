@@ -1,33 +1,28 @@
 ---
 strengths:
-  - title: Software and ecosystem architecture
+  - title: Critical technology essays
     detail: >-
-      Use your strength to set principles for interoperable, participatory
-      systems and to guide long-term platform decisions.
-  - title: Decentralized work design
-    detail: >-
-      Pair your organizational thinking with your network’s governance expertise
-      when designing distributed collaboration and decision-making.
+      Use your rigorous writing to develop arguments about AI, software,
+      learning, work, and institutional change, and ask your network to
+      pressure-test complex claims.
 weaknesses:
-  - title: Contemporary critical-content analysis
-    detail: >-
-      Do not assume your strategy and systems skills replace the ability to
-      connect theory and history to accessible analysis of current society.
-opportunities:
-  - title: Critical contemporary analysis
-    detail: >-
-      Co-produce a small essay or episode with Dynamic Sage, then learn and
-      document its method for turning theory and history into clear content.
   - title: Organizational knowledge design
     detail: >-
-      Use Arcane Scribe to prototype a structured, searchable knowledge base
-      that complements your higher-level knowledge-infrastructure design.
-threats:
-  - title: External critical-content dependence
+      Learn from your network’s expertise in turning scattered notes, decisions,
+      and expertise into structured, searchable knowledge, then apply that
+      practice directly to Paper Tiger.
+opportunities:
+  - title: Critical historical analysis
     detail: >-
-      Test the collaboration with Dynamic Sage and document a repeatable
-      owner-side method before making this content stream central to Paper
-      Tiger.
-derivedAt: '2026-08-05T07:07:53.172Z'
+      Test a collaboration with Dynamic Sage to add thinkers, historical
+      context, and contemporary framing to your technology essays and curated
+      content.
+threats:
+  - title: Searchable knowledge systems
+    detail: >-
+      Do not rely on conceptual curation alone; establish a concrete structure
+      for retrieving and acting on notes and expertise before expanding Paper
+      Tiger’s content system.
+derivedAt: '2026-08-05T07:13:07.849Z'
 ---
 
