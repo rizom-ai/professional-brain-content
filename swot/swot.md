@@ -1,28 +1,33 @@
 ---
 strengths:
-  - title: Critical technology essays
+  - title: Interoperable ecosystem architecture
     detail: >-
-      Use your rigorous writing to develop arguments about AI, software,
-      learning, work, and institutional change, and ask your network to
-      pressure-test complex claims.
+      Use your strength in data portability, decentralization, and avoiding
+      platform lock-in when shaping trustworthy knowledge infrastructure or open
+      communities.
+  - title: Technology strategy writing
+    detail: >-
+      Use clear, critical essays to turn your architectural and organizational
+      insight into public-facing work about technology, agency, and social
+      change.
 weaknesses:
-  - title: Organizational knowledge design
+  - title: Knowledge-system implementation
     detail: >-
-      Learn from your network’s expertise in turning scattered notes, decisions,
-      and expertise into structured, searchable knowledge, then apply that
-      practice directly to Paper Tiger.
+      Practice turning scattered notes and expertise into structured, searchable
+      systems rather than relying mainly on analysis of organizational
+      knowledge.
 opportunities:
-  - title: Critical historical analysis
+  - title: Critical contemporary analysis
     detail: >-
-      Test a collaboration with Dynamic Sage to add thinkers, historical
-      context, and contemporary framing to your technology essays and curated
-      content.
+      Pair your technology writing with Dynamic Sage's historical and
+      theoretical synthesis by testing one essay that connects technology and
+      society to contemporary phenomena.
 threats:
-  - title: Searchable knowledge systems
+  - title: Open ecosystem governance
     detail: >-
-      Do not rely on conceptual curation alone; establish a concrete structure
-      for retrieving and acting on notes and expertise before expanding Paper
-      Tiger’s content system.
-derivedAt: '2026-08-05T07:13:07.849Z'
+      Do not assume architectural insight alone resolves open-source, partner,
+      or collaboration questions; use concrete governance frameworks and
+      validate key decisions with the right expertise.
+derivedAt: '2026-08-05T07:23:49.634Z'
 ---
 
