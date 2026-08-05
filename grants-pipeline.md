@@ -12,11 +12,35 @@ Two pitch lanes:
 |---|---|---|---|---|
 | Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
 | Cosmos Institute (interest form) | $75k/yr fellowship + smaller grant rounds | EOI rolling; fellowship window not yet open | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
-| Stimuleringsfonds Digital Culture | €25k solo / €50k w. partners | Opens Aug 12, **closes Aug 19** | A | ☐ urgent — Dutch KvK ✓, 20% co-financing needed |
+| Stimuleringsfonds Digitale cultuur | €25k solo / €50k w. partners | **12 Aug 15:00 → 19 Aug 16:00 CEST** | A | ☐ **going solo, €25k** — terms verified 2026-08-04, see below |
 | SIDN fonds Pioniers | ~€10k | Rolling, 6-week response | B | ☐ low effort |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
 | Humanity AI open call (Ford/MacArthur/Mozilla/Omidyar pooled $10M) | varies | Launching summer 2026 — watch humanityai.ai | A+B | ☐ watch |
 | IAS School of Social Science 2027–28 | stipend | Theme announced Aug 2026, deadline ~Oct 15 | A | ☐ watch theme |
+
+### Stimuleringsfonds Digitale cultuur — verified terms
+
+Read from the regulation text itself (`Regeling-Digitale-cultuur-2025-2028.pdf`), 2026-08-04. Do not re-derive from the website summaries; they are misleading on co-financing.
+
+**Round:** Phase I opens 12 Aug 15:00 CEST, closes 19 Aug 16:00 CEST. Two-phase process (art. 5) — Phase II is a separate assessment moment afterwards, so the August window is the *light* filing, not the full proposal.
+
+**Amounts (art. 3.1):** €10k floor. One executing party → max **€25k**. Collaboration with one or more project partners → max **€50k**.
+
+**Cofinanciering (art. 1.7, art. 6.1.i):** minimum 20% of *total project costs*, applies to every application including solo. It does **not** have to be third-party:
+
+> *"cofinanciering: aanvullende financiering in de vorm van een andere subsidie, sponsoring, investering, eigen inkomsten uit bijvoorbeeld kaartverkoop of een bijdrage van een externe partij... Eigen bijdragen in de vorm van investeringen of doorberekende kortingen worden niet gerekend tot cofinanciering"*
+
+So another subsidy, sponsorship, investment or own income all count. Own *investment* and discounted rates do not. On a €25k ask that is roughly €6.25k against ~€31.25k total costs — **SIDN Pioniers is the obvious source, since another subsidy counts explicitly.**
+
+**One application only (art. 6.3–6.4):** one per subsidietijdvak, and one award per calendar year. Solo and partnered are mutually exclusive, not parallel bets.
+
+**Why solo, decided 2026-08-04:** partners raise the ceiling *and* score better — art. 10 names *betrokkenheid van partners* as evidence of draagvlak, which is where a solo application is weakest. But Phase I requires signed intentieverklaringen, and a partnership constructed inside eight days in August reads as retrofitted and loses the benefit it was bought for. Better candidates exist locally (Productiehuis Flow, Theater op Zuid) for a future round when the collaboration can be genuine.
+
+**Watch:** art. 5.1.b — the board caps how many applications it accepts per round, announced ≥2 weeks before opening. File near 15:00 on the 12th rather than drifting to the 19th.
+
+**Other conditions:** Fair Practice Code is a condition (6.1.l) and the fund caps hourly rates in budgets at €82.50 excl. VAT. Results must be published or made publicly accessible (6.1.k). Projects rejected twice after negative advice are permanently excluded (6.2.l). Field definition (art. 1.22) is artistic — media art, games, AV-performances, worldbuilding, creative coding, sensory storytelling, art-science, posthumanism, internet culture, plus research and reflection on those. Article 3.2 requires the *project* to be primarily non-profit; it does not require the applicant to be, and ontwerpbureaus are explicitly eligible.
+
+**Phase I needs:** application form, project plan, closing budget + dekkingsplan showing the 20%, planning, communication plan, CVs, portfolio, project image. Intentieverklaringen only if partnered.
 
 ## 🟡 September–November 2026
 
