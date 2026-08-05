@@ -41,6 +41,50 @@ An open, testable portability standard, and the tooling to prove conformance:
 | Documentation, spec publication, findings write-up | €1,500 |
 | **Total** | **€10,000** |
 
+## Video pitch — script
+
+*FundPro requires a "korte videopitch". Exact length not published; written to ~2:00 at a natural Dutch pace (~250 words, ~130 wpm). Register follows `cht-video-script`: calm, declarative, no founder-pitch cadence.*
+
+**[0:00 — Hook | ~15s]**
+
+Ik ben Jan Hein Hoogstad. Elke organisatie die haar kennis in een AI-platform zet, krijgt een exportknop. Bijna geen enkele kan aantonen dat wat eruit komt volledig is.
+
+**[0:15 — Waarom het ertoe doet | ~25s]**
+
+Dat klinkt technisch. Dat is het niet. Bibliotheken, omroepen, universiteiten, zorginstellingen — juist de organisaties die het zich niet kunnen veroorloven — leggen hun geheugen nu vast in infrastructuur die ze niet aantoonbaar kunnen verlaten. Eigenaarschap dat je niet kunt controleren is geen eigenaarschap. Het is een belofte.
+
+**[0:40 — Wie ik ben | ~20s]**
+
+Ik bouw twintig jaar software, en sinds 2019 kennisinfrastructuur met AI. Ik bouwde Public Badges, een keurmerkframework dat in de Nederlandse media-, cultuur-, onderwijs- en zorgsector is ingezet. Nu bouw ik Rizom Brains: open source, self-hosted, AGPL.
+
+**[1:00 — Wat ik ga maken | ~30s]**
+
+Wat ik met dit project wil maken is geen product maar een norm. Een specificatie van wat een volledige export moet bevatten. Een referentie-implementatie die exporteert én importeert. En een conformiteitstest: exporteer een heel brein, importeer het in een verse, onafhankelijke installatie, en rapporteer wat er onderweg verloren gaat. Als iets de reis niet overleeft, zegt de test dat — in plaats van het te verbergen.
+
+**[1:30 — Wat er achterblijft | ~20s]**
+
+De specificatie is bruikbaar voor iedereen, niet alleen voor mijn eigen platform. Alles staat onder AGPL in een openbare repository. En ik publiceer wat er stukgaat — die faalgevallen zijn het nuttigste deel, en niemand schrijft ze op.
+
+**[1:50 — Slot | ~10s]**
+
+Een sterk internet betekent dat je kunt vertrekken. Dit project maakt dat controleerbaar.
+
+**[2:00 — einde]**
+
+### Marked cuts (if running over)
+
+1. Cut *"Dat klinkt technisch. Dat is het niet."* (saves ~6 words / 3s) — the institution list still carries it.
+2. Compress the credential line to *"Ik bouw twintig jaar software, en sinds 2019 kennisinfrastructuur met AI."* (saves ~20 words / 9s) — drops Public Badges, which is in the written application anyway.
+3. Cut *"in plaats van het te verbergen"* (saves 5 words / 2s).
+
+### Delivery notes
+
+- Talking head, one take. No slides — the point is a person worth funding for six months.
+- Same register as the CHT video: declarative, unhurried, zero hype. One beat of silence after the hook.
+- The strongest line is the last one. Land it and stop; don't add a thank-you.
+- Record horizontal, quiet room, natural light, look at the lens. Three takes, pick the warmest rather than the most polished.
+- **English version available if preferred** — SIDN is a Dutch fund and the applicant is a native speaker, so Dutch is the default, but the project itself is international and open-source.
+
 ## Relationship to the NLnet application
 
 This is **M2 (portability guarantee)** from `nlnet-ngi-zero-application-draft`. If SIDN funds it, carve M2 out of the NLnet ask — €50k across five milestones becomes €40k across four — and disclose the relationship in both applications. The NLnet note already flags that same-work-twice reads as cap-gaming; this is the same principle applied across funders rather than within one.
@@ -51,6 +95,7 @@ This grant **cannot** co-finance the Stimuleringsfonds application. Cofinancieri
 
 ## Still needed before submitting
 
-- **Short video pitch** — required by FundPro. `cht-video-script` may be partly reusable.
-- FundPro questionnaire.
+- Record the video pitch (script above).
+- FundPro questionnaire — the fields are behind their login, so they need filling in the system itself. Everything above should map onto them.
 - No KvK extract or jaarrekening required when applying as a natural person.
+- Decide whether to carve M2 out of the NLnet ask now or after a SIDN decision (~6 weeks).
