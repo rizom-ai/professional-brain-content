@@ -1,7 +1,7 @@
 ---
 title: "{{title}}"
 slug: ""
-coverImageId: ""
+coverImageId: null
 ---
 
 ## Description
