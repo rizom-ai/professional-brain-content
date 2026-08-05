@@ -1,26 +1,33 @@
 ---
 strengths:
-  - title: Strategic technology essays
+  - title: Knowledge tool design
     detail: >-
-      Use your clear, provocative analysis with Metis’s dependable decision
-      framing to turn difficult technology and organizational questions into
-      structured arguments.
+      Use your strength in turning fragmented information into organizational
+      memory for knowledge systems, decision capture, and reusable institutional
+      knowledge.
+  - title: Trust and governance analysis
+    detail: >-
+      Rely on your analysis of data practices and platform governance, pairing
+      it with your network’s complex-decision and open-ecosystem perspectives
+      when assessing accountability.
 weaknesses:
-  - title: Historical-context integration
+  - title: Accessible content development
     detail: >-
-      Build this capability before presenting theory-led or historically
-      grounded analysis as a core part of your profile.
+      Build a deliberate step for translating your research, architecture, and
+      governance ideas into clear articles, programs, or other public-facing
+      formats.
 opportunities:
   - title: Critical contemporary analysis
     detail: >-
-      Co-produce an essay or program with Dynamic Sage to add thinkers,
-      historical framing, and accessible links to contemporary phenomena.
+      Test Dynamic Sage on one article or program that connects theory and
+      historical context to a current issue, then capture the method you can
+      reuse.
 threats:
-  - title: Accessible article or program production
+  - title: Public communication of complex systems
     detail: >-
-      Do not assume your analytical and systems-design skills automatically
-      produce accessible public content; define a production workflow and review
-      the first network-supported outputs closely.
-derivedAt: '2026-08-04T17:37:58.607Z'
+      Do not assume your architecture and governance insights will communicate
+      themselves; secure deliberate content development and use Dynamic Sage’s
+      historically grounded explanation before publishing or presenting.
+derivedAt: '2026-08-05T06:52:37.030Z'
 ---
 
