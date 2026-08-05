@@ -108,22 +108,62 @@ Open-Source-Crowdlearning-Plattform in Clojure/ClojureScript, Infrastruktur mit 
 
 ---
 
-## 4. LinkedIn — Minimal-Touch (Rizom bleibt Hauptprofil)
+## 4. LinkedIn — Stand 2026-08-05 (Rizom bleibt Hauptprofil)
 
-**Entscheidung:** Öffentliches Profil bleibt Founder-first (Rizom). KEINE Verfügbarkeits-/Contract-Sprache im öffentlichen Profil — keine Headline-Änderung auf „open to contract work".
+> **Ersetzt die Minimal-Touch-Entscheidung vom 2026-08-03.** Die damalige Regel „keine
+> Headline-Änderung" gilt nicht mehr. Grund: die Expert Networks (GLG, AlphaSights,
+> Third Bridge, Guidepoint, Dialectica) rekrutieren über LinkedIn-Suche. Ihre
+> Signup-Formulare haben teils gar kein Freitextfeld — sie sind faktisch nur Zeiger
+> auf das LinkedIn-Profil. Siehe `expert-networks-channel-setup`.
 
-**Was trotzdem passiert (unsichtbar bzw. Rizom-konsistent):**
-- „Open to Work" NUR im Recruiter-only-Modus aktivieren (kein grüner Banner, für Netzwerk/Besucher unsichtbar; Hays, Randstad/Gulp, Etengo & Co. suchen über LinkedIn Recruiter). Rollentyp: Contract/Freelance, Remote, DACH/NL.
-- Featured-Sektion ergänzen: rizom.ai, github.com/rizom-ai/brains, gitlab.com/offcourse, Waag-Artikel — stärkt das Founder-Profil, kein Verfügbarkeitssignal.
-- Skills-Sektion aktualisieren: TypeScript, AI Agents, Software Architecture, Terraform, Clojure, Elixir — neutral, verbessert Recruiter-Suche.
-- Anfragen, die über LinkedIn reinkommen, laufen als Rizom-Engagements („Rizom übernimmt ausgewählte Senior-Engineering-Mandate") — konsistent mit rizom.ai/work.
+**Was aus der alten Entscheidung bestehen bleibt:** Öffentliches Profil bleibt
+Founder-first (Rizom). KEINE Verfügbarkeits-/Contract-Sprache im öffentlichen Profil,
+kein öffentliches „Open to Work". Die neue Headline führt weiterhin mit Rizom.
 
-**Nicht verwenden:** dreisprachiger Verfügbarkeits-About-Text (gestrichen), öffentliche „Open to Work"-Anzeige, Headline-Änderung.
+**Live seit 2026-08-05 — Headline:**
+
+```
+Founder & CTO at Rizom | open-source self-hosted AI agent platform | AI agent infrastructure, self-hosted LLM systems, RAG, MCP | Ph.D.
+```
+
+**Live seit 2026-08-05 — About:**
+
+```
+I came to technology through philosophy. I had been coding since childhood, but it took years with Heidegger, Benjamin and Kittler to work out what I actually wanted to build. The questions about knowledge, community and meaning that academia had stopped asking were being answered anyway, for better or worse, by whoever was building the infrastructure.
+
+So I started building. Offcourse, an open-source learning platform, for eleven years. Snowday, co-founder and CTO. Then Varias as Chief Product Officer, where the AI "virtual team member" I built became the company's core IP. Along the way, Public Badges, a digital trust framework now deployed across Dutch media, cultural, education and healthcare institutions.
+
+Now Rizom: an open-source, self-hosted AI agent platform. Organisations run their own agents on their own infrastructure and keep their data and their operational memory inside their own walls. I have been building production AI agent systems and knowledge infrastructure since 2019, and the conviction underneath has not changed. We need structures that work more like living systems than machines.
+
+These are the things I end up arguing about. Why so many LLM agent pilots stall. What self-hosted infrastructure actually buys a regulated or public-sector buyer that vendor-hosted doesn't. RAG and organisational knowledge systems. The Model Context Protocol and open agent standards. Whether open source can pay for itself: AGPL, licensing, partner networks. European digital sovereignty, mostly from the building side.
+
+Ph.D., Utrecht / Humboldt-Universität zu Berlin. Based in Taipei; Dutch company. Dutch, German, English.
+```
+
+**Wichtig:** Der wörtliche Profiltext aus `expert-networks-channel-setup` ist für die
+Signup-Formulare der Netzwerke gedacht, NICHT für LinkedIn. Er öffnet mit „I can speak
+to:" — das ist im Formular richtig und auf einem öffentlichen Profil ein
+Verfügbarkeitssignal. Deshalb hier die Rizom-first-Fassung in eigener Stimme.
+
+**Weiterhin sinnvoll (aus der alten Fassung):**
+- „Open to Work" NUR im Recruiter-only-Modus (kein grüner Banner, für Netzwerk/Besucher unsichtbar). Rollentyp: Contract/Freelance, Remote, DACH/NL.
+- Featured-Sektion: rizom.ai, github.com/rizom-ai/brains, gitlab.com/offcourse, Waag-Artikel.
+- Skills-Sektion: TypeScript, AI Agents, Software Architecture, Terraform, Clojure, Elixir.
+- Anfragen über LinkedIn laufen als Rizom-Engagements — konsistent mit rizom.ai/work.
+
+**Noch offen:** Die Experience-Einträge sind unverändert und weiterhin auf Contracting
+getrimmt. GLG importiert genau diese als Work History (LinkedIn-Sign-in in der
+Onboarding-Strecke) — vor dem Import einmal durchsehen.
+
+**Nicht verwenden:** dreisprachiger Verfügbarkeits-About-Text (gestrichen), öffentliche
+„Open to Work"-Anzeige.
 
 ---
 
 ## Offen / später ergänzen
 
 - [x] Stack bestätigt: aktuell TypeScript/Bun + MCP; Offcourse-Ära Clojure/ClojureScript + Terraform; Elixir seit 2013 (nur Tag, kein Projekteintrag) → in alle Profile übernommen
+- [x] LinkedIn Headline + About auf Englisch/Rizom-first umgestellt (2026-08-05, siehe Abschnitt 4)
 - [ ] KvK-Nr. + USt-IdNr. Rizom B.V. in Profile/Impressum, sobald nachgeschlagen
 - [ ] Nach GitHub-/GitLab-Fixes: Links in allen vier Profilen prüfen
+- [ ] LinkedIn Experience-Einträge auf Founder-first umstellen (vor GLG-Work-History-Import)
