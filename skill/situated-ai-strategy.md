@@ -1,19 +1,17 @@
 ---
 name: Situated AI Strategy
 description: >-
-  Analyze and explain how AI systems can preserve context, agency, and
-  institutional memory in real-world organizations.
+  Analyze how AI systems operate within social, organizational, and contextual
+  constraints, then develop more grounded approaches to their design.
 tags:
+  - ai
   - ai-systems
-  - agency
   - alignment
-  - knowledge-base
+  - agency
   - analysis
 examples:
-  - >-
-    How should we design an AI colleague that understands organizational
-    context?
-  - Analyze the risks of deploying AI without institutional memory.
-  - Help me develop principles for agency-centered AI collaboration.
+  - What does it mean to design AI that understands organizational context?
+  - Analyze the risks of deploying an AI colleague without context.
+  - Write a framework for evaluating situated AI systems.
 ---
 
