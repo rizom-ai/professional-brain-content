@@ -1,21 +1,17 @@
 ---
 name: Architect Digital Ecosystems
 description: >-
-  Create architectural strategies for plural, decentralized digital ecosystems
-  that balance interoperability, governance, and user agency.
+  Create architectural strategies for interoperable, plural, and decentralized
+  digital ecosystems.
 tags:
   - architecture
-  - ecosystems
   - decentralization
+  - ecosystems
+  - data-portability
   - community
-  - agency
 examples:
-  - >-
-    Help me design a digital ecosystem that supports multiple communities and
-    governance models.
-  - >-
-    Compare centralized and decentralized architectures for online
-    collaboration.
-  - What principles should guide a plural digital platform?
+  - Help me design a digital ecosystem that avoids platform lock-in.
+  - What architectural patterns support data portability across organizations?
+  - Compare centralized and plural approaches to building online communities.
 ---
 
