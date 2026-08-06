@@ -22,7 +22,7 @@ Usable verbatim in their signup forms and as the LinkedIn "About" section:
 
 > Software architect, 20+ years. Building production AI agent systems and knowledge infrastructure since 2019 — before the current wave.
 >
-> Founder/CTO of Rizom, an open-source self-hosted AI agent platform. Founder of Offcourse, eleven years of open-source learning infrastructure. Co-founder/CTO of Snowday. Previously Chief Product Officer at Varias, where I built an AI "virtual team member" product that became core IP; lead developer of Public Badges, a digital trust framework deployed across Dutch media, cultural, education and healthcare institutions.
+> Founder/CTO of Rizom, an open-source self-hosted AI agent platform. Founder of Offcourse, eleven years of open-source learning infrastructure. Co-founder/CTO of Snowday. Founder of Lefthoek, where I built an AI "virtual team member" product; as Chief Product Officer at Varias I developed that concept further into the company's core IP. Lead developer of Public Badges, a digital trust framework deployed across Dutch media, cultural, education and healthcare institutions.
 >
 > I can speak to: how organisations actually deploy LLM agents and why most pilots stall; self-hosted versus vendor-hosted AI infrastructure and what drives that choice for regulated and public-sector buyers; RAG and organisational knowledge systems; the Model Context Protocol and open agent standards; open-source commercial models — AGPL, licensing, certified-partner networks; the European digital-sovereignty agenda from a builder's perspective.
 >
@@ -32,7 +32,7 @@ Usable verbatim in their signup forms and as the LinkedIn "About" section:
 
 **Compliance.** These networks screen hard on client confidentiality. The Datacampus and Port of Rotterdam conversations are off-limits as call material.
 
-**LinkedIn.** The headline is currently the German fractional-CTO line. For their search to surface the profile it needs the English terms: AI agent infrastructure, self-hosted LLM systems, founder and CTO, Ph.D.
+**LinkedIn.** The headline is currently the English Rizom-first prose line (since 2026-08-06); the expert-network search terms — AI agents, self-hosted, founder and CTO, Ph.D. — are carried in natural prose in headline and About. See `plattform-setup-pack-freelance-profile-dachnl-freelancermap-malt-freelancenl-linkedin`, Abschnitt 4.
 
 ## Where this sits
 
