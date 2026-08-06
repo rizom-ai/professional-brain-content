@@ -1,18 +1,17 @@
 ---
 name: Design Trustworthy AI Systems
 description: >-
-  Design and analyze situated AI systems that preserve human agency, support
-  alignment, and make institutional context explicit.
+  Design and analyze AI systems that preserve context, agency, plural knowledge,
+  and institutional trust.
 tags:
   - ai-systems
-  - agency
+  - agents
   - alignment
+  - agency
   - analysis
 examples:
-  - >-
-    Help me design an AI assistant that works with institutional memory without
-    erasing context.
-  - Analyze the agency risks in this proposed AI collaboration system.
-  - 'Write principles for building trustworthy, context-aware AI agents.'
+  - Help me design an AI colleague that retains organizational context.
+  - Analyze the tradeoffs between human-like AI and agentic AI.
+  - What principles make an institutional-memory AI trustworthy?
 ---
 
