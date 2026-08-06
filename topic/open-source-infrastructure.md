@@ -1,0 +1,4 @@
+---
+title: Open Source Infrastructure
+---
+Open-source infrastructure is a central proof point in the professional narrative described throughout the content. Rizom is presented as a self-hosted AI knowledge platform built with TypeScript, Bun, MCP, plugin architecture, and deployment tooling. The profile also uses the eleven-year history of Offcourse to demonstrate sustained open-source development and experience with knowledge coordination. GitHub and GitLab repositories are treated as public evidence that must be organized, described, and linked back to the broader professional identity. The emphasis on self-hosting reinforces themes of data ownership, institutional memory, and independence from vendor-hosted AI services. This technical domain supports both the founder brand and the credibility of the consulting positioning.
