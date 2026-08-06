@@ -1,26 +1,31 @@
 ---
 strengths:
-  - title: Technology strategy essays
+  - title: Knowledge Infrastructure Design
     detail: >-
-      Use your ability to connect technology, organizations, agency, and social
-      change, pairing it with Metis for structured human–AI tradeoff analysis.
+      Use your dependable knowledge-design skill to turn scattered material into
+      structured, searchable systems, and pair it with Arcane Scribe when you
+      need sharper retrieval and actionability.
+  - title: Software Systems Design
+    detail: >-
+      Rely on your software-architecture skill to translate knowledge and
+      ecosystem goals into maintainable systems, with Doc as dependable support
+      for extensible tools and integrations.
 weaknesses:
-  - title: Profile fact lookup
+  - title: Profile Auditing
     detail: >-
-      Do not assume you can quickly retrieve and present accurate profile facts;
-      build and test a repeatable lookup practice before taking on profile
-      audits.
+      Treat profile completeness, placeholder detection, and cleanup as a
+      separate skill to strengthen rather than assuming your systems and
+      knowledge-design skills cover it.
 opportunities:
-  - title: Critical contemporary analysis
+  - title: 撰寫批判性時代分析
     detail: >-
-      Test Dynamic Sage on one essay or content project to add theory, thinkers,
-      and historical context to your existing technology-strategy writing.
+      Test Dynamic Sage on one curated piece to add accessible
+      theory-and-history-based analysis to your public-facing content.
 threats:
-  - title: Tentative profile fact lookup
+  - title: Profile Fact Lookup
     detail: >-
-      Review every result from the tentative profile-lookup capability and avoid
-      relying on it for high-stakes profile summaries until its accuracy is
-      established.
-derivedAt: '2026-08-05T09:48:24.802Z'
+      Do not rely on Endless Watcher for time-sensitive or accuracy-critical
+      profile facts until its tentative results are manually verified.
+derivedAt: '2026-08-06T06:17:06.395Z'
 ---
 
