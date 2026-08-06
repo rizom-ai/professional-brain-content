@@ -1,0 +1,4 @@
+---
+title: Knowledge Infrastructure
+---
+The proposal frames the brains runtime as reusable knowledge infrastructure rather than a new product built from scratch. Existing components include an open-source runtime, MCP server, plugin system, site generation, deployment tooling, multi-tenant provisioning, onboarding documentation, synchronization, and a live fleet of personal brains. These assets substantially reduce the amount of new engineering required for an Offcourse revival. The durable gap is not basic hosting but the infrastructure for federation, consent-based exchange, and collaborative curation. This framing supports both commercial deployment through cohort pilots and public-interest funding focused on open learning infrastructure. It also emphasizes capitalizing on eleven years of prior development and provenance.

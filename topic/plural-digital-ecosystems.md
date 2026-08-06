@@ -1,0 +1,4 @@
+---
+title: Plural Digital Ecosystems
+---
+The content presents Offcourse on Brains as a plural digital ecosystem built from personal and shared knowledge spaces. Each participant retains a personal, portable, self-hosted brain, while cohorts maintain a shared brain that functions as collective memory. Knowledge moves between these spaces through consent rather than central ownership. This model revives Offcourse’s original crowdlearning thesis, where practitioners collaboratively curate and structure knowledge instead of consuming fixed courses. Federation between brains is identified as a major missing capability because the current discovery layer has no indexed agents or constellations. Group curation workflows are also needed to help cohorts contribute, review, and surface knowledge that no individual holds alone.
