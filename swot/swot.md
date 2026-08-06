@@ -1,25 +1,26 @@
 ---
 strengths:
-  - title: Knowledge infrastructure design
+  - title: Systems and institutional analysis
     detail: >-
-      Use your strength in designing trustworthy, context-preserving knowledge
-      systems for distributed organizations and institutional memory.
+      Use your dependable systems-thinking overlap with the network for essays,
+      institutional analysis, and human–AI design decisions.
 weaknesses:
-  - title: Historical and contemporary analysis
+  - title: Operational knowledge organization
     detail: >-
-      Build or borrow the ability to connect theory, thinkers, and historical
-      context when developing grounded essays, programs, or public analysis.
+      Pair your knowledge-infrastructure design with your network’s structured
+      documentation and retrieval practice instead of relying on architecture
+      alone.
 opportunities:
-  - title: Organizational knowledge design
+  - title: Contemporary critical analysis
     detail: >-
-      Pair your infrastructure principles with your network’s dependable ability
-      to turn scattered notes, decisions, and expertise into searchable,
-      actionable organizational knowledge.
+      Test your network’s ability to connect theory, thinkers, and historical
+      context by co-producing one public essay or program on technology,
+      institutions, or social change.
 threats:
-  - title: Profile auditing
+  - title: Tentative profile lookup
     detail: >-
-      Treat profile cleanup as tentative and manually verify important facts,
-      omissions, placeholders, and metadata before relying on this capability.
-derivedAt: '2026-08-06T15:56:32.114Z'
+      Treat the network’s profile-fact retrieval as unconfirmed and manually
+      verify every fact before using it in published work.
+derivedAt: '2026-08-06T15:58:30.525Z'
 ---
 
