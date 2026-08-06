@@ -66,7 +66,7 @@ Open-Source-Wissensinfrastruktur: Self-hosted AI-Agenten-Plattform (TypeScript/B
 → github.com/rizom-ai/brains
 
 *Projekt 2 — Varias (2022–2024) · Chief Product Officer*
-AI-Produktivitätstool („virtuelle Teammitglieder") konzipiert und gebaut; wurde Kern-IP des Unternehmens. Anschließend Produktstrategie und Skalierungsmethodik für das Scale-up-Services-Geschäft (EU/US).
+Das bei Lefthoek entstandene AI-„virtuelle Teammitglied"-Konzept weiterentwickelt; wurde Kern-IP des Unternehmens. Anschließend Produktstrategie und Skalierungsmethodik für das Scale-up-Services-Geschäft (EU/US).
 
 *Projekt 3 — Snowday, New York (2022–2023) · Co-Founder & CTO*
 Technische Architektur und Skalierungsinfrastruktur für eine Bewertungsplattform im US-Bildungsmarkt.
@@ -118,6 +118,11 @@ Open-Source-Crowdlearning-Plattform in Clojure/ClojureScript, Infrastruktur mit 
 > Headline; „Model Context Protocol", „self-hosted versus vendor-hosted AI" im About.
 > LinkedIn indexiert beide Felder für die Suche.
 
+> **Faktenkorrektur 2026-08-06:** Das AI-„virtuelle Teammitglied" wurde bei **Lefthoek**
+> (2020–2021) gebaut; **Varias** hat die Idee übernommen und zur Kern-IP
+> weiterentwickelt. Frühere Formulierungen („bei Varias gebaut") waren falsch —
+> nirgends mehr so verwenden.
+
 **Was weiterhin gilt:** Öffentliches Profil bleibt Founder-first (Rizom). KEINE
 Verfügbarkeits-/Contract-Sprache im öffentlichen Profil, kein öffentliches „Open to
 Work". Die Headline führt weiterhin mit Rizom.
@@ -133,7 +138,7 @@ Founder & CTO at Rizom — open-source, self-hosted AI agents for institutional 
 ```
 I came to technology through philosophy. I had been coding since childhood, but it took years with Heidegger, Benjamin and Kittler to work out what I actually wanted to build. The questions about knowledge, community and meaning that academia had stopped asking were being answered anyway, for better or worse, by whoever was building the infrastructure.
 
-So I started building. Offcourse, an open-source learning platform, for eleven years. Snowday, co-founder and CTO. Varias as Chief Product Officer, where the AI "virtual team member" I built became the company's core IP. Public Badges, a digital trust framework deployed across Dutch media, cultural, education and healthcare institutions.
+So I started building. Offcourse, an open-source learning platform, for eleven years. Snowday, co-founder and CTO. Lefthoek, where I built an AI "virtual team member" for teams; as Chief Product Officer at Varias, I developed that idea further into the company's core IP. Public Badges, a digital trust framework deployed across Dutch media, cultural, education and healthcare institutions.
 
 Now Rizom: open-source infrastructure for institutional memory. Organisations run their own AI agents on their own infrastructure and keep their knowledge — their data, their context, their operational memory — inside their own walls. I have been building production agent systems since 2019, and the conviction underneath has not changed: we need structures that work more like living systems than machines.
 
@@ -149,13 +154,15 @@ Verfügbarkeitssignal.
 
 **Weiterhin sinnvoll (aus der alten Fassung):**
 - „Open to Work" NUR im Recruiter-only-Modus (kein grüner Banner, für Netzwerk/Besucher unsichtbar). Rollentyp: Contract/Freelance, Remote, DACH/NL.
-- Featured-Sektion: rizom.ai, github.com/rizom-ai/brains, gitlab.com/offcourse, Waag-Artikel.
-- Skills-Sektion: TypeScript, AI Agents, Software Architecture, Terraform, Clojure, Elixir.
+- Featured-Sektion: rizom.ai, github.com/rizom-ai/brains, gitlab.com/offcourse, Waag-Artikel. → noch offen
+- Skills-Sektion: TypeScript, AI Agents, Software Architecture, Terraform, Clojure, Elixir; Top-Skills auf dem Profil sind noch „Leadership • Entrepreneurship". → noch offen
 - Anfragen über LinkedIn laufen als Rizom-Engagements — konsistent mit rizom.ai/work.
 
-**Noch offen:** Die Experience-Einträge sind unverändert und weiterhin auf Contracting
-getrimmt. GLG importiert genau diese als Work History (LinkedIn-Sign-in in der
-Onboarding-Strecke) — vor dem Import einmal durchsehen.
+**Experience-Einträge bereinigt (2026-08-06, vor GLG-Work-History-Import):**
+- Rizom: Titel „Founder & CTO", Beschreibung auf institutional-memory-Framing (statt Community-Fluff 2024); Duplikat-Eintrag „Community member" gelöscht.
+- Offcourse: drei widersprüchliche Stints zu einem Eintrag konsolidiert (Founder, Jun 2013 – Dez 2024 · 11 J. 7 Mon.), Beschreibung: Crowdlearning + Relaunch 2023.
+- Titel vervollständigt: Snowday „Co-Founder & Chief Technology Officer", Superconnectors „Founder & Chief Vision Officer".
+- Tippfehler: Varias „emporewed"→„empowered" (+ veraltetes „Really excited for this new journey" entfernt), Utrecht „Philosopy"→„Philosophy".
 
 **Nicht verwenden:** dreisprachiger Verfügbarkeits-About-Text (gestrichen), öffentliche
 „Open to Work"-Anzeige, Keyword-Pipe-Headline (2026-08-05, ersetzt am 2026-08-06).
@@ -166,6 +173,7 @@ Onboarding-Strecke) — vor dem Import einmal durchsehen.
 
 - [x] Stack bestätigt: aktuell TypeScript/Bun + MCP; Offcourse-Ära Clojure/ClojureScript + Terraform; Elixir seit 2013 (nur Tag, kein Projekteintrag) → in alle Profile übernommen
 - [x] LinkedIn Headline + About auf Englisch/Rizom-first umgestellt (2026-08-05); am 2026-08-06 auf Prosa-Fassung revidiert (siehe Abschnitt 4)
+- [x] LinkedIn Experience-Einträge auf Founder-first umgestellt und bereinigt (2026-08-06, siehe Abschnitt 4)
+- [ ] LinkedIn Featured-Sektion + Top-Skills umstellen (siehe Abschnitt 4)
 - [ ] KvK-Nr. + USt-IdNr. Rizom B.V. in Profile/Impressum, sobald nachgeschlagen
 - [ ] Nach GitHub-/GitLab-Fixes: Links in allen vier Profilen prüfen
-- [ ] LinkedIn Experience-Einträge auf Founder-first umstellen (vor GLG-Work-History-Import)
