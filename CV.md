@@ -16,7 +16,10 @@ Founded a structured matchmaking event series connecting startups with high-valu
 Co-founded a ratings and reviews platform for competitive extracurricular education for high schoolers in the United States. Responsible for technical architecture and the organizational infrastructure to support rapid scaling.
 
 **Varias — Chief Product Officer** *(January 2022 – January 2024 | Rotterdam)*
-Founded an AI-powered productivity tool that embeds "virtual team members" into human teams, automating routine tasks and redeploying human capacity toward higher-value work; the tool became one of Varias's core IP assets. Subsequently led product development for Varias's broader scale-up services business, providing autonomous, dedicated teams to later-stage startups — responsible for product strategy, team performance frameworks, and scaling methodology.
+Developed the AI "virtual team member" concept — originated at his earlier venture Lefthoek — further into an AI-powered productivity tool that embeds virtual team members into human teams, automating routine tasks and redeploying human capacity toward higher-value work; the tool became one of Varias's core IP assets. Subsequently led product development for Varias's broader scale-up services business, providing autonomous, dedicated teams to later-stage startups — responsible for product strategy, team performance frameworks, and scaling methodology.
+
+**Lefthoek — Founder** *(June 2020 – November 2021 | Rotterdam)*
+Founded Lefthoek, which added AI-powered "virtual team members" to messaging apps for information management — taking over laborious and difficult tasks so teams could work smarter with less effort. The concept was later further developed at Varias.
 
 **PublicSpaces — Project Lead Developer** *(October 2019 – October 2021 | Amsterdam)*
 Led development of the Public Badges framework — a system of digital quality marks that technically validates websites and software applications against a set of public-interest values. Collaborated across Dutch media, culture, education, and health sectors.
