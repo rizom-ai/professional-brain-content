@@ -26,7 +26,7 @@ This is the point of the proposal. Nearly all of it is built:
 
 - **The runtime.** brains monorepo, 5,700+ commits, AGPL. MCP server with OAuth, plugin system, site generation, deployment tooling.
 - **Multi-tenant provisioning.** `pilot.yaml`, per-user `.env`, shared `brain-${brainVersion}` image, Kamal deploy and reconcile workflows — see `operator-playbook`. The machinery for running brains for many people is done.
-- **A live fleet.** Personal brains already running on `<handle>.rizom.ai` subdomains.
+- **A live fleet, and it is discoverable.** rizom.ai's map shows **6 agents indexed** — becca, rizom brain docs, jo, mindinn, sam, yeehaa — registered and visible on the public network map (checked 2026-08-05).
 - **Onboarding.** `rover-pilot-user-onboarding` is a complete first-time-user document: connection, first five minutes, Obsidian/git workflow, private per-user content repos, wishlist capture.
 - **Bidirectional sync.** directory-sync carries markdown between a private git repo and the brain, so participants can work in Obsidian and the brain picks it up.
 - **A priced commercial offer.** The Datacampus proposal: scoping sprint → Phase 1 build → Phase 2 licence.
@@ -35,9 +35,9 @@ This is the point of the proposal. Nearly all of it is built:
 
 ## What is genuinely missing
 
-Short list, and it is the same list in every direction:
+Short list, and narrower than it first appeared:
 
-1. **Federation between brains.** rizom.ai's front page already advertises constellations — "Brains find each other by substance, not titles" — and currently reports *No indexed agents yet. 0 agents, 0 constellations discovered.* The discovery layer is declared and empty.
+1. **Constellations.** Agent discovery and the registry work — six agents are indexed. What reads **0** is constellations: no group has formed by substance yet. That may be a build gap in the grouping logic, or simply too few agents with too little shared public substance to cluster on. Worth establishing which before scoping any work against it.
 2. **Consent-based sharing.** "Each partner decides what it shares" is in the Datacampus proposal as a promise. Per-entity visibility exists; cross-brain selective sharing does not.
 3. **Group curation workflows.** How a cohort actually works together — contributing, curating, reviewing, surfacing what the group knows that no individual does. This is the crowdlearning part, and it is the genuinely unbuilt piece.
 
@@ -56,7 +56,7 @@ Note the pricing conflict flagged in `rizom-product-plan`: the Datacampus figure
 
 ## Funder fit
 
-**NLnet — the right one.** Opens 3 Sept, closes 3 Nov, €50k, Lane B. The existing draft's M3 (AT Protocol federation, selective sharing between self-hosted brains) and M4 (open lexicon + SDK) *are* the missing layer above. The draft already funds Offcourse-on-brains without saying so. Reframing it around crowdlearning infrastructure rather than abstract portability gives it a public-interest narrative and a concrete user, which is what NGI funds.
+**NLnet — the right one.** Opens 3 Sept, closes 3 Nov, €50k, Lane B. The existing draft's M3 (AT Protocol federation, selective sharing between self-hosted brains) and M4 (open lexicon + SDK) *are* the missing layer above. The draft already funds Offcourse-on-brains without saying so. Reframing it around crowdlearning infrastructure rather than abstract portability gives it a public-interest narrative and a concrete user, which is what NGI funds. Note the demo is stronger than the draft implies — six agents are already indexed on a live public map.
 
 **SIDN Pioniers — a bounded carve-out only.** €10k, six months. The consent model for sharing between brains would fit; the full scope would not. See `sidn-fonds-pioniers-application-draft`, which currently proposes a portability standard — worth reconsidering against this framing before sending the webformulier.
 
@@ -66,4 +66,5 @@ Note the pricing conflict flagged in `rizom-product-plan`: the Datacampus figure
 
 - Does Offcourse come back as the product name, or as heritage inside Rizom Brains? Two brands is a cost a one-person operation may not want.
 - Datacampus is the first customer for this whether or not it is called Offcourse. Does renaming help or complicate a live proposal?
+- Are zero constellations a missing feature or a cold-start problem? Different answers point at different work.
 - The delivery constraint in `rizom-product-plan` still applies: one person can currently run a pilot, and cohort work is more delivery-heavy than a single team brain.
