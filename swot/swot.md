@@ -1,27 +1,25 @@
 ---
 strengths:
-  - title: Situated AI analysis
+  - title: Knowledge infrastructure design
     detail: >-
-      Use your dependable strength in connecting AI design with organizational
-      context, agency, trust, and alignment when evaluating human–AI decisions.
+      Use your strength in designing trustworthy, context-preserving knowledge
+      systems for distributed organizations and institutional memory.
 weaknesses:
-  - title: Operational knowledge-system design
+  - title: Historical and contemporary analysis
     detail: >-
-      Pair your knowledge-ecosystem strategy with hands-on expertise in turning
-      scattered notes, decisions, and expertise into structured, searchable,
-      actionable systems.
+      Build or borrow the ability to connect theory, thinkers, and historical
+      context when developing grounded essays, programs, or public analysis.
 opportunities:
-  - title: Historically grounded public analysis
+  - title: Organizational knowledge design
     detail: >-
-      Test Dynamic Sage’s dependable ability to connect theory and historical
-      context with your technology and institutional ideas to produce accessible
-      public work.
+      Pair your infrastructure principles with your network’s dependable ability
+      to turn scattered notes, decisions, and expertise into searchable,
+      actionable organizational knowledge.
 threats:
-  - title: Tentative profile fact retrieval
+  - title: Profile auditing
     detail: >-
-      Do not rely on Profile Fact Lookup for accurate profile or metadata work
-      yet; manually verify important facts until this capability becomes
-      dependable.
-derivedAt: '2026-08-06T15:35:24.291Z'
+      Treat profile cleanup as tentative and manually verify important facts,
+      omissions, placeholders, and metadata before relying on this capability.
+derivedAt: '2026-08-06T15:56:32.114Z'
 ---
 
