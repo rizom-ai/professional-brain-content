@@ -1,0 +1,4 @@
+---
+title: Professional Positioning
+---
+Der Text behandelt die strategische Darstellung einer Person mit Erfahrung als Softwarearchitekt, Gründer, CTO und Produktverantwortlicher. Diese Positionierung verbindet technische Führung mit AI-Agenten, Full-Stack-Entwicklung, DevOps, Open Source und Produktstrategie. Die Profile sollen jeweils auf Zielgruppen und Plattformlogiken zugeschnitten werden, während eine konsistente Kernidentität rund um Rizom erhalten bleibt. Besonders wichtig ist die Abgrenzung zwischen öffentlicher Founder-first-Kommunikation und separater Freelance- oder Expert-Network-Ansprache. Die Darstellung nutzt Projekthistorie, technische Kompetenzen und langjährige Open-Source-Arbeit als Vertrauenssignale. Dadurch entsteht ein wiederverwendbares Modell für die Positionierung senioriger Technologieberater mit eigener Produkt- oder Infrastrukturarbeit.
