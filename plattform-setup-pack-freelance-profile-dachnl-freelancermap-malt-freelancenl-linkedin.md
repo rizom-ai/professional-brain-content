@@ -108,34 +108,36 @@ Open-Source-Crowdlearning-Plattform in Clojure/ClojureScript, Infrastruktur mit 
 
 ---
 
-## 4. LinkedIn — Stand 2026-08-05 (Rizom bleibt Hauptprofil)
+## 4. LinkedIn — Stand 2026-08-06 (Rizom bleibt Hauptprofil)
 
-> **Ersetzt die Minimal-Touch-Entscheidung vom 2026-08-03.** Die damalige Regel „keine
-> Headline-Änderung" gilt nicht mehr. Grund: die Expert Networks (GLG, AlphaSights,
-> Third Bridge, Guidepoint, Dialectica) rekrutieren über LinkedIn-Suche. Ihre
-> Signup-Formulare haben teils gar kein Freitextfeld — sie sind faktisch nur Zeiger
-> auf das LinkedIn-Profil. Siehe `expert-networks-channel-setup`.
+> **Revision 2026-08-06:** Die Keyword-Pipe-Headline vom 2026-08-05 ist ersetzt.
+> Grund: sie las sich als Keyword-Liste, nicht als Person („I actually hate my LI now").
+> Die Suchbegriffe der Expert Networks (GLG, AlphaSights, Third Bridge, Guidepoint,
+> Dialectica — siehe `expert-networks-channel-setup`) bleiben erhalten, aber in
+> natürlicher Prosa: „Founder & CTO", „AI agents", „self-hosted", „Ph.D." stehen in der
+> Headline; „Model Context Protocol", „self-hosted versus vendor-hosted AI" im About.
+> LinkedIn indexiert beide Felder für die Suche.
 
-**Was aus der alten Entscheidung bestehen bleibt:** Öffentliches Profil bleibt
-Founder-first (Rizom). KEINE Verfügbarkeits-/Contract-Sprache im öffentlichen Profil,
-kein öffentliches „Open to Work". Die neue Headline führt weiterhin mit Rizom.
+**Was weiterhin gilt:** Öffentliches Profil bleibt Founder-first (Rizom). KEINE
+Verfügbarkeits-/Contract-Sprache im öffentlichen Profil, kein öffentliches „Open to
+Work". Die Headline führt weiterhin mit Rizom.
 
-**Live seit 2026-08-05 — Headline:**
+**Live seit 2026-08-06 — Headline:**
 
 ```
-Founder & CTO at Rizom | open-source self-hosted AI agent platform | AI agent infrastructure, self-hosted LLM systems, RAG, MCP | Ph.D.
+Founder & CTO at Rizom — open-source, self-hosted AI agents for institutional memory. Philosopher by training (Ph.D.), builder by conviction.
 ```
 
-**Live seit 2026-08-05 — About:**
+**Live seit 2026-08-06 — About:**
 
 ```
 I came to technology through philosophy. I had been coding since childhood, but it took years with Heidegger, Benjamin and Kittler to work out what I actually wanted to build. The questions about knowledge, community and meaning that academia had stopped asking were being answered anyway, for better or worse, by whoever was building the infrastructure.
 
-So I started building. Offcourse, an open-source learning platform, for eleven years. Snowday, co-founder and CTO. Then Varias as Chief Product Officer, where the AI "virtual team member" I built became the company's core IP. Along the way, Public Badges, a digital trust framework now deployed across Dutch media, cultural, education and healthcare institutions.
+So I started building. Offcourse, an open-source learning platform, for eleven years. Snowday, co-founder and CTO. Varias as Chief Product Officer, where the AI "virtual team member" I built became the company's core IP. Public Badges, a digital trust framework deployed across Dutch media, cultural, education and healthcare institutions.
 
-Now Rizom: an open-source, self-hosted AI agent platform. Organisations run their own agents on their own infrastructure and keep their data and their operational memory inside their own walls. I have been building production AI agent systems and knowledge infrastructure since 2019, and the conviction underneath has not changed. We need structures that work more like living systems than machines.
+Now Rizom: open-source infrastructure for institutional memory. Organisations run their own AI agents on their own infrastructure and keep their knowledge — their data, their context, their operational memory — inside their own walls. I have been building production agent systems since 2019, and the conviction underneath has not changed: we need structures that work more like living systems than machines.
 
-These are the things I end up arguing about. Why so many LLM agent pilots stall. What self-hosted infrastructure actually buys a regulated or public-sector buyer that vendor-hosted doesn't. RAG and organisational knowledge systems. The Model Context Protocol and open agent standards. Whether open source can pay for itself: AGPL, licensing, partner networks. European digital sovereignty, mostly from the building side.
+I write essays about this — why storage is not memory, what new institutions need — at yeehaa.io. The practical arguments follow me around too: self-hosted versus vendor-hosted AI, the Model Context Protocol, whether open source can pay for itself. I am happy to have any of them.
 
 Ph.D., Utrecht / Humboldt-Universität zu Berlin. Based in Taipei; Dutch company. Dutch, German, English.
 ```
@@ -143,7 +145,7 @@ Ph.D., Utrecht / Humboldt-Universität zu Berlin. Based in Taipei; Dutch company
 **Wichtig:** Der wörtliche Profiltext aus `expert-networks-channel-setup` ist für die
 Signup-Formulare der Netzwerke gedacht, NICHT für LinkedIn. Er öffnet mit „I can speak
 to:" — das ist im Formular richtig und auf einem öffentlichen Profil ein
-Verfügbarkeitssignal. Deshalb hier die Rizom-first-Fassung in eigener Stimme.
+Verfügbarkeitssignal.
 
 **Weiterhin sinnvoll (aus der alten Fassung):**
 - „Open to Work" NUR im Recruiter-only-Modus (kein grüner Banner, für Netzwerk/Besucher unsichtbar). Rollentyp: Contract/Freelance, Remote, DACH/NL.
@@ -156,14 +158,14 @@ getrimmt. GLG importiert genau diese als Work History (LinkedIn-Sign-in in der
 Onboarding-Strecke) — vor dem Import einmal durchsehen.
 
 **Nicht verwenden:** dreisprachiger Verfügbarkeits-About-Text (gestrichen), öffentliche
-„Open to Work"-Anzeige.
+„Open to Work"-Anzeige, Keyword-Pipe-Headline (2026-08-05, ersetzt am 2026-08-06).
 
 ---
 
 ## Offen / später ergänzen
 
 - [x] Stack bestätigt: aktuell TypeScript/Bun + MCP; Offcourse-Ära Clojure/ClojureScript + Terraform; Elixir seit 2013 (nur Tag, kein Projekteintrag) → in alle Profile übernommen
-- [x] LinkedIn Headline + About auf Englisch/Rizom-first umgestellt (2026-08-05, siehe Abschnitt 4)
+- [x] LinkedIn Headline + About auf Englisch/Rizom-first umgestellt (2026-08-05); am 2026-08-06 auf Prosa-Fassung revidiert (siehe Abschnitt 4)
 - [ ] KvK-Nr. + USt-IdNr. Rizom B.V. in Profile/Impressum, sobald nachgeschlagen
 - [ ] Nach GitHub-/GitLab-Fixes: Links in allen vier Profilen prüfen
 - [ ] LinkedIn Experience-Einträge auf Founder-first umstellen (vor GLG-Work-History-Import)
