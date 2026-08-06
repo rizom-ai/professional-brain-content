@@ -1,26 +1,27 @@
 ---
 strengths:
-  - title: Organizational learning and alignment
+  - title: Situated AI analysis
     detail: >-
-      Use your analysis of learning, decentralized work, and funding alongside
-      your network’s dependable funding and ecosystem-alignment skills for
-      initiatives that must build collective capacity.
+      Use your dependable strength in connecting AI design with organizational
+      context, agency, trust, and alignment when evaluating human–AI decisions.
 weaknesses:
-  - title: Profile auditing
+  - title: Operational knowledge-system design
     detail: >-
-      Build a repeatable review for completeness, placeholders, metadata, and
-      cleanup instead of relying on incidental checks.
+      Pair your knowledge-ecosystem strategy with hands-on expertise in turning
+      scattered notes, decisions, and expertise into structured, searchable,
+      actionable systems.
 opportunities:
-  - title: Open ecosystem governance
+  - title: Historically grounded public analysis
     detail: >-
-      Pair your plural-ecosystem architecture with Rizom’s dependable governance
-      skill to test explicit rules for participation, open-source ownership, and
-      partner collaboration.
+      Test Dynamic Sage’s dependable ability to connect theory and historical
+      context with your technology and institutional ideas to produce accessible
+      public work.
 threats:
-  - title: Profile fact lookup
+  - title: Tentative profile fact retrieval
     detail: >-
-      Treat profile-fact retrieval as tentative and manually verify details
-      until the capability proves accurate and consistent.
-derivedAt: '2026-08-06T09:48:23.217Z'
+      Do not rely on Profile Fact Lookup for accurate profile or metadata work
+      yet; manually verify important facts until this capability becomes
+      dependable.
+derivedAt: '2026-08-06T15:35:24.291Z'
 ---
 
