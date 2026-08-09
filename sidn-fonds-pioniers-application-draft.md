@@ -1,17 +1,17 @@
 # SIDN Fonds Pioniers — Application draft
 
-*Max €10,000. Rolling — the 2026 call runs to 31 December 2026, 13:00 Europe/Amsterdam. Max 6 months runtime. ~6-week response. Terms verified 2026-08-04 from the call page and criteria.*
+*Max €10,000. Rolling — the 2026 call runs to 31 December 2026, 13:00 Europe/Amsterdam. Max 6 months runtime. ~6-week response on the full application. Terms verified 2026-08-04 from the call page and criteria.*
 
-**Current scope: constellations, framed as organized memory.** Revised 2026-08-09. Two earlier framings were discarded — see "Framings tried and dropped" below. The live webform text is in `~/Documents/sidn-webform.md`.
+**STATUS: step 2 sent 2026-08-09.** The webformulier pitch has been submitted; reply comes to yeehaa@rizom.ai. Awaiting their read before going to FundPro.
+
+**Scope: constellations, framed as organized memory.** Two earlier framings were discarded — see "Framings tried and dropped". The submitted text is in `~/Documents/sidn-webform.md`.
 
 ## The procedure — four steps, and FundPro is step 3
 
 1. **Quickscan** and check the Pioniers criteria.
-2. **Toets je project via het webformulier** — test the idea with them first. FundPro's own call page is blunter: *"pitch your project via our website. After positive feedback you can apply here."*
+2. **Toets je project via het webformulier** — ✅ sent 2026-08-09. FundPro's own call page: *"pitch your project via our website. After positive feedback you can apply here."*
 3. **Apply via FundPro** — questionnaire, short video pitch, project plan of **max 4 A4**, plus KvK extract and jaarrekening only if applying as an organisation.
 4. Answer within six weeks.
-
-Do not start at FundPro.
 
 ## The project
 
@@ -21,7 +21,7 @@ The frame comes from `organized-memory-working-document-for-inc`. Thesis 4 conta
 
 The argument: twenty years ago the question of organized networks was posed — how loose association becomes durable form without hardening into institution — and could not be answered, because there was nothing to organize on except the platforms. Institutions that housed collective intellectual life are now shedding it. The missing layer is memory: an institution reduced to its function is a memory outliving any individual's attention. Platforms centralise that memory and rent it back. The alternative is memory that stays where it is made.
 
-That part exists — self-hosted, plain-text, open-licensed knowledge bases, six publicly discoverable today. The layer above it does not.
+That part exists. The layer above it does not.
 
 **Deliverables (six months):**
 
@@ -42,6 +42,12 @@ That part exists — self-hosted, plain-text, open-licensed knowledge bases, six
 
 Structural organisational costs, overheads and salary not attributable to the project are excluded by the criteria.
 
+## What was asked of them
+
+The pitch does not ask permission. It states that the architecture is built against capture — AGPL runtime, Apache SDK, foundation-held commons, lexicon published independently, and a mechanism that only functions between independently held nodes — and then asks SIDN for something: **a community from their network to run the demonstration with.**
+
+If they engage on that, the weakest part of the full application is solved by the funder before it is written.
+
 ## How it sits with the other funding threads
 
 Read together these are one programme, and the full application should say so:
@@ -50,24 +56,24 @@ Read together these are one programme, and the full application should say so:
 - **INC** (`organized-memory-working-document-for-inc`, `inc-partnership-three-horizon-plan`) is a community testing whether it can persist once its institution is gone.
 - **This** is the layer where those memories connect.
 
-ISOC also answers the density question: if it lands, the network is 14–16 independently held knowledge bases rather than six.
-
-**Do not name INC or the ISOC cohort in the pitch yet.** Neither is committed — the INC document states explicitly that nothing requires a decision. Add them when real; "a real community" is weak by comparison and that gap is known.
+**Neither is named in the pitch.** Neither is committed — the INC document states explicitly that nothing requires a decision. Add them when real.
 
 ## Framings tried and dropped
 
 Recorded so they don't come back round.
 
 - **Portability standard** (first draft). A spec plus conformance test for verifiable data export. Dropped: the exit-path work is already inside the ISOC project — *"a documented, tested path to leave at any time"* — so it would have applied for work committed elsewhere.
-- **Consent layer.** How a person shares selected knowledge into a group space on revocable terms. Dropped after Jan Hein chose constellations; also carried a premise problem, below.
+- **Consent layer.** How a person shares selected knowledge into a group space on revocable terms. Dropped in favour of constellations.
 - **Privacy-first framing.** "Find each other without exposing what you know." Wrong premise: the thesis across this body of work is that far too much knowledge is kept private and dies there. Corrected to openness by default, closure by exception.
 - **Findability framing.** "Make what you know findable." The mechanism without the question — instrumental, and disconnected from organized memory.
-- **A density study**, added to pre-empt "only six nodes". Pioniers is idea-phase; the stated deliverable is *"een demo, pilot of experimenteel ontwerp"*. Six live nodes is a real testbed at that stage, not a shortfall to apologise for.
+- **A density study**, added to pre-empt "only six nodes". Pioniers is idea-phase; the deliverable is *"een demo, pilot of experimenteel ontwerp"*.
+- **Node counts.** "Six independently held knowledge bases" claims an independence that isn't there — the agents on the rizom.ai map are largely Jan Hein's own instances. No count is used anywhere. The same overstatement is still in `offcourse-on-brains-scope-what-exists-funding-fit` and should come out.
+- **Defensive question framing.** Two permission questions — is a conceptual result acceptable, does the platform link disqualify me. Wrong posture for something anchored in a foundation and an AGPL commons.
+- **A credentials sign-off.** "Twenty years, Ph.D." contradicts a pitch arguing that credentials are the wrong signal. Replaced with an offer to look at yeehaa.io running.
 
-## Still needed
+## Next
 
-- Do the **Quickscan** (step 1).
-- Send the **webformulier pitch** (step 2) — text ready in `~/Documents/sidn-webform.md`.
-- Secure a named community for the demonstration.
-- Record a video pitch **for step 3 only**. The Dutch script written on 2026-08-04 is obsolete — it pitched the portability standard. Rewrite after the webform comes back.
+- Wait for their reply.
+- Secure a named community for the demonstration — ideally theirs.
+- Record a video pitch **for step 3 only**. The Dutch script written 2026-08-04 is obsolete; it pitched the portability standard. Rewrite after the reply.
 - Project plan, max 4 A4.
