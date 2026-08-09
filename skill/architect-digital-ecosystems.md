@@ -1,16 +1,20 @@
 ---
 name: Architect Digital Ecosystems
 description: >-
-  Create coherent strategies for connecting software, communities, institutions,
-  and decentralized forms of work into functioning ecosystems.
+  Create software and ecosystem architectures that connect people, platforms,
+  communities, and decentralized modes of work.
 tags:
   - architecture
   - community
-  - organization
-  - best-practices
+  - agency
+  - decentralized-work
 examples:
-  - Map the actors and dependencies in this digital ecosystem.
-  - Design an ecosystem strategy for decentralized collaboration.
-  - Identify where this platform architecture creates coordination failures.
+  - Design an ecosystem architecture for online collaboration.
+  - >-
+    Map the relationships between platforms, communities, and independent
+    contributors.
+  - >-
+    What architecture would support decentralized work without losing
+    coordination?
 ---
 
