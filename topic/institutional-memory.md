@@ -1,0 +1,4 @@
+---
+title: Institutional Memory
+---
+The project examines how AI systems are changing institutional memory, particularly when retrieval and summarization begin to replace human recollection and deliberation. It distinguishes memory from storage, arguing that institutional memory is the capacity to make past experience available for present judgment. The central concern is that fluent AI-generated outputs may compress or obscure the context, reasons, and disagreements behind organizational decisions. The research investigates whether institutions can still exercise judgment when their knowledge work is mediated by systems that retrieve information without understanding its significance. It also considers the risk of cognitive monoculture when many organizations rely on the same foundation models for sense-making. Practice-based inquiry, open-notebook research, and case evidence are used to make these institutional effects observable.
