@@ -1,28 +1,31 @@
 ---
 strengths:
-  - title: Research-to-funding strategy
+  - title: Human–AI alignment analysis
     detail: >-
-      Use your ability to connect emerging-technology research with fundable
-      opportunities, and pair it with your network’s dependable mission-aligned
-      funding models for proposals and ecosystem financing decisions.
+      Use your systems-based analysis confidently, and pair it with Metis for
+      structured tradeoff analysis when decisions are ambiguous.
+  - title: Federated knowledge architecture
+    detail: >-
+      Use your strength in portable institutional-memory systems alongside
+      Arcane Scribe’s dependable ability to structure scattered expertise into
+      actionable knowledge.
 weaknesses:
-  - title: Historical-context critical analysis
+  - title: Historically grounded critique
     detail: >-
-      Do not position this as a core offering yet; strengthen your ability to
-      connect theory, thinkers, and historical context to accessible
-      contemporary analysis.
+      Build or borrow the ability to connect theory, thinkers, and historical
+      context to current phenomena before taking on work that depends on
+      accessible critical analysis.
 opportunities:
-  - title: Organizational Knowledge Design
+  - title: Searchable organizational knowledge
     detail: >-
-      Work with Arcane Scribe on a practical knowledge-organization project to
-      learn methods for turning scattered notes, decisions, and expertise into
-      searchable systems that extend your open knowledge work.
+      Test Arcane Scribe on one existing knowledge area to turn scattered notes,
+      decisions, and expertise into a searchable, usable system.
 threats:
-  - title: Content insights and analytics
+  - title: Tentative content and system reporting
     detail: >-
-      Test the network’s tentative analytics capability on a small content
-      review, but avoid relying on it for important publishing decisions until
-      its results are validated.
-derivedAt: '2026-08-09T06:43:07.828Z'
+      Avoid relying on Radiant Pioneer’s tentative content analytics or
+      system-status functions for important reviews and operational decisions
+      until you verify their results.
+derivedAt: '2026-08-09T07:01:48.960Z'
 ---
 
