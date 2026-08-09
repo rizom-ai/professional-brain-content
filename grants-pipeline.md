@@ -12,8 +12,8 @@ Two pitch lanes:
 |---|---|---|---|---|
 | Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
 | Cosmos Institute (interest form) | $75k/yr fellowship + smaller grant rounds | EOI rolling; fellowship window not yet open | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
-| Stimuleringsfonds Digitale cultuur | €25k solo / €50k w. partners | **12 Aug 15:00 → 19 Aug 16:00 CEST** | A | ☐ **going solo, €25k** — terms verified 2026-08-04, see below |
-| SIDN fonds Pioniers | max €10k | Rolling, 6-week response, max 6 months runtime | B | ☐ drafted — see sidn-fonds-pioniers-application-draft; apply as natural person |
+| Stimuleringsfonds Digitale cultuur | €25k solo / €50k w. partners | **12 Aug 15:00 → 19 Aug 16:00 CEST** | A | ☐ **both tracks: solo AND with INC** — decided 2026-08-09, supersedes solo-only; terms verified 2026-08-04, see below |
+| SIDN fonds Pioniers | max €10k | Rolling, 6-week response, max 6 months runtime | B | ✅ webform pitch (step 2) sent 2026-08-09 — see sidn-fonds-pioniers-application-draft; scope is now constellations/organized memory, not M2 portability |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
 | Humanity AI open call (Ford/MacArthur/Mozilla/Omidyar pooled $10M) | varies | Launching summer 2026 — watch humanityai.ai | A+B | ☐ watch |
 | IAS School of Social Science 2027–28 | stipend | Theme announced Aug 2026, deadline ~Oct 15 | A | ☐ watch theme |
@@ -34,9 +34,11 @@ So another subsidy, sponsorship, investment or own income all count. Own *invest
 
 **Correction, 2026-08-04:** an earlier version of this note named SIDN Pioniers as the co-financing source. That is wrong. Cofinanciering is *aanvullende financiering **voor het project*** — funding for the same project. A SIDN grant for Lane B infrastructure work cannot co-finance a separate Lane A project. Own income is the realistic source.
 
-**One application only (art. 6.3–6.4):** one per subsidietijdvak, and one award per calendar year. Solo and partnered are mutually exclusive, not parallel bets.
+**One application only (art. 6.3–6.4):** one per subsidietijdvak, and one award per calendar year. Solo and partnered are mutually exclusive, not parallel bets — *for the same aanvrager*.
 
-**Why solo, decided 2026-08-04:** partners raise the ceiling *and* score better — art. 10 names *betrokkenheid van partners* as evidence of draagvlak, which is where a solo application is weakest. But Phase I requires signed intentieverklaringen, and a partnership constructed inside eight days in August reads as retrofitted and loses the benefit it was bought for. Better candidates exist locally (Productiehuis Flow, Theater op Zuid) for a future round when the collaboration can be genuine.
+**Decision superseded, 2026-08-09: both tracks — solo AND with INC.** The solo-only decision of 2026-08-04 (kept below for the record) is superseded: pursue a solo application *and* one with INC. Under art. 6.3–6.4 as read above, one aanvrager files once per tijdvak, so the two applications need distinct applicants — structure to confirm and record here (presumably Jan Hein solo €25k, INC as hoofdaanvrager on the partnered one). Open items for the partnered track before the window: signed intentieverklaring(en) for Phase I, distinct project scope so the two applications don't read as the same work twice, and 20% cofinanciering per project separately. INC involvement being real also unlocks naming INC in the SIDN full application (see sidn-fonds-pioniers-application-draft, "add them when real").
+
+**Why solo, decided 2026-08-04 (superseded):** partners raise the ceiling *and* score better — art. 10 names *betrokkenheid van partners* as evidence of draagvlak, which is where a solo application is weakest. But Phase I requires signed intentieverklaringen, and a partnership constructed inside eight days in August reads as retrofitted and loses the benefit it was bought for. Better candidates exist locally (Productiehuis Flow, Theater op Zuid) for a future round when the collaboration can be genuine.
 
 **Watch:** art. 5.1.b — the board caps how many applications it accepts per round, announced ≥2 weeks before opening. File near 15:00 on the 12th rather than drifting to the 19th.
 
@@ -50,7 +52,7 @@ Verified 2026-08-04. Max **€10,000**. Rolling, open year-round. **Max six mont
 
 Criteria: serves the public interest, contributes to a *sterk internet*, continues to exist after the funding period, and results — knowledge and experience, not only code — must be shared.
 
-Draft in `sidn-fonds-pioniers-application-draft`. Scoped as M2 (portability guarantee) from the NLnet draft; if funded, carve M2 out of the NLnet ask and disclose in both.
+Draft in `sidn-fonds-pioniers-application-draft`. **Update 2026-08-09:** webform pitch (step 2) submitted; scope changed from M2 portability to constellations/organized memory. The earlier plan — "if funded, carve M2 out of the NLnet ask" — no longer matches: the new scope (signal model + lexicon, AT Protocol reference implementation) overlaps NLnet draft M3/M4 instead, so re-derive the carve-out and disclosure against the new scope before the NLnet window.
 
 ## 🟡 September–November 2026
 
