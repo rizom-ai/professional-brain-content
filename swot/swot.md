@@ -1,31 +1,26 @@
 ---
 strengths:
-  - title: Human–AI alignment analysis
+  - title: Knowledge infrastructure design
     detail: >-
-      Use your systems-based analysis confidently, and pair it with Metis for
-      structured tradeoff analysis when decisions are ambiguous.
-  - title: Federated knowledge architecture
-    detail: >-
-      Use your strength in portable institutional-memory systems alongside
-      Arcane Scribe’s dependable ability to structure scattered expertise into
-      actionable knowledge.
+      Use your strength in designing portable, federated systems confidently,
+      and pair it with Arcane Scribe to turn scattered organizational knowledge
+      into structured, reusable systems.
 weaknesses:
-  - title: Historically grounded critique
+  - title: Profile auditing
     detail: >-
-      Build or borrow the ability to connect theory, thinkers, and historical
-      context to current phenomena before taking on work that depends on
-      accessible critical analysis.
+      Add a profile-completeness and cleanup review before presenting your work
+      publicly, borrowing this capability until it is reliably covered.
 opportunities:
-  - title: Searchable organizational knowledge
+  - title: Critical contemporary analysis
     detail: >-
-      Test Arcane Scribe on one existing knowledge area to turn scattered notes,
-      decisions, and expertise into a searchable, usable system.
+      Test a collaboration with Dynamic Sage on an essay connecting your
+      ecosystem architecture or situated AI work to a current social issue.
 threats:
-  - title: Tentative content and system reporting
+  - title: Content insights and analytics
     detail: >-
-      Avoid relying on Radiant Pioneer’s tentative content analytics or
-      system-status functions for important reviews and operational decisions
-      until you verify their results.
-derivedAt: '2026-08-09T07:01:48.960Z'
+      Do not yet rely on aggregate publishing, content-health, or
+      topic-distribution insights; manually check the patterns and validate the
+      results before using them to guide publishing.
+derivedAt: '2026-08-09T08:20:03.867Z'
 ---
 
