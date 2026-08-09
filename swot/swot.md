@@ -1,31 +1,28 @@
 ---
 strengths:
-  - title: Trustworthy AI design
+  - title: Research-to-funding strategy
     detail: >-
-      Use your ability to combine technical architecture with context, agency,
-      plural knowledge, and institutional trust when making high-stakes AI
-      design decisions.
-  - title: Research and funding evaluation
-    detail: >-
-      Use your network’s dependable funding and ecosystem-alignment skills to
-      compare models and strengthen proposals for open, socially useful
-      infrastructure.
+      Use your ability to connect emerging-technology research with fundable
+      opportunities, and pair it with your network’s dependable mission-aligned
+      funding models for proposals and ecosystem financing decisions.
 weaknesses:
-  - title: Structured knowledge retrieval
+  - title: Historical-context critical analysis
     detail: >-
-      Build a deliberate practice for documentation, categories, and reliable
-      retrieval rather than assuming your architecture and analysis skills cover
-      the operational work.
+      Do not position this as a core offering yet; strengthen your ability to
+      connect theory, thinkers, and historical context to accessible
+      contemporary analysis.
 opportunities:
-  - title: Critical contemporary analysis
+  - title: Organizational Knowledge Design
     detail: >-
-      Test Dynamic Sage on an essay or content series to add theory, historical
-      context, and contemporary analysis to your existing strategic writing.
+      Work with Arcane Scribe on a practical knowledge-organization project to
+      learn methods for turning scattered notes, decisions, and expertise into
+      searchable systems that extend your open knowledge work.
 threats:
-  - title: Profile fact lookup
+  - title: Content insights and analytics
     detail: >-
-      Avoid relying on this tentative capability for precise profile claims, and
-      manually verify important facts until it proves dependable.
-derivedAt: '2026-08-06T16:08:20.873Z'
+      Test the network’s tentative analytics capability on a small content
+      review, but avoid relying on it for important publishing decisions until
+      its results are validated.
+derivedAt: '2026-08-09T06:43:07.828Z'
 ---
 
