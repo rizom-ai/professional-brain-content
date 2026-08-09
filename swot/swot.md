@@ -1,26 +1,27 @@
 ---
 strengths:
-  - title: Knowledge infrastructure design
+  - title: Software architecture
     detail: >-
-      Use your strength in designing portable, federated systems confidently,
-      and pair it with Arcane Scribe to turn scattered organizational knowledge
-      into structured, reusable systems.
+      Use your architecture skill for major technical decisions, and pair it
+      with your network’s platform-design and development-planning abilities to
+      test extensibility and implementation priorities.
 weaknesses:
-  - title: Profile auditing
+  - title: Content summarization
     detail: >-
-      Add a profile-completeness and cleanup review before presenting your work
-      publicly, borrowing this capability until it is reliably covered.
+      Do not rely on summarization for institutional knowledge yet; first build
+      and validate a dependable workflow against your structured knowledge
+      practices.
 opportunities:
   - title: Critical contemporary analysis
     detail: >-
-      Test a collaboration with Dynamic Sage on an essay connecting your
-      ecosystem architecture or situated AI work to a current social issue.
+      Test your network’s ability to connect theory, thinkers, and historical
+      context with current phenomena as a way to extend your professional
+      writing and situated-AI ideas into public analysis.
 threats:
-  - title: Content insights and analytics
+  - title: Semantic search
     detail: >-
-      Do not yet rely on aggregate publishing, content-health, or
-      topic-distribution insights; manually check the patterns and validate the
-      results before using them to guide publishing.
-derivedAt: '2026-08-09T08:20:03.867Z'
+      Treat search results as leads rather than authoritative knowledge, and
+      verify important findings against your structured knowledge practices.
+derivedAt: '2026-08-09T08:28:45.614Z'
 ---
 
