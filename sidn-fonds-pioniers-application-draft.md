@@ -1,101 +1,73 @@
 # SIDN Fonds Pioniers — Application draft
 
-*Target: SIDN Fonds Pioniers. Max €10,000, rolling, max 6 months runtime, ~6-week response. Terms verified 2026-08-04.*
+*Max €10,000. Rolling — the 2026 call runs to 31 December 2026, 13:00 Europe/Amsterdam. Max 6 months runtime. ~6-week response. Terms verified 2026-08-04 from the call page and criteria.*
 
-**Apply as a natural person, not Rizom B.V.** The organisation route requires a KvK extract and a jaarrekening; the BV is pre-revenue with €0. Applying personally also matches the NLnet split, where Jan Hein takes the standards work and Rizom takes the implementation.
+**Current scope: constellations, framed as organized memory.** Revised 2026-08-09. Two earlier framings were discarded — see "Framings tried and dropped" below. The live webform text is in `~/Documents/sidn-webform.md`.
 
-## Working title
+## The procedure — four steps, and FundPro is step 3
 
-**Leave With Everything** — a provable data-portability guarantee for self-hosted knowledge infrastructure.
+1. **Quickscan** and check the Pioniers criteria.
+2. **Toets je project via het webformulier** — test the idea with them first. FundPro's own call page is blunter: *"pitch your project via our website. After positive feedback you can apply here."*
+3. **Apply via FundPro** — questionnaire, short video pitch, project plan of **max 4 A4**, plus KvK extract and jaarrekening only if applying as an organisation.
+4. Answer within six weeks.
 
-## The problem
+Do not start at FundPro.
 
-Organisations are moving their institutional memory into AI-powered SaaS. The decisions, the context, the reasoning — all of it becomes the vendor's asset, held in the vendor's schema, queryable only through the vendor's model. Every one of these products advertises an export. Almost none of them can demonstrate that the export is *complete*, or that what comes out can be loaded into anything else.
+## The project
 
-That gap matters most for the organisations least able to absorb it: libraries, broadcasters, universities, museums, care institutions. They are being asked to commit their memory to infrastructure they cannot verifiably leave.
+**Organized memory: when memories find each other directly.**
 
-## What gets built
+The frame comes from `organized-memory-working-document-for-inc`. Thesis 4 contains the whole project in one sentence: *"these memories find each other directly and cite each other by name."*
 
-An open, testable portability standard, and the tooling to prove conformance:
+The argument: twenty years ago the question of organized networks was posed — how loose association becomes durable form without hardening into institution — and could not be answered, because there was nothing to organize on except the platforms. Institutions that housed collective intellectual life are now shedding it. The missing layer is memory: an institution reduced to its function is a memory outliving any individual's attention. Platforms centralise that memory and rent it back. The alternative is memory that stays where it is made.
 
-1. **A portability specification.** What a complete export of an organisational knowledge base must contain — content as portable markdown, metadata, relations between entities, and provenance. Written to be implementable by anyone, not only by Rizom.
-2. **A reference exporter and importer** (AGPL), producing an archive plus a machine-readable *deed of ownership* describing exactly what the archive contains.
-3. **A conformance test.** Round-trip verification: export a full brain, import it into a fresh independent instance, and produce a loss report. If something cannot survive the trip, the test says so rather than hiding it.
-4. **Published findings.** Documentation, the spec itself, and a written account of what actually breaks in round-tripping organisational knowledge — the failure modes are the useful part and nobody publishes them.
+That part exists — self-hosted, plain-text, open-licensed knowledge bases, six publicly discoverable today. The layer above it does not.
 
-## Why it fits SIDN
+**Deliverables (six months):**
 
-- **Sterk internet.** Lock-in in knowledge infrastructure is a structural dependency problem, not a product complaint. A verifiable exit is what makes ownership real rather than advertised.
-- **Public interest.** The spec and tooling are usable by any project, not just Rizom Brains. The beneficiaries are the public institutions most exposed to lock-in.
-- **Survives the funding period.** AGPL, in a public repository, with the spec published independently of any implementation.
-- **Results are shared.** The specification, the conformance test and the failure-mode write-up are the deliverables, not by-products.
-- **Six months, bounded.** One self-contained piece with a demonstrable end state.
+1. A signal model and open lexicon — how a knowledge base publishes what it holds, so others can recognise, connect to and cite it.
+2. A reference implementation on the AT Protocol, AGPL, in an existing open registry.
+3. A working demonstration with a real community — posed as a question rather than an engineering result: what changes for a group when its members' memories can find and cite each other with no platform in between.
+4. Published method and findings, including the failures.
 
 ## Budget — €10,000
 
 | Item | |
 |---|---|
-| Specification and data model design | €2,500 |
-| Reference exporter / importer implementation | €4,000 |
-| Conformance test suite and loss reporting | €2,000 |
-| Documentation, spec publication, findings write-up | €1,500 |
+| Signal model and lexicon design | €2,500 |
+| Reference implementation in the registry | €4,000 |
+| Demonstration with a community, and observation | €2,000 |
+| Documentation, lexicon publication, findings | €1,500 |
 | **Total** | **€10,000** |
 
-## Video pitch — script
+Structural organisational costs, overheads and salary not attributable to the project are excluded by the criteria.
 
-*FundPro requires a "korte videopitch". Exact length not published; written to ~2:00 at a natural Dutch pace (~250 words, ~130 wpm). Register follows `cht-video-script`: calm, declarative, no founder-pitch cadence.*
+## How it sits with the other funding threads
 
-**[0:00 — Hook | ~15s]**
+Read together these are one programme, and the full application should say so:
 
-Ik ben Jan Hein Hoogstad. Elke organisatie die haar kennis in een AI-platform zet, krijgt een exportknop. Bijna geen enkele kan aantonen dat wat eruit komt volledig is.
+- **ISOC Beyond the Net** (`isoc-beyond-the-net-concept-note-digital-autonomy-in-practice`) gives 8–10 Dutch civil-society organisations a memory they own.
+- **INC** (`organized-memory-working-document-for-inc`, `inc-partnership-three-horizon-plan`) is a community testing whether it can persist once its institution is gone.
+- **This** is the layer where those memories connect.
 
-**[0:15 — Waarom het ertoe doet | ~25s]**
+ISOC also answers the density question: if it lands, the network is 14–16 independently held knowledge bases rather than six.
 
-Dat klinkt technisch. Dat is het niet. Bibliotheken, omroepen, universiteiten, zorginstellingen — juist de organisaties die het zich niet kunnen veroorloven — leggen hun geheugen nu vast in infrastructuur die ze niet aantoonbaar kunnen verlaten. Eigenaarschap dat je niet kunt controleren is geen eigenaarschap. Het is een belofte.
+**Do not name INC or the ISOC cohort in the pitch yet.** Neither is committed — the INC document states explicitly that nothing requires a decision. Add them when real; "a real community" is weak by comparison and that gap is known.
 
-**[0:40 — Wie ik ben | ~20s]**
+## Framings tried and dropped
 
-Ik bouw twintig jaar software, en sinds 2019 kennisinfrastructuur met AI. Ik bouwde Public Badges, een keurmerkframework dat in de Nederlandse media-, cultuur-, onderwijs- en zorgsector is ingezet. Nu bouw ik Rizom Brains: open source, self-hosted, AGPL.
+Recorded so they don't come back round.
 
-**[1:00 — Wat ik ga maken | ~30s]**
+- **Portability standard** (first draft). A spec plus conformance test for verifiable data export. Dropped: the exit-path work is already inside the ISOC project — *"a documented, tested path to leave at any time"* — so it would have applied for work committed elsewhere.
+- **Consent layer.** How a person shares selected knowledge into a group space on revocable terms. Dropped after Jan Hein chose constellations; also carried a premise problem, below.
+- **Privacy-first framing.** "Find each other without exposing what you know." Wrong premise: the thesis across this body of work is that far too much knowledge is kept private and dies there. Corrected to openness by default, closure by exception.
+- **Findability framing.** "Make what you know findable." The mechanism without the question — instrumental, and disconnected from organized memory.
+- **A density study**, added to pre-empt "only six nodes". Pioniers is idea-phase; the stated deliverable is *"een demo, pilot of experimenteel ontwerp"*. Six live nodes is a real testbed at that stage, not a shortfall to apologise for.
 
-Wat ik met dit project wil maken is geen product maar een norm. Een specificatie van wat een volledige export moet bevatten. Een referentie-implementatie die exporteert én importeert. En een conformiteitstest: exporteer een heel brein, importeer het in een verse, onafhankelijke installatie, en rapporteer wat er onderweg verloren gaat. Als iets de reis niet overleeft, zegt de test dat — in plaats van het te verbergen.
+## Still needed
 
-**[1:30 — Wat er achterblijft | ~20s]**
-
-De specificatie is bruikbaar voor iedereen, niet alleen voor mijn eigen platform. Alles staat onder AGPL in een openbare repository. En ik publiceer wat er stukgaat — die faalgevallen zijn het nuttigste deel, en niemand schrijft ze op.
-
-**[1:50 — Slot | ~10s]**
-
-Een sterk internet betekent dat je kunt vertrekken. Dit project maakt dat controleerbaar.
-
-**[2:00 — einde]**
-
-### Marked cuts (if running over)
-
-1. Cut *"Dat klinkt technisch. Dat is het niet."* (saves ~6 words / 3s) — the institution list still carries it.
-2. Compress the credential line to *"Ik bouw twintig jaar software, en sinds 2019 kennisinfrastructuur met AI."* (saves ~20 words / 9s) — drops Public Badges, which is in the written application anyway.
-3. Cut *"in plaats van het te verbergen"* (saves 5 words / 2s).
-
-### Delivery notes
-
-- Talking head, one take. No slides — the point is a person worth funding for six months.
-- Same register as the CHT video: declarative, unhurried, zero hype. One beat of silence after the hook.
-- The strongest line is the last one. Land it and stop; don't add a thank-you.
-- Record horizontal, quiet room, natural light, look at the lens. Three takes, pick the warmest rather than the most polished.
-- **English version available if preferred** — SIDN is a Dutch fund and the applicant is a native speaker, so Dutch is the default, but the project itself is international and open-source.
-
-## Relationship to the NLnet application
-
-This is **M2 (portability guarantee)** from `nlnet-ngi-zero-application-draft`. If SIDN funds it, carve M2 out of the NLnet ask — €50k across five milestones becomes €40k across four — and disclose the relationship in both applications. The NLnet note already flags that same-work-twice reads as cap-gaming; this is the same principle applied across funders rather than within one.
-
-## Correction to carry
-
-This grant **cannot** co-finance the Stimuleringsfonds application. Cofinanciering there is defined as additional funding *for that project*; a SIDN grant for infrastructure work does not qualify as co-financing for a separate Lane A project. The Stimuleringsfonds ~€6.25k needs its own source — own income is the realistic one.
-
-## Still needed before submitting
-
-- Record the video pitch (script above).
-- FundPro questionnaire — the fields are behind their login, so they need filling in the system itself. Everything above should map onto them.
-- No KvK extract or jaarrekening required when applying as a natural person.
-- Decide whether to carve M2 out of the NLnet ask now or after a SIDN decision (~6 weeks).
+- Do the **Quickscan** (step 1).
+- Send the **webformulier pitch** (step 2) — text ready in `~/Documents/sidn-webform.md`.
+- Secure a named community for the demonstration.
+- Record a video pitch **for step 3 only**. The Dutch script written on 2026-08-04 is obsolete — it pitched the portability standard. Rewrite after the webform comes back.
+- Project plan, max 4 A4.
