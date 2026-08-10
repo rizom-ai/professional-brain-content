@@ -1,28 +1,28 @@
 ---
 strengths:
-  - title: Portable knowledge architecture
+  - title: Software and AI architecture
     detail: >-
-      Use your portable, federated architecture confidently, and pair it with
-      Doc when turning the design into extensible tools, integrations, or agent
-      platforms.
+      Use your durable architecture and situated-AI design skills confidently,
+      pairing with your network's platform-architecture capability when tools,
+      integrations, or future features need a second design perspective.
 weaknesses:
-  - title: Profile completeness review
+  - title: Profile Auditing
     detail: >-
-      Before presenting your work publicly, build or borrow a repeatable
-      practice for checking profile completeness, placeholders, and metadata
-      cleanup.
+      Before treating your professional presentation as finished, borrow
+      profile-auditing help to check for placeholders, missing information, and
+      metadata that needs cleanup.
 opportunities:
   - title: Critical contemporary analysis
     detail: >-
-      Test Dynamic Sage on an essay or program that connects theory, thinkers,
-      and historical context to contemporary phenomena, extending your
-      professional narrative beyond technical and organizational framing.
+      Test a collaborative essay or episode that combines your professional-idea
+      writing with your network's theory, historical context, and contemporary
+      social analysis.
 threats:
-  - title: Tentative content analytics
+  - title: Semantic search
     detail: >-
-      Avoid relying on Radiant Pioneer’s publishing, health, or topic analytics
-      for important editorial decisions until you have checked its outputs
-      against the underlying content.
-derivedAt: '2026-08-10T05:49:16.110Z'
+      Avoid relying on your network's tentative semantic-search capability for
+      authoritative retrieval; manually verify important findings until its
+      accuracy is established.
+derivedAt: '2026-08-10T06:15:53.792Z'
 ---
 
