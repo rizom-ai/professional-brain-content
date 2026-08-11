@@ -1,28 +1,30 @@
 ---
 strengths:
-  - title: Software and AI architecture
+  - title: Durable systems design
     detail: >-
-      Use your durable architecture and situated-AI design skills confidently,
-      pairing with your network's platform-architecture capability when tools,
-      integrations, or future features need a second design perspective.
+      Use your strength in aligning software, data, and organizational needs
+      confidently for architecture and systems-design work.
 weaknesses:
-  - title: Profile Auditing
+  - title: Profile completeness review
     detail: >-
-      Before treating your professional presentation as finished, borrow
-      profile-auditing help to check for placeholders, missing information, and
-      metadata that needs cleanup.
+      Arrange a deliberate review for placeholders, missing information, and
+      cleanup before publishing profile material, because this capability is not
+      yet dependable in your network.
 opportunities:
-  - title: Critical contemporary analysis
+  - title: Critical historical analysis
     detail: >-
-      Test a collaborative essay or episode that combines your professional-idea
-      writing with your network's theory, historical context, and contemporary
-      social analysis.
+      Test your network’s ability to connect theory, thinkers, and historical
+      context through one essay or content series that extends your
+      professional-ideas writing.
+  - title: Knowledge organization and retrieval
+    detail: >-
+      Learn or collaborate on concrete documentation and retrieval conventions
+      that make your institutional memory easier to reuse.
 threats:
-  - title: Semantic search
+  - title: Tentative search accuracy
     detail: >-
-      Avoid relying on your network's tentative semantic-search capability for
-      authoritative retrieval; manually verify important findings until its
-      accuracy is established.
-derivedAt: '2026-08-10T06:15:53.792Z'
+      Do not rely on this search capability alone for important retrieval;
+      verify its findings before using them in analysis or decisions.
+derivedAt: '2026-08-11T09:48:17.180Z'
 ---
 
