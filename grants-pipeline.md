@@ -13,7 +13,7 @@ Two pitch lanes:
 | Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
 | Cosmos Institute (interest form) | $75k/yr fellowship + smaller grant rounds | EOI rolling; fellowship window not yet open | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
 | Stimuleringsfonds Digitale cultuur | €25k solo / €50k w. partners | **12 Aug 15:00 → 19 Aug 16:00 CEST** | A | ☐ **two applications: Jan Hein solo (€25k) + Rizom with INC (≤€50k)** — decided 2026-08-09, see below |
-| SIDN fonds Pioniers | max €10k | Rolling, 6-week response, max 6 months runtime | B | ✅ webform pitch (step 2) sent 2026-08-09 — see sidn-fonds-pioniers-application-draft; scope is now constellations/organized memory, not M2 portability |
+| SIDN fonds Pioniers | max €10k | Rolling, 6-week response, max 6 months runtime | B | ❌ **step 2 rejected 2026-08-13** on *Sterk internet* fit — read as *"een verkenning van kennisdeling en communityvorming"*. Rescoped to the ATProto lexicon + AGPL reference implementation; **v2 toets due 2026-08-25**. See sidn-fonds-pioniers-application-draft |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
 | Humanity AI open call (Ford/MacArthur/Mozilla/Omidyar pooled $10M) | varies | Launching summer 2026 — watch humanityai.ai | A+B | ☐ watch |
 | IAS School of Social Science 2027–28 | stipend | Theme announced Aug 2026, deadline ~Oct 15 | A | ☐ watch theme |
@@ -52,7 +52,17 @@ Verified 2026-08-04. Max **€10,000**. Rolling, open year-round. **Max six mont
 
 Criteria: serves the public interest, contributes to a *sterk internet*, continues to exist after the funding period, and results — knowledge and experience, not only code — must be shared.
 
-Draft in `sidn-fonds-pioniers-application-draft`. **Update 2026-08-09:** webform pitch (step 2) submitted; scope changed from M2 portability to constellations/organized memory. The earlier plan — "if funded, carve M2 out of the NLnet ask" — no longer matches: the new scope (signal model + lexicon, AT Protocol reference implementation) overlaps NLnet draft M3/M4 instead, so re-derive the carve-out and disclosure against the new scope before the NLnet window.
+Draft in `sidn-fonds-pioniers-application-draft`.
+
+**Update 2026-08-09:** webform pitch (step 2) submitted; scope changed from M2 portability to constellations/organized memory.
+
+**Rejected 2026-08-13.** Jet Veldhuis, by email, on fit with *Sterk internet* — the activities read as *"een verkenning van kennisdeling en communityvorming"* with *"onvoldoende directe relatie met het ontwikkelen van internetbouwstenen"*. Correct reading of the submitted text: the lexicon and reference implementation were buried as points 1–2 of a four-part approach behind ~1200 words of cultural framing, and the closing field asked SIDN to help find a community.
+
+**No formal bar on reapplying.** Pioniers is doorlopend — no rounds, no stated waiting period, no cap on attempts; the only published frequency rule is that a *running* SIDN-funded project must finish before a new one starts. Note this is SIDN, not Stimuleringsfonds — the "twice rejected = permanently excluded" rule above is art. 6.2.l of the *Regeling Digitale cultuur* and does not apply here.
+
+**v2 rescope, due 2026-08-25.** Deliverable first: an open ATProto lexicon for what a self-hosted knowledge source holds, plus an AGPL reference implementation and an independently published spec. Community demonstration removed — that layer belongs to the Stimuleringsfonds/INC thread, and importing it here is what sank v1. Text ready at `~/Documents/sidn-webform-v2.md`, in Dutch, fields verified against the 3000/1500/1500 limits.
+
+**The NLnet overlap is now resolved by sequence, not by subject.** The v2 scope still overlaps NLnet draft M3/M4, so the split is: SIDN funds the specification and first working implementation; NLnet M3/M4 hardens it into production federation, selective consent and SDK. Sequential, disclosed in both. A completed SIDN deliverable strengthens the NLnet bid rather than competing with it.
 
 ## 🟡 September–November 2026
 
