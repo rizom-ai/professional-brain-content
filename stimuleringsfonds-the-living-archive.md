@@ -1,8 +1,10 @@
 # The Living Archive
 ## Project plan — Stimuleringsfonds Digitale cultuur, Phase I
-### Aanvrager: Jan Hein Hoogstad (solo) · Ask: €25.000 · Duration: 12 months
+### Aanvrager: Yeehaa Holding B.V. · Uitvoerder: Jan Hein Hoogstad (alleen) · Ask: €24.750 · Duration: 12 months
 
 **Rebuilt from scratch 2026-08-12** — for the round closing 19 Aug 16:00. Source: `deck/the-living-archive.md`, Jan Hein's own draft deck. Two earlier concepts discarded (see the graveyard at the bottom). **Solo by decision — one executing party, €10.000–25.000 band.**
+
+**Revised 2026-08-13.** Three things settled: the aanvrager is Yeehaa Holding B.V., not Jan Hein as natural person; the budget is restructured and closed; the corpus decision is confirmed as *not* blocking fase I. Paste-ready filing kit with cell-by-cell modelbegroting fill: `~/Documents/stimuleringsfonds-2026/solo-fase1-filing-kit.md`.
 
 ---
 
@@ -19,7 +21,7 @@ One maker builds it, and runs the first one **in public** for twelve months. The
 ## Deliverables (12 months)
 
 1. **The instrument** — the living-archive environment, open source (AGPL), shaped for the art field: works, programs, decisions-with-rationale, funding histories, relationships. Portable and self-hostable by any institution, studio or artist afterwards.
-2. **The first living archive, live and public from early in the project** — built from the field's public record, growing all year. ⚠ **Which corpus/scene it starts from is Jan Hein's decision, needed before filing** — deliberately not filled in here.
+2. **The first living archive, live and public from early in the project** — built from the field's public record, growing all year. ⚠ **Which corpus/scene it starts from is Jan Hein's decision — needed for fase II, NOT for fase I** (no fase I field names a corpus; verified 2026-08-13).
 3. **Published accounts** of what keeping the context reveals — continuing the *New Institutions* series (number: Jan Hein's call; the archive is the primary deliverable, the writing is its yield).
 4. **One public working session** in the Netherlands, second half of the project, where the field engages with the archive directly.
 
@@ -52,63 +54,87 @@ The living archive is itself the primary channel — public from early in the pr
 
 ## Begroting en dekkingsplan
 
-To be transferred into the fund's *Modelbegroting en dekkingsplan* format. Fair Practice Code applies (art. 6.1.l); hourly ceiling €82,50 excl. VAT.
+**Closed 2026-08-13.** Fair Practice Code applies (art. 6.1.l); hourly ceiling €82,50 excl. btw. Cell-by-cell fill instructions for `modelbegroting.xlsx` are in the filing kit.
 
-### Tab 1 · Personele kosten
+### Tab 1 · Personele kosten — 326 uur · €26.895
 
 | Activiteit | Uur | Uurtarief | Totaal | Uitvoerder | Betaald door |
 |---|---|---|---|---|---|
-| Shaping the environment to the art field | 90 | €82,50 | €7.425 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
-| Building and growing the living archive | 130 | €82,50 | €10.725 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
-| Published accounts | 50 | €82,50 | €4.125 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
-| Working session — preparation and delivery | 15 | €82,50 | €1.237,50 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
-| Communicatie en syndicatie | 15 | €82,50 | €1.237,50 | Jan Hein Hoogstad | Cofinanciering |
-| **Totaal personeel** | **300** | | **€24.750** | | |
+| Vormgeven van de omgeving naar het kunstenveld | 90 | €82,50 | €7.425 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
+| Bouwen en laten groeien van het levend archief | 130 | €82,50 | €10.725 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
+| Gepubliceerde accounts | 50 | €82,50 | €4.125 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
+| Werksessie — voorbereiding en uitvoering | 15 | €82,50 | €1.237,50 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
+| Communicatie en syndicatie | 15 | €82,50 | €1.237,50 | Jan Hein Hoogstad | Subsidie Stimuleringsfonds |
+| Documentatie en herbruikbaarheidspakket | 26 | €82,50 | €2.145 | Jan Hein Hoogstad | **Cofinanciering** |
+| **Totaal personeel** | **326** | | **€26.895** | | |
 
-### Tab 1 · Materiële kosten
+### Tab 1 · Materiële kosten — €4.340
 
-| Post | Totaal | Specificatie |
-|---|---|---|
-| Hosting en archivering | €840 | 12 maanden, self-hosted, duurzame archivering |
-| Zaalhuur en productie werksessie | €1.000 | Eén sessie in Nederland |
-| Vormgeving gepubliceerde accounts | €2.500 | Extern vormgever |
-| Documentatie en herbruikbaarheidspakket | €2.160 | Self-hosting pad voor instellingen en makers |
-| **Totaal materieel** | **€6.500** | |
+| Post | Totaal | Specificatie | Betaald door |
+|---|---|---|---|
+| Hosting en archivering | €840 | 12 maanden, self-hosted, duurzame archivering | Cofinanciering |
+| Zaalhuur en productie werksessie | €1.000 | Eén sessie in Nederland | Cofinanciering |
+| Vormgeving gepubliceerde accounts | €2.500 | Extern vormgever | Cofinanciering |
+| **Totaal materieel** | **€4.340** | | |
 
-**Totale projectkosten €31.250** · 300 uur ≈ 6 uur/week.
+Every line here is bought in from a third party. The documentation package is *not* — it is the maker's own work and therefore sits in personele kosten.
+
+**Totale projectkosten €31.235** · 326 uur ≈ 6,3 uur/week.
 
 ### Tab 2 · Dekkingsplan
 
 | | |
 |---|---|
-| Subsidie Stimuleringsfonds | €25.000 |
-| Cofinanciering — eigen inkomsten uit opdrachten en spreekwerk | €6.250 (20,0%) |
+| Subsidie Stimuleringsfonds | €24.750 |
+| Cofinanciering — eigen inkomsten uit opdrachten en spreekwerk (*verkoop*) | €6.485 (20,76%) |
 
-*Eigen inkomsten* are valid cofinanciering per art. 1.7; excluded are own *investeringen* and *doorberekende kortingen*, neither of which applies. **Open question for the fund:** the dekkingsplan sheet constrains sources to *publieksinkomsten, verkoop, sponsoring, subsidies, of een investering of (om-niet) bijdrage van een externe partij* — confirm own commissioned income enters as *verkoop* and not as the separate, non-qualifying *eigen bijdrage* line. One-line email before filing.
+Cofinanciering = all bought-in cost (€4.340) plus the one own-hours line (€2.145). Ceiling €25.000 and floor €10.000 both satisfied; 20% minimum cleared with margin.
+
+**Leave the *Eigen bijdrage (niet verplicht)* row on the Dekkingsplan sheet empty.** It sits outside the *Totale cofinanciering* total and does not count toward the 20% — it is exactly where own-labour contributions are expected to land, and anything parked there stops counting.
+
+### The one open question — load-bearing
+
+€2.145 of the cofinanciering is the maker's own hours, not a third-party invoice, so the framing matters.
+
+**Holds:** Yeehaa Holding B.V. pays those 26 hours and all external costs out of its own trading income from opdrachten and spreekwerk. That is *eigen inkomsten* — real money leaving the company — entered as **verkoop**. Art. 1.7 names eigen inkomsten as valid cofinanciering and excludes only *investeringen* and *doorberekende kortingen*.
+
+**Fails:** presenting the 26 hours as time simply not invoiced for. That is a doorberekende korting, belongs on the non-qualifying *Eigen bijdrage* row, and drops the application to 13,9%.
+
+Identical on the form, different in the books — hence one line to the fund before filing: *does own commissioned and speaking income entered as* verkoop *qualify as cofinanciering when it funds hours worked by the aanvrager's own director?*
 
 ## Fase I formulier — paste-ready
 
-Phase I is light (per the fund's `Aanvraagformulier_Digitale-cultuur_fase1.pdf`): four short fields (max 800 tekens incl. spaties), dropdown, dates, band, three uploads. Everything above is Phase II material, due four weeks later.
+Phase I is light (per the fund's `Aanvraagformulier_Digitale-cultuur_fase1.pdf`): four short fields (max 800 tekens incl. spaties), dropdown, dates, band, three uploads. Everything above is Phase II material, due four weeks later. Character counts re-verified 2026-08-13.
 
-**Ik ben / wij zijn** — **Individuele maker, ontwerper of architect.**
+**Ik ben / wij zijn** — the **bureau / legal-entity** option, *not* "Individuele maker". The aanvrager is Yeehaa Holding B.V. Pick the closest of *ontwerpbureau* / *culturele instelling* as the form words it on screen.
 
 **Titel** *(52/800)*
 > The Living Archive — living memory for the art field
 
-**Korte samenvatting** *(746/800)*
+**Korte samenvatting** *(740/800)*
 > No field invests more in memory. Works are preserved, catalogued, insured and climate-controlled — yet the knowledge behind the work, why a show was made, how an artist was found, what a program taught, is the first thing to disappear. A curator leaves and a decade of reasoning leaves with them. The archive keeps the works; it loses the context. This project builds the missing layer: a living archive — open source, plain text, self-hosted — in which the field's context is kept alongside its works. One maker builds it and runs the first one in public over twelve months, so the field can see what it looks like when the reasoning survives: decisions with their rationale, programs with their thinking, relationships with their history.
 
-**Projectpartners** *(490/800)*
-> None — one maker, one instrument, twelve months, solo by design. The first living archive is built in public from the field's public record, so no institution's permission is the bottleneck; institutions and artists engage with it as it grows, and a public working session in the second half brings it to the field. For transparency: Rizom B.V. files a separate, substantively different application under this regeling with the Institute of Network Cultures; the two share no deliverable.
+**Projectpartners** *(624/800 — rewritten for a B.V. aanvrager; discloses both entities)*
+> None — one maker, one instrument, twelve months, solo by design. Yeehaa Holding B.V. is my own one-person company; I carry out the project myself and no partner executes any part of it. The first living archive is built in public from the field's public record, so no institution's permission is the bottleneck; institutions and artists engage with it as it grows, and a public working session in the second half brings it to the field. For transparency: Rizom B.V., also mine, files a separate and substantively different application under this regeling with the Institute of Network Cultures. The two share no deliverable.
 
-**Positionering binnen het vakgebied** *(712/800)*
-> I build the infrastructure organisations use to remember, and I have spent two decades in and around the art field's institutions — as researcher, teacher and builder. This project brings the two together: a living archive for the field whose memory I know best. The archive keeps the works and loses the context; everyone working in the field knows it, and no one has built the layer that fixes it. This is that layer, made in the open: portable, plain text, openly licensed, shaped for what the art field actually holds — works, programs, decisions with their rationale, relationships with their history. And its yield is visible from month one, because the first living archive runs in public as it grows.
+**Positionering binnen het vakgebied** *(709/800 — rewritten for a B.V. aanvrager)*
+> I build the infrastructure organisations use to remember, and I have spent two decades in and around the art field's institutions — as researcher, teacher and builder. Yeehaa Holding B.V. is the vehicle for that practice; the work is mine and I execute it alone. This project brings the two strands together: a living archive for the field whose memory I know best. The archive keeps the works and loses the context; everyone working in the field knows it, and no one has built the layer that fixes it. This is that layer, made in the open: portable, plain text, openly licensed, shaped for what the art field actually holds — works, programs, decisions with their rationale, relationships with their history.
 
 **Remaining fields:** discipline dropdown — closest to internetcultuur/art-science on sight · startdatum **5 januari 2027** · band **€10.000–25.000** · herzien/vervolg **nee/nee** · gedrukte publicatie als kern **nee** · correspondentie in het Engels **ja**.
 
-**Uploads:** ① digitaal gewaarmerkt KVK-uittreksel (max 1 jaar oud) — ⚠ see below · ② CV — `~/Documents/stimuleringsfonds-2026/jan-hein-hoogstad-cv.docx`, ready · ③ intentieverklaringen — n.v.t.
+**Uploads:** ① digitaal gewaarmerkt KVK-uittreksel Yeehaa Holding B.V. (max 1 jaar oud) · ② CV — `~/Documents/stimuleringsfonds-2026/jan-hein-hoogstad-cv.docx`, ready · ③ intentieverklaringen — n.v.t.
 
-**⚠ Blocking — aanvrager's KvK.** The form requires a KVK-registered aanvrager (statutaire naam, rechtsvorm, rechtsgeldige vertegenwoordiger); an individual files under an eenmanszaak/zzp registration. **If no personal registration exists and Rizom B.V. is the only entity, both August applications would share one aanvrager — art. 6.3 forbids that.** Settle before filing.
+**No portfolio and no project image at fase I** — verified against the fund 2026-08-13; both are fase II material. (`grants-pipeline` still lists them under "Phase I needs" and is wrong.)
+
+## Aanvrager — resolved 2026-08-13
+
+The fund requires **every** applicant to be KvK-registered, individual makers included. There is no personal eenmanszaak; there are two companies, **Yeehaa Holding B.V.** and **Rizom B.V.** Rizom carries the INC application, so this one files under **Yeehaa Holding B.V.** Art. 6.3 (one application per aanvrager per tijdvak) is satisfied — two distinct aanvragers.
+
+Consequences, all handled above: the aanvrager is a legal person, so the opening form field is no longer *Individuele maker*, and the projectpartners and positionering fields were rewritten to say plainly that the B.V. is one maker's vehicle.
+
+**One check remains.** The regeling admits *makers, beschouwers, ontwerpbureaus en culturele instellingen*. When pulling the KvK extract for the upload, look at the registered activity/SBI line — if it reads as a financial holding rather than a design or cultural practice, that is the one place an assessor can question eligibility. No separate task: the extract is a required upload.
+
+Both applications now come from companies with the same director. Permitted, but it must be **disclosed rather than discovered** — the projectpartners field does so explicitly.
 
 ## Distinctness (for disclosure)
 
@@ -121,9 +147,10 @@ Phase I is light (per the fund's `Aanvraagformulier_Digitale-cultuur_fase1.pdf`)
 
 - **Research-and-writing project (six essays + book + notebook + two events).** Killed 2026-08-12: deliverables accreted without subtraction — a wishlist with a budget stapled to it — and "practice-based inquiry inside organisations" involved zero organisations.
 - **"Forgetting detector" run inside institutions, in public.** Killed same day, by its own sentence: an instrument that surfaces what an institution keeps closed cannot run *in public* — that version is confidential consulting (the Knowledge Session) wearing a grant. The Living Archive survives where it died because the art field's missing context is already public-genre material.
+- **Own labour spread across the cofinanciering lines.** Killed 2026-08-13. The 12 Aug budget had 15 uur communicatie marked "Betaald door: Cofinanciering" while the documentation package sat in materiële kosten as if bought in. Own hours smeared across cofinanciering read as *doorberekende korting*, which art. 1.7 excludes. Now exactly one own-hours line carries cofinanciering, and it is the reusability package — the deliverable that outlives the project, and the easiest to explain as self-funded.
 
 ---
 
-*TODO before filing: corpus/scene decision (Jan Hein) · KvK question (Jan Hein) · verkoop-vs-eigen-bijdrage email to the fund · Modelbegroting xlsx filled from the tables above · project image (a screenshot of the living archive's first form, once the corpus is chosen — the yeehaa.io screenshot in `~/Documents/stimuleringsfonds-2026/` is the fallback).*
+*TODO before filing: one-line verkoop-vs-eigen-bijdrage email to the fund · glance at Yeehaa Holding's SBI line when pulling the KvK extract · Modelbegroting xlsx filled from the tables above · discipline dropdown picked on sight. Corpus/scene decision is fase II, not fase I.*
 
-*Renamed 2026-08-12 from `stimuleringsfonds-solo-application-the-institution-that-forgot-itself`; the old entity was deleted. Created 2026-08-09.*
+*Renamed 2026-08-12 from `stimuleringsfonds-solo-application-the-institution-that-forgot-itself`; the old entity was deleted. Created 2026-08-09. Revised 2026-08-13.*
