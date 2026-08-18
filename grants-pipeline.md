@@ -12,8 +12,8 @@ Two pitch lanes:
 |---|---|---|---|---|
 | Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
 | Cosmos Institute (interest form) | $75k/yr fellowship + smaller grant rounds | EOI rolling; fellowship window not yet open | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
-| Stimuleringsfonds — **A, solo** | €24.750 ask | **19 Aug 16:00 CEST** | A | ☐ *The Living Archive*, aanvrager **Yeehaa Holding B.V.** — fase I kit ready and budget closed, see `stimuleringsfonds-the-living-archive` + `~/Documents/stimuleringsfonds-2026/solo-fase1-filing-kit.md` |
-| Stimuleringsfonds — **B, with INC** | ≤€50k | **19 Aug 16:00 CEST** | A | ⚠ **untouched** — aanvrager Rizom B.V.; INC intentieverklaring unsigned (needed ~17 Aug), ~€12.500 cofinanciering with no identified source |
+| Stimuleringsfonds — **A, solo** | €24.750 ask | **19 Aug 16:00 CEST** | A | ☐ **The Machine Did It** — concept replaced 2026-08-17 (was *The Living Archive*, whose "why me" failed: the art field's judgment is not mine to record). New object: my own AI-augmented practice, radically documented for a year — the *samenwerken met machines* theme INC's feedback removed from B the same day, so A and B share no theme. Four Dutch form fields written and verified ≤800 tekens; startdatum 1 dec 2026; portal account registration prepared under yeehaa@offcourse.io. Kit: `~/Documents/stimuleringsfonds-2026/solo-fase1-filing-kit.md`. Brain note `stimuleringsfonds-the-living-archive` is **stale** (describes the old concept) |
+| Stimuleringsfonds — **B, with INC** | €50.000 ask | **19 Aug 16:00 CEST** | A | ☐ **ready to file** — *Organized Memory*: intentieverklaring signed by Geert Lovink 2026-08-17 (signature placed in the PDF, date 17 aug); cofinanciering resolved as €13.000 INC om-niet uren (20,6% of €63.000); AI theme replaced by *de stroom en het geheugen* (online video/streaming) at Geert's request; form fields: `~/Documents/stimuleringsfonds-2026/organized-memory-fase1-form.md`; portal account registration submitted 2026-08-17 under yeehaa@rizom.ai, activation ≤1 werkdag → file Tuesday 18 Aug |
 | SIDN fonds Pioniers | max €10k | Rolling, 6-week response, max 6 months runtime | B | ❌ **step 2 rejected 2026-08-13** on *Sterk internet* fit — read as *"een verkenning van kennisdeling en communityvorming"*. Rescoped to the ATProto lexicon + AGPL reference implementation; **v2 toets due 2026-08-25**. See sidn-fonds-pioniers-application-draft |
 | EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ☐ needs civil-society vehicle (PublicSpaces partner?) |
 | Humanity AI open call (Ford/MacArthur/Mozilla/Omidyar pooled $10M) | varies | Launching summer 2026 — watch humanityai.ai | A+B | ☐ watch |
@@ -23,7 +23,7 @@ Two pitch lanes:
 
 Read from the regulation text itself (`Regeling-Digitale-cultuur-2025-2028.pdf`), 2026-08-04. Do not re-derive from the website summaries; they are misleading on co-financing.
 
-**Round:** Phase I opens 12 Aug 15:00 CEST, closes 19 Aug 16:00 CEST. Two-phase process (art. 5) — Phase II is a separate assessment moment afterwards, so the August window is the *light* filing, not the full proposal.
+**Round:** Phase I opens 12 Aug 15:00 CEST, closes 19 Aug 16:00 CEST. Two-phase process (art. 5) — Phase II is a separate assessment moment afterwards, so the August window is the *light* filing, not the full proposal. **Selection into fase II intake is by loting** (verified 2026-08-17 on the regeling page), so filing is a lottery ticket; quality is assessed only once drawn.
 
 **Amounts (art. 3.1):** €10k floor. One executing party → max **€25k**. Collaboration with one or more project partners → max **€50k**.
 
@@ -49,9 +49,11 @@ So another subsidy, sponsorship, investment or own income all count. Own *invest
 
 **Other conditions:** Fair Practice Code is a condition (6.1.l) and the fund caps hourly rates in budgets at €82.50 excl. VAT. Results must be published or made publicly accessible (6.1.k). Projects rejected twice after negative advice are permanently excluded (6.2.l). Field definition (art. 1.22) is artistic — media art, games, AV-performances, worldbuilding, creative coding, sensory storytelling, art-science, posthumanism, internet culture, plus research and reflection on those. Article 3.2 requires the *project* to be primarily non-profit; it does not require the applicant to be, and ontwerpbureaus are explicitly eligible.
 
-**Fase I needs — corrected 2026-08-13, verified with the fund.** Only three things: the application form (four fields, max 800 tekens each, plus dropdowns and dates), **CVs** of the main executors, and a **digitaal gewaarmerkt KvK-uittreksel** (max 1 jaar oud). Intentieverklaringen only where partners execute.
+**Fase I needs — corrected 2026-08-13, verified with the fund.** Only three things: the application form (four fields, max 800 tekens each, plus dropdowns and dates), **CVs** of the main executors, and a **digitaal gewaarmerkt KvK-uittreksel** (max 1 jaar oud). Intentieverklaringen only where partners execute — and per the 2026 aanpassingen, mandatory in fase I for asks above €25.000.
 
 **Project plan, closing budget + dekkingsplan, planning, communication plan, portfolio and project image are all fase II**, roughly four weeks later. An earlier version of this note listed portfolio and project image under fase I; that was wrong and cost time.
+
+**KvK extracts ordered 2026-08-17** for both aanvragers (digitaal gewaarmerkt, €9,60 each, delivered by mail within minutes): Rizom B.V. 98280929, Yeehaa Holding B.V. 98269968 — both registered at Noordvest 30 B, 3111 PH Schiedam; Yeehaa Holding's SBI line reads *Holding (geen financiële)*, which defuses the §1a eligibility worry.
 
 ### SIDN fonds Pioniers — verified terms
 
