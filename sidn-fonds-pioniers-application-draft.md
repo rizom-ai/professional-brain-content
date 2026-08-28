@@ -2,9 +2,9 @@
 
 *Max €10,000. Rolling — the 2026 call runs to 31 December 2026, 13:00 Europe/Amsterdam. Max 6 months runtime. ~6-week response on the full application. Terms verified 2026-08-04 from the call page and criteria.*
 
-**STATUS: v2 toets submitted 2026-08-23; Jet Veldhuis responded 2026-08-27 with five follow-up questions.** All five are demand-side (users, newly enabled capability, size of need, positioning against existing protocols/platforms, value for the internet as a whole) — the rescope landed; no fit objection this time, and the questions track the assessment criteria. Reply drafted, answering them in her exact order: `sidn-fonds-antwoorden-op-vragen-jet-veldhuis` (also at `~/Documents/sidn-antwoorden-jet-veldhuis.md`).
+**STATUS: v2 toets submitted 2026-08-23; Jet Veldhuis responded 2026-08-27 with five follow-up questions; answers sent 2026-08-28.** All five questions were demand-side (users, newly enabled capability, size of need, positioning against existing protocols/platforms, value for the internet as a whole) — the rescope landed; no fit objection this time, and the questions track the assessment criteria. The reply answers them in her exact order: `sidn-fonds-antwoorden-op-vragen-jet-veldhuis` (also at `~/Documents/sidn-antwoorden-jet-veldhuis.md`).
 
-**➜ NEXT ACTION — send the answers to Jet** (mail text ready in the antwoorden note; plain email reply, not an attachment).
+**➜ NEXT ACTION — wait for SIDN's read.** On a positive signal, move to step 3 (FundPro): record the video pitch, write the project plan (max 4 A4).
 
 History: **v1 (step 2) REJECTED 2026-08-13.** Jet Veldhuis, projectcoördinator, by email. Rejected on fit with *Sterk internet*, not on quality or budget:
 
@@ -82,18 +82,18 @@ Recorded so they don't come back round.
 - **A density study.** Pioniers is idea-phase; the deliverable is *"een demo, pilot of experimenteel ontwerp"*.
 - **Node counts.** "Six independently held knowledge bases" claims an independence that isn't there — the agents on the rizom.ai map are largely Jan Hein's own instances. No count is used anywhere. v2 states "at least two independently hosted sources" strictly as a deliverable, never as an existing state. The same overstatement is still in `offcourse-on-brains-scope-what-exists-funding-fit` and should come out.
 - **Defensive question framing.** Permission questions — is a conceptual result acceptable, does the platform link disqualify me. Wrong posture for something anchored in a foundation and an AGPL commons.
-- **A credentials sign-off.** Contradicts a pitch arguing credentials are the wrong signal. v2 closes on the public AGPL repo plus yeehaa.io running, with no meeting requested — asking for half an hour contradicts telling them a short answer is enough. Extends to the antwoorden reply: no title claims ("door mijn werk voor PublicSpaces", not "tech lead"), and Rizom named as an exploration route, not as a company.
+- **A credentials sign-off.** Contradicts a pitch arguing credentials are the wrong signal. v2 closes on the public AGPL repo plus yeehaa.io running, with no meeting requested — asking for half an hour contradicts telling them a short answer is enough. Extends to the antwoorden reply: no title claims ("door mijn werk voor PublicSpaces", not "tech lead"), Rizom named as an exploration route, not as a company, and rizom.ai deliberately not linked (product frame; the central agent map would muddy the exists/doesn't-exist line).
 
 ## The procedure — four steps, and FundPro is step 3
 
 1. **Quickscan** and check the Pioniers criteria.
-2. **Toets je project via het webformulier** — v1 sent 2026-08-09, rejected 2026-08-13. v2 sent 2026-08-23; follow-up questions received 2026-08-27, answers drafted.
+2. **Toets je project via het webformulier** — v1 sent 2026-08-09, rejected 2026-08-13. v2 sent 2026-08-23; follow-up questions received 2026-08-27, answers sent 2026-08-28.
 3. **Apply via FundPro** — questionnaire, short video pitch, project plan of max 4 A4, plus KvK extract and jaarrekening only if applying as an organisation. Personal lane: apply as natural person, so neither is needed.
 4. Answer within six weeks.
 
 ## Next
 
-- **Send the answers to Jet's five questions** — mail text in `sidn-fonds-antwoorden-op-vragen-jet-veldhuis` (local: `~/Documents/sidn-antwoorden-jet-veldhuis.md`).
+- ✅ **Answers to Jet's five questions sent 2026-08-28** — text in `sidn-fonds-antwoorden-op-vragen-jet-veldhuis` (local: `~/Documents/sidn-antwoorden-jet-veldhuis.md`). Now waiting on SIDN.
 - Record a video pitch **for step 3 only**, after a positive read. Both earlier scripts are obsolete — the 2026-08-04 one pitched portability, the v1 framing pitched community.
 - Project plan, max 4 A4, only at step 3.
 - Re-derive the NLnet disclosure text against the sequential split before the 3 September window opens.
