@@ -56,7 +56,7 @@ Drie eigenschappen maken dat duurzaam. Het mechanisme heeft per constructie alle
 
 Daarnaast verlaagt het de drempel om kennis zelf te hosten. Zelf hosten betekent nu isolement; met deze laag betekent het volwaardig meedoen. Elke bron die daardoor buiten een platform blijft bestaan, maakt het internet als geheel een stukje gedecentraliseerder.
 
-Als er nog iets ontbreekt, hoor ik het graag. De code staat publiek op github.com/rizom-ai/brains en yeehaa.io draait op deze basis.
+Als er nog iets ontbreekt, hoor ik het graag. Wat er al staat, is publiek te zien: github.com/rizom-ai/brains is de code voor zelfgehoste kennisbronnen, en yeehaa.io draait daarop als zo'n bron. Het lexicon waarmee zulke bronnen elkaar vinden, bestaat nog niet; dat is wat dit voorstel bouwt.
 
 Met vriendelijke groet,
 
@@ -70,4 +70,5 @@ Jan Hein Hoogstad
 - **Vraag 4 is de dragende.** Elke genoemde oplossing krijgt een concrete tekortkoming, geen abstracte differentiatie. OAI-PMH is bewust opgenomen: herkenbaar voor een Nederlandse beoordelaar (SURF/DANS-wereld).
 - **Consistent gehouden met v2:** geen communityframing, geen node-claims, geen partners, geen gespreksverzoek, afsluiting op repo plus draaiende bron.
 - **Geen CV meegestuurd, bewust.** Er is nooit een CV bij SIDN geweest (beide toetsen waren kale webformulieren), dus elke verwijzing draagt zijn eigen context als korte bijstelling in de zin: PublicSpaces (coalitie), Offcourse (platform, 2013), Rizom (open-source project). Het CV hoort pas bij stap 3 in FundPro.
+- **Afsluiting expliciet gesplitst in bestaat al / bestaat nog niet.** "yeehaa.io draait op deze basis" kon gelezen worden alsof het lexicon al bestaat, wat de financieringsvraag ondergraaft. Nu: substrate (code, yeehaa.io als bron) bestaat, het lexicon niet; dat is het voorstel.
 - **Veld-3-vraag (interoperabiliteit) bewust niet herhaald** in dit antwoord; haar vragen tonen dat de beoordeling loopt, en de vraag staat al in de toets.
