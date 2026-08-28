@@ -1,5 +1,7 @@
 # SIDN fonds — antwoorden op de vragen van Jet Veldhuis (na v2-toets)
 
+**VERSTUURD 2026-08-28 aan Jet Veldhuis.**
+
 **Context.** Jet Veldhuis reageerde 2026-08-27 op de v2-toets (`sidn-webform-v2.md`, ingediend 2026-08-23) met vijf aanvullende vragen. Alle vijf zijn vraagzijde-vragen (gebruikers, behoefte, positionering, meerwaarde); de techniek is geland. De antwoorden hieronder volgen haar volgorde exact, zodat ze direct in haar interne beoordeling passen.
 
 Registerregels uit de de-AI pass aangehouden: Nederlands, geen em-dashes, geen markdown in de mailtekst, geen credentials-afsluiting, geen gesprek gevraagd. Geen partners genoemd die niet zijn toegezegd; geen node-aantallen geclaimd.
@@ -70,5 +72,6 @@ Jan Hein Hoogstad
 - **Vraag 4 is de dragende.** Elke genoemde oplossing krijgt een concrete tekortkoming, geen abstracte differentiatie. OAI-PMH is bewust opgenomen: herkenbaar voor een Nederlandse beoordelaar (SURF/DANS-wereld).
 - **Consistent gehouden met v2:** geen communityframing, geen node-claims, geen partners, geen gespreksverzoek, afsluiting op repo plus draaiende bron.
 - **Geen CV meegestuurd, bewust.** Er is nooit een CV bij SIDN geweest (beide toetsen waren kale webformulieren), dus elke verwijzing draagt zijn eigen context als korte bijstelling in de zin: PublicSpaces (coalitie), Offcourse (platform, 2013), Rizom (open-source project). Het CV hoort pas bij stap 3 in FundPro.
+- **rizom.ai bewust niet gelinkt.** De productsite haalt het bedrijfsframe terug, en de netwerkkaart (centraal geïndexeerde agents) zou de bestaat-al/bestaat-nog-niet-lijn van de afsluiting vertroebelen. Repo plus yeehaa.io zijn de twee bewijsstukken.
 - **Afsluiting expliciet gesplitst in bestaat al / bestaat nog niet.** "yeehaa.io draait op deze basis" kon gelezen worden alsof het lexicon al bestaat, wat de financieringsvraag ondergraaft. Nu: substrate (code, yeehaa.io als bron) bestaat, het lexicon niet; dat is het voorstel.
 - **Veld-3-vraag (interoperabiliteit) bewust niet herhaald** in dit antwoord; haar vragen tonen dat de beoordeling loopt, en de vraag staat al in de toets.
