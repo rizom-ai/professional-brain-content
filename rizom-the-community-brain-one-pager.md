@@ -23,8 +23,8 @@ A Community Brain is a knowledge system with an AI agent in front of it, running
 ## What it does
 
 - **Events that leave something behind.** Sessions, talks, and hallway conversations get captured while they're fresh, so the next event builds on the last one instead of starting over.
-- **Members who find each other.** Anyone can look up who knows what across the whole community and spot the introductions worth making. The matches stop depending on one person happening to remember two conversations.
-- **Onboarding with context.** New members land in the community's accumulated knowledge from day one instead of a welcome email, and routine questions stop landing on the community manager's plate. The role shifts from human search engine back to what it should be: judgment, taste, and trust.
+- **Members who find each other.** Anyone can look up who knows what across the whole community and spot the introductions worth making.
+- **Onboarding with context.** New members land in the community's accumulated knowledge from day one instead of a welcome email, and routine questions stop landing on the community manager's plate. The role shifts from human search engine back to judgment, taste, and trust.
 - **An institutional memory that survives turnover.** Staff changes stop being an amnesia event. What the community learned stays with the community.
 
 ## How it starts
@@ -37,17 +37,17 @@ Pricing strip: **EUR 5k** Knowledge Session — survey, workshop, playbook; the 
 
 ## Why you can trust it with your community
 
-The brain is AGPL open source and stores everything as plain, portable files on infrastructure you control. There is no platform between you and your community's memory, no per-seat pricing that punishes growth, and no exit fee: if you ever want to run it yourself, export everything and go. The offer only works if leaving is easy — that's deliberate.
+The brain is AGPL open source and stores everything as plain, portable files on infrastructure you control. There is no platform between you and your community's memory, no per-seat pricing that punishes growth, and no exit fee: if you ever want to run it yourself, export everything and go. The offer only works if leaving is easy; that's deliberate.
 
 ## Proof
 
-- **rizom.ai** is itself a brain, running the platform it describes — its website, newsletter, and chat are the product in use. Talk to it.
+- **rizom.ai** is itself a brain, running the platform it describes. Talk to it.
 - **Institute of Network Cultures** — a pop-up institute program designed together.
-- **AGPL open source** — the full platform is public at github.com/rizom-ai/brains, developed in the open with continuous releases.
+- **AGPL open source** — the full platform is public at github.com/rizom-ai/brains.
 - **TMS** — the method builds on thirty years of research into transactive memory: how groups remember more than any member.
 
 ## Next step
 
-Start with the Knowledge Session: a few weeks, fixed price, run with your community team — and worth having even if you never build. Write to **yeehaa@rizom.ai**.
+Start with the Knowledge Session — worth having even if you never build. Write to **yeehaa@rizom.ai**.
 
 **Foot:** rizom.ai · yeehaa@rizom.ai · github.com/rizom-ai
