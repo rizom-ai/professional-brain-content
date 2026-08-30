@@ -1,6 +1,3 @@
----
-visibility: restricted
----
 # Rizom — The Community Brain
 
 > One-pager for hubs, coworking/workspaces, and campuses. Fronted as **Rizom /work**.
