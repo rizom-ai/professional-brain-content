@@ -1,0 +1,4 @@
+---
+title: Data-Driven Knowledge
+---
+Data-driven knowledge examines how large-scale computation changes scientific inquiry, representation, and action. The Data Drive manifesto critiques the assumption that data provides direct, unmediated access to reality, highlighting the interpretive and ideological shadows of computation. It argues that digital humanities should move beyond simply applying new tools to established disciplinary frameworks. Data is presented as a creative force that can transform concepts, methods, and forms of knowledge production. The topic also addresses the relationship between academic research, commercial datasets, technological systems, and actionable knowledge. Relevant keywords include big data, digital humanities, computation, knowledge production, data interpretation, research methods, commercial datasets, and actionable knowledge.

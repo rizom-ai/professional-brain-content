@@ -1,0 +1,4 @@
+---
+title: Agentic Software Architecture
+---
+The Brains platform uses a reusable model-instance architecture for deploying configurable AI systems. A brain model defines identity, capabilities, interfaces, permissions, presets, and content models, while lightweight instances provide deployment-specific configuration through files such as brain.yaml and .env. Plugins represent modular capabilities, and presets determine which capabilities are active for a given instance. The runtime resolves the model, applies instance overrides, loads secrets, and starts the system through the brain CLI. This architecture supports multiple environments, including development, staging, and production, without duplicating the underlying brain model. Its broader design principles include AI-native behavior, message-based plugin communication, entity-driven storage, and markdown-first content.

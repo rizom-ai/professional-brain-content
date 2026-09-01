@@ -1,0 +1,4 @@
+---
+title: Digital Governance
+---
+Digital governance concerns how online communities can manage information quality, participation, and collective discourse. The discussion proposes evaluating the agents behind information rather than attempting to determine whether every individual claim is objectively true or false. An organic governance system would associate contributions with agents, update reputation scores, adjust the reach of content, and remove consistently harmful participants. This model treats reputation as a mechanism for amplifying constructive contributions while limiting misinformation and disruptive behavior. It also raises broader questions about meritocracy, moderation, accountability, and the risks of algorithmically regulating public conversation. Relevant keywords include online governance, reputation systems, misinformation, content moderation, agent accountability, algorithmic amplification, community standards, and digital discourse.

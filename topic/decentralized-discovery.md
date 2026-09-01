@@ -1,0 +1,4 @@
+---
+title: Decentralized Discovery
+---
+The SIDN proposal focuses on making independently hosted knowledge sources discoverable without relying on centralized search engines, platforms, or aggregators. Its proposed lexicon would describe what a source contains, how specific records can be cited, and which visibility conditions apply to each record. This addresses three persistent problems: the invisibility of self-hosted knowledge, links that break when platforms or structures change, and platform dependence as the only practical route to discoverability. The proposal distinguishes discovery semantics from adjacent protocols such as ActivityPub, AT Protocol, OAI-PMH, RSS, Schema.org, and Solid. Its central claim is that discovery and reference should become protocol functions rather than platform services. This would allow self-hosted knowledge sources to interoperate while retaining independent identity, governance, and control.
