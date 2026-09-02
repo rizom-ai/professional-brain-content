@@ -7,13 +7,13 @@ status: discovered
 discoveredAt: '2026-08-05T09:48:00.724Z'
 introducedBy:
   - jo.rizom.ai
+  - rizom.ai
 hops: 2
 ---
 # Agent
 
 ## About
 Replace this with Natalie's real public profile summary.
-
 Endless Watcher is Natalie's Profile Analysis Agent. Its purpose is: Supports profile auditing, metadata synthesis, link and note handling, and SWOT-oriented analysis using configured prompts and skills..
 
 ## Skills
