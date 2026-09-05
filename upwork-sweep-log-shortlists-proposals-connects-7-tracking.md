@@ -2,12 +2,15 @@
 title: 'Upwork Sweep Log — shortlists, proposals, Connects (§7 tracking)'
 visibility: restricted
 ---
-# Upwork Sweep Log
+# Upwork channel — status and decisions
 
-Running log for the assisted sweep (P2/P3) of `upwork-plan-fast-income-channel-assisted-human-approved`.
-One section per sweep. Feeds the §7 metrics and kill criteria.
+Tracking note for P2/P3 of `upwork-plan-fast-income-channel-assisted-human-approved`.
 
-**Hard rule carried from §8:** no automated submission, ever. Every send is a human click.
+**This note carries status and decisions only.** The full per-sweep evidence log —
+26 sweeps, reject distributions, every killed candidate with its reason — lives on disk at
+`~/Documents/upwork-assets/sweep-log.md` and is canonical. Do not mirror it here.
+
+Last updated: 2026-09-04, after Sweep 26.
 
 ---
 
@@ -15,82 +18,137 @@ One section per sweep. Feeds the §7 metrics and kill criteria.
 
 | Metric | Total to date |
 |---|---|
-| Proposals sent | 0 |
-| Viewed | 0 |
-| Replied | 0 |
+| Proposals sent (§7 denominator) | 5 |
+| Strategic sends (outside §7 math) | 1 |
+| Viewed | — |
+| Replied | **0** |
 | Interviews | 0 |
 | Contracts | 0 |
-| Connects spent | 0 |
+| Connects spent | 97 (balance 65) |
+| Catalog offerings live | 8 |
+| Catalog orders | **0** (158+ cumulative views) |
 
-Kill criteria: <5 % reply rate after 20 proposals → stop, re-diagnose positioning/rate.
-30 proposals, 0 replies → halt and rewrite. First contract by week 3 = on track.
+Strategic sends are relationship bets with no live project behind them. They spend real
+Connects but sit outside the reply-rate denominator, so the kill criteria only measure
+proposals that could convert on the plan's timescale.
+
+**Against §7's gauges:** 5 proposals is below the 20 at which reply rate becomes readable.
+The kill criteria have not fired. But §7's other clock has: *first contract by week 3 = on
+track, nothing by week 4 → Upwork is not the channel*. The channel opened 26 August. Week 4
+ends 23 September.
 
 ---
 
-## Sweep 1 — 2026-08-26 (first P2 sweep)
+## Diagnosis (2026-09-01, unchanged since)
 
-**Outcome: no proposals sent.** Chrome was not authenticated to Upwork — `/nx/find-work/`
-redirected to the login screen (`work@rizom.ai` prefilled, password pending), and only one
-browser was connected, so no other session held the login. Sweep was run against the
-logged-out public search instead, which still works and is recency-sortable.
+Six proposals, zero replies. **Four of the six jobs were actively interviewing other
+candidates** while ours sat unanswered — so proposals reach clients and lose on trust signal,
+not on fit or on rate.
 
-**Connects spent: 0.**
+The binding constraint is a profile reading **Work history: No items** in a market where every
+visible competitor carries 29–541 reviews and a Top Rated badge. The Catalog shows the same
+gate from the other side: eight approved offerings, 158+ views, zero orders, against
+comparables at $199 with 4.9★ and 69 reviews.
 
-### Coverage
+This is not a positioning problem and not a volume problem. Bidding harder does not move it.
 
-342 unique listings across 8 recency-sorted queries covering the full §4 Prefer surface:
-AI agent/agentic · LLM · RAG/vector · MCP/Model Context Protocol · architecture review /
-technical due diligence / code audit · fractional CTO / technical advisor · take-over /
-rescue / inherited codebase / half-finished · Elixir/Clojure/Bun/TypeScript architect.
+**Consequence:** Upwork was demoted from the fast-income channel to a low-cost watch on
+2026-09-01. The primary channel is now warm network activation — see
+`~/Documents/network-outreach/` and the separate working thread.
 
-- 118 passed the mechanical filter (rate floor, hours/week, topic fit)
-- 104 survived a negative filter (SEO/AEO, ads, voiceover, patent, Webflow, Shopify, Zoho, copywriting)
-- ranked to 10 on on-profile signal + §4 recency weight
+---
 
-### Filter status — provisional
+## The review-acquisition bet
 
-Applied from public data: hourly max < $70 excluded · fixed-price < $500 excluded ·
-"More than 30 hrs/week" excluded · topic fit + negative filter.
+Catalog is a *purchase*, not a bid: it bypasses Connects and bid ranking entirely. So the
+product being bought is the first review, not the work.
 
-**Not verifiable logged out — all four are §4 hard-excludes:** payment method verified ·
-existing bid count (>30 rule) · client lifetime spend (>$5k preference) · client hire rate
-(<50 %) / 0-hires-with-large-budget. Every row below is provisional until these run on the
-logged-in view.
+Ladder as it now stands: **$95 → $200 → $600–750 → $1,500–1,800 → $6,000.**
+The $95 "written second opinion on one AI architecture decision" is the entry bet, live since
+2026-09-03. Three views, no orders as of Sweep 26.
 
-### Ranked shortlist
+This supersedes §3's Consultations layer, which does not exist as a separate Upwork product —
+it folded into Catalog.
 
-| # | Job | Posted | Budget | Reasoning |
-|---|-----|--------|--------|-----------|
-| 1 | [AI Workflow Consolidation & Access-Control Architecture (n8n / Postgres)](https://www.upwork.com/jobs/~022092392982665135086) | 9h | $2.5k fixed | ~100-employee group two months into a build that needs consolidating — architecture + access control, fixed-price, real org with real money; closest thing in the sweep to an architecture-review mandate. |
-| 2 | [Senior data/backend engineer to productionise an existing AI extraction pipeline](https://www.upwork.com/jobs/~022092479696706164345) | 3h | $500 fixed | Textbook §4 "rescue of a half-finished codebase" and the freshest serious listing — but $500 sits exactly on the fixed-price floor, so scope must be genuinely small or it is a hard exclude. |
-| 3 | [AI Automation architect — build a small workforce for a business](https://www.upwork.com/jobs/~022092455256621458048) | 2h | fixed, undisclosed | Multi-agent "AI workforce" framing maps directly onto brains; posted <4h so the response-speed lever is live, but budget is unstated and must be checked. |
-| 4 | [AI Document Search Engine for 500GB + QuickBooks integration (nonprofit)](https://www.upwork.com/jobs/~022092284904638469753) | 1d | $24k fixed | Largest budget in the sweep and squarely RAG-over-private-corpus; 500GB implies real retrieval engineering, not an API wrapper. |
-| 5 | [AI Engineer for Knowledge Base & AI System Implementation](https://www.upwork.com/jobs/~022091608253212820462) | 2d | $1.7k fixed | Knowledge-base architecture — the Lefthoek/Rizom proof point maps one-to-one; "architect, implement, deploy, scale" is ownership language, not ticket language. |
-| 6 | [Build a policy search app with source citations (Next.js, Supabase, OpenAI)](https://www.upwork.com/jobs/~022091873420404990592) | 2d | hourly, undisclosed | Citation-grounded retrieval is the hard part of RAG and exactly what brains does; TypeScript stack fits the §4 language preference. |
-| 7 | [Technical Lead / Solutions Architect](https://www.upwork.com/jobs/~022092005043820987374) | 2d | $150/h | Rate is at the §2 Top-Rated band, well clear of cold start; generic title means the spec detail needs checking against the vague-spec exclude. |
-| 8 | [Fractional CTO for Startup](https://www.upwork.com/jobs/~022090782836479825252) | 5d | $150/h | Direct §4 "fractional CTO" hit at a rate that skips the cold-start discount entirely; age means bid count is the deciding check. |
-| 9 | [Fractional CTO (Client-Facing) — Senior Software Engineer, Part-Time](https://www.upwork.com/jobs/~022091911816365753721) | 2d | $80/h | Explicitly part-time, which matches the 15–20 h capacity constraint that kills most fractional listings; $80/h is mid cold-start band. |
-| 10 | [Fractional Technical Lead / Enterprise Solutions Architect (Texas-Based)](https://www.upwork.com/jobs/~022090993067233842835) | 4d | $1.5k fixed | On-profile fractional-architect scope, but "Texas-Based" in the title is a likely location hard-exclude — verify before spending a Connect. |
+---
 
-### Skipped, and why
+## Send rule (amended 2026-08-28, supersedes §8's blanket wording)
 
-- **Principal AI Architect / Fractional CTO Advisor** — perfect topic match, $30–60/h. Below the $70 floor. Hard exclude (§2), no exception for fit.
-- **Principal Platform Architect: CRM + Voice AI** ($3.5k) — 14 days old; bid count almost certainly past 30.
-- **GEO/AEO Specialist** — "Full Time" contract; fails the 40 h/week exclude against 15–20 h capacity.
-- **Multiuser AI Chatbot (Amazon Bedrock AgentCore)** — $40 fixed. Far below floor.
-- **Fix Vapi Voice AI Agent for Restaurant** — $50 fixed. Far below floor.
-- Remainder of the <4 h band (poultry farm app, Webflow port, freight-forwarding agent) — off-profile.
+No unattended submission, ever. Every send requires explicit per-job approval of the reviewed
+draft. The click itself may be executed by the assistant when directed ("human-directed
+send"). Sweeps never auto-send; drafts always come back for review first.
 
-### Open items surfaced by this sweep
+---
 
-1. **No English profile text exists.** §1 of the plan says to reuse "the English text from `Freelance-Profil`", but `freelance-positioning-dachnl-profil-raten-launch-checkliste` carries only the German and Dutch texts. An English, AI-first profile text still has to be written — it is a P0 dependency, not a P2 one.
-2. **P0 approval state unconfirmed.** §6 gates P2 behind profile approval; not verifiable from outside the account.
-3. **Recency lever is thin per sweep.** Only 6 of 118 passing listings were posted <4 h. Supports P3's morning loop over a single large daily pass.
+## §4 filter as it now stands
 
-### Method note (reusable for P3)
+**At harvest time** (search-tile signals only): payment verified · not 50+ proposals · not
+20–50 proposals unless under 60 minutes old · hourly ceiling ≥ $70 · fixed budget ≥ $500 ·
+on-thesis.
 
-Logged-out public search at `upwork.com/nx/search/jobs/?q=<query>&sort=recency&per_page=50`
-returns 50 tiles per page and exposes: posted-age, title, hourly band or fixed budget,
-experience level, hours/week, description. It does **not** expose payment-verified, bid
-count, client spend or hire rate. So a logged-out pass is useful for building the candidate
-pool cheaply, but the §4 hard-excludes always require the authenticated view.
+**Page-only checks** — these cannot fire at harvest; they belong to the verification step and
+every survivor gets all four:
+
+- Hours needed above 30/week → out. *"Contract-to-hire" is a full-time role wearing a
+  contract label.*
+- Client average paid rate below $25/hr → out unless lifetime spend ≥ $10K. Promoted to hard
+  §4 on 2026-09-03 after four consecutive cases where it decided the outcome ($15.78 advisor ·
+  $9.00 DBA · $16.99 CREST pentest · $15.01 Maropost, bid at $85 and silent since). A client's
+  average across dozens of contracts is a settled habit, not noise — it predicted before the
+  fact rather than explaining after it.
+- Hire rate below 50% → out unless lifetime spend ≥ $10K.
+- Bid range shape: a high ceiling with a low average means the ceiling is decoration.
+
+**Every fixed-price candidate is reported with its implied hourly rate** (budget ÷ stated
+minimum hours), never the budget alone. Added 2026-09-04 after a $1,111 fractional-CTO job was
+reported with its budget but not its ~$18.50/hr, which was the figure that decided it.
+
+---
+
+## Kill rules, all absolute
+
+- **Never-hires trap (6-for-6):** $0 lifetime spend or 0% hire rate kills it however good the
+  spec reads. Bench posts are this in disguise.
+- **Tool / credential / discipline fluency:** if a job names a platform, credential or
+  discipline he does not have, it is out — do not write around it. Killed so far: GoHighLevel,
+  Camunda, Zendesk AI, Microsoft Foundry, Laravel, Korean-required, CREST-certified pentest,
+  OCI/SAP, vendor-specific GCP/AWS, Retell/Asterisk VoIP, SOC and incident response,
+  Axcelerate/Moodle.
+- **On-thesis only:** AI agents / LLM / RAG / MCP, architecture review, technical due
+  diligence, fractional CTO, rescue of half-finished codebases; TypeScript / Node / Bun /
+  Elixir / Clojure.
+
+---
+
+## Angles tested and closed
+
+| Angle | Verdict |
+|---|---|
+| Rare-tech arbitrage (Elixir, Clojure) | Dead. 2 Elixir jobs and 1 Clojure across the whole period, both bid-swarmed. |
+| Language arbitrage (German, Dutch) | Real moat — 70% of German jobs under 15 bids, 24 of 50 Dutch under 5 — but it guards voice recording, UGC, customer support and transcription, not architecture. |
+| Badges | None held; not acquirable without history. |
+| Availability badge | Costs 14 Connects/week under "Promote with ads". Not free. Cancelled unused. |
+| **Infra / DevOps widening (BUCKET-B)** | **Retired 2026-09-04.** See below. |
+
+**BUCKET-B, in full.** Added 2026-09-02 after the observation that 20 sweeps had confined
+every bid to the AI-agent pool — measurably the worst-priced corner of the platform (2 of 27
+hourly jobs clear $70, against 7 of 22 in DevOps, which also has the highest
+payment-verification rate at 46/50). The positioning note lists DevOps as a core pillar and it
+had never once been searched.
+
+Ran Sep 2–4, five sweeps, **zero bid-worthy candidates**. The measurement stands — infra does
+price better on average — but the listings reachable without vendor certification or a review
+history sit in the same commodity tier as the AI pool. Widening bought volume, not
+opportunity, and cost ~150 tiles of noise per sweep. Retired on the human's approval.
+
+---
+
+## Loop status
+
+Crons v6, session-only, armed 2026-09-04 at 07:53 and 13:29, expiring ~2026-09-11.
+THESIS queries only (8), roughly 300 tiles per run. Zero candidates is the stated expected
+outcome, not a failure.
+
+**Watch condition:** if a full week passes with zero candidates, suspect the filter rather
+than the market and say so. The rules above make a thin market thinner; the failure mode to
+avoid is a channel dying of caution rather than of market reality.
