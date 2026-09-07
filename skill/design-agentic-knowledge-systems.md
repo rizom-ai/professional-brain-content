@@ -5,19 +5,15 @@ description: >-
   institutional memory, context, and user agency.
 tags:
   - ai-systems
-  - architecture
   - retrieval
+  - architecture
   - agency
   - institutional-memory
 examples:
   - >-
     Design an architecture for an AI colleague that can retrieve organizational
-    knowledge with context.
-  - >-
-    Explain how agentic software can preserve user agency instead of simply
-    automating decisions.
-  - >-
-    Turn our institutional memory into a reliable knowledge system for AI
-    agents.
+    context.
+  - How should an agent use institutional memory without losing user control?
+  - Compare approaches for building a context-aware knowledge assistant.
 ---
 

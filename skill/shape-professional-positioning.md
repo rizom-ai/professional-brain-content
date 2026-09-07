@@ -1,21 +1,17 @@
 ---
 name: Shape Professional Positioning
 description: >-
-  Develop professional narratives that connect expertise in AI, knowledge
-  infrastructure, research, and organizational change.
+  Translate experience in AI, decentralized work, and knowledge infrastructure
+  into credible professional narratives and opportunities.
 tags:
   - profile
   - identity
   - content
-  - positioning
-  - acceleration
+  - research-funding
+  - agency
 examples:
-  - >-
-    Help me describe my professional focus across AI, decentralized systems, and
-    institutional memory.
-  - >-
-    Create a concise bio positioning me as a strategist for federated knowledge
-    infrastructure.
-  - Turn my project experience into a compelling professional profile.
+  - Help me position my work at the intersection of AI and institutional memory.
+  - Create a professional bio focused on portable knowledge infrastructure.
+  - Develop a research-funding pitch about situated AI and decentralized work.
 ---
 
