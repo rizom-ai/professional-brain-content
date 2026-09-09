@@ -1,31 +1,51 @@
 # Grants Pipeline
 
-Repurposing the CHT fellowship material (proposals, white paper, video script, fit narrative) for other fellowships and grants. Researched and verified 2026-08-03.
+Repurposing the CHT fellowship material (proposals, white paper, video script, fit narrative) for other fellowships and grants. Researched and verified 2026-08-03. Updated 2026-09-09 with the Stimuleringsfonds outcomes and the NLnet fund change.
 
 Two pitch lanes:
 - **Lane A (research/writing):** The Outsourced Institution + Responsibility Laundering as research agendas
 - **Lane B (build/infrastructure):** brains repo + situated-agent standard as fundable open-source work
 
-## 🔴 August 2026 — act now
+## 🔴 Now — dated, in order
 
 | Opportunity | Money | Deadline | Lane | Status |
 |---|---|---|---|---|
-| Emergent Ventures (Mercatus) | ~$10k–100k | Rolling, 30-min app, fast decisions | A | ✅ submitted 2026-08-03 (see ev-application) |
-| Cosmos Institute (interest form) | $75k/yr fellowship + smaller grant rounds | EOI rolling; fellowship window not yet open | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
-| Sequoia OSS Fellowship | living expenses 6–12 mo, equity-free | Rolling, 2–3 fellows/yr | B | ✅ submitted 2026-08-23 via Typeform; no reference issued, they contact if interested. Draft: sequoia-oss-fellowship-application-draft (rizom.ai brain) |
-| Basis Fellowship | $50k unrestricted, no strings | Always open; updates via email | B | ✅ submitted 2026-08-23, ref **BF-2026-HNKJPC**; replies come from @orbit.engineering (check spam). Draft: basis-fellowship-application-draft (rizom.ai brain) |
-| Stimuleringsfonds — **A, solo** | €24.750 ask | **19 Aug 16:00 CEST** | A | ✅ **filed before the deadline** (confirmed 2026-08-26) — *The Machine Did It*, Yeehaa Holding B.V. Fase II intake is by loting; awaiting the draw. Kit: `~/Documents/stimuleringsfonds-2026/solo-fase1-filing-kit.md`. Brain note `stimuleringsfonds-the-living-archive` is **stale** (describes the superseded Living Archive concept) |
-| Stimuleringsfonds — **B, with INC** | €50.000 ask | **19 Aug 16:00 CEST** | A | ✅ **filed before the deadline** (confirmed 2026-08-26) — *Organized Memory*, Rizom B.V. + INC; intentieverklaring Geert Lovink signed 17 aug; cofinanciering €13.000 INC om-niet uren (20,6% of €63.000). Fase II intake is by loting; awaiting the draw. Projectbeschrijving: organized-memory-projectbeschrijving (rizom.ai brain); form fields: `~/Documents/stimuleringsfonds-2026/organized-memory-fase1-form.md`. NB art. 6.4: if both A and B are honoured, only one award per calendar year can be accepted — decide in advance |
-| SIDN fonds Pioniers | max €10k | Rolling, 6-week response, max 6 months runtime | B | ❌ **step 2 rejected 2026-08-13** on *Sterk internet* fit — read as *"een verkenning van kennisdeling en communityvorming"*. Rescoped to the ATProto lexicon + AGPL reference implementation; **v2 toets due 2026-08-25**. See sidn-fonds-pioniers-application-draft · ✅ **v2 ingediend 2026-08-23** via het toets-je-idee webformulier, bevestigingspagina gezien · 📩 **vijf vraagzijde-vragen van Jet Veldhuis 2026-08-27** (gebruikers, mogelijkheden, behoefte, positionering, meerwaarde internet — de herkadering is geland) · ✅ **antwoorden verstuurd 2026-08-28**, tekst in sidn-fonds-antwoorden-op-vragen-jet-veldhuis; nu wachten op SIDN |
-| EU AI & Society Fund "Narrative Power" | up to €150k | First stage Aug 31 | A | ⏸ **not now** — decided 2026-08-26. Rizom ineligible in practice (for-profit, no narrative track record, €0 budget history); only viable partner-led. INC (young-people theme) and DNNL/Ruben Brave (jobs theme) both assessed as eligible leads, but too much work against the Aug 31 first stage. Revisit if the programme runs another round |
-| Humanity AI open call (Ford/MacArthur/Mozilla/Omidyar pooled $10M) | varies | Launching summer 2026 — watch humanityai.ai | A+B | ☐ watch |
-| IAS School of Social Science 2027–28 | stipend | Theme announced Aug 2026, deadline ~Oct 15 | A | ☐ watch theme |
+| **Stimuleringsfonds — A, solo — fase II** | €24.750 ask | **25 Sep 2026, 23:59** | A | 🟢 **fase I passed** — letter received: application meets the art. 6 ingangseisen; invited to complete fase II (art. 8.2 documents) via the dashboard. Fase II needs: projectplan, begroting in the *Modelbegroting en dekkingsplan* format (cofinanciering ≥20% of total costs, own income as *verkoop*), planning, communicatieplan, portfolio, project image; art. 7 conditions apply. Only complete applications go to the adviescommissie — this is the first substantive assessment. **The kit's §3 activities/budget still describe the superseded Living Archive concept and must be rewritten for The Machine Did It.** Kit: `~/Documents/stimuleringsfonds-2026/solo-fase1-filing-kit.md`. Brain note `stimuleringsfonds-the-living-archive` is stale |
+| **NLnet Restack** (Open Internet Stack) | €5k–50k first grant | Opened 3 Sep, **closes 3 Nov 2026, 12:00 CET (noon)** | B | ☐ **fund changed:** the NGI Zero Commons Fund closed 1 June 2026; Restack is the successor call. Assessment is a batch after the deadline (knock-out → scoring 30/40/30, threshold 5.0/7 → second round with questions → committee validation → MoU; first advance within a week of MoU); *the last complete version submitted before the deadline is the one assessed*, so an early filing is a replaceable floor, not an advantage. **Restack excludes AI-related projects** (unless >1M active users) — proposal retargeted 2026-09-09 as record-level trust infrastructure on owned, portable memory (provenance, declared standing, contestation, refusal); automated assistants are a consumer, not the subject. Draft: `nlnet-ngi-zero-application-draft` (rizom.ai brain, title "NLnet / Restack — Application draft"); local `~/Documents/fundraising/nlnet-proposal.md`. Before filing: scope question at the NLnet office hour (last Wednesday of the month, 16:00 CE(S)T, Matrix `#officehours:nlnet.nl` — 30 Sep, fallback 28 Oct); applicant = foundation if the deed is signed, else Rizom B.V.; fill docs link |
+| SIDN fonds Pioniers | max €10k | Rolling; 2026 call runs to 31 Dec 2026 13:00 | B | ⏳ v2 toets ingediend 2026-08-23 · vijf vraagzijde-vragen van Jet Veldhuis 2026-08-27 · antwoorden verstuurd 2026-08-28 (`sidn-fonds-antwoorden-op-vragen-jet-veldhuis`) · **wachten op SIDN**; bij positief signaal door naar stap 3 (FundPro: volledige aanvraag + videopitch, ~6 weken) |
+
+## Submitted — nothing to do
+
+| Opportunity | Money | Lane | Status |
+|---|---|---|---|
+| Emergent Ventures (Mercatus) | ~$10k–100k | A | ✅ submitted 2026-08-03 (see ev-application); rolling, decisions normally ~1 week |
+| Cosmos Institute (interest form) | $75k/yr fellowship + grant rounds | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
+| Sequoia OSS Fellowship | living expenses 6–12 mo, equity-free | B | ✅ submitted 2026-08-23 via Typeform; no reference issued, they contact if interested. Draft: sequoia-oss-fellowship-application-draft (rizom.ai brain) |
+| Basis Fellowship | $50k unrestricted | B | ✅ submitted 2026-08-23, ref **BF-2026-HNKJPC**; replies come from @orbit.engineering (check spam). Draft: basis-fellowship-application-draft (rizom.ai brain) |
+
+## Closed this round
+
+| Opportunity | Money | Lane | Outcome |
+|---|---|---|---|
+| Stimuleringsfonds — **B, with INC** (*Organized Memory*, Rizom B.V.) | €50.000 ask | A | ❌ **afgewezen 2026-08-28, procedureel**: ronde overvraagd; loting (art. 5) bepaalde de controlevolgorde en het maximumaantal was bereikt vóór deze aanvraag aan de beurt was. **Niet getoetst aan art. 6, geen inhoudelijk oordeel.** Bezwaar mogelijk binnen zes weken, alleen tegen de totstandkoming (de loting). Packet intact (projectbeschrijving `organized-memory-projectbeschrijving`, intentieverklaring Geert Lovink 17 aug, cofinanciering-constructie) — **herindienen in een volgende ronde Digitale cultuur, afgestemd op INC's eigen aanvraag bij dit fonds.** The art. 6.4 one-award-per-year conflict with A is moot |
+| EU AI & Society Fund "Narrative Power" | up to €150k | A | ⏸ **not now** — decided 2026-08-26. Rizom ineligible in practice (for-profit, no narrative track record, €0 budget history); only viable partner-led. INC (young-people theme) and DNNL/Ruben Brave (jobs theme) both assessed as eligible leads, but too much work against the Aug 31 first stage. Revisit if the programme runs another round |
+
+## 🟡 Watch — autumn 2026
+
+| Opportunity | Money | Deadline | Lane | Status |
+|---|---|---|---|---|
+| Cullman Center (NYPL) | $90k | Sep 25 | A | ☐ requires 9 months NYC residency — off unless that is wanted |
+| IAS School of Social Science 2027–28 | stipend | ~Oct 15 | A | ☐ theme not yet checked (site blocks automated reads; look manually) |
+| Notre Dame–IBM Tech Ethics Lab CFP | varies | "priority Nov 15" per earlier research — **unverified**: the lab's grants page shows no 2026 call as of 2026-09-09 | A | ☐ 2025 theme was human-AI collaboration — Responsibility Laundering nearly verbatim; one line to ethics@nd.edu settles whether a 2026 call exists |
+| Berkman Klein 2027–28 | varies | Call expected Oct–Dec 2026 | A | ☐ watch |
+| New America Fellows | up to $30k | Opens ~Nov, closes ~Feb 2027 | A | ☐ international non-resident OK |
+| Humanity AI open call (Ford/MacArthur/Mozilla/Omidyar pooled $10M) | varies | watch humanityai.ai | A+B | ☐ watch |
 
 ### Stimuleringsfonds Digitale cultuur — verified terms
 
 Read from the regulation text itself (`Regeling-Digitale-cultuur-2025-2028.pdf`), 2026-08-04. Do not re-derive from the website summaries; they are misleading on co-financing.
 
-**Round:** Phase I opens 12 Aug 15:00 CEST, closes 19 Aug 16:00 CEST. Two-phase process (art. 5) — Phase II is a separate assessment moment afterwards, so the August window is the *light* filing, not the full proposal. **Selection into fase II intake is by loting** (verified 2026-08-17 on the regeling page), so filing is a lottery ticket; quality is assessed only once drawn.
+**Round:** Phase I opens 12 Aug 15:00 CEST, closes 19 Aug 16:00 CEST. Two-phase process (art. 5) — Phase II is a separate assessment moment afterwards, so the August window is the *light* filing, not the full proposal. **Selection into fase II intake is by loting** (verified 2026-08-17 on the regeling page), so filing is a lottery ticket; quality is assessed only once drawn. **Outcome August 2026:** the round was oversubscribed; the loting reached the cap before application B, and application A was drawn and passed the art. 6 check. Fase II is deadline-based, not order-based: all complete applications are assessed together after 25 Sep; submission timing within the window carries no advantage, and the deadline is hard.
 
 **Amounts (art. 3.1):** €10k floor. One executing party → max **€25k**. Collaboration with one or more project partners → max **€50k**.
 
@@ -75,32 +95,23 @@ Draft in `sidn-fonds-pioniers-application-draft`.
 
 **Reactie 2026-08-27:** vijf aanvullende vraagzijde-vragen van Jet Veldhuis (gebruikers, nieuwe mogelijkheden, omvang behoefte, positionering t.o.v. bestaande oplossingen, meerwaarde voor het internet) — geen fit-bezwaar meer; de vragen volgen de beoordelingscriteria. **Antwoorden verstuurd 2026-08-28**, in haar volgorde, tekst in `sidn-fonds-antwoorden-op-vragen-jet-veldhuis`. Nu wachten op SIDN; bij positief signaal door naar stap 3 (FundPro).
 
-**The NLnet overlap is now resolved by sequence, not by subject.** The v2 scope still overlaps NLnet draft M3/M4, so the split is: SIDN funds the specification and first working implementation; NLnet M3/M4 hardens it into production federation, selective consent and SDK. Sequential, disclosed in both. A completed SIDN deliverable strengthens the NLnet bid rather than competing with it.
-
-## 🟡 September–November 2026
-
-| Opportunity | Money | Deadline | Lane | Status |
-|---|---|---|---|---|
-| **NLnet Open Internet Stack** | €50k first grant | Opens Sep 3, **closes Nov 3, 12:00 CEST** | B | ☐ main bid — see split strategy below; founder background + repo/docs gaps filled 2026-08-23 in nlnet-ngi-zero-application-draft (rizom.ai brain); split-confirmation email drafted at `~/Documents/nlnet-split-email-draft.md`, **not sent** |
-| Cullman Center (NYPL) | $90k | Sep 25 | A | ☐ requires 9 months NYC residency |
-| Notre Dame–IBM Tech Ethics Lab CFP | varies | Priority Nov 15 | A | ☐ Responsibility Laundering nearly verbatim |
-| Berkman Klein 2027–28 | varies | Call expected Oct–Dec 2026 | A | ☐ watch |
-| New America Fellows | up to $30k | Opens ~Nov, closes ~Feb 2027 | A | ☐ international non-resident OK |
+**The NLnet overlap is resolved by sequence, not by subject.** SIDN funds the specification and first working implementation; the NLnet Restack proposal hardens ownership and adds the record-level trust layer. Sequential, disclosed in both. A completed SIDN deliverable strengthens the NLnet bid rather than competing with it.
 
 ## 🟢 Rolling / 2027
 
+- **Stimuleringsfonds Digitale cultuur, next round** — resubmit *Organized Memory* (unassessed, packet intact); coordinate timing and subject with INC's own planned application at this fund
+- **Sovereign Tech Standards track** — reopens early 2027; the home for the situated-agent *standard* (spec, documentation, standards work) now that the NLnet split is dissolved
 - **Mercator Fellowship** (DE) — senior, no affiliation needed, apply 4–6 months before start
 - **Coefficient Giving** (ex-Open Phil) career/transition funding — rolling, explicitly later-career
 - **SFF speculation grants** — rolling, needs AI-risk framing
-- **Sovereign Tech Standards track** — reopens early 2027; near-perfect for the situated-agent *standard*
 - **AiNed MIT R&D** — ~Apr 2027, 35% subsidy max €350k, needs second Dutch SME partner (line up now)
 - **Mozilla Democracy×AI cohort** — 2027 round expected (~$50k)
 - **Pulitzer AI Accountability** — next cohort ~spring 2027
 - **Filecoin Foundation open grants** — rolling, up to $50k, provenance angle but must serve their ecosystem
 
-## NLnet split strategy
+## NLnet — split strategy dissolved (2026-09-09)
 
-Individual and organisation are separate third parties (€500k lifetime cap each); no rule against multiple proposals. But same-work-twice reads as cap-gaming. Plan: **Rizom applies for the brains reference implementation** (code, deployment); **Jan Hein applies personally for the situated-agent design standard** (spec, documentation, standards work). Distinct deliverables, relationship disclosed in both. Email NLnet before Sep 3 to confirm the approach.
+The earlier plan was two proposals — Rizom for the reference implementation, Jan Hein personally for the situated-agent design standard — with a split-confirmation email to grants@nlnet.nl before 3 Sep. That email was never sent and is moot: there is now **one Restack proposal from one applicant** (see the table above), and the standard goes to the Sovereign Tech standards track in 2027. `~/Documents/nlnet-split-email-draft.md` is superseded.
 
 ## Reusable assets (all in ~/Documents/datacampus-pitch/)
 
@@ -112,6 +123,6 @@ Individual and organisation are separate third parties (€500k lifetime cap eac
 
 ## Dead ends (verified, don't revisit)
 
-NWO (needs tenure-track post) · Prototype Fund (Germany-only) · Volkswagen/Bosch Stiftung · Waag/PublicSpaces (recipients not funders) · Ada Lovelace/Nesta/JRF (no open calls) · AI2050 (early-career only, PhD 2005 too old) · Tarbell (newsroom placement) · Mozilla MOSS/MTF (discontinued/folded) · OTF (unstable, wrong angle) · Sloan Better Software (closed) · GitHub Secure OSS Fund (security-hardening only) · CZI/OSTIF (science-OSS/security niches) · Knight (US nonprofits) · Aspen S&T (US only) · Data & Society (no open cohort) · FLI (funds allocated) · Open Phil AI Governance RFP (closed Jan 2026)
+NWO (needs tenure-track post) · Prototype Fund (Germany-only) · Volkswagen/Bosch Stiftung · Waag/PublicSpaces (recipients not funders) · Ada Lovelace/Nesta/JRF (no open calls) · AI2050 (early-career only, PhD 2005 too old) · Tarbell (newsroom placement) · Mozilla MOSS/MTF (discontinued/folded) · OTF (unstable, wrong angle) · Sloan Better Software (closed) · GitHub Secure OSS Fund (security-hardening only) · CZI/OSTIF (science-OSS/security niches) · Knight (US nonprofits) · Aspen S&T (US only) · Data & Society (no open cohort) · FLI (funds allocated) · Open Phil AI Governance RFP (closed Jan 2026) · NLnet Open Social Fund (ActivityPub-centric; no new proposals accepted as of Sep 2026) · NLnet ELFA (NLnet withdrew from the consortium, calls postponed) · NLnet CodeSupply (software supply-chain metadata, no fit)
 
 Related: ev-application, cosmos-eoi, sidn-fonds-pioniers-application-draft, sidn-fonds-antwoorden-op-vragen-jet-veldhuis, stimuleringsfonds-the-living-archive, stimuleringsfonds-application-organized-memory-rizom-inc · CHT sources — cht-cognition-proposal, cht-machine-proposal, cht-video-script · on the rizom.ai brain: sequoia-oss-fellowship-application-draft, basis-fellowship-application-draft, nlnet-ngi-zero-application-draft
