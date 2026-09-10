@@ -1,6 +1,6 @@
 # Grants Pipeline
 
-Repurposing the CHT fellowship material (proposals, white paper, video script, fit narrative) for other fellowships and grants. Researched and verified 2026-08-03. Updated 2026-09-09 with the Stimuleringsfonds outcomes and the NLnet fund change, and again on 2026-09-09 with a sweep of 219 saved LinkedIn posts (fellowships, EU instruments, dead ends).
+Repurposing the CHT fellowship material (proposals, white paper, video script, fit narrative) for other fellowships and grants. Researched and verified 2026-08-03. Updated 2026-09-09 with the Stimuleringsfonds outcomes and the NLnet fund change, and again on 2026-09-09 with a sweep of 219 saved LinkedIn posts (fellowships, EU instruments, dead ends). Updated 2026-09-10 with the Emergent Ventures rejection.
 
 Two pitch lanes:
 - **Lane A (research/writing):** The Outsourced Institution + Responsibility Laundering as research agendas
@@ -19,7 +19,6 @@ Two pitch lanes:
 
 | Opportunity | Money | Lane | Status |
 |---|---|---|---|
-| Emergent Ventures (Mercatus) | ~$10k–100k | A | ✅ submitted 2026-08-03 (see ev-application); rolling, decisions normally ~1 week |
 | Cosmos Institute (interest form) | $75k/yr fellowship + grant rounds | A+B | ✅ interest form submitted 2026-08-03 (see cosmos-eoi); full statement reserved for when the fellowship round opens |
 | Sequoia OSS Fellowship | living expenses 6–12 mo, equity-free | B | ✅ submitted 2026-08-23 via Typeform; no reference issued, they contact if interested. Draft: sequoia-oss-fellowship-application-draft (rizom.ai brain) |
 | Basis Fellowship | $50k unrestricted | B | ✅ submitted 2026-08-23, ref **BF-2026-HNKJPC**; replies come from @orbit.engineering (check spam). Draft: basis-fellowship-application-draft (rizom.ai brain) |
@@ -28,6 +27,7 @@ Two pitch lanes:
 
 | Opportunity | Money | Lane | Outcome |
 |---|---|---|---|
+| Emergent Ventures (Mercatus) | ~$10k–100k | A | ❌ **rejected 2026-09-10** (submitted 2026-08-03) — form letter: high application volume, no individual explanation; explicitly not a judgment on the work, suggests some requests fit VC or philanthropic routes better, and further submissions are invited later. Proposal text kept at `ev-proposal-draft.md` for a future resubmission with a different framing |
 | Stimuleringsfonds — **B, with INC** (*Organized Memory*, Rizom B.V.) | €50.000 ask | A | ❌ **afgewezen 2026-08-28, procedureel**: ronde overvraagd; loting (art. 5) bepaalde de controlevolgorde en het maximumaantal was bereikt vóór deze aanvraag aan de beurt was. **Niet getoetst aan art. 6, geen inhoudelijk oordeel.** Bezwaar mogelijk binnen zes weken, alleen tegen de totstandkoming (de loting). Packet intact (projectbeschrijving `organized-memory-projectbeschrijving`, intentieverklaring Geert Lovink 17 aug, cofinanciering-constructie) — **herindienen in een volgende ronde Digitale cultuur, afgestemd op INC's eigen aanvraag bij dit fonds.** The art. 6.4 one-award-per-year conflict with A is moot |
 | EU AI & Society Fund "Narrative Power" | up to €150k | A | ⏸ **not now** — decided 2026-08-26. Rizom ineligible in practice (for-profit, no narrative track record, €0 budget history); only viable partner-led. INC (young-people theme) and DNNL/Ruben Brave (jobs theme) both assessed as eligible leads, but too much work against the Aug 31 first stage. Revisit if the programme runs another round |
 | SLIM-mkb, individuele aanvraag | max €24.999 at 60% of eligible costs | B | ❌ **window missed** — the second 2026 tijdvak ran 19 Aug 09:00 to **7 Sep 2026 17:00** and is closed. Verified 2026-09-09 at rijksoverheid.nl and uitvoeringvanbeleidszw.nl. Allocation is by **loting**, not order of arrival, and roughly 23% of applications are granted. Scholing and L&D costs only. No 2027 tijdvak published yet; watch the Staatscourant and the UVB site. The LinkedIn post that surfaced this (Anieke Lamers) was pitched at VC funds, not operating companies |
@@ -103,6 +103,7 @@ Draft in `sidn-fonds-pioniers-application-draft`.
 
 ## 🟢 Rolling / 2027
 
+- **Emergent Ventures, resubmission** — the 2026-09-10 rejection explicitly invites further submissions later; a future attempt needs a different framing, not a retry of `ev-proposal-draft.md`
 - **Stimuleringsfonds Digitale cultuur, next round** — resubmit *Organized Memory* (unassessed, packet intact); coordinate timing and subject with INC's own planned application at this fund
 - **Sovereign Tech Standards track** — reopens early 2027; the home for the situated-agent *standard* (spec, documentation, standards work) now that the NLnet split is dissolved
 - **Mercator Fellowship** (DE) — senior, no affiliation needed, apply 4–6 months before start
