@@ -1,19 +1,21 @@
 ---
 name: Design Agentic Software Systems
 description: >-
-  Design software architectures that give AI systems agency, context, and
-  reliable pathways for action.
+  Design and explain software architectures that give AI systems agency,
+  context, alignment, and reliable institutional behavior.
 tags:
+  - software-architecture
   - ai-systems
   - agency
   - alignment
   - best-practices
 examples:
   - >-
-    Design an architecture for an AI colleague that can act within
-    organizational workflows.
+    Help me design an agentic software architecture for organizational
+    knowledge.
   - >-
-    Compare agentic and conventional software architectures for a knowledge
-    platform.
+    What architectural patterns help AI systems act with agency without losing
+    alignment?
+  - Compare different ways to give an AI assistant durable context and memory.
 ---
 

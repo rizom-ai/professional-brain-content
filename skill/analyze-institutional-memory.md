@@ -5,11 +5,15 @@ description: >-
   and opportunities for better collective learning.
 tags:
   - analysis
+  - institutional-memory
+  - data
   - retrieval
-  - content
   - organization
 examples:
-  - Audit this knowledge base for missing context and institutional blind spots.
-  - What can an AI system reveal about the weaknesses in our archive?
+  - Analyze this archive to identify gaps in our institutional memory.
+  - >-
+    What can an AI system reveal about the quality of an organization’s
+    documentation?
+  - Help me turn scattered organizational records into actionable insights.
 ---
 
