@@ -1,17 +1,16 @@
 ---
 name: Develop Data-Driven Strategies
 description: >-
-  Turn data, archives, and organizational knowledge into actionable strategies
-  for learning, coordination, and innovation.
+  Turn data, archives, and organizational experience into practical insights,
+  narratives, and decision-support strategies.
 tags:
-  - data
   - analysis
   - content
-  - retrieval
-  - acceleration
+  - data
+  - institutional-memory
+  - best-practices
 examples:
-  - Identify strategic insights hidden in this organizational archive.
-  - Create a data-driven framework for improving team learning.
-  - Analyze how institutional memory can support better decisions.
+  - Extract strategic lessons from this organization’s historical data.
+  - Turn an archive of project notes into actionable recommendations.
 ---
 

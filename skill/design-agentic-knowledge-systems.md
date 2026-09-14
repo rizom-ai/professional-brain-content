@@ -1,21 +1,20 @@
 ---
 name: Design Agentic Knowledge Systems
 description: >-
-  Design software architectures that give AI agents reliable context, agency,
-  retrieval, and institutional memory.
+  Design software architectures that give AI agents reliable access to
+  institutional memory, context, and agency.
 tags:
   - ai-systems
   - architecture
   - retrieval
   - agency
-  - alignment
+  - institutional-memory
 examples:
   - >-
-    Design an architecture for an AI colleague with access to institutional
-    memory.
+    Design an architecture for an AI colleague that preserves organizational
+    context.
   - >-
-    Explain how agentic software can preserve user agency while providing
-    leverage.
-  - Create a framework for evaluating context and retrieval in an AI system.
+    Explain how agentic systems can use institutional memory without losing
+    human oversight.
 ---
 
