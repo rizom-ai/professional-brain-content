@@ -42,7 +42,7 @@ Knowledge that builds on itself has to travel — from season to season, from fa
 
 ## What a Rizom Brain is
 
-A living knowledge environment for a person, a farm, a cooperative, or a region.
+A living knowledge environment for a person, a farm, a cooperative, or a region
 
 It combines portable knowledge, AI agents, and open protocols — so knowledge can be captured, connected, retrieved, and acted on, without being locked into one platform.
 
