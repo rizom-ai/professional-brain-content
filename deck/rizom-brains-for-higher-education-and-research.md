@@ -21,7 +21,7 @@ Living knowledge infrastructure for institutions that learn.
 
 Universities and research institutions produce enormous amounts of knowledge: papers, proposals, datasets, lectures, policies, meeting notes, evaluations, supervision histories, grant applications, and strategic plans.
 
-The problem is not absence of knowledge.
+The problem is not absence of knowledge
 
 ---
 
