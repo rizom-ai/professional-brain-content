@@ -1,19 +1,19 @@
 ---
 name: Analyze Digital Governance
 description: >-
-  Analyze how governance models, institutional structures, and technical systems
-  shape agency, participation, and accountability.
+  Analyze how governance, identity, agency, and alignment shape digital
+  communities and collaborative systems.
 tags:
-  - governance
+  - analysis
   - agency
   - alignment
-  - ai-systems
-  - analysis
+  - governance
+  - community
 examples:
-  - Analyze the governance risks of introducing AI into an organization.
-  - Compare centralized and decentralized approaches to digital governance.
+  - Analyze the governance risks in this AI-supported collaboration model.
   - >-
-    How can software architecture preserve human agency in collaborative
-    systems?
+    Help define roles, permissions, and accountability for a decentralized
+    community.
+  - Write a critique of a platform that prioritizes automation over user agency.
 ---
 
