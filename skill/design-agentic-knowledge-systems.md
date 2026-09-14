@@ -5,18 +5,17 @@ description: >-
   retrieval, and institutional memory.
 tags:
   - ai-systems
-  - retrieval
   - architecture
-  - institutional-memory
+  - retrieval
+  - agency
+  - alignment
 examples:
   - >-
-    Design an architecture for an AI colleague that can retrieve and use
-    organizational context.
+    Design an architecture for an AI colleague with access to institutional
+    memory.
   - >-
-    Explain how agentic software should combine institutional memory with human
-    oversight.
-  - >-
-    Turn these requirements into a knowledge-system architecture and
-    implementation plan.
+    Explain how agentic software can preserve user agency while providing
+    leverage.
+  - Create a framework for evaluating context and retrieval in an AI system.
 ---
 
