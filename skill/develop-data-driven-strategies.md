@@ -1,17 +1,21 @@
 ---
 name: Develop Data-Driven Strategies
 description: >-
-  Interpret data and organizational knowledge to identify patterns, expose gaps,
-  and guide practical decisions.
+  Use data and evidence to identify patterns, expose system weaknesses, and
+  guide practical strategic decisions.
 tags:
   - analysis
   - data
   - best-practices
-  - organization
+  - acceleration
   - content
 examples:
-  - Find the weaknesses in this organization’s knowledge archive.
-  - Turn these data patterns into recommendations for a knowledge strategy.
-  - Explain what institutional data reveals about operational blind spots.
+  - >-
+    Find the important patterns and gaps in this collection of organizational
+    data.
+  - >-
+    Turn these observations into a data-driven strategy for improving
+    collaboration.
+  - What can institutional data reveal about where this organization is failing?
 ---
 
