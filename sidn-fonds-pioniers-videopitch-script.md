@@ -1,51 +1,61 @@
 ---
 visibility: restricted
 ---
-# Videopitch SIDN fonds Pioniers — script (concept v2)
+# Videopitch SIDN fonds Pioniers — script (concept v3)
 
-Max 3 minuten. Gesproken, niet voorgelezen; het script geeft de volgorde en de zinnen die niet mogen haperen. Webcam of telefoon, landschap. Circa 390 woorden. Tijden zijn richtlijnen.
+Max 3 minuten. Gesproken, niet voorgelezen. Webcam of telefoon, landschap. Circa 300 woorden, ruim twee minuten. Korte zinnen; elke regel is één gedachte. Geen slides. Schermdeling: yeehaa.io bij blok 1, één record in JSON bij blok 3, verder niets.
 
-Beeld: jij in beeld; bij blok 1 en 3 eventueel schermdeling van yeehaa.io en één record. Geen slides.
-
-Reframe 2026-09-16 (v1 hieronder onder "Vervangen"). Leidt met de domeinnaam als identiteit (SIDN's eigen terrein), stelt het probleem als internetprobleem (de hyperlink-belofte, voor zelfgehoste kennis weer gecentraliseerd), en beantwoordt Jets twee punten uit de uitnodiging van 2026-09-10 in haar volgorde: breedte van adoptie (blok 4) en vinden zonder tussenpartij (blok 3).
+Frame: de domeinnaam als identiteit (SIDN's terrein), het probleem als internetprobleem (de hyperlink-belofte, voor zelfgehoste kennis weer gecentraliseerd), en Jets twee punten uit de uitnodiging van 2026-09-10 in haar volgorde: vinden zonder tussenpartij (blok 3), breedte van adoptie (blok 4).
 
 ---
 
 ## 1. Wie (0:00 tot 0:15)
 
-Ik ben Jan Hein Hoogstad. Sinds tenminste 2013 bouw ik open-source infrastructuur voor kennisdeling. Dit is yeehaa.io, mijn eigen kennisbron: platte tekst, eigen server, eigen domein. Er zijn er veel van. Onderzoekers met een kennisbank, lectoraten, instituten met een archief.
+Ik ben Jan Hein Hoogstad. Ik bouw al ruim tien jaar open-source infrastructuur voor kennisdeling.
 
-## 2. Het probleem als internetprobleem (0:15 tot 0:55)
+Dit is yeehaa.io. Mijn eigen kennisbron. Eigen server, eigen domein, platte tekst. Er zijn er veel zoals deze. Onderzoekers, lectoraten, instituten met een archief.
 
-Het web is gebouwd zodat onafhankelijke sites elkaar konden vinden en naar elkaar konden verwijzen zonder dat iemand ertussen zat. Dat is de hyperlink. Voor kennisbronnen is dat kwijtgeraakt. Wie zelf host, is onzichtbaar voor iedereen die het adres niet al kent. Vindbaar worden betekent terug naar een platform dat de verbinding als bezit behandelt. Verwijzen gaat met een kale URL naar een hele pagina, en die breekt zodra de bron iets verplaatst. En delen met een beperkte kring, per stuk, bestaat nergens als afgesproken vorm. Vinden, verwijzen, delen: drie basisfuncties van het internet zijn voor zelfgehoste kennis weer gecentraliseerd.
+## 2. Het probleem (0:15 tot 0:50)
 
-## 3. Wat ik bouw (0:55 tot 1:45)
+Het web had één belofte: onafhankelijke sites die elkaar vinden en naar elkaar verwijzen, zonder iemand ertussen. De hyperlink.
 
-Ik bouw de laag die dat terugdraait: een open lexicon op het AT Protocol. Het begint bij het domein. Een domeinnaam is al een identiteit. Hier wordt het de identiteit van een kennisbron, zonder register en zonder aanmelding. Onder dat domein publiceert een bron drie dingen. Waar ze over gaat, zodat je haar vindt op onderwerp. Welke stukken erin zitten, elk met een eigen vaste sleutel, zodat een verwijzing naar de bron plus de sleutel wijst en niet naar een pad. En per stuk wie het mag zien: iedereen, alleen erkende peers, of niemand.
+Voor kennis is die belofte weg. Wie zelf host, is onzichtbaar. Vindbaar worden betekent: terug naar een platform. Een verwijzing is een kale URL, en die breekt zodra je iets verplaatst. En iets delen met een kleine kring, per stuk? Bestaat niet.
 
-Stel, een lectoraat verwijst naar één alinea in mijn bron. Ik bouw mijn site om. De verwijzing werkt nog. En een stuk dat ik alleen met dat lectoraat deel, krijgt een derde niet te zien. Zonder platform ertussen.
+Vinden, verwijzen, delen. Drie basisfuncties van het internet. Voor zelfgehoste kennis zijn ze alle drie weer gecentraliseerd.
 
-## 4. Wat er al is, wie het gebruikt (1:45 tot 2:30)
+## 3. Wat ik bouw (0:50 tot 1:35)
 
-Dit begint niet bij nul. Ik publiceer al lexicons op het AT Protocol en meerdere van mijn eigen bronnen, alsmede die van leden van mijn gemeenschap draaien, er live op. Het mechanisme om een schema te publiceren en af te dwingen bestaat. Het schema voor vinden, verwijzen en delen ontbreekt. Dat is dit project: zes maanden, één persoon.
+Ik bouw de laag die dat terugdraait. Een open lexicon op het AT Protocol.
 
-De eerste gebruikers zijn mensen die hun kennis al zelf hosten en dus niets hoeven te vervangen: notities als website, een onderzoeksgroep, een instituut met een archief. Meedoen moet een dag werk zijn, daarom vier kleine recordtypen. Het heeft al waarde bij twee bronnen, daarom is de demonstratie tussen precies twee bronnen het kernresultaat. Daarna de bouwers van hun tools: één plugin brengt het naar iedereen die die tool gebruikt.
+Het begint bij het domein. Een domeinnaam is al een identiteit. Hier wordt het de identiteit van een kennisbron. Geen register, geen aanmelding.
 
-## 5. Slot (2:30 tot 2:50)
+Onder dat domein zegt een bron drie dingen. Waar ze over gaat. Welke stukken erin zitten, elk met een vaste sleutel. En per stuk: wie het mag zien. Iedereen, alleen erkende peers, of niemand.
 
-Aan het eind ligt alles open: de specificatie, los van mijn code; de referentiecode; een testset waarmee een ander zijn eigen implementatie toetst. En één eigenschap die dit anders maakt dan een platform: het werkt alleen tussen onafhankelijke partijen. Binnen één aanbieder is het niets waard. Daarom kan niemand het dichttrekken. Ook ik niet.
+Stel: een lectoraat verwijst naar één alinea bij mij. Ik bouw mijn site om. De verwijzing werkt nog. Wat ik alleen met dat lectoraat deel, ziet een derde niet. Geen platform ertussen.
+
+## 4. Wat er al is, wie meedoet (1:35 tot 2:10)
+
+Dit begint niet bij nul. Mijn lexicons staan al op het protocol. Mijn eigen bronnen draaien erop, en die van mensen uit mijn netwerk. Het mechanisme is er. Het schema voor vinden, verwijzen en delen niet. Dat is dit project. Zes maanden, één persoon.
+
+De eerste gebruikers hosten hun kennis al zelf. Zij hoeven niets te vervangen. Meedoen is een dag werk: vier kleine recordtypen. Het werkt al bij twee bronnen, dus dat is de demonstratie. Daarna de bouwers van hun tools. Eén plugin, en iedereen die die tool gebruikt doet mee.
+
+## 5. Slot (2:10 tot 2:30)
+
+Aan het eind ligt alles open. De specificatie, los van mijn code. De code. Een testset waarmee een ander zichzelf toetst.
+
+En één ding dat een platform niet kan nabouwen: dit werkt alleen tussen onafhankelijke partijen. Binnen één aanbieder is het niets waard. Daarom kan niemand het dichttrekken. Ik ook niet.
 
 ---
 
 ## Aantekeningen (niet opnemen)
 
-- Blok 3: het lectoraat-voorbeeld is bewust een "stel", geen anekdote. Geen echte gebroken link meer nodig; niets verzinnen.
-- Blok 4: "twee van mijn bronnen draaien live" klopt per september 2026. Geen node-aantallen daarbuiten; "er zijn er veel van" blijft algemeen.
-- Geen partners, geen titels, geen NLnet, geen licentienamen hardop, Rizom niet genoemd (rizom.ai komt pas in het projectplan als bron B).
-- Elke claim staat al in `sidn-fonds-pioniers-2026-fundpro-aanvraag-concept`; de video voegt geen nieuwe feiten toe.
-- Als er een schermdeling is: yeehaa.io bij blok 1, één record in JSON bij blok 3. Geen dashboard.
-- Spreek het hardop, meet de tijd. Boven 2:50 schrappen in blok 5 (de opsomming), niet in blok 2.
+- Blok 3: het lectoraat-voorbeeld is bewust een "stel", geen anekdote. Niets verzinnen.
+- Blok 4: "die van mensen uit mijn netwerk" is jouw toevoeging van 2026-09-16. Geen aantallen noemen; als Jet doorvraagt, zijn dat bronnen op dezelfde software, niet onafhankelijke implementaties van het lexicon.
+- Geen partners, geen titels, geen NLnet, geen licentienamen hardop, Rizom niet genoemd.
+- Elke claim staat al in `sidn-fonds-pioniers-2026-fundpro-aanvraag-concept`; de video voegt geen feiten toe.
+- Hardop spreken, tijd meten. Er is ruimte over; niet opvullen. Boven 2:50 schrappen in blok 5, niet in blok 2.
 
-## Vervangen (v1, 2026-09-16 ochtend)
+## Geschiedenis
 
-Opende op een gebroken inkomende link naar yeehaa.io, las daarna de aanvraag voor (drie functies, zeven demonstratiestappen, licenties, testset) en stelde de spreker pas op 2:45 voor. Het woord internet kwam niet voor en Jets adoptievraag werd niet beantwoord. Om die redenen vervangen.
+- v1 (2026-09-16 ochtend): opende op een gebroken link, las de aanvraag voor, stelde de spreker pas op 2:45 voor, noemde het internet niet en beantwoordde Jets adoptievraag niet. Vervangen.
+- v2 (2026-09-16): huidig frame, 390 woorden. Te wollig voor spreektaal. Ingekort tot v3 in eigen stem.
