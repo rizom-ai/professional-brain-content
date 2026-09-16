@@ -1,20 +1,19 @@
 ---
 name: Develop Situated AI Strategies
 description: >-
-  Design AI approaches that use organizational context, data, and situated
-  workflows rather than generic automation.
+  Design AI applications that account for organizational context, institutional
+  history, human roles, and situated knowledge.
 tags:
   - ai-systems
-  - alignment
   - context
-  - data
+  - alignment
+  - institutional-memory
   - best-practices
 examples:
   - >-
-    Develop a strategy for deploying AI that understands our institutional
-    context.
-  - >-
-    What makes an AI system a useful colleague rather than a context-free
-    automation tool?
+    Design an AI assistant that adapts to the practices and history of a
+    specific team.
+  - Explain why context matters when deploying AI inside an organization.
+  - Create guidelines for building situated AI rather than generic automation.
 ---
 

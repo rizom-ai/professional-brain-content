@@ -1,20 +1,23 @@
 ---
 name: Shape Professional Positioning
 description: >-
-  Write and refine professional narratives that connect technical practice,
-  research, learning, and organizational impact.
+  Write and refine essays, profiles, and strategic narratives that communicate
+  expertise in emerging technology and organizational change.
 tags:
   - profile
   - content
   - identity
-  - positioning
-  - organization
+  - analysis
+  - best-practices
 examples:
   - >-
-    Turn my work on federated knowledge into a clear professional positioning
-    statement.
+    Turn these ideas about decentralized work into a compelling professional
+    essay.
   - >-
-    Draft an essay connecting my research interests in AI, governance, and
-    institutional memory.
+    Help me position my experience in institutional memory and AI systems for a
+    grant application.
+  - >-
+    Draft a concise profile that connects my work in software architecture,
+    governance, and knowledge infrastructure.
 ---
 
