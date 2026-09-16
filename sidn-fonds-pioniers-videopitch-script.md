@@ -13,13 +13,13 @@ Frame: de domeinnaam als identiteit (SIDN's terrein), het probleem als internetp
 
 Ik ben Jan Hein Hoogstad. Ik bouw al ruim tien jaar open-source infrastructuur voor kennisdeling.
 
-Een voorbeeld hiervan is yeehaa.io. Mijn eigen kennisbron. Eigen server, eigen domein, platte tekst. Ik ben niet de enige. Onderzoekers, lectoraten, instituten met een archief hosten hun kennis ook zelf.
+Een voorbeeld hiervan is yeehaa.io. Mijn eigen kennisbron. Eigen server, eigen domein, platte tekst. Ik ben niet de enige. Vele denkers, zowel binnen als buiten instituten, hosten hun kennis ook zelf.
 
 ## 2. Het probleem (0:15 tot 0:50)
 
 Het web had één belofte: onafhankelijke sites die elkaar vinden en naar elkaar verwijzen, zonder iemand ertussen. De hyperlink.
 
-Voor kennis is die belofte weg. Wie zelf host, is onzichtbaar. Vindbaar worden betekent: terug naar een platform. Een verwijzing is een kale URL, en die breekt zodra je iets verplaatst. En iets delen met een kleine kring, per stuk? Bestaat niet.
+Voor kennis is die belofte weg. Wie zelf host, is onzichtbaar. Vindbaar worden betekent: terug naar een platform. Een verwijzing is een kale URL, en die breekt zodra je iets verplaatst. En iets direct delen met een kleine kring? Bestaat niet.
 
 Vinden, verwijzen, delen. Drie basisfuncties van het internet. Voor zelfgehoste kennis zijn ze alle drie weer gecentraliseerd.
 
@@ -27,7 +27,7 @@ Vinden, verwijzen, delen. Drie basisfuncties van het internet. Voor zelfgehoste 
 
 Ik bouw de laag die dat terugdraait. Een open lexicon op het AT Protocol.
 
-Het begint bij het domein. Een domeinnaam is al een identiteit. Hier ook, van een kennisbron. Geen register, geen aanmelding.
+Het begint bij het domein. Een domeinnaam is al een identiteit. Hier ook wordt het de unieke identiteit van een kennisbron. Geen register, geen aanmelding.
 
 Onder dat domein regelt een bron drie dingen. Vinden: ze zegt waar ze over gaat. Verwijzen: elk stuk krijgt een vaste sleutel. Delen: bij elk stuk staat wie het mag zien. Iedereen, alleen erkende peers, of niemand.
 
@@ -39,7 +39,7 @@ Tweede voorbeeld. Een stuk dat alleen dat instituut mag zien, markeer ik: alleen
 
 Dit begint niet bij nul. Mijn lexicons staan al op het protocol. Mijn eigen bronnen draaien erop, en die van mensen uit mijn netwerk. Het mechanisme is er. Het schema voor vinden, verwijzen en delen niet. Dat is dit project. Zes maanden, één persoon.
 
-De eerste gebruikers hosten hun kennis al zelf. Zij hoeven niets te vervangen. Meedoen is een dag werk: vier kleine recordtypen. Het werkt al bij twee bronnen, dus dat is de demonstratie. Daarna de bouwers van hun tools. Eén plugin, en al hun gebruikers doen mee.
+De eerste gebruikers hosten hun kennis al zelf. Zij hoeven niets te vervangen. Meedoen is een dag werk: vier kleine recordtypen. Het werkt al bij twee bronnen, dus dat is de demonstratie. 
 
 ## 5. Slot (2:15 tot 2:35)
 
