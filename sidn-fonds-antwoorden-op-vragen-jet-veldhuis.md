@@ -75,3 +75,14 @@ Jan Hein Hoogstad
 - **rizom.ai bewust niet gelinkt.** De productsite haalt het bedrijfsframe terug, en de netwerkkaart (centraal geïndexeerde agents) zou de bestaat-al/bestaat-nog-niet-lijn van de afsluiting vertroebelen. Repo plus yeehaa.io zijn de twee bewijsstukken.
 - **Afsluiting expliciet gesplitst in bestaat al / bestaat nog niet.** "yeehaa.io draait op deze basis" kon gelezen worden alsof het lexicon al bestaat, wat de financieringsvraag ondergraaft. Nu: substrate (code, yeehaa.io als bron) bestaat, het lexicon niet; dat is het voorstel.
 - **Veld-3-vraag (interoperabiliteit) bewust niet herhaald** in dit antwoord; haar vragen tonen dat de beoordeling loopt, en de vraag staat al in de toets.
+
+---
+
+**Reactie Jet 2026-09-08:** nog in beoordeling; inhoudelijke reactie uiterlijk begin week van 14 september. Geen actie nodig.
+
+**Uitkomst 2026-09-10 (pitches@sidnfonds.nl, Jet Veldhuis):** uitgenodigd om een Pioniers-aanvraag in te dienen via FundPro. Geen garantie op toekenning. Twee punten die de aanvraag moet uitwerken:
+
+1. Breedte van toepassing: welke typen gebruikers en organisaties gaan het lexicon naar verwachting adopteren, en welke factoren bepalen bredere toepassing in het ecosysteem.
+2. Ontdekking zonder centrale tussenpartij: hoe vinden en vindbaarheid technisch en organisatorisch werken.
+
+Regeling: https://www.sidnfonds.nl (Aanvraag Pioniers). Indienen via FundPro (concept-aanvraag 141866). Vervolg: `sidn-fonds-pioniers-2026-fundpro-aanvraag-concept`, `sidn-fonds-pioniers-projectplan-4-a4`, `sidn-fonds-pioniers-videopitch-script`.
