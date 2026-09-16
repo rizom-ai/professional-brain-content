@@ -1,10 +1,11 @@
 ---
 name: Design Agentic Software Systems
 description: >-
-  Design and explain software architectures that give AI systems useful agency,
-  context, and alignment.
+  Design software architectures that give AI agents clear agency, context,
+  coordination, and governance.
 tags:
   - ai-systems
+  - architecture
   - agency
   - alignment
   - best-practices
@@ -15,5 +16,8 @@ examples:
   - >-
     What software patterns support AI agents that can act without losing human
     oversight?
+  - >-
+    Compare centralized and federated approaches for coordinating knowledge
+    agents.
 ---
 
