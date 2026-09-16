@@ -1,17 +1,16 @@
 ---
 name: Shape Digital Governance
 description: >-
-  Develop governance approaches for digital communities, decentralized work, and
-  AI systems that balance agency, accountability, and participation.
+  Develop governance approaches for decentralized work, online communities, and
+  ecosystems that balance coordination, participation, and agency.
 tags:
   - governance
-  - agency
   - community
+  - agency
   - alignment
-  - decentralization
+  - organization
 examples:
-  - Draft governance principles for an AI-assisted online community.
-  - How should accountability work in a decentralized organization?
-  - Compare centralized and distributed decision-making models.
+  - Create governance principles for a decentralized online work community.
+  - Compare centralized and distributed decision-making models for an ecosystem.
 ---
 
