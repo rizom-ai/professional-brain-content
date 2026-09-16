@@ -1,15 +1,15 @@
 ---
 name: Analyze Institutional Memory
 description: >-
-  Analyze archives, data, and organizational practices to identify gaps,
-  patterns, and opportunities for better collective learning.
+  Analyze archives, organizational context, and AI interactions to reveal gaps,
+  patterns, and lost knowledge.
 tags:
   - analysis
-  - content
   - retrieval
-  - best-practices
+  - organization
+  - institutional-memory
 examples:
-  - Audit this archive to find gaps in our institutional memory.
+  - Analyze this archive to identify gaps in our institutional memory.
   - >-
     What can an AI system reveal about the weaknesses in an organization’s
     documentation?

@@ -1,17 +1,17 @@
 ---
 name: Shape Digital Governance
 description: >-
-  Develop governance approaches that align technology, agency, identity, and
-  accountability in digital organizations.
+  Develop governance approaches for AI, data, and decentralized work that
+  balance agency, accountability, and participation.
 tags:
-  - alignment
-  - agency
-  - identity
   - governance
+  - agency
+  - alignment
+  - community
 examples:
-  - Create governance principles for a decentralized digital organization.
+  - Help me create governance principles for an AI-enabled organization.
   - >-
-    Compare centralized and community-led approaches to governing an AI
-    platform.
+    How should a decentralized team make accountable decisions about shared
+    data?
 ---
 
