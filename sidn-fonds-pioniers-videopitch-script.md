@@ -3,7 +3,7 @@ visibility: restricted
 ---
 # Videopitch SIDN fonds Pioniers — script (concept v3)
 
-Max 3 minuten. Gesproken, niet voorgelezen. Webcam of telefoon, landschap. Circa 320 woorden, ruim twee minuten. Korte zinnen; elke regel is één gedachte. Geen slides. Schermdeling: yeehaa.io bij blok 1, één record in JSON bij blok 3, verder niets.
+Max 3 minuten. Gesproken, niet voorgelezen. Webcam of telefoon, landschap. Circa 330 woorden, ruim twee minuten. Korte zinnen; elke regel is één gedachte. Geen slides. Schermdeling: yeehaa.io bij blok 1, één record in JSON bij blok 3, verder niets.
 
 Frame: de domeinnaam als identiteit (SIDN's terrein), het probleem als internetprobleem (de hyperlink-belofte, voor zelfgehoste kennis weer gecentraliseerd), en Jets twee punten uit de uitnodiging van 2026-09-10 in haar volgorde: vinden zonder tussenpartij (blok 3), breedte van adoptie (blok 4).
 
@@ -23,7 +23,7 @@ Voor kennis is die belofte weg. Wie zelf host, is onzichtbaar. Vindbaar worden b
 
 Vinden, verwijzen, delen. Drie basisfuncties van het internet. Voor zelfgehoste kennis zijn ze alle drie weer gecentraliseerd.
 
-## 3. Wat ik bouw (0:50 tot 1:40)
+## 3. Wat ik bouw (0:50 tot 1:45)
 
 Ik bouw de laag die dat terugdraait. Een open lexicon op het AT Protocol.
 
@@ -33,15 +33,15 @@ Onder dat domein regelt een bron drie dingen. Vinden: ze zegt waar ze over gaat.
 
 Een voorbeeld. Een instituut citeert een alinea van mijn site. Een jaar later verhuis ik die alinea naar een andere pagina. Een gewone link is dan dood. Deze verwijzing werkt nog, want hij wijst naar de alinea zelf, niet naar het adres.
 
-En andersom. Ik kan een stuk alleen met dat instituut delen. Zij lezen het rechtstreeks bij mij. Een ander krijgt het niet te zien. Er zit geen platform tussen.
+Tweede voorbeeld. Ik heb een stuk dat alleen dat instituut mag zien. Ik markeer het: alleen peers. Het instituut is mijn peer. Zij halen het rechtstreeks op bij mijn server. Vraagt iemand anders het op, dan krijgt die niets. Geen platform dat dat regelt. Mijn server beslist.
 
-## 4. Wat er al is, wie meedoet (1:40 tot 2:15)
+## 4. Wat er al is, wie meedoet (1:45 tot 2:20)
 
 Dit begint niet bij nul. Mijn lexicons staan al op het protocol. Mijn eigen bronnen draaien erop, en die van mensen uit mijn netwerk. Het mechanisme is er. Het schema voor vinden, verwijzen en delen niet. Dat is dit project. Zes maanden, één persoon.
 
 De eerste gebruikers hosten hun kennis al zelf. Zij hoeven niets te vervangen. Meedoen is een dag werk: vier kleine recordtypen. Het werkt al bij twee bronnen, dus dat is de demonstratie. Daarna de bouwers van hun tools. Eén plugin, en iedereen die die tool gebruikt doet mee.
 
-## 5. Slot (2:15 tot 2:40)
+## 5. Slot (2:20 tot 2:45)
 
 Na zes maanden is alles openbaar. De specificatie, apart gepubliceerd, zodat je het kunt bouwen zonder mijn code. Mijn code zelf, als referentie. En een testset, zodat wie het zelf bouwt kan controleren of het klopt.
 
@@ -52,7 +52,7 @@ En één ding dat een platform niet kan nabouwen: dit werkt alleen tussen onafha
 ## Aantekeningen (niet opnemen)
 
 - Blok 3: "drie dingen" zijn de drie functies uit blok 2 (vinden, verwijzen, delen), niet de vier recordtypen. Zo blijft de telling kloppen; de recordtypen komen pas in blok 4 als "vier kleine recordtypen".
-- Blok 3: het instituut-voorbeeld is bewust een "stel", geen anekdote. Niets verzinnen. Het zijn twee demonstraties: stabiel verwijzen (verhuizen, link houdt) en delen op voorwaarden (alleen dat instituut, een ander niet).
+- Blok 3: de twee voorbeelden zijn bewust "stel", geen anekdote. Niets verzinnen. Eerste: stabiel verwijzen (verhuizen, link houdt). Tweede: delen op voorwaarden (peers-record, instituut erkend, ophalen bij mijn server, een niet-erkende bron krijgt niets). "Mijn server beslist" is de kern: geen tussenpartij.
 - Blok 4: "die van mensen uit mijn netwerk" is jouw toevoeging van 2026-09-16. Geen aantallen noemen; als Jet doorvraagt, zijn dat bronnen op dezelfde software, niet onafhankelijke implementaties van het lexicon.
 - Blok 5: drie opbrengsten, elk met zijn functie: specificatie (bouwen zonder mijn code), referentiecode, conformiteitstestset (eigen implementatie controleren). Licenties niet hardop.
 - Geen partners, geen titels, geen NLnet, geen licentienamen hardop, Rizom niet genoemd.
