@@ -116,4 +116,4 @@ Uurtarief 60 euro. Project 246 uur; aangevraagd 166 uur; eigen bijdrage 80 uur p
 
 ## 11. Wat er na afloop is
 
-Een specificatie die los van mijn code bestaat en protocol-natief opvraagbaar blijft; code onder AGPL in een publieke repository; een testset waarmee een ander zichzelf kan toetsen; twee bronnen die elkaar vinden, citeren en op voorwaarden delen; en een verslag dat ook zegt wat niet werkte. Het uitharden tot productiefederatie en verpakking voor zelfhosting is aangrenzend werk, waarvoor ik bij NLnet een aanvraag voorbereid die op dit resultaat voortbouwt.
+Een specificatie die los van mijn code bestaat en protocol-natief opvraagbaar blijft; code onder AGPL in een publieke repository; een testset waarmee een ander zichzelf kan toetsen; twee bronnen die elkaar vinden, citeren en op voorwaarden delen; en een verslag dat ook zegt wat niet werkte. Het uitharden tot productiefederatie en de vertrouwenslaag per record zijn aangrenzend werk, waarvoor ik bij NLnet (Restack) een aanvraag voorbereid die op dit resultaat voortbouwt.
