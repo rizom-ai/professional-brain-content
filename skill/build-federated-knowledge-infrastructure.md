@@ -1,17 +1,17 @@
 ---
 name: Build Federated Knowledge Infrastructure
 description: >-
-  Create portable, decentralized systems for discovering, connecting, and
-  governing knowledge across platforms and organizations.
+  Create portable, decentralized systems for discovering, storing, and
+  exchanging knowledge across tools and organizations.
 tags:
   - decentralization
   - infrastructure
+  - retrieval
+  - community
   - organization
-  - discovery
-  - governance
 examples:
-  - Propose a federated architecture for portable organizational knowledge.
-  - How could decentralized discovery improve access to institutional research?
-  - Map the components needed for a portable knowledge infrastructure.
+  - 'Sketch a portable, federated knowledge infrastructure for distributed teams.'
+  - How can decentralized discovery improve access to organizational knowledge?
+  - Compare centralized and federated approaches to managing shared knowledge.
 ---
 
