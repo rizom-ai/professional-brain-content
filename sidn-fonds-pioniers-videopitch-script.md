@@ -29,7 +29,7 @@ Ik bouw de laag die dat terugdraait. Een open lexicon op het AT Protocol.
 
 Het begint bij het domein. Een domeinnaam is al een identiteit. Hier wordt het de identiteit van een kennisbron. Geen register, geen aanmelding.
 
-Onder dat domein zegt een bron drie dingen. Waar ze over gaat. Welke stukken erin zitten, elk met een vaste sleutel. En per stuk: wie het mag zien. Iedereen, alleen erkende peers, of niemand.
+Onder dat domein regelt een bron drie dingen. Vinden: ze zegt waar ze over gaat. Verwijzen: elk stuk krijgt een vaste sleutel. Delen: bij elk stuk staat wie het mag zien. Iedereen, alleen erkende peers, of niemand.
 
 Een voorbeeld. Een instituut citeert een alinea van mijn site. Een jaar later verhuis ik die alinea naar een andere pagina. Een gewone link is dan dood. Deze verwijzing werkt nog, want hij wijst naar de alinea zelf, niet naar het adres.
 
@@ -51,6 +51,7 @@ En één ding dat een platform niet kan nabouwen: dit werkt alleen tussen onafha
 
 ## Aantekeningen (niet opnemen)
 
+- Blok 3: "drie dingen" zijn de drie functies uit blok 2 (vinden, verwijzen, delen), niet de vier recordtypen. Zo blijft de telling kloppen; de recordtypen komen pas in blok 4 als "vier kleine recordtypen".
 - Blok 3: het instituut-voorbeeld is bewust een "stel", geen anekdote. Niets verzinnen. Het zijn twee demonstraties: stabiel verwijzen (verhuizen, link houdt) en delen op voorwaarden (alleen dat instituut, een ander niet).
 - Blok 4: "die van mensen uit mijn netwerk" is jouw toevoeging van 2026-09-16. Geen aantallen noemen; als Jet doorvraagt, zijn dat bronnen op dezelfde software, niet onafhankelijke implementaties van het lexicon.
 - Geen partners, geen titels, geen NLnet, geen licentienamen hardop, Rizom niet genoemd.
