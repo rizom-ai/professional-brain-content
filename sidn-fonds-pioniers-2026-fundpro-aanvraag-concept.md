@@ -3,7 +3,7 @@ visibility: restricted
 ---
 # SIDN fonds Pioniers 2026 — aanvraag (concept)
 
-Concept voor FundPro-aanvraag 141866. Veldspecificatie: `sidn-fundpro-form.md`. Bronnen: `sidn-webform-v2.md`, `sidn-antwoorden-jet-veldhuis.md`, `brains/docs/atproto-lexicons.md`, `brains/docs/plans/atproto-integration.md`.
+Concept voor FundPro-aanvraag 141866. Veldspecificatie: `sidn-fonds-pioniers-2026-fundpro-formulier-veldspecificatie`. Bronnen: `sidn-webform-v2.md`, `sidn-fonds-antwoorden-op-vragen-jet-veldhuis`, `brains/docs/atproto-lexicons.md`, `brains/docs/plans/atproto-integration.md`.
 
 Scope (besloten 2026-09-15): zelfstandig uitvoeren, geen partner en geen bron van een ander; de tweede bron is van mij op gescheiden infrastructuur. Eigen lexicon, zoals aan Jet beloofd: onderwerpen, eenheden, verwijzingen, peers, en zichtbaarheid per record met drie waarden. Levering aan alleen-peers wordt in dit project gebouwd als proof of concept. Standard.site krijgt één alinea in de contextanalyse, als aangrenzend protocol met een ander doel.
 
@@ -11,7 +11,7 @@ Registerregels: Nederlands, geen em-dashes, platte tekst, geen partners die niet
 
 Besloten 2026-09-15: specificatie en lexiconbestanden onder Apache 2.0, gelijk aan de bestaande lexicons; start 2026-11-16, einde 2027-05-15; budget 246 uur à €60, 166 uur aangevraagd (€9.960), 80 uur eigen bijdrage.
 
-Besloten 2026-09-15: geen partner in de aanvraag en geen afhankelijkheid van anderen. Concept-vragen aan INC (`inc-ask-second-source.md`) en Niels/GGF (`ggf-ask-niels-second-source.md`) worden niet verstuurd.
+Besloten 2026-09-15: geen partner in de aanvraag en geen afhankelijkheid van anderen. De concept-vragen aan INC en aan Niels/GGF zijn niet verstuurd en op 2026-09-16 verwijderd.
 
 ---
 
@@ -147,7 +147,7 @@ De opbrengst hangt niet van mij af. De specificatie staat los van de implementat
 
 Onderhoud: het lexicon volgt een gepubliceerd compatibiliteitsbeleid (compatibele wijzigingen zonder versiesprong, onverenigbare alleen via een nieuwe versie), en wijzigingen lopen via de publieke repository. Ik onderhoud het als onderdeel van Rizom, mijn doorlopende werk, waar het in productie draait.
 
-Dit project heeft geen eerdere steun ontvangen. Vervolg: dit project levert de specificatie en de eerste werkende implementatie, inclusief de levering aan peers als proof of concept. Het uitharden tot productiefederatie tussen zelfgehoste bronnen, met portabiliteit en verpakking voor zelfhosting, is aangrenzend werk waarvoor ik een aanvraag voorbereid bij NLnet in het NGI Zero-programma Open Internet Stack. Dat bouwt voort op dit project en overlapt er niet mee; ik meld de relatie in beide aanvragen.
+Dit project heeft geen eerdere steun ontvangen. Vervolg: dit project levert de specificatie en de eerste werkende implementatie, inclusief de levering aan peers als proof of concept. Het uitharden tot productiefederatie tussen zelfgehoste bronnen en de vertrouwenslaag per record (herkomst, standing, betwisting) zijn aangrenzend werk waarvoor ik een aanvraag voorbereid bij NLnet (Restack, Open Internet Stack). Dat bouwt voort op dit project en overlapt er niet mee; ik meld de relatie in beide aanvragen.
 
 Financieel vraagt het lexicon na oplevering geen geld: het is een schema, geen dienst. Het lexiconregister op rizom.ai en mijn eigen bron draaien al en blijven draaien als onderdeel van Rizom.
 
@@ -193,6 +193,6 @@ Cofinanciering: geen. Eigen bijdrage: 80 uur (€4.800) plus hosting van mijn de
 
 ## Bijlagen
 
-- Projectplan (optioneel, max 4 A4): geschreven, zie `sidn-pioniers-projectplan` (PDF lokaal in ~/Documents).
+- Projectplan (optioneel, max 4 A4): geschreven, zie `sidn-fonds-pioniers-projectplan-4-a4` (PDF lokaal in ~/Documents).
 - Begroting (optioneel, max 2 A4): de tabel hierboven volstaat in het formulier.
-- Videopitch (verplicht, max 3 min): script geschreven, zie `sidn-pioniers-videopitch`; nog op te nemen.
+- Videopitch (verplicht, max 3 min): script geschreven, zie `sidn-fonds-pioniers-videopitch-script`; nog op te nemen.
