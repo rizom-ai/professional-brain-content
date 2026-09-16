@@ -1,19 +1,20 @@
 ---
 name: Analyze Digital Governance
 description: >-
-  Analyze how technology, institutions, and governance models shape agency,
-  collaboration, and accountability in distributed work.
+  Analyze how technical systems shape agency, identity, participation, and
+  governance in digital communities and organizations.
 tags:
   - analysis
-  - agency
   - governance
-  - alignment
+  - agency
+  - identity
   - community
 examples:
-  - Analyze the governance risks of deploying AI in a distributed organization.
   - >-
-    Write a framework for balancing individual agency with institutional
-    accountability.
-  - Compare centralized and decentralized approaches to online collaboration.
+    Analyze the governance risks of introducing AI into an online collaborative
+    community.
+  - >-
+    Help me evaluate whether a platform gives users meaningful agency or merely
+    simulates participation.
 ---
 

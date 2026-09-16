@@ -1,19 +1,18 @@
 ---
 name: Shape Professional Positioning
 description: >-
-  Write and refine essays, profiles, and positioning materials that communicate
-  expertise across AI, knowledge systems, and future-oriented work.
+  Write and refine essays, profiles, and professional narratives that connect
+  technical expertise with distinctive ideas and practical impact.
 tags:
-  - profile
   - content
+  - profile
   - identity
-  - best-practices
-  - analysis
+  - writing
+  - positioning
 examples:
-  - Draft a professional bio focused on AI and institutional memory.
-  - Turn these ideas about decentralized work into a publishable essay.
+  - Turn these ideas about situated AI into a compelling professional essay.
   - >-
-    Help me position my experience in software architecture for a
-    research-funding application.
+    Help me position my work at the intersection of software architecture and
+    institutional memory.
 ---
 
