@@ -13,7 +13,7 @@ Reframe 2026-09-16 (v1 hieronder onder "Vervangen"). Leidt met de domeinnaam als
 
 ## 1. Wie (0:00 tot 0:15)
 
-Ik ben Jan Hein Hoogstad. Sinds 2013 bouw ik open-source infrastructuur voor kennisdeling. Dit is yeehaa.io, mijn eigen kennisbron: platte tekst, eigen server, eigen domein. Er zijn er veel van. Onderzoekers met een kennisbank, lectoraten, instituten met een archief.
+Ik ben Jan Hein Hoogstad. Sinds tenminste 2013 bouw ik open-source infrastructuur voor kennisdeling. Dit is yeehaa.io, mijn eigen kennisbron: platte tekst, eigen server, eigen domein. Er zijn er veel van. Onderzoekers met een kennisbank, lectoraten, instituten met een archief.
 
 ## 2. Het probleem als internetprobleem (0:15 tot 0:55)
 
@@ -27,7 +27,7 @@ Stel, een lectoraat verwijst naar één alinea in mijn bron. Ik bouw mijn site o
 
 ## 4. Wat er al is, wie het gebruikt (1:45 tot 2:30)
 
-Dit begint niet bij nul. Ik publiceer al lexicons op het AT Protocol en twee van mijn bronnen draaien er live op. Het mechanisme om een schema te publiceren en af te dwingen bestaat. Het schema voor vinden, verwijzen en delen ontbreekt. Dat is dit project: zes maanden, één persoon.
+Dit begint niet bij nul. Ik publiceer al lexicons op het AT Protocol en meerdere van mijn eigen bronnen, alsmede die van leden van mijn gemeenschap draaien, er live op. Het mechanisme om een schema te publiceren en af te dwingen bestaat. Het schema voor vinden, verwijzen en delen ontbreekt. Dat is dit project: zes maanden, één persoon.
 
 De eerste gebruikers zijn mensen die hun kennis al zelf hosten en dus niets hoeven te vervangen: notities als website, een onderzoeksgroep, een instituut met een archief. Meedoen moet een dag werk zijn, daarom vier kleine recordtypen. Het heeft al waarde bij twee bronnen, daarom is de demonstratie tussen precies twee bronnen het kernresultaat. Daarna de bouwers van hun tools: één plugin brengt het naar iedereen die die tool gebruikt.
 
