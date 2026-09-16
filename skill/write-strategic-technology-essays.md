@@ -1,8 +1,8 @@
 ---
 name: Write Strategic Technology Essays
 description: >-
-  Write clear, provocative essays that connect software architecture, AI,
-  organizations, and emerging models of work.
+  Write clear, provocative essays that connect software architecture, situated
+  AI, organizational change, and emerging technology practice.
 tags:
   - content
   - analysis
@@ -10,10 +10,9 @@ tags:
   - best-practices
   - profile
 examples:
-  - Draft an essay about organizations adopting AI without providing context.
-  - Turn these notes on decentralized work into a publishable article.
+  - Write an essay about why context matters more than raw AI capability.
   - >-
-    Write a thought-leadership piece connecting institutional memory and
-    situated AI.
+    Turn these notes on decentralized work into a compelling professional
+    article.
 ---
 
