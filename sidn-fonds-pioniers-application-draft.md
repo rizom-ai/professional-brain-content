@@ -2,11 +2,13 @@
 
 *Max €10,000. Rolling — the 2026 call runs to 31 December 2026, 13:00 Europe/Amsterdam. Max 6 months runtime. ~6-week response on the full application. Terms verified 2026-08-04 from the call page and criteria.*
 
-**STATUS: v2 toets submitted 2026-08-23; Jet Veldhuis responded 2026-08-27 with five follow-up questions; answers sent 2026-08-28.** All five questions were demand-side (users, newly enabled capability, size of need, positioning against existing protocols/platforms, value for the internet as a whole) — the rescope landed; no fit objection this time, and the questions track the assessment criteria. The reply answers them in her exact order: `sidn-fonds-antwoorden-op-vragen-jet-veldhuis` (also at `~/Documents/sidn-antwoorden-jet-veldhuis.md`).
+**STATUS 2026-09-16: invited to step 3.** Jet Veldhuis (pitches@sidnfonds.nl, 2026-09-10) invited a full Pioniers application via FundPro, with two points to develop: breadth of adoption (user and organisation types, factors for wider uptake) and how discovery works without a central party, technically and organisationally. Draft application 141866 exists in FundPro. The full text, project plan and video script are written: `sidn-fonds-pioniers-2026-fundpro-aanvraag-concept`, `sidn-fonds-pioniers-projectplan-4-a4`, `sidn-fonds-pioniers-videopitch-script`; form field spec in `sidn-fonds-pioniers-2026-fundpro-formulier-veldspecificatie`.
 
-**➜ NEXT ACTION — wait for SIDN's read.** On a positive signal, move to step 3 (FundPro): record the video pitch, write the project plan (max 4 A4).
+**Decisions 2026-09-15:** solo, no partner, no dependency on anyone; demonstration between yeehaa.io and rizom.ai (separate servers, repositories and keys, both mine, independence tested is technical). Own lexicon as promised to Jet: topic, unit, reference, peer, three-valued visibility; peer-only delivery built as proof of concept on the Spaces model. Spec and lexicon files under Apache 2.0. Start 2026-11-16, end 2027-05-15. Budget 246 h at €60, 166 h asked (€9,960), 80 h own contribution. Standard.site gets one paragraph in the context analysis as an adjacent protocol with a different purpose, nothing more.
 
-History: **v1 (step 2) REJECTED 2026-08-13.** Jet Veldhuis, projectcoördinator, by email. Rejected on fit with *Sterk internet*, not on quality or budget:
+**➜ NEXT ACTION:** record the video pitch (block 1 needs a real broken-link example), fill FundPro (address, fields, budget lines, four checkboxes), upload the project plan PDF, submit within two weeks.
+
+History: **v2 toets submitted 2026-08-23; Jet responded 2026-08-27 with five follow-up questions; answers sent 2026-08-28** (`sidn-fonds-antwoorden-op-vragen-jet-veldhuis`). All five were demand-side; the rescope landed. **v1 (step 2) REJECTED 2026-08-13** on fit with *Sterk internet*, not on quality or budget:
 
 > *"Hoewel de aanvraag raakt aan open protocollen en decentralisatie, zien wij de voorgestelde activiteiten voornamelijk als een verkenning van kennisdeling en communityvorming. Daarbij ontbreekt voor ons een voldoende directe relatie met het ontwikkelen van internetbouwstenen of andere oplossingen die bijdragen aan het versterken van het internet."*
 
@@ -54,13 +56,13 @@ The gap argued in ATProto terms: the protocol already provides portable identity
 | Documentation, lexicon publication, findings | €1,500 |
 | **Total** | **€10,000** |
 
-The €2,000 community-demonstration line from v1 is gone; €500 moved to specification quality and €1,500 to the two-source demonstration. Structural organisational costs, overheads and salary not attributable to the project remain excluded by the criteria.
+The €2,000 community-demonstration line from v1 is gone; €500 moved to specification quality and €1,500 to the two-source demonstration. Structural organisational costs, overheads and salary not attributable to the project remain excluded by the criteria. *(Superseded 2026-09-15 by the 246-hour budget in the FundPro application note.)*
 
 ## What is asked of them in v2
 
 Not a community. A scoping judgement: two independently hosted sources both running my reference implementation proves the lexicon works but not that it is *interoperable*, since both ends run my code. The real test is a second independent implementation built from the specification alone — which depends on someone else's time and cannot be guaranteed in six months. The question is whether SIDN counts that as core to being an internetbouwsteen, in which case the six months are built around specification quality, conformance tests and supporting a first external implementor rather than around features.
 
-*(Jet's 2026-08-27 email did not answer this field-3 question; deliberately not re-raised in the antwoorden reply — her questions show the assessment is moving, and the question stays on file in the toets.)*
+*(Jet's 2026-08-27 email did not answer this field-3 question; deliberately not re-raised in the antwoorden reply — her questions show the assessment is moving, and the question stays on file in the toets. The 2026-09-10 invitation did not take it up either.)*
 
 ## How it sits with the other funding threads
 
@@ -68,7 +70,7 @@ Not a community. A scoping judgement: two independently hosted sources both runn
 - **ISOC Beyond the Net** (`isoc-beyond-the-net-concept-note-digital-autonomy-in-practice`) — gives civil-society organisations a memory they own.
 - **Stimuleringsfonds / INC** (`stimuleringsfonds-application-organized-memory-rizom-inc`) — the community practice and cultural reflection. This is precisely the layer v1 wrongly imported into the SIDN pitch.
 
-**Still no partners named.** Neither INC nor the ISOC NL cohort is committed. Add when real.
+**Still no partners named.** Neither INC nor the ISOC NL cohort is committed. Decided 2026-09-15: the application goes in solo by design; the drafted asks to INC and to Niels/GGF are kept in the brain, not sent.
 
 ## Framings tried and dropped
 
@@ -83,17 +85,12 @@ Recorded so they don't come back round.
 - **Node counts.** "Six independently held knowledge bases" claims an independence that isn't there — the agents on the rizom.ai map are largely Jan Hein's own instances. No count is used anywhere. v2 states "at least two independently hosted sources" strictly as a deliverable, never as an existing state. The same overstatement is still in `offcourse-on-brains-scope-what-exists-funding-fit` and should come out.
 - **Defensive question framing.** Permission questions — is a conceptual result acceptable, does the platform link disqualify me. Wrong posture for something anchored in a foundation and an AGPL commons.
 - **A credentials sign-off.** Contradicts a pitch arguing credentials are the wrong signal. v2 closes on the public AGPL repo plus yeehaa.io running, with no meeting requested — asking for half an hour contradicts telling them a short answer is enough. Extends to the antwoorden reply: no title claims ("door mijn werk voor PublicSpaces", not "tech lead"), Rizom named as an exploration route, not as a company, and rizom.ai deliberately not linked (product frame; the central agent map would muddy the exists/doesn't-exist line).
+- **Extension of standard.site** (2026-09-15, one afternoon). Standard.site is a broadcast layer for essays into reading feeds; this is a reference layer between peers. Repositioning the project as its extension drained the identity, dropped topics, and deferred peer-only sharing. Reverted the same day: one paragraph in the context analysis, no more.
+- **A second source operated by someone else** (2026-09-15). Would have scored the Dutch-sector plus-point, but made the application depend on a third party for a €10k grant. Replaced by two sources of mine that share nothing, with the independence claim stated as technical.
 
 ## The procedure — four steps, and FundPro is step 3
 
 1. **Quickscan** and check the Pioniers criteria.
-2. **Toets je project via het webformulier** — v1 sent 2026-08-09, rejected 2026-08-13. v2 sent 2026-08-23; follow-up questions received 2026-08-27, answers sent 2026-08-28.
-3. **Apply via FundPro** — questionnaire, short video pitch, project plan of max 4 A4, plus KvK extract and jaarrekening only if applying as an organisation. Personal lane: apply as natural person, so neither is needed.
+2. **Toets je project via het webformulier** — v1 sent 2026-08-09, rejected 2026-08-13. v2 sent 2026-08-23; follow-up questions received 2026-08-27, answers sent 2026-08-28; invitation received 2026-09-10.
+3. **Apply via FundPro** — questionnaire, short video pitch, project plan of max 4 A4, plus KvK extract and jaarrekening only if applying as an organisation. Personal lane: apply as natural person, so neither is needed. Draft 141866 created 2026-09-15; texts written.
 4. Answer within six weeks.
-
-## Next
-
-- ✅ **Answers to Jet's five questions sent 2026-08-28** — text in `sidn-fonds-antwoorden-op-vragen-jet-veldhuis` (local: `~/Documents/sidn-antwoorden-jet-veldhuis.md`). Now waiting on SIDN.
-- Record a video pitch **for step 3 only**, after a positive read. Both earlier scripts are obsolete — the 2026-08-04 one pitched portability, the v1 framing pitched community.
-- Project plan, max 4 A4, only at step 3.
-- Re-derive the NLnet disclosure text against the sequential split before the 3 September window opens.
