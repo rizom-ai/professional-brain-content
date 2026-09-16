@@ -13,7 +13,7 @@ Frame: de domeinnaam als identiteit (SIDN's terrein), het probleem als internetp
 
 Ik ben Jan Hein Hoogstad. Ik bouw al ruim tien jaar open-source infrastructuur voor kennisdeling.
 
-Dit is yeehaa.io. Mijn eigen kennisbron. Eigen server, eigen domein, platte tekst. Ik ben niet de enige. Onderzoekers, lectoraten, instituten met een archief hosten hun kennis ook zelf.
+Een voorbeeld hiervan is yeehaa.io. Mijn eigen kennisbron. Eigen server, eigen domein, platte tekst. Ik ben niet de enige. Onderzoekers, lectoraten, instituten met een archief hosten hun kennis ook zelf.
 
 ## 2. Het probleem (0:15 tot 0:50)
 
