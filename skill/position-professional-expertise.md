@@ -1,19 +1,19 @@
 ---
 name: Position Professional Expertise
 description: >-
-  Translate complex work in AI, knowledge infrastructure, learning, and research
-  funding into clear professional narratives and public-facing profiles.
+  Translate interdisciplinary experience in AI, knowledge systems, and digital
+  work into compelling professional narratives and public profiles.
 tags:
   - profile
-  - content
   - identity
+  - content
+  - positioning
   - acceleration
-  - organization
 examples:
-  - Help me position my expertise in institutional memory and situated AI.
-  - Create a professional bio focused on portable knowledge infrastructure.
+  - Create a professional profile focused on agentic knowledge systems.
   - >-
-    Turn these projects into a coherent portfolio narrative for a research
-    funder.
+    Help me position my work across AI architecture and decentralized
+    collaboration.
+  - Turn my project history into a concise portfolio narrative.
 ---
 
