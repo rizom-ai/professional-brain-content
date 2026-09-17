@@ -108,7 +108,7 @@ Uurtarief 60 euro. Project 246 uur; aangevraagd 166 uur; eigen bijdrage 80 uur p
 
 **Spaces verandert of valt weg tijdens het project.** De leveringsweg werkt ook vanaf een eigen endpoint van de bron met dezelfde authenticatie. De specificatie beschrijft beide vanaf het begin.
 
-**Beide bronnen zijn van mij.** De demonstratie toetst daardoor het mechanisme, niet de adoptie. Adoptie wordt apart getoetst: tien ontwerpgesprekken vooraf en schriftelijke reacties van implementatoren op specificatie en testset achteraf. Meldt zich tijdens het project een externe beheerder voor B, dan neem ik die; het plan hangt er niet van af.
+**Beide bronnen zijn van mij.** De demonstratie toetst het mechanisme, niet de adoptie. Dat is een grens van dit project en geen risico dat ik kan afdekken: of anderen het lexicon gaan gebruiken, blijkt pas na afloop. Wat het project wel geeft, zijn twee signalen. De tien gesprekken vooraf laten zien of de recordtypen aansluiten bij wat zelfhosters werkelijk bijhouden. De schriftelijke reacties achteraf laten zien of implementatoren de specificatie bruikbaar vinden. Meldt zich tijdens het project een externe beheerder voor B, dan neem ik die; het plan hangt er niet van af.
 
 **De ontwerpgesprekken sneuvelen een recordtype.** Dan verandert de specificatie en meld ik in het verslag wat en waarom. De gesprekken zijn er om dat vóór de bouw te ontdekken.
 
