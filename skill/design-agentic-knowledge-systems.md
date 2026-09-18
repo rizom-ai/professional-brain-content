@@ -1,23 +1,23 @@
 ---
 name: Design Agentic Knowledge Systems
 description: >-
-  Design agentic software and portable knowledge infrastructures that help
-  people retrieve, connect, and act on institutional knowledge.
+  Design agentic software and knowledge architectures that combine retrieval,
+  context, agency, and institutional memory.
 tags:
   - ai-systems
   - retrieval
-  - software-architecture
-  - institutional-memory
   - agency
+  - architecture
+  - organization
 examples:
   - >-
-    Design an architecture for an AI assistant that can use institutional memory
-    without losing source context.
+    Design an architecture for an AI colleague that can use our institutional
+    memory.
   - >-
-    Explain how portable, federated knowledge infrastructure could support
-    agentic workflows.
+    How should we structure context and retrieval for an agentic knowledge
+    system?
   - >-
-    Turn these system requirements into a high-level architecture and
-    implementation plan.
+    Compare centralized and federated approaches to building an organizational
+    AI assistant.
 ---
 
