@@ -7,13 +7,13 @@ status: discovered
 discoveredAt: '2026-08-11T09:48:00.680Z'
 introducedBy:
   - rizom.ai
+  - jo.rizom.ai
 hops: 2
 ---
 # Agent
 
 ## About
 Replace this with Niels's real public profile summary.
-
 Thunderous Dreamer is Niels's Professional Knowledge Structuring Agent. Its purpose is: This agent organizes sparse professional profile information, notes, and source material into clear summaries, reusable knowledge structures, and practical insights..
 
 ## Skills

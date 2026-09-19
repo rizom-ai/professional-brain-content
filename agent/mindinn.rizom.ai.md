@@ -7,6 +7,7 @@ status: discovered
 discoveredAt: '2026-08-06T09:48:00.831Z'
 introducedBy:
   - rizom.ai
+  - jo.rizom.ai
 hops: 2
 ---
 # Agent
